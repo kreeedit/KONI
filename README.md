@@ -1,2 +1,1 @@
-# KONI
-Κοινή Online Nexus of Integration
+# KONI - Κοινή Online Nexus of Integration
