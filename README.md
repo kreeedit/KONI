@@ -77,7 +77,7 @@ are always kept for display.
 > (Nile / Phasis / Colchian / Tanais) as one long chain — exactly the kind of
 > short, dialectally-shifted citation a global vector filter would bury.
 
-<img src="koni_example.png" alt="Text Resuse" width="300">
+<img src="koni_example.png" alt="Text Resuse" width="950">
 
 ---
 
