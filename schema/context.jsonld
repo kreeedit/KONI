@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "koni": "https://w3id.org/koni/tlg/",
+    "lawd": "http://lawd.info/ontology/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "wd": "http://www.wikidata.org/entity/",
+    "viaf": "https://viaf.org/viaf/",
+    "Author": "lawd:Author",
+    "Work": "lawd:Work",
+    "name_la": {
+      "@id": "skos:prefLabel",
+      "@language": "la"
+    },
+    "name_grc": {
+      "@id": "skos:altLabel",
+      "@language": "grc"
+    },
+    "name_en": {
+      "@id": "rdfs:label",
+      "@language": "en"
+    },
+    "title_la": {
+      "@id": "dcterms:title",
+      "@language": "la"
+    },
+    "title_grc": {
+      "@id": "dcterms:title",
+      "@language": "grc"
+    },
+    "title_en": {
+      "@id": "dcterms:title",
+      "@language": "en"
+    },
+    "epithet": "dcterms:subject",
+    "floruit": "dcterms:temporal",
+    "edition": "dcterms:bibliographicCitation",
+    "tlg_id": "dcterms:identifier",
+    "cts_urn": "dcterms:identifier",
+    "ctsConfirmed": {
+      "@id": "koni:ctsConfirmed",
+      "@type": "xsd:boolean"
+    },
+    "proposed": {
+      "@id": "koni:proposed",
+      "@type": "xsd:boolean"
+    },
+    "exactMatch": {
+      "@id": "skos:exactMatch",
+      "@type": "@id"
+    },
+    "closeMatch": {
+      "@id": "skos:closeMatch",
+      "@type": "@id"
+    },
+    "derivedFrom": {
+      "@id": "prov:wasDerivedFrom",
+      "@type": "@id"
+    },
+    "inScheme": {
+      "@id": "skos:inScheme",
+      "@type": "@id"
+    },
+    "author": {
+      "@id": "dcterms:creator",
+      "@type": "@id"
+    },
+    "works": {
+      "@id": "dcterms:hasPart",
+      "@type": "@id"
+    }
+  }
+}

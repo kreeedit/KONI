@@ -3,6 +3,7 @@
 [![Engine: FLAME Apache-2.0](https://img.shields.io/badge/Engine-FLAME%20(Apache--2.0)-blue.svg)](https://github.com/kreeedit/FLAME)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/Texts-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Data: CC0 / restricted](https://img.shields.io/badge/Data-CC0%20%2F%20restricted-lightgrey.svg)](NOTICE)
+[![Linked Data: JSON-LD](https://img.shields.io/badge/Linked%20Data-JSON--LD-orange.svg)](schema/context.jsonld)
 
 
 <div align="center">
@@ -27,10 +28,10 @@
 </div>
 
 **KONI** is a lightweight workstation for classical philologists and digital
-humanists. It does three things: it builds a **machine-readable index of the
-TLG (Thesaurus Linguae Graecae) canon** from public sources; it serves a
-**zero-dependency web reader** for the openly-licensed Greek texts; and it runs
-a **two-phase text-reuse engine** ("Flame") that surfaces quotations,
+humanists. It does three things: it builds a **machine-readable, Linked-Open-Data
+index of the TLG (Thesaurus Linguae Graecae) canon** from public sources; it
+serves a **zero-dependency web reader** for the openly-licensed Greek texts; and
+it runs a **two-phase text-reuse engine** ("Flame") that surfaces quotations,
 imitations, and formulaic echoes across ancient and Byzantine Greek — built for
 the realities of a heavily inflected, dialectally varied language.
 
@@ -48,6 +49,37 @@ text exists for it; `false` = attested in the canon but with no open text yet).
 
 This index is **built locally** by the ETL pipeline on your machine. The
 project does **not** redistribute the canon assembled from restricted sources.
+
+**Linked Open Data (JSON-LD).** The canon is an *authority list of entities*,
+not a corpus of texts — so it fits Linked Open Data naturally. `scripts/build_jsonld.py`
+emits the index as JSON-LD (`canon.jsonld`) anchored on **LAWD / SKOS / Dublin
+Core / PROV**. Every author and work gets a stable `koni:` URI; authors carry
+`skos:exactMatch` links to **Wikidata** (`wd:`) and **VIAF**; confirmed works
+link to their dereferenceable **Scaife** text, and works with no open text yet
+are flagged `koni:proposed` — so the canon can also *suggest the URIs that are
+still missing*. The publishable `@context` lives at
+[`schema/context.jsonld`](schema/context.jsonld), and the whole graph validates
+as RDF under a standard JSON-LD processor.
+
+```jsonc
+{
+  "id": "koni:0059", "type": "Author",
+  "name_grc": "Πλάτων",
+  "exactMatch": "wd:Q859",                 // Wikidata (CC0), via TLG-id ↔ P3576
+  "works": [{
+    "id": "koni:0059.001", "type": "Work",
+    "title_en": "Euthyphro",
+    "cts_urn": "urn:cts:greekLit:tlg0059.tlg001",
+    "ctsConfirmed": true,
+    "exactMatch": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg001/"
+  }]
+}
+```
+
+A separate `--links` run writes `canon-links.nt`: a cross-reference graph of
+nothing but `koni:` / Scaife ↔ public Wikidata / VIAF edges. That subset is the
+**safe, redistributable LOD contribution** — the full `canon.jsonld` is
+TLG-derived and stays local (see *License & data provenance*).
 
 ---
 
@@ -132,7 +164,9 @@ are always kept for display.
 ```
 ETL (canon build — runs locally)
   public sources ──► parse + merge + enrich ──► canon.json / canon.csv
-                                                 └──► Diogenes export (CSV + SQLite)
+                                                 ├──► Diogenes export (CSV + SQLite)
+                                                 └──► JSON-LD / LOD: canon.jsonld
+                                                       + canon-links.nt (safe links)
 
 Reader + Flame (runtime, stdlib only)
   openly-licensed TEI / CTS text ──► citation-unit chunking
@@ -162,6 +196,12 @@ In **Flame · compare**: pick two works with the autocomplete pickers, hit
 **Compare**, watch matches stream in, then tune the sliders and press
 **↻ Recompute**. Click a highlighted word to jump to its counterpart; export as TSV.
 
+**3) Optional — export the canon as Linked Open Data (JSON-LD)**
+```bash
+python scripts/build_canon.py            # build the canon index first (if not yet built)
+python scripts/build_jsonld.py --links   # -> data/canon.jsonld + data/canon-links.nt
+```
+
 ---
 
 ## License & data provenance
@@ -175,6 +215,11 @@ license. ⚠️ Read this first: KONI touches sources with very different legal 
 > texts **CC BY-SA 4.0**, Wikidata **CC0**; TLG-derived and unlicensed sources
 > are **not redistributed**. Full breakdown in [`NOTICE`](NOTICE).
 
+The Linked-Open-Data outputs follow the same rule: the full **`canon.jsonld`**
+is built from the TLG-derived canon and **stays local**, while **`canon-links.nt`**
+— only the `koni:`/Scaife ↔ Wikidata (CC0) / VIAF cross-reference edges — is the
+publishable LOD subset.
+
 ---
 
 ## Technical audit
@@ -185,6 +230,11 @@ license. ⚠️ Read this first: KONI touches sources with very different legal 
   scikit-learn, `tokenizers`, or RapidFuzz — BPE and Levenshtein are hand-rolled.
 * **ETL pipeline only:** `requests`, `beautifulsoup4`, `lxml` (scraping the
   public canon sources; not needed to run the reader or the engine).
+* **Linked Open Data:** `scripts/build_jsonld.py` (pure stdlib) emits
+  `data/canon.jsonld` (LAWD / SKOS / Dublin Core / PROV; `skos:exactMatch` to
+  Wikidata/VIAF, Scaife `@id` for confirmed works, `koni:proposed` for the rest)
+  and, with `--links`, the `canon-links.nt` cross-reference graph. The publishable
+  context is `schema/context.jsonld`.
 * **Frontend:** vanilla ECMAScript + CSS grid, responsive, dark mode.
 * **Validation:** `python scripts/validate_canon.py` checks the canon against
   `schema/canon.schema.json`; every author records its source list and every
