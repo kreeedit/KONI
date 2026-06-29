@@ -1,17 +1,19 @@
 # KONI — Κοινή Online Nexus of Integration
 
-### An Open Canon Index, a Reader, and a Zero-Dependency Text-Reuse Engine
-
-```
-    __ ______  _   ______
+<div align="center">
+<b>An Open Canon Index, a Reader, and a Zero-Dependency Text-Reuse Engine</b>
+<pre>
+    __ ______  _    ______
    / //_/ __ \/ | / /  _/
   / ,< / / / /  |/ // /
  / /| / /_/ / /|  // /
 /_/ |_\____/_/ |_/___/
+</pre>
 
-```
+<img src="koine.gif" alt="Koine GIF" width="300">
 
-**`[ Engine: two-phase Flame | Reader + Engine deps: ZERO | Provenance: tracked, honestly ]`**
+<b>[ Engine: two-phase Flame | Reader + Engine deps: ZERO | Provenance: tracked, honestly ]</b>
+</div>
 
 **KONI** is a lightweight workstation for classical philologists and digital
 humanists. It does three things: it builds a **machine-readable index of the
