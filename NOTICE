@@ -11,6 +11,25 @@ content. Where content is redistributed, its own license governs; where content
 is restricted, KONI uses it only for a LOCAL build on a machine with lawful
 access and does NOT redistribute it.
 
+-------------------------------------------------------------------------------
+0. Core text-reuse algorithm — FLAME
+-------------------------------------------------------------------------------
+  KONI's Flame engine (app/flame_pure.py) is an independent, pure-Python
+  (standard-library-only) reimplementation of the Leave-N-Out (LNO) n-gram
+  text-reuse method of FLAME:
+
+      FLAME — Formulaic Language Analysis in Medieval Expressions
+      Tamás Kovács (kreeedit) — Apache License 2.0
+      https://github.com/kreeedit/FLAME
+      DOI: 10.5281/zenodo.15805449
+
+  FLAME and KONI are by the same author; this reimplementation ships as part of
+  KONI under the MIT License (see LICENSE), while the original FLAME remains
+  available under the Apache License 2.0. Please cite FLAME in academic work:
+
+      Kovács, T. (2025). FLAME: Formulaic Language Analysis in Medieval
+      Expressions (Version 1.0.0) [Computer software].
+      https://github.com/kreeedit/FLAME  doi:10.5281/zenodo.15805449
 
 -------------------------------------------------------------------------------
 1. Greek texts (TEI) — redistributable under CC BY-SA 4.0
