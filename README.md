@@ -1,6 +1,6 @@
 # KONI — Κοινή Online Nexus of Integration
 
-### ─── An Open TLG-Canon Index, a Greek Reader, and a Zero-Dependency Text-Reuse Engine ───
+### An Open Canon Index, a Reader, and a Zero-Dependency Text-Reuse Engine
 
 ```
     __ ______  _   ______
@@ -11,7 +11,7 @@
 
 ```
 
-`[ Engine: two-phase Flame | Reader + Engine deps: ZERO | Provenance: tracked, honestly ]`
+**`[ Engine: two-phase Flame | Reader + Engine deps: ZERO | Provenance: tracked, honestly ]`**
 
 **KONI** is a lightweight workstation for classical philologists and digital
 humanists. It does three things: it builds a **machine-readable index of the
@@ -29,7 +29,7 @@ the realities of a heavily inflected, dialectally varied language.
 
 ---
 
-## ── 1. A machine-readable TLG-canon index
+## 1. A machine-readable Canon index
 
 The TLG canon — the index assigning every author a 4-digit ID (Homer = `0012`)
 and every work a 3-digit ID (Iliad = `001`) — is the backbone that links an
@@ -46,7 +46,7 @@ to share.
 
 ---
 
-## ── 2. The Flame text-reuse engine
+## 2. The Flame text-reuse engine
 
 Flame is a **two-phase** pipeline — deliberately not a plagiarism string-matcher.
 It is tuned for oral-formulaic phrasing and historiographical imitation (e.g.,
@@ -81,7 +81,7 @@ are always kept for display.
 
 ---
 
-## ── 3. Citation-anchored, streaming, exportable
+## 3. Citation-anchored, streaming, exportable
 
 - **Canonical citation binding (CTS / URN).** Every snippet stays bound to its
   metadata: author, work title (Latin / Greek), edition, section, and word
@@ -107,7 +107,7 @@ are always kept for display.
 
 ---
 
-## ── Runtime hyperparameter tuning
+## Runtime hyperparameter tuning
 
 | Parameter | Range | Effect | Philological use |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ are always kept for display.
 
 ---
 
-## ── Architecture & data flow
+##  Architecture & data flow
 
 ```
 ETL (canon build — runs locally)
@@ -141,20 +141,14 @@ directly.
 
 ---
 
-## ── Quick start
-
+## Quick start
+**1) Install ingestion tools (one-time)**
 ```bash
-# 1) ETL — build the canon index locally (this stage uses scraping libraries)
-pip install -r requirements.txt          # requests, beautifulsoup4, lxml
-python scripts/fetch_sources.py           # download + cache public sources
-python scripts/build_canon.py             # parse + enrich -> canon.json / canon.csv
-python scripts/validate_canon.py          # validate against schema/canon.schema.json
-
-# 2) Build the BPE vocab cache (one-time; -> data/bpe_vocab.json)
-python scripts/build_bpe.py
-
-# 3) Launch the zero-dependency reader + Flame engine
-python scripts/serve.py                   # http://localhost:8000
+pip install -r requirements.txt
+```
+**2) Launch the zero-dependency Flame engine & reader**
+```bash
+python scripts/serve.py
 ```
 
 In **Flame · compare**: pick two works with the autocomplete pickers, hit
@@ -163,7 +157,7 @@ In **Flame · compare**: pick two works with the autocomplete pickers, hit
 
 ---
 
-## ── License & data provenance
+## License & data provenance
 
 KONI bundles **three different kinds of thing**, and they are *not* under one
 license. Please read this before redistributing anything.
@@ -217,7 +211,7 @@ came from.
 
 ---
 
-## ── Technical audit
+## Technical audit
 
 * **Reader + Flame engine — Python standard library only:** `http.server`,
   `collections`, `re`, `unicodedata`, `json`, `pathlib`, `csv`, `sqlite3`,
