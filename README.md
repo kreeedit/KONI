@@ -1,7 +1,18 @@
 # KONI — Κοινή Online Nexus of Integration
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
+[![Engine: FLAME Apache-2.0](https://img.shields.io/badge/Engine-FLAME%20(Apache--2.0)-blue.svg)](https://github.com/kreeedit/FLAME)
+[![Texts: CC BY-SA 4.0](https://img.shields.io/badge/Texts-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Data: CC0 / restricted](https://img.shields.io/badge/Data-CC0%20%2F%20restricted-lightgrey.svg)](NOTICE)
+
 
 <div align="center">
 <b>An Open Canon Index, a Reader, and a Zero-Dependency Text-Reuse Engine</b>
+    
+<blockquote>
+<div align="center">
+<i>KONI turns scattered, human-only canon sources into one searchable, readable, research-grade text-reuse system — while being honest about what each piece is, where it came from, and what you may do with it.</i>
+</div>
+</blockquote>
 <pre>
     __ ______  _    ______
    / //_/ __ \/ | / /  _/
@@ -23,8 +34,6 @@ a **two-phase text-reuse engine** ("Flame") that surfaces quotations,
 imitations, and formulaic echoes across ancient and Byzantine Greek — built for
 the realities of a heavily inflected, dialectally varied language.
 
-⚠️ Read this first: KONI touches sources with very different legal status (from MIT and CC BY-SA to copyrighted/restricted materials like the TLG). What it may redistribute, what it only builds locally, and what is off-limits are spelled out in the NOTICE file. That file is not an afterthought — it is the difference between a tool you can publish and one you can only run privately.
-
 ---
 
 ## 1. A machine-readable Canon index
@@ -38,9 +47,7 @@ and every work carries a `cts_confirmed` flag (`true` = a real, openly-licensed
 text exists for it; `false` = attested in the canon but with no open text yet).
 
 This index is **built locally** by the ETL pipeline on your machine. The
-project does **not** redistribute the canon assembled from restricted sources —
-see [Provenance](#-license--data-provenance) for exactly why and what *is* safe
-to share.
+project does **not** redistribute the canon assembled from restricted sources.
 
 ---
 
@@ -160,54 +167,13 @@ In **Flame · compare**: pick two works with the autocomplete pickers, hit
 ## License & data provenance
 
 KONI bundles **three different kinds of thing**, and they are *not* under one
-license. Please read this before redistributing anything.
+license. ⚠️ Read this first: KONI touches sources with very different legal status (from MIT and CC BY-SA to copyrighted/restricted materials like the TLG). What it may redistribute, what it only builds locally, and what is off-limits are spelled out in the [NOTICE](./NOTICE) file. That file is not an afterthought — it is the difference between a tool you can publish and one you can only run privately.
 
-> *This section is a good-faith summary, not legal advice. Licenses and site
-> terms change; verify each source yourself, and for publication or any
-> commercial use consult your institution's library/IP office or a qualified
-> lawyer. Database rights and text-and-data-mining rules also differ by country
-> (e.g. the EU `sui generis` database right and the DSM-Directive TDM exceptions).*
-
-### KONI's own code
-The reader, the Flame engine, the ETL scripts, and the frontend are released
-under the **MIT License** (see `LICENSE`).
-
-### Texts the reader loads — open, redistributable *with conditions*
-- **Perseus `canonical-greekLit` / Open Greek & Latin `First1KGreek`** TEI:
-  **CC BY-SA 4.0**. You may reuse and redistribute these **if** you keep
-  attribution and apply the **same share-alike license** to derivatives. KONI
-  fetches them at runtime and caches under `data/texts/` (not committed).
-- The underlying ancient works (Homer, Herodotus, …) are **public domain**;
-  KONI deliberately prefers the openly-licensed editions above.
-
-### Canon metadata — mixed, handle per source
-- **Wikidata** (Greek names, eras via P3576): **CC0** — free to use, no
-  conditions.
-- **Perseus CTS inventory** (work URNs, Greek titles): openly licensed; keep
-  attribution.
-- **TLG canon** (`stephanus.tlg.uci.edu`): **all rights reserved, not public
-  domain.** The TLG terms explicitly prohibit downloading, copying their web
-  pages, and **redistribution** (short quotations for research are allowed).
-  → KONI uses TLG-derived author/work data **only for a local build on a machine
-  with lawful access**, and **does not commit or redistribute** a `canon.json`
-  built from it. Do not publish a TLG-derived canon without TLG's permission
-  (`tlg@uci.edu`).
-- **`bcdavasconcelos/Greek-Authors-and-Works-in-TLG`**: **no license file →
-  default "all rights reserved,"** and its README states the data was in part
-  *collected from the TLG website.* → **excluded from any redistributed
-  dataset.** Use it only with the author's explicit permission *and* mindful of
-  the TLG layer underneath.
-
-### The practical rule of thumb
-- **Run it privately for your own research:** broad latitude (research use,
-  short quotation, TDM exceptions where applicable).
-- **Publish or sell:** redistribute only the MIT code + CC0/CC BY-SA pieces
-  (with attribution & share-alike); **leave out** TLG-derived and unlicensed
-  data, or obtain permission first.
-
-A `NOTICE` file ships the attributions for the CC BY-SA texts and the CC0/CTS
-metadata. Provenance is tracked per record so you can always tell where a datum
-came from.
+> **Licensing (mixed).** KONI's own code is **MIT** (see [`LICENSE`](LICENSE)).
+> The Flame engine reimplements **[FLAME](https://github.com/kreeedit/FLAME)**
+> (Apache-2.0, same author). Loaded/bundled data is licensed separately — Greek
+> texts **CC BY-SA 4.0**, Wikidata **CC0**; TLG-derived and unlicensed sources
+> are **not redistributed**. Full breakdown in [`NOTICE`](NOTICE).
 
 ---
 
@@ -223,7 +189,3 @@ came from.
 * **Validation:** `python scripts/validate_canon.py` checks the canon against
   `schema/canon.schema.json`; every author records its source list and every
   work its `cts_confirmed` flag.
-
-> KONI turns scattered, human-only canon sources into one searchable, readable,
-> research-grade text-reuse system — while being honest about what each piece is,
-> where it came from, and what you may do with it.
