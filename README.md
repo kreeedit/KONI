@@ -23,11 +23,7 @@ a **two-phase text-reuse engine** ("Flame") that surfaces quotations,
 imitations, and formulaic echoes across ancient and Byzantine Greek — built for
 the realities of a heavily inflected, dialectally varied language.
 
-> **Read this first:** KONI touches sources with *very different* legal status.
-> What it may redistribute, what it only builds locally, and what is off-limits
-> are spelled out in **[License & data provenance](#-license--data-provenance)**.
-> That section is not an afterthought — it is the difference between a tool you
-> can publish and one you can only run privately.
+⚠️ Read this first: KONI touches sources with very different legal status (from MIT and CC BY-SA to copyrighted/restricted materials like the TLG). What it may redistribute, what it only builds locally, and what is off-limits are spelled out in the NOTICE file. That file is not an afterthought — it is the difference between a tool you can publish and one you can only run privately.
 
 ---
 
@@ -80,6 +76,8 @@ are always kept for display.
 > Herodotus, *Histories* `4.45` recovers the continents-naming formula
 > (Nile / Phasis / Colchian / Tanais) as one long chain — exactly the kind of
 > short, dialectally-shifted citation a global vector filter would bury.
+
+<img src="koni_example.png" alt="Text Resuse" width="300">
 
 ---
 
