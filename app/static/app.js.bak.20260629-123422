@@ -1,0 +1,618 @@
+/* KONI reader — vanilla JS single-page app (hash routing). */
+"use strict";
+
+const API = (p) => "/api" + p;
+const $view = () => document.getElementById("view");
+const toast = (msg) => {
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.hidden = false;
+  clearTimeout(toast._t); toast._t = setTimeout(() => (t.hidden = true), 2600);
+};
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fetchJSON = async (url) => {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+};
+
+/* ---------- settings (font size / line-height / theme) ---------- */
+const settings = {
+  load() {
+    try { return JSON.parse(localStorage.getItem("opentgl") || "{}"); }
+    catch { return {}; }
+  },
+  save(o) { localStorage.setItem("opentgl", JSON.stringify(o)); },
+};
+function applySettings() {
+  const s = settings.load();
+  const size = s.size ?? 20, lh = s.lh ?? 1.8, theme = s.theme ?? "light";
+  document.documentElement.style.setProperty("--reader-size", size + "px");
+  document.documentElement.style.setProperty("--reader-lh", lh);
+  document.body.dataset.theme = theme;
+}
+function changeSize(delta) {
+  const s = settings.load();
+  const size = Math.min(34, Math.max(14, (s.size ?? 20) + delta));
+  settings.save({ ...s, size });
+  applySettings();
+}
+function cycleLineHeight() {
+  const s = settings.load();
+  const steps = [1.5, 1.7, 1.8, 2.0, 2.3];
+  const cur = s.lh ?? 1.8;
+  const next = steps[(steps.indexOf(cur) + 1) % steps.length] ?? 1.8;
+  settings.save({ ...s, lh: next });
+  applySettings();
+  toast("Sorköz: " + next);
+}
+function toggleTheme() {
+  const s = settings.load();
+  const theme = (s.theme ?? "light") === "light" ? "dark" : "light";
+  settings.save({ ...s, theme });
+  applySettings();
+}
+
+/* ---------- router ---------- */
+function route() {
+  const h = location.hash.replace(/^#/, "") || "/";
+  const [pathPart, queryPart] = h.split("?");
+  const parts = pathPart.split("/").filter(Boolean); // e.g. ["author","0012"]
+  const q = {};
+  if (queryPart) queryPart.split("&").forEach((kv) => {
+    const [k, v] = kv.split("="); q[k] = decodeURIComponent(v || "");
+  });
+  if (parts[0] === "author" && parts[1]) return renderAuthor(parts[1]);
+  if (parts[0] === "read" && parts[1] && parts[2]) return renderReader(parts[1], parts[2], parts[3] | 0);
+  if (parts[0] === "compare") return renderCompare(q);
+  renderHome();
+}
+
+/* ---------- home / search (client-side filter over all authors) ---------- */
+let ALL_AUTHORS = null;   // full slim author list, loaded once
+const PAGE = 150;         // authors shown per "load more" step
+let _list = null;         // current filtered list
+let _shown = 0;           // how many of _list are rendered
+
+/* Latin -> Greek transliteration (Beta Code-style core), pure JS.
+   Lets users type Latin without a Greek keyboard and still match polytonic
+   names: "mhnin" -> "μηνιν", which matches "μῆνιν" via accent-stripped search. */
+const _GMAP = { a: "α", b: "β", g: "γ", d: "δ", e: "ε", z: "ζ", h: "η", q: "θ",
+  i: "ι", k: "κ", l: "λ", m: "μ", n: "ν", x: "ξ", o: "ο", p: "π", r: "ρ",
+  t: "τ", u: "υ", f: "φ", c: "χ", y: "ψ", w: "ω" };
+function latinToGreek(s) {
+  s = (s || "").toLowerCase();
+  let out = "";
+  for (let i = 0; i < s.length; i++) {
+    const ch = s[i], next = s[i + 1];
+    if (ch === "s") out += (next === undefined || !/[a-z]/.test(next)) ? "ς" : "σ";
+    else if (_GMAP[ch]) out += _GMAP[ch];
+    else out += ch;
+  }
+  return out;
+}
+// Accent-insensitive Greek for matching (NFD + drop combining marks; ς -> σ).
+function stripGreek(s) {
+  return (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "")
+    .replace(/ς/g, "σ").toLowerCase();
+}
+
+function _blob(a) {
+  const greek = a.author_name_greek || "";
+  return [a.author_name_latin, greek, a.author_name_english, a.epitheton, a.author_id,
+          stripGreek(greek)]
+    .filter(Boolean).join("  ").toLowerCase();
+}
+function filterAuthors(all, q) {
+  q = (q || "").trim().toLowerCase();
+  if (!q) return all.slice(); // sorted by id already
+  // Build alternate queries: Latin->Greek, and accent-stripped forms, so that
+  // "mhnin" / "menin" also matches the polytonic "μῆνιν".
+  const qgreek = latinToGreek(q);
+  const variants = Array.from(new Set([q, qgreek, stripGreek(q), stripGreek(qgreek)]));
+  let m;
+  if (/^\d{1,4}$/.test(q)) {
+    const qid = q.padStart(4, "0");
+    m = all.filter((a) => a.author_id === qid || a.author_id.startsWith(qid));
+  } else {
+    m = all.filter((a) => {
+      const blob = _blob(a);
+      return variants.some((v) => v && blob.includes(v));
+    });
+  }
+  const sw = (s) => (s || "").toLowerCase().startsWith(q);
+  m.sort((a, b) => {
+    const ra = a.author_id.startsWith(q) ? 0 : 1;
+    const rb = b.author_id.startsWith(q) ? 0 : 1;
+    if (ra !== rb) return ra - rb;
+    const na = sw(a.author_name_latin) || sw(a.author_name_english) ? 0 : 1;
+    const nb = sw(b.author_name_latin) || sw(b.author_name_english) ? 0 : 1;
+    return na - nb;
+  });
+  return m;
+}
+function renderResults(list, n) {
+  const ul = document.getElementById("results");
+  if (!n) { ul.innerHTML = `<li class="spinner">Nincs találat.</li>`; return; }
+  ul.innerHTML = list.slice(0, n).map(renderResult).join("");
+  attachResultClicks(ul);
+  renderMore(list, n);
+}
+function renderMore(list, n) {
+  const box = document.getElementById("more");
+  if (!box) return;
+  if (n < list.length) {
+    box.hidden = false;
+    box.innerHTML = `<button id="more-btn" class="more-btn">${n} / ${list.length} szerző — Továbbiak betöltése</button>`;
+    document.getElementById("more-btn").addEventListener("click", () => {
+      _shown += PAGE; renderResults(_list, _shown);
+    });
+  } else {
+    box.hidden = true;
+  }
+}
+async function renderHome() {
+  $view().innerHTML = `
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input id="search" class="search-input" type="search" autocomplete="off"
+        placeholder="Keresés szerzőre (latin / görög), műre vagy TLG azonosítóra — vagy pontos ugrás: 4031.002">
+    </div>
+    <p class="search-hint" id="hint">Pl. „Homerus”, „Ὅμηρος”, „0012”. A 🟢 zöld jelzésű művek olvashatóak. Pontos szerző+mű esetén (pl. <b>4031.002</b>) egyből a műhöz ugrik.</p>
+    <div class="stats" id="stats"></div>
+    <ul id="results" class="result-list"><li class="spinner">Betöltés…</li></ul>
+    <div id="more"></div>`;
+  const input = document.getElementById("search");
+  let timer;
+  const PRECISE = /^(\d{1,4})\.(\d{3})$/;
+  const apply = (q) => {
+    _list = filterAuthors(ALL_AUTHORS, q);
+    _shown = PAGE;
+    const cnt = document.getElementById("count");
+    if (cnt) cnt.textContent =
+      `${_list.length} szerző${_list.length > PAGE ? " (első " + PAGE + " látható)" : ""}`;
+    renderResults(_list, _shown);
+  };
+  input.addEventListener("input", () => {
+    const v = input.value.trim();
+    const m = v.match(PRECISE);             // exact AUTHOR.WORK -> jump straight to reader
+    if (m) { location.hash = `/read/${m[1].padStart(4, "0")}/${m[2]}`; return; }
+    clearTimeout(timer); timer = setTimeout(() => apply(v), 120);
+  });
+  if (!ALL_AUTHORS) {
+    try { ALL_AUTHORS = await fetchJSON(API("/authors?q=&limit=100000")); }
+    catch { document.getElementById("results").innerHTML =
+      `<li class="spinner">Nem sikerült betölteni a kánont.</li>`; return; }
+  }
+  // totals
+  const totA = ALL_AUTHORS.length;
+  const totW = ALL_AUTHORS.reduce((s, a) => s + (a.work_count || 0), 0);
+  const totR = ALL_AUTHORS.reduce((s, a) => s + (a.readable_count || 0), 0);
+  document.getElementById("stats").innerHTML =
+    `Összesen: <b>${totA}</b> szerző · <b>${totW}</b> mű` +
+    ` (<b>${totR}</b> olvasható) · <span id="count">—</span>`;
+  apply("");
+  setTimeout(() => input.focus(), 30);
+}
+function renderResult(a) {
+  const gr = a.author_name_greek ? `<span class="name-greek">${esc(a.author_name_greek)}</span>`
+    : `<span class="name-greek greek-empty"></span>`;
+  const meta = [a.epitheton, a.era].filter(Boolean).map(esc).join(" · ");
+  const read = a.readable_count || 0, tot = a.work_count || 0;
+  return `<li class="result" data-aid="${esc(a.author_id)}">
+    <span class="aid">${esc(a.author_id)}</span>
+    <span>
+      <span class="name-latin">${esc(a.author_name_latin || a.author_name_english || "—")}</span>${gr}
+      <div class="meta">${meta || "—"}</div>
+    </span>
+    <span class="count"><span class="read">${read}</span> / ${tot} mű</span>
+  </li>`;
+}
+function attachResultClicks(list) {
+  list.querySelectorAll(".result").forEach((el) =>
+    el.addEventListener("click", () => { location.hash = "/author/" + el.dataset.aid; }));
+}
+
+/* ---------- author page ---------- */
+async function renderAuthor(aid) {
+  $view().innerHTML = `<div class="spinner">Betöltés…</div>`;
+  try {
+    const a = await fetchJSON(API("/author/" + aid));
+    const gr = a.author_name_greek ? `<span class="gr">${esc(a.author_name_greek)}</span>` : "";
+    const pills = [a.epitheton, a.era].filter(Boolean)
+      .map((p) => `<span class="pill">${esc(p)}</span>`).join(" ");
+    const works = a.works.map((w) => renderWork(w, aid)).join("");
+    const readCount = a.works.filter((w) => w.readable).length;
+    $view().innerHTML = `
+      <a class="back-link" href="#/">← vissza a keresőhöz</a>
+      <div class="author-card">
+        <h1 class="author-name">${esc(a.author_name_latin || a.author_name_english || aid)} ${gr}</h1>
+        <div class="author-meta">${pills} <span class="author-id">TLG ${esc(aid)}</span></div>
+      </div>
+      <div class="section-head">${a.works.length} mű · ${readCount} olvasható &nbsp; <span class="legend">🔥 = Flame összehasonlítás</span></div>
+      <div class="works-grid">${works || '<p class="reader-empty">Ehhez a szerzőhöz egyelőre nincs nyílt szöveg.</p>'}</div>`;
+    $view().querySelectorAll(".work.readable").forEach((el) =>
+      el.addEventListener("click", () => { location.hash = "/read/" + aid + "/" + el.dataset.wid; }));
+    $view().querySelectorAll(".flame-btn").forEach((el) =>
+      el.addEventListener("click", (ev) => {
+        ev.stopPropagation();
+        location.hash = "/compare?first=" + el.dataset.first;
+      }));
+  } catch {
+    $view().innerHTML = `<div class="reader-empty">Nem található a szerző (${esc(aid)}).</div>`;
+  }
+}
+function renderWork(w, aid) {
+  // All works are clickable; the reader resolves real text on open
+  // (repo TEI, First1K CTS, or Perseus Hopper) — or shows sources if none.
+  // `readable` (from the API) = cts_confirmed OR in the Perseus repo map OR cached.
+  const readable = w.readable !== undefined ? !!w.readable
+    : !!(w.cts_confirmed || w.has_local_text);
+  const badge = readable ? "📖" : "📖?";
+  const gr = w.title_greek ? `<span class="w-gr">${esc(w.title_greek)}</span>` : "";
+  const title = w.title_latin || w.title_english || w.title_greek || "(névtelen)";
+  const urn = `<div class="w-urn">${esc(w.cts_urn)}</div>` +
+    (w.edition ? `<div class="w-edition" title="Nyomtatott kiadás (a kánonból)"> ${esc(w.edition)}</div>` : "") +
+    (readable ? "" : `<div class="w-no">nyílt szöveg egyelőre nem ismert (források a megnyitás után)</div>`);
+  return `<div class="work readable" data-wid="${esc(w.work_id)}">
+    <span class="badge">${badge}</span>
+    <span>
+      <span class="w-title">${esc(title)}</span>${gr}
+      ${urn}
+    </span>
+    <button class="flame-btn" title="Flame összehasonlítás ezzel a művel" data-first="${esc(aid)}.${esc(w.work_id)}">🔥</button>
+  </div>`;
+}
+
+/* ---------- reader ---------- */
+let readerState = null;
+async function renderReader(aid, wid, idx) {
+  $view().innerHTML = `<div class="spinner">Betöltés… a szöveg első letöltésenél eltarthat pár másodperc.</div>`;
+  try {
+    const meta = await fetchJSON(API(`/text/${aid}/${wid}/sections`));
+    const author = (await fetchJSON(API("/author/" + aid)).catch(() => ({})));
+    const w = (author.works || []).find((x) => x.work_id === wid) || {};
+    const titleLat = w.title_latin || w.title_english || meta.title || `${aid}.${wid}`;
+    const titleGr = w.title_greek ? `<span class="gr">${esc(w.title_greek)}</span>` : "";
+    const nav = meta.has_text ? meta.sections.map((s) =>
+      `<button class="nav-item" data-idx="${s.index}">
+        ${esc(s.label)}<span class="nav-meta">${s.block_count}</span></button>`).join("") : "";
+    const textArea = meta.has_text
+      ? `<div id="text" class="greek-text"><div class="spinner">Betöltés…</div></div>`
+      : `<div class="reader-empty">Ez a mű egyelőre nem olvasható itt — nincs letölthető nyílt görög szöveg.<br>A fenti <b>Források</b> között más források (archive.org, BSB, Google Books, Gallica, HathiTrust) kereshetők.</div>`;
+    $view().innerHTML = `
+      <a class="back-link" href="#/author/${aid}">← ${esc(author.author_name_latin || aid)}</a>
+      <div class="reader">
+        <aside class="reader-nav">
+          <h4>${meta.has_text ? "Fejezetek" : ""}</h4>
+          ${nav || ""}
+        </aside>
+        <section class="reader-pane">
+          <h1 class="reader-title">${esc(titleLat)} ${titleGr}</h1>
+          <div class="reader-sub">
+            <span class="urn">${esc(w.cts_urn || "")}</span>
+            ${(meta.edition || w.edition) ? `<div class="w-edition"> ${(esc(meta.edition || w.edition))}</div>` : ""}
+          </div>
+          <details class="sources"><summary id="src-sum">Források felderítése…</summary>
+            <div id="sources" class="src-list"><span class="spinner">Keresés a forrásokban…</span></div>
+          </details>
+          ${textArea}
+        </section>
+      </div>`;
+    loadSources(aid, wid);
+    if (meta.has_text) {
+      readerState = { aid, wid, sections: meta.sections };
+      $view().querySelectorAll(".nav-item").forEach((b) =>
+        b.addEventListener("click", () => loadSection(aid, wid, +b.dataset.idx)));
+      const first = idx && meta.sections.some((s) => s.index === idx) ? idx : (meta.sections[0]?.index ?? 0);
+      loadSection(aid, wid, first);
+    }
+  } catch (e) {
+    $view().innerHTML = `<div class="reader-empty">Hiba: ${esc(e.message)}</div>`;
+  }
+}
+function srcBadge(s) {
+  if (s.type === "text" && s.kind === "confirmed") return "📖 szöveg";
+  if (s.type === "text") return "📖 szöveg?";
+  if (s.type === "metadata") return "🛈 metadata";
+  if (s.type === "scan" && s.kind === "discovered") return "📷 szkennelt kiadás?";
+  if (s.type === "scan") return "🔎 keresés";
+  return "🔗";
+}
+async function loadSources(aid, wid) {
+  const box = document.getElementById("sources");
+  const sum = document.getElementById("src-sum");
+  if (!box) return;
+  try {
+    const d = await fetchJSON(API(`/sources/${aid}/${wid}`));
+    const items = d.sources.map((s) =>
+      `<a class="src-link ${s.kind}" href="${esc(s.url)}" target="_blank" rel="noopener">
+        <span class="src-badge">${srcBadge(s)}</span>
+        <span class="src-body">
+          <span class="src-label">${esc(s.label)}</span>
+          <span class="src-detail">${esc(s.detail || "")}</span>
+          <span class="src-kind">${s.kind === "confirmed" ? "megerősített" : s.kind === "discovered" ? "felfedezett (ellenőrizendő)" : "keresési link"}</span>
+        </span>
+      </a>`).join("");
+    box.innerHTML = items || `<span class="spinner">Nincs forrás.</span>`;
+    if (sum) sum.textContent = `Források (${d.sources.length})`;
+  } catch {
+    box.innerHTML = `<span class="spinner">Nem sikerült lekérdezni a forrásokat.</span>`;
+  }
+}
+async function loadSection(aid, wid, idx) {
+  const text = document.getElementById("text");
+  if (!text) return;
+  text.innerHTML = `<div class="spinner">Betöltés…</div>`;
+  $view().querySelectorAll(".nav-item").forEach((b) =>
+    b.classList.toggle("active", +b.dataset.idx === idx));
+  try {
+    const sec = await fetchJSON(API(`/text/${aid}/${wid}/section/${idx}`));
+    text.innerHTML = sec.blocks.map(renderBlock).join("") || `<p class="reader-empty">(üres)</p>`;
+    text.scrollIntoView({ behavior: "smooth", block: "start" });
+  } catch (e) {
+    text.innerHTML = `<p class="reader-empty">Nem sikerült betölteni: ${esc(e.message)}</p>`;
+  }
+}
+function renderBlock(b) {
+  if (b.kind === "head") return `<div class="block-head">${esc(b.text)}</div>`;
+  if (b.kind === "line") {
+    const n = b.n != null ? `<span class="lnum">${esc(b.n)}</span>` : `<span class="lnum"></span>`;
+    return `<div class="line">${n}<span class="ltext">${esc(b.text)}</span></div>`;
+  }
+  return `<p class="para">${esc(b.text)}</p>`;
+}
+
+/* ---------- Flame text-reuse comparison (#/compare) ---------- */
+function _cmpSideHtml(tokens, matched, bridges) {
+  // Full chapter text with per-word highlight flags. Since matching is WORD-level,
+  // matched/bridges indices ARE word indices → perfect alignment, no map needed.
+  if (!tokens || !tokens.length) return "";
+  return tokens.map((tok, t) => {
+    if (matched && matched[t] != null)
+      return `<span class="cmp-hl highlight clickable" data-match-id="${matched[t]}">${esc(tok)}</span>`;
+    if (bridges && bridges[t] != null)
+      return `<span class="dynamic-bridge-word" data-fuzz="${bridges[t]}">${esc(tok)}</span>`;
+    return esc(tok);
+  }).join(" ");
+}
+function applyCmpFilters() {
+  const cos = parseFloat(document.getElementById("slider-cos")?.value || 0);
+  const fuzz = parseFloat(document.getElementById("slider-fuzz")?.value || 0);
+  document.querySelectorAll(".cmp-pair").forEach((el) => {
+    const score = parseFloat(el.dataset.score);
+    el.style.display = score >= cos ? "" : "none";
+  });
+  document.querySelectorAll(".dynamic-bridge-word").forEach((el) => {
+    const f = parseFloat(el.dataset.fuzz);
+    el.classList.toggle("is-similar", f >= fuzz);
+    el.classList.toggle("is-dissimilar", f < fuzz);
+  });
+  const cl = document.getElementById("cos-val"); if (cl) cl.textContent = cos.toFixed(2);
+  const fl = document.getElementById("fuzz-val"); if (fl) fl.textContent = fuzz.toFixed(0);
+}
+/* Flame compare state (pickers + live hyper-parameters), shared across renders. */
+let _cmpState = { ngram: 4, n_out: 1, chain: 2, fuzz: 0.75 };
+let _cmpLast = null;
+
+async function runCompare() {
+  const a = _cmpState.p1 && _cmpState.p1.value();
+  const b = _cmpState.p2 && _cmpState.p2.value();
+  if (!a || !b) { toast("Mindkét művet válaszd ki (szerző + mű)."); return; }
+  const ma = a.match(/^(\d{1,4})\.(\d{3})$/), mb = b.match(/^(\d{1,4})\.(\d{3})$/);
+  const box = document.getElementById("cmp-results");
+  if (!box) return;
+  box.innerHTML = `<div class="spinner">Flame számítása (szószintű: n-gram=${_cmpState.ngram}, n_out=${_cmpState.n_out}, min lánc=${_cmpState.chain}, fuzzy=${_cmpState.fuzz})…</div>`;
+  const url = API(`/compare?auth1=${ma[1].padStart(4,"0")}&work1=${ma[2]}&auth2=${mb[1].padStart(4,"0")}&work2=${mb[2]}` +
+    `&ngram=${_cmpState.ngram}&n_out=${_cmpState.n_out}&chain=${_cmpState.chain}&fuzz=${_cmpState.fuzz}`);
+  try { const d = await fetchJSON(url); _cmpLast = d; renderCmpResults(d, _cmpState); }
+  catch (e) { box.innerHTML = `<div class="reader-empty">Hiba: ${esc(e.message)}</div>`; }
+}
+
+/* Export the current results as a TSV (academic metadata) — pure client-side
+   Blob download, zero dependencies. */
+function exportCmpResults() {
+  if (!_cmpLast || !_cmpLast.result) { toast("Még nincs eredmény az exporthoz."); return; }
+  const d = _cmpLast, r = d.result;
+  const w1 = d.work1.meta || {}, w2 = d.work2.meta || {};
+  const head = [
+    "source1_author_id", "source1_author_latin", "source1_author_greek", "source1_urn",
+    "source1_work_title_latin", "source1_work_title_greek", "source1_edition",
+    "source1_section", "source1_word_range", "source1_chapter",
+    "source2_author_id", "source2_author_latin", "source2_author_greek", "source2_urn",
+    "source2_work_title_latin", "source2_work_title_greek", "source2_edition",
+    "source2_section", "source2_word_range", "source2_chapter",
+    "cosine", "matched_words", "chain_len", "n_blocks", "n_chained",
+    "excerpt_1", "excerpt_2"
+  ];
+  const row = (p) => [
+    w1.author_id, w1.author_latin, w1.author_greek, w1.cts_urn,
+    w1.title_latin, w1.title_greek, w1.edition,
+    p.label_i, p.word_range_i, (p.tokens_i || []).join(" "),
+    w2.author_id, w2.author_latin, w2.author_greek, w2.cts_urn,
+    w2.title_latin, w2.title_greek, w2.edition,
+    p.label_j, p.word_range_j, (p.tokens_j || []).join(" "),
+    p.score, p.matched_words, p.chain_len, p.n_blocks, p.n_chained,
+    p.snippet_i, p.snippet_j
+  ].map((x) => (x == null ? "" : String(x)).replace(/\t/g, " ")).join("\t");
+  const lines = [head.join("\t")];
+  r.pairs.forEach((p) => lines.push(row(p)));
+  const blob = new Blob(["# KONI Flame — Találati lista (TSV)\n",
+    "# n-gram=" + r.ngram + "  n_out=" + r.n_out + "  min_chain=" + r.min_chain_words
+    + "  fuzz_threshold=" + r.fuzz_threshold
+    + "  mode=" + r.mode + "  threshold=" + r.used_threshold + " (auto " + r.threshold + " letiltva)\n#\n",
+    lines.join("\n")], { type: "text/tab-separated-values;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `koni_flame_${d.work1.aid}.${d.work1.wid}_vs_${d.work2.aid}.${d.work2.wid}.tsv`;
+  document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  toast(`${r.pairs.length} sor exportálva (TSV).`);
+}
+
+function renderCmpResults(d, st) {
+  st = st || _cmpState;
+  const r = d.result;
+  const info = `Mód: <b class="cmp-mode">${r.mode || "szószintű"}</b> · ` +
+    `Küszöb (direkt): <b>${r.used_threshold}</b> <span class="muted">(auto ${r.threshold} letiltva)</span> · ` +
+    `párok: ${r.n_pairs_shown}/${r.n_pairs_total} (összes feldolgozva) · átlag: ${r.mean} · ` +
+    `n-gram: ${r.ngram} (n_out=${r.n_out}, min lánc=${r.min_chain_words}) · ` +
+    `fuzzy küszöb: ${r.fuzz_threshold} · szótár: ${r.vocab_size}`;
+  const RENDER_CAP = 60;
+  const shown = r.pairs.slice().sort((a, b) => b.chain_len - a.chain_len).slice(0, RENDER_CAP);
+  const pairs = shown.map((p) => {
+    return `<div class="cmp-pair" data-score="${p.score}">
+      <div class="cmp-pair-head">
+        <span class="cmp-score">cos ${p.score}</span>
+        <span class="cmp-pair-sec">${esc(p.label_i)} ↔ ${esc(p.label_j)}</span>
+        <span class="cmp-pair-cnt">${p.n_blocks} blokk → ${p.n_chained} láncolt sáv · ${p.matched_words} szó</span>
+      </div>
+      <div class="cmp-cols">
+        <div class="cmp-col"><div class="cmp-col-title">${esc(d.work1.title)} · ${esc(p.label_i)}</div>
+          <div class="cmp-text">${_cmpSideHtml(p.tokens_i, p.matched_i, p.bridges_i)}</div></div>
+        <div class="cmp-col"><div class="cmp-col-title">${esc(d.work2.title)} · ${esc(p.label_j)}</div>
+          <div class="cmp-text">${_cmpSideHtml(p.tokens_j, p.matched_j, p.bridges_j)}</div></div>
+      </div>
+    </div>`;
+  }).join("");
+  document.getElementById("cmp-results").innerHTML = `
+    <div class="cmp-info">${info}</div>
+    <div class="cmp-controls">
+      <label>Cosine küszöb: <input type="range" id="slider-cos" min="0" max="1" step="0.01" value="0"><span id="cos-val" class="slider-val"></span></label>
+      <label>Fuzzy híd-küszöb: <input type="range" id="slider-fuzz" min="0" max="100" step="1" value="60"><span id="fuzz-val" class="slider-val"></span></label>
+      <label class="live">N-gram (szó): <input type="range" id="slider-ng" min="3" max="8" step="1" value="${st.ngram}"><span id="ng-val" class="slider-val">${st.ngram}</span></label>
+      <label class="live">Kihagyás (n_out): <input type="range" id="slider-no" min="0" max="2" step="1" value="${st.n_out}"><span id="no-val" class="slider-val">${st.n_out}</span></label>
+      <label class="live">Min. lánc (szó): <input type="range" id="slider-ch" min="2" max="10" step="1" value="${st.chain}"><span id="ch-val" class="slider-val">${st.chain}</span></label>
+      <label class="live">Fuzzy küszöb (Levenshtein): <input type="range" id="slider-fz" min="0.50" max="1.00" step="0.01" value="${st.fuzz}"><span id="fz-val" class="slider-val">${st.fuzz}</span></label>
+      <button id="cmp-export" class="more-btn" title="Aktuális találati lista letöltése (TSV)">⤓ Találati lista exportálása</button>
+    </div>
+    <div class="cmp-note">Megjelenítve: ${shown.length}/${r.pairs.length} pár (legjobb láncok) — az <b>összes</b> ${r.pairs.length} pár az exportban (⤓) szerepel.</div>
+    <div class="cmp-pairs">${pairs || '<p class="reader-empty">Nincs megjeleníthető egyezés.</p>'}</div>`;
+  document.getElementById("slider-cos").addEventListener("input", applyCmpFilters);
+  document.getElementById("slider-fuzz").addEventListener("input", applyCmpFilters);
+  document.getElementById("cmp-export").addEventListener("click", exportCmpResults);
+  let reTimer;
+  const onLive = () => {
+    _cmpState.ngram = +document.getElementById("slider-ng").value;
+    _cmpState.n_out = +document.getElementById("slider-no").value;
+    _cmpState.chain = +document.getElementById("slider-ch").value;
+    _cmpState.fuzz = +document.getElementById("slider-fz").value;
+    document.getElementById("ng-val").textContent = _cmpState.ngram;
+    document.getElementById("no-val").textContent = _cmpState.n_out;
+    document.getElementById("ch-val").textContent = _cmpState.chain;
+    document.getElementById("fz-val").textContent = _cmpState.fuzz.toFixed(2);
+    clearTimeout(reTimer);
+    reTimer = setTimeout(runCompare, 500);
+  };
+  ["slider-ng", "slider-no", "slider-ch", "slider-fz"].forEach((id) =>
+    document.getElementById(id).addEventListener("input", onLive));
+  applyCmpFilters();
+  document.querySelectorAll(".cmp-hl").forEach((el) => {
+    el.addEventListener("click", () => {
+      const id = el.dataset.matchId;
+      const pair = el.closest(".cmp-pair");
+      pair.querySelectorAll(".cmp-hl").forEach((x) =>
+        x.classList.toggle("cmp-active", x.dataset.matchId === id));
+      const myCol = el.closest(".cmp-col");
+      const other = [...pair.querySelectorAll(".cmp-col")].find((c) => c !== myCol);
+      const target = other && other.querySelector(
+        `[data-match-id="${CSS.escape(id)}"]`);
+      if (target) target.scrollIntoView({ behavior: "smooth", block: "center" });
+    });
+  });
+}
+/* Reusable author+work picker (autocomplete) for the Flame compare view. */
+function makePicker(root, placeholder) {
+  root.innerHTML = `
+    <input class="picker-author" type="text" autocomplete="off" placeholder="${esc(placeholder)}">
+    <div class="picker-suggest"></div>
+    <select class="picker-work" disabled><option>-- előbb válassz szerzőt --</option></select>`;
+  const inp = root.querySelector(".picker-author");
+  const sug = root.querySelector(".picker-suggest");
+  const sel = root.querySelector(".picker-work");
+  const state = { aid: null, wid: null, authorName: "" };
+  let timer;
+  inp.addEventListener("input", () => {
+    state.aid = null; state.wid = null;
+    clearTimeout(timer);
+    const v = inp.value.trim();
+    if (!v) { sug.innerHTML = ""; sug.style.display = "none"; return; }
+    timer = setTimeout(() => {
+      const res = filterAuthors(ALL_AUTHORS || [], v).slice(0, 8);
+      if (!res.length) { sug.innerHTML = `<div class="picker-opt">Nincs találat</div>`; sug.style.display = "block"; return; }
+      sug.innerHTML = res.map((a) =>
+        `<div class="picker-opt" data-aid="${esc(a.author_id)}">
+           <b>${esc(a.author_name_latin || a.author_name_english || a.author_id)}</b>
+           <span class="picker-gr">${esc(a.author_name_greek || "")}</span>
+           <span class="picker-id">${esc(a.author_id)}</span></div>`).join("");
+      sug.style.display = "block";
+      sug.querySelectorAll(".picker-opt[data-aid]").forEach((el) =>
+        el.addEventListener("click", () => selectAuthor(el.dataset.aid)));
+    }, 120);
+  });
+  inp.addEventListener("blur", () => setTimeout(() => { sug.style.display = "none"; }, 150));
+  async function selectAuthor(aid) {
+    if (!ALL_AUTHORS) ALL_AUTHORS = await fetchJSON(API("/authors?q=&limit=100000"));
+    const a = ALL_AUTHORS.find((x) => x.author_id === aid);
+    state.aid = aid; state.wid = null;
+    state.authorName = a ? (a.author_name_latin || a.author_name_english || aid) : aid;
+    inp.value = state.authorName + "  [" + aid + "]";
+    sug.innerHTML = ""; sug.style.display = "none";
+    sel.disabled = true;
+    sel.innerHTML = `<option>-- mű betöltése… --</option>`;
+    try {
+      const ad = await fetchJSON(API("/author/" + aid));
+      const works = ad.works || [];
+      sel.innerHTML = (works.length ? works : []).map((w) =>
+        `<option value="${esc(w.work_id)}">${esc(w.work_id)} · ${esc(w.title_latin || w.title_english || w.title_greek || "(névtelen)")}${w.readable ? "" : " (nem olvasható)"}</option>`).join("")
+        || `<option value="">-- nincs mű --</option>`;
+      sel.disabled = !works.length;
+      if (works.length) { state.wid = works[0].work_id; sel.value = state.wid; }
+    } catch { sel.innerHTML = `<option>-- hiba --</option>`; }
+  }
+  sel.addEventListener("change", () => { state.wid = sel.value; });
+  return {
+    state,
+    selectAuthor,
+    value: () => (state.aid && state.wid) ? `${state.aid}.${state.wid}` : null,
+    setWork: (wid) => { if (wid && !sel.disabled) { state.wid = wid; sel.value = wid; } },
+  };
+}
+
+async function renderCompare(q) {
+  q = q || {};
+  $view().innerHTML = `
+    <h1 class="page-title">Flame · szöveg-újrahasználat</h1>
+    <p class="page-intro">Válassz ki két művet a kánonból a kereshető legördülőkkel. A pure-Python Flame motor
+    (Phase 1: BPE subword + leave-n-out rolling hash + TF-IDF cosine rangsorolás;
+    Phase 2: <code>Levenshtein</code>-toleráns szóblokk-illesztés) hasonlítja össze a két mű fejezeteit.
+    Az önmagával összehasonlított mű cos=1.0-et ad; a csúszkák valós időben újraszámolnak a háttérben.</p>
+    <div class="cmp-pickers">
+      <div class="picker" id="picker1"></div>
+      <div class="picker" id="picker2"></div>
+    </div>
+    <div class="cmp-form"><button id="cmp-go" class="more-btn">Összehasonlítás</button></div>
+    <div id="cmp-results"></div>`;
+  if (!ALL_AUTHORS) {
+    try { ALL_AUTHORS = await fetchJSON(API("/authors?q=&limit=100000")); }
+    catch { /* will be lazily loaded by picker */ }
+  }
+  const p1 = makePicker(document.getElementById("picker1"), "1. szerző keresése (pl. Procopius, 4029, Ὅμηρος)");
+  const p2 = makePicker(document.getElementById("picker2"), "2. szerző keresése");
+  _cmpState = { p1, p2, ngram: 4, n_out: 1, chain: 2, fuzz: 0.75 };
+  // Pre-fill from ?first=AID.WORK (e.g. a Flame button on the author page).
+  if (q.first) {
+    const m = q.first.match(/^(\d{1,4})\.(\d{3})$/);
+    if (m) { p1.selectAuthor(m[1].padStart(4, "0")).then(() => p1.setWork(m[2])); }
+  }
+  document.getElementById("cmp-go").addEventListener("click", runCompare);
+}
+
+/* ---------- wire up ---------- */
+window.addEventListener("hashchange", route);
+document.getElementById("font-inc").addEventListener("click", () => changeSize(+1));
+document.getElementById("font-dec").addEventListener("click", () => changeSize(-1));
+document.getElementById("lh-toggle").addEventListener("click", cycleLineHeight);
+document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
+applySettings();
+route();

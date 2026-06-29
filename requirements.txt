@@ -1,0 +1,7 @@
+# KONI is zero-dependency: the ETL pipeline and the reader backend use only the
+# Python standard library (urllib, html.parser, xml.etree.ElementTree, csv,
+# sqlite3, json). No `pip install` needed.
+#
+# Optional, only for stricter schema validation than validate_canon.py's
+# built-in checks:
+#   jsonschema>=4

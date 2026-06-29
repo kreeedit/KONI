@@ -1,0 +1,1673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+
+<head>
+
+<title>TLG - Home</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<!-- force the IE to use the lastest broswer mode  -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<link rel="stylesheet" href="/css/layout_index.css?v=34" type="text/css" />
+</head>
+<body id="top">
+<div role="navigation" style="position: absolute; top:10px;">
+<a href="#container_body" class="screenreader" id="skip_to_main_contents" style="color:white;" aria-label="skip to contents">Skip to main content</a>
+</div>
+<input type='hidden' id='browser_type' value='Default Browser'/>
+<!-- Panel -->
+<div id="toppanel" role="region" aria-label="current user info">
+<div id="panel">
+<div class="content clearfix">
+<div class="left">
+
+
+<!-- Login Form -->
+<h2 id='loginheader' class='screenreader'>Login</h2>
+<form class="clearfix" method="post" id="f_login" role="form" aria-labelledby='loginheader'>
+		<label class="lbl_login" for="username">Username:</label>
+		<input class="field" type="text" name="username" id="username" value="" />
+
+		<label class="lbl_login" for="password">Password:</label>
+		<input class="field" type="password" name="password" id="password" />
+		<div id="bl_login">
+		<div id="bl_login_l">
+		<label><input name="rememberme" id="rememberme" type="checkbox" class="style_cbox" checked="checked" value="forever" /> &nbsp;Remember me</label>
+				</div>
+				<div id="bl_login_r">
+				<ul>
+				<li>New User? <a href="#" id="register">Register</a></li>
+				<li><a href="#" id="lost_ps">Current User<br>Forgot your username or password?</a></li>
+				</ul>
+				</div>
+				</div>
+				<input type="submit" name="login_submit" id="login_submit" value="Login" class="bt_login" />
+				</form>
+
+
+						<!--
+								<div>
+										<ul>
+										<li>New User? <a href="#" id="register">Register</a></li>
+										<li><a href="#" id="lost_ps">Forgot your password?</a></li>
+										</ul>
+										</div>
+										-->
+										</div>
+										</div>
+										</div>
+										<!-- /login -->
+
+
+										<!-- The tab on top -->
+										<div class="tab">
+										<ul class="login">
+										<li class="left">&nbsp;</li>
+				<li id="dis_username">Hello TLG user</li>
+				<li id="toggle"><a id="open" class="open" href="#">Log In |
+				Register</a> <a id="close" style="display: none;" class="close"
+				href="#">Close Panel</a></li>
+						<li class="right">&nbsp;</li>
+						</ul>
+						</div>
+						<!-- / top -->
+						</div>
+	<!--panel -->
+
+	<div id="error_msg" style="display: none;"></div>
+	<div style="display: none;">
+	<div id="print_elt"></div>
+	</div>
+
+	<div class="wrapper row1" role="banner">
+		<div id="header" class="clear">
+			<div class="fl_left" id="logo_container">
+				<span id="headercontents">
+					<a href="/index.php" aria-label='navigate to home page'><img alt="TLG Logo" src="/Iris/img/tlg.logo.yellow.gif" /></a>
+					<div><span style="font-size:17px;font-weight:bold;">THESAURUS LINGUAE GRAECAE &reg;</span><br>
+					<span style="font-weight:normal; font-size:12px;">A Digital Library of Greek Literature</span></div>
+				</span>
+				<span style="font-size:12px"> Project Director: Maria Pantelia</span>
+			</div>
+			<div class="fl_right" role="navigation" aria-label='TLG social media'>
+				<a href="http://www.facebook.com/thesauruslinguaegraecae" target="_black" aria-label="facebook"><div id="fb_icone"><span id="fb_icone_b">facebook icon</span></div></a>
+				<a href="http://www.twitter.com/ThesLingGraecae" target="_black" aria-label="twitter"><div id="tw_icone"><span id="tw_icone_b">twitter icon</span></div></a>
+			</div>
+		</div>
+	</div>
+
+	<!--   class="active" -->
+
+	<!-- ####################################################################################################### -->
+	<div class="wrapper row2">
+		<div id="topnav" role="navigation">
+			<ul>
+				<li><a id='indexjsp' href='/index.php'>Home<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>&nbsp;</span></a></li>
+				<li><a id='tlgjsp' href='/tlg.php'>ABOUT<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>&nbsp;</span></a>
+					<ul>
+						<li><a id='historyjsp' href='/history.php'>TLG History</a></li>
+						<li><a id='teamjsp' href='/team.php'>Meet our Team</a></li>
+					</ul>
+				</li>
+				<li><a href='/Iris/csearch.jsp' style="text-align: center;">FULL CORPUS<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>(Subscription required)</span></a></li>
+				<li><a href='/Iris/canon/csearch.jsp' style="text-align: center;">TLG CANON<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>(Open access)</span></a></li>
+				<li><a href='/Iris/demo/csearch.jsp' style="text-align: center;">ABRIDGED TLG<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>(Open access)</span></a></li>
+                
+                <li><a id='lexicajsp' href='/lexica.php' style="text-align: center;">LEXICA<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>(Open access)</span></a>
+		
+					<ul>
+						<li><a href='http://stephanus.tlg.uci.edu/lsj/'>Online LSJ</a></li>
+						<li><a href='http://stephanus.tlg.uci.edu/cunliffe/'>Cunliffe</a></li>
+						<li><a href='http://stephanus.tlg.uci.edu/powell/'>Powell</a></li>
+						<li><a href='http://stephanus.tlg.uci.edu/lbg/'>Online LBG</a></li>
+						<li><a href='http://stephanus.tlg.uci.edu/koumanoudes'>Koumanoudes</a></li>
+						<li><a href='http://stephanus.tlg.uci.edu/ilne'>ILNE</a></li>
+					</ul>
+				
+				</li>
+				<li><a id='subscriptionsjsp' href='#' aria-label="subscriptions submenu">SUBSCRIPTIONS<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>&nbsp;</span></a>
+					<ul>
+				    <li><a id='subscriptionsjsp' href='/subscriptions.php'>Subscriptions</a></li>
+						<li><a href='https://stephanus.tlg.uci.edu/indivaccounts/'>Individuals</a></li>
+						<li><a href='/subscriptions.php'>Institutions</a></li>
+						<li><a id='/order.faqjsp' href='/order.faq.php'>FAQ</a></li>
+					</ul>
+				</li>
+				<li class='last'><a id='contactjsp' href='/contact.php'>CONTACT US<br /><span style='font-size:10px;text-transform:none;font-weight:normal;'>&nbsp;</span></a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+				<!-- ####################################################################################################### -->
+				<div class="wrapper row4">
+						<noscript>
+						<div id="no_js">
+						Javascript is either disabled or not supported by your browser. <br/>
+						Javascript must be enabled in order for you to use this site.
+						</div>
+						</noscript>
+				<div class='warning'>You may be using a browser that may not be fully supported.</div>						<div id='ajax_load'>&nbsp;</div>
+		<div id="container" class="clear">
+		<div id="container_t">
+		<span>&nbsp;</span>
+		</div>
+		<div id="container_body" tabindex="-1" role='main' aria-label='contents'>
+				<!-- ####################################################################################################### -->
+			<div id="body_wrapper">
+
+
+<h1>Authors included in TLG disks D and E</h1>
+
+          
+                Occasionally, author names are enclosed within angle brackets '&lt;&gt;' or   square brackets '[]'. Angle brackets indicate an author to whom a given work has   been assigned, although that person may not be the author of the work in   question. Square brackets enclosing an author's name are intended to question   the authenticity of the name; even the existence of the author may be disputed.<p>
+                
+                
+               <strong>TLG CD ROM D (1992)</strong>
+          
+              <ul>
+                <li>Acesander Hist. </li><li>Achaeus Trag. </li>
+                <li>Achilles Tatius Scr. Erot. </li>
+                <li>Acta Eupli </li>
+                <li>Acta Joannis </li>
+                <li>Acta Justini et Septem Sodalium </li>
+                <li>Acta Pauli </li>
+                <li>Acta Petri </li>
+                <li>Acta Phileae </li>
+                <li>Acta et Martyrium Apollonii </li>
+                <li>Acusilaus Hist. </li>
+                <li>Adamantius Judaeus Med. </li>
+                <li>Adespota Papyracea, SH </li>
+                <li>Aelianus Soph. </li>
+                <li>Aeschines Orat. </li>
+                <li>Aeschrion Lyr. </li>
+                <li>Aeschylus Atheniensis Trag. </li>
+                <li>Aeschylus Alexandrinus Trag. </li>
+                <li>Aesopus Scr. Fab. et Aesopica </li>
+                <li>Aetius Amidenus Med. </li>
+                <li>Agamestor Eleg. </li>
+                <li>Agatharchides Geogr. </li>
+                <li>Agathon Trag. </li>
+                <li>Agathyllus Eleg. </li>
+                <li>Aglais Poet. Med. </li>
+                <li>Albinus Phil. </li>
+                <li>Alcaeus Comic. </li>
+                <li>Alcaeus Lyr. </li>
+                <li>Alcibiades &lt;Eleg.&gt; </li>
+                <li>Alcimenes Atheniensis Comic. </li>
+                <li>Alcmaeon Phil. </li>
+                <li>Alcman Lyr. </li>
+                <li>Alexander Comic. </li>
+                <li>Alexander Rhet. et Soph. </li>
+                <li>Alexander Trag. et Lyr. </li>
+                <li>Alexander Aphrodisiensis Phil. </li>
+                <li>Alexander Trallianus Med. </li>
+                <li>Alexis Comic. </li>
+                <li>Amipsias Comic. </li>
+                <li>Ammonius Epigr. </li>
+                <li>Ammonius Phil. </li>
+                <li>Amphilochius Scr. Eccl. </li>
+                <li>Amphis Comic. </li>
+                <li>Anacreon Junior Eleg. </li>
+                <li>Anacreon Lyr. </li>
+                <li>Anacreontea </li>
+                <li>Ananius Iamb. </li>
+                <li>Anaxagoras Phil. </li>
+                <li>Anaxandrides Comic. </li>
+                <li>Anaxarchus Phil. </li>
+                <li>Anaxilas Comic. </li>
+                <li>Anaximander Phil. </li>
+                <li>Anaximenes Hist. et Rhet. </li>
+                <li>Anaximenes Phil. </li>
+                <li>Anaxion Trag. </li>
+                <li>Anaxippus Comic. </li>
+                <li>Andocides Orat. </li>
+                <li>Anna Comnena Hist. </li>
+                <li>Anonymi Curetum Hymnus </li>
+                <li>Anonymi Grammatici </li>
+                <li>Anonymi Historici </li>
+                <li>Anonymi Hymnus in Dactylos Idaeos </li>
+                <li>Anonymi in Aristotelis Artem Rhetoricam </li>
+                <li>Anonymi in Aristotelis Categorias </li>
+                <li>Anonymi in Aristotelis Ethica Nicomachea </li>
+                <li>Anonymi in Aristotelis Librum Alterum Analyticorum Posteriorum Commentarium </li>
+                <li>Anonymi in Aristotelis Librum Primum Analyticorum Posteriorum Commentarium </li>
+                <li>Anonymi in Aristotelis Sophisticos Elenchos </li>
+                <li>Anonymi in Oppiani Opera </li>
+                <li>Anonymi Medici </li>
+                <li>Anonymus Discipulus Isidori Milesii Mech. </li>
+                <li>Anonymus Iamblichi Phil. </li>
+                <li>Anonymus Londinensis Med. </li>
+                <li>Anonymus Seguerianus Rhet. </li>
+                <li>Antagoras Epic. </li>
+                <li>Anthologia Graeca </li>
+                <li>Anthologiae Graecae Appendix </li>
+                <li>Antidotus Comic. </li>
+                <li>Antigonus Paradox. </li>
+                <li>Antimachus Eleg. et Epic. </li>
+                <li>Antiphanes Comic. </li>
+                <li>Antiphon Orat. </li>
+                <li>Antiphon Soph. </li>
+                <li>Antiphon Trag. </li>
+                <li>Antisthenes Phil. </li>
+                <li>Antoninus Liberalis Myth. </li>
+                <li>Antyllus Med. </li>
+                <li>Aphareus Rhet. </li>
+                <li>Apocalypsis Esdrae </li>
+                <li>Apocalypsis Joannis </li>
+                <li>Apollodorus Carystius vel Apollodorus Gelous Comic. </li>
+                <li>Apollodorus Carystius Comic. </li>
+                <li>Apollodorus Gelous Comic. </li>
+                <li>Apollodorus Lyr. </li>
+                <li>Pseudo-Apollodorus Myth. </li>
+                <li>Apollodorus Phil. </li>
+                <li>Apollodorus Trag. </li>
+                <li>Apollonides Trag. </li>
+                <li>Apollonius Comic. </li>
+                <li>Apollonius Citiensis Med. </li>
+                <li>Apollonius Rhodius Epic. </li>
+                <li>Apollonius Soph. </li>
+                <li>Apollonius Tyanensis Phil. </li>
+                <li>Apollophanes Comic. </li>
+                <li>Appianus Hist. </li>
+                <li>Apsines Rhet. </li>
+                <li>Araros Comic. </li>
+                <li>Aratus Epic. et Astron. </li>
+                <li>Arcesilaus Comic. </li>
+                <li>Archedicus Comic. </li>
+                <li>Archelaus Paradox. </li>
+                <li>Archelaus Phil. </li>
+                <li>Archestratus Trag. </li>
+                <li>Archigenes Apamensis Med. </li>
+                <li>Archilochus Iamb. et Eleg. </li>
+                <li>Archimelus Epigr. </li>
+                <li>Archippus Comic. </li>
+                <li>Archytas Phil. </li>
+                <li>Aretaeus Med. </li>
+                <li>Arethas Philol. et Scr. Eccl. </li>
+                <li>Ariphron Lyr. </li>
+                <li>Aristagoras Comic. </li>
+                <li>Aristarchus Trag. </li>
+                <li>Aristias Trag. </li>
+                <li>Aristides Quintilianus Mus. </li>
+                <li>Aelius Aristides Rhet. </li>
+                <li>Aristodemus Hist. </li>
+                <li>Aristomenes Comic. </li>
+                <li>Aristonous Lyr. </li>
+                <li>Aristonymus Comic. </li>
+                <li>Aristophanes Comic. </li>
+                <li>Aristophanes Gramm. </li>
+                <li>Aristophon Comic. </li>
+                <li>Aristoteles Phil. et Corpus Aristotelicum </li>
+                <li>Aristoxenus Mus. </li>
+                <li>Aristoxenus &lt;Comic.&gt; </li>
+                <li>Flavius Arrianus Hist. et Phil. </li>
+                <li>Artemidorus Eleg. </li>
+                <li>Asclepiades Epigr. </li>
+                <li>Asclepius Phil. </li>
+                <li>Asius Epic. et Eleg. </li>
+                <li>Asopodorus Iamb. </li>
+                <li>Aspasius Phil. </li>
+                <li>Asterius Scr. Eccl. </li>
+                <li>Astydamas Trag. </li>
+                <li>Athanasius Theol. </li>
+                <li>Athenaeus Epigr. </li>
+                <li>Athenaeus Soph. </li>
+                <li>Athenagoras Apol. </li>
+                <li>Athenio Comic. </li>
+                <li>Athenodorus Trag. </li>
+                <li>Augeas Comic. </li>
+                <li>Autocrates Comic. </li>
+                <li>Axionicus Comic. </li>
+                <li>Bacchylides Lyr. </li>
+                <li>Balbilla Lyr. </li>
+                <li>Barnabae Epistula </li>
+                <li>Basilius Caesariensis Theol. </li>
+                <li>Basilius Seleuciensis Scr. Eccl. </li>
+                <li>Bato Comic. </li>
+                <li>Batrachomyomachia </li>
+                <li>Bias &lt;Phil.&gt; </li>
+                <li>Bion Bucol. </li>
+                <li>Bion Phil. et Math. </li>
+                <li>Biottus Comic. </li>
+                <li>Biotus Trag. </li>
+                <li>Blaesus Comic. </li>
+                <li>Boethus Epigr. </li>
+                <li>Boidas Phil. </li>
+                <li>Boiscus Iamb. </li>
+                <li>Bolus Phil. </li>
+                <li>&lt;Brotinus&gt; Phil. </li>
+                <li>Butas Eleg. </li>
+                <li>Callias Comic. </li>
+                <li>Callicrates Comic. </li>
+                <li>Callimachus Philol. </li>
+                <li>Callinicus Soph. </li>
+                <li>Callinus Eleg. </li>
+                <li>Calliphon et Democedes Med. et Phil. </li>
+                <li>&lt;Callippus&gt; Comic. </li>
+                <li>Callisthenes Hist. </li>
+                <li>Callistratus Trag. </li>
+                <li>Joannes Cameniates Hist. </li>
+                <li>Cantharus Comic. </li>
+                <li>Cantus Lugubris </li>
+                <li>Carcinus Junior Trag. </li>
+                <li>Carcinus Trag. </li>
+                <li>Carmina Convivialia, PMG </li>
+                <li>Carmina Popularia, PMG </li>
+                <li>Cassius Dio Hist. </li>
+                <li>Cassius Iatrosophista Med. </li>
+                <li>Castorion Lyr. </li>
+                <li>&lt;Cebes&gt; Phil. </li>
+                <li>Cephisodorus Comic. </li>
+                <li>Cercidas Iamb. </li>
+                <li>Cercops Phil. </li>
+                <li>Certamen Homeri et Hesiodi </li>
+                <li>Chaeremon Trag. </li>
+                <li>Chaerion Comic. </li>
+                <li>Chares Gnom. </li>
+                <li>Chariclides Comic. </li>
+                <li>Chariton Scr. Erot. </li>
+                <li>&lt;Charondas Nomographus&gt; &lt;Phil.&gt; </li>
+                <li>Chionides Comic. </li>
+                <li>Choerilus Trag. </li>
+                <li>Christodorus Epic. </li>
+                <li>Chrysippus Phil. </li>
+                <li>Cinesias Lyr. </li>
+                <li>Cleaenetus Trag. </li>
+                <li>Clearchus Comic. </li>
+                <li>Clemens Alexandrinus Theol. </li>
+                <li>Clemens Romanus Theol. et Clementina </li>
+                <li>Cleobulina Scriptor Aenigmatum </li>
+                <li>Cleobulus Lyr. et Epigr. </li>
+                <li>Cleomedes Astron. </li>
+                <li>Cleomenes Lyr. </li>
+                <li>Cleon Eleg. </li>
+                <li>Cleonides Mus. </li>
+                <li>Cleophon Trag. </li>
+                <li>Cleostratus Poet. Phil. </li>
+                <li>Clidemus Phil. </li>
+                <li>&lt;Clinias&gt; Phil. </li>
+                <li>Comica Adespota, CAF </li>
+                <li>Comica Adespota, CGFPR </li>
+                <li>Comica Adespota, FCG </li>
+                <li>Comica Adespota, Suppl. Com. </li>
+                <li>Concilia Oecumenica, ACO </li>
+                <li>Constantinus VII Porphyrogenitus Imperator </li>
+                <li>Conventus Avium </li>
+                <li>Corinna Lyr. </li>
+                <li>Cornutus Phil. </li>
+                <li>Crates Comic. </li>
+                <li>Crates Poet. Phil. </li>
+                <li>Crateuas Med. </li>
+                <li>Cratinus Comic. </li>
+                <li>Cratinus Junior Comic. </li>
+                <li>Cratylus Phil. </li>
+                <li>Critias Phil., Trag. et Eleg. </li>
+                <li>Crito Comic. </li>
+                <li>Crobylus Comic. </li>
+                <li>Ctesias Hist. et Med. </li>
+                <li>Cydias Lyr. </li>
+                <li>Damascius Phil. </li>
+                <li>Damon Mus. </li>
+                <li>Damon et Phintias Phil. </li>
+                <li>Damoxenus Comic. </li>
+                <li>David Phil. </li>
+                <li>De Arboribus Avibusque Fabulae </li>
+                <li>Demades Orat. et Rhet. </li>
+                <li>Demetrii Phalerei Epistula </li>
+                <li>Demetrius Comic. </li>
+                <li>Demetrius Junior Comic. </li>
+                <li>Demetrius Trag. </li>
+                <li>Democritus Phil. </li>
+                <li>Demodocus Eleg. </li>
+                <li>Demonax &lt;Trag.&gt; </li>
+                <li>Demonicus Comic. </li>
+                <li>Demosthenes Orat. </li>
+                <li>Dexicrates Comic. </li>
+                <li>Dexippus Phil. </li>
+                <li>Dialexeis, DISSOI LOGOI </li>
+                <li>Dicaeogenes Trag. </li>
+                <li>Dictys Cretensis Hist. </li>
+                <li>Didache XII Apostolorum </li>
+                <li>Didymus Caecus Scr. Eccl. </li>
+                <li>Dinarchus Orat. </li>
+                <li>Dinolochus Comic. </li>
+                <li>Dio Chrysostomus Soph. </li>
+                <li>Diocles Comic. </li>
+                <li>Diodorus Comic. </li>
+                <li>Diodorus Eleg. </li>
+                <li>Diodorus Rhet. </li>
+                <li>Diodorus Siculus Hist. </li>
+                <li>Diogenes Apolloniates Phil. </li>
+                <li>Diogenes Laertius Biogr. </li>
+                <li>Diogenes Smyrnaeus Phil. </li>
+                <li>Diogenes Phil. et Trag. </li>
+                <li>Diogenes Trag. </li>
+                <li>Dionysius Comic. </li>
+                <li>Dionysius Eleg. </li>
+                <li>&lt;Dionysius&gt; Trag. vel Comic. </li>
+                <li>Dionysius I &lt;Trag.&gt; </li>
+                <li>Dionysius II &lt;Eleg.&gt; </li>
+                <li>Dionysius Halicarnassensis Rhet. et Hist. </li>
+                <li>Dionysius Scytobrachion Gramm. </li>
+                <li>Dionysius Thrax Gramm. </li>
+                <li>Diophantus Comic. </li>
+                <li>Dioscorides Pedanius Med. </li>
+                <li>Pseudo-Dioscorides Med. </li>
+                <li>Diotimus Epic. </li>
+                <li>Diotimus Phil. </li>
+                <li>Dioxippus Comic. </li>
+                <li>Diphilus Comic. </li>
+                <li>Diphilus Epic. et Iamb. </li>
+                <li>Dosiadas Lyr. </li>
+                <li>Dromo Comic. </li>
+                <li>Duris Hist. </li>
+                <li>Echecrates Phil. </li>
+                <li>Echembrotus Lyr. et Eleg. </li>
+                <li>Ecphantides Comic. </li>
+                <li>&lt;Ecphantus&gt; Phil. </li>
+                <li>Elegiaca Adespota, CA </li>
+                <li>Elegiaca Adespota, IEG </li>
+                <li>Elias Phil. </li>
+                <li>Empedocles Poet. Phil. </li>
+                <li>Ephippus Comic. </li>
+                <li>Ephorus Hist. </li>
+                <li>Epicharmus Comic. et Pseudepicharmea </li>
+                <li>Epicrates Comic. </li>
+                <li>Epictetus Phil. </li>
+                <li>Epicurus Phil. </li>
+                <li>Epigenes Comic. </li>
+                <li>Epilycus Comic. </li>
+                <li>Epimenides Phil. </li>
+                <li>Epinicus Comic. </li>
+                <li>Epiphanius Scr. Eccl. </li>
+                <li>Epistula ad Diognetum </li>
+                <li>Epistula Ecclesiarum apud Lugdunum et Viennam </li>
+                <li>Epitaphium Pectorii </li>
+                <li>Erinna Lyr. </li>
+                <li>Eriphus Comic. </li>
+                <li>Erotianus Gramm. et Med. </li>
+                <li>Euangelus Comic. </li>
+                <li>Euaretus Trag. </li>
+                <li>Eubulides Comic. </li>
+                <li>Eubulus Comic. </li>
+                <li>Euclides Comic. vel Iamb. </li>
+                <li>Euclides Geom. </li>
+                <li>Eudoxus Astron. </li>
+                <li>Eudoxus Comic. </li>
+                <li>Euenus Eleg. </li>
+                <li>Eumedes Comic. </li>
+                <li>Eumelus Epic. </li>
+                <li>Eunapius Hist. et Soph. </li>
+                <li>Eunicus Comic. </li>
+                <li>Euphanes Comic. </li>
+                <li>Euphorion Epic. </li>
+                <li>Euphro Comic. </li>
+                <li>Euphronius Lyr. </li>
+                <li>Eupolis Comic. </li>
+                <li>Euripides Trag. </li>
+                <li>Euripides II Trag. </li>
+                <li>&lt;Eurytus&gt; Phil. </li>
+                <li>Eusebius Scr. Eccl. et Theol. </li>
+                <li>Eustathius Philol. et Scr. Eccl. </li>
+                <li>Eustratius Phil. </li>
+                <li>Eutecnius Soph. </li>
+                <li>Euthycles Comic. </li>
+                <li>Eutropius Hist. </li>
+                <li>Evangelium Bartholomaei </li>
+                <li>Ezechiel Trag. </li>
+                <li>Fragmenta Adespota, SH </li>
+                <li>Marcus Cornelius Fronto Rhet. </li>
+                <li>Galenus Med. </li>
+                <li>Pseudo-Galenus Med. </li>
+                <li>Georgius Monachus Chronogr. </li>
+                <li>Georgius Monachus Continuatus </li>
+                <li>Georgius Peccator Poeta </li>
+                <li>Gorgias Rhet. et Soph. </li>
+                <li>Gregorius Nazianzenus Theol. </li>
+                <li>Gregorius Nyssenus Theol. </li>
+                <li>Gryllus </li>
+                <li>Harmodius Trag. </li>
+                <li>Harpocration Gramm. </li>
+                <li>Hecataeus Abderita Hist. </li>
+                <li>Hecataeus Milesius Hist. </li>
+                <li>Hedylus Epigr. </li>
+                <li>Hegemon Epic. </li>
+                <li>Hegemon Parodius </li>
+                <li>Hegesippus Comic. </li>
+                <li>Heliodorus Scr. Erot. </li>
+                <li>Heliodorus Trag. </li>
+                <li>Hellanicus Hist. </li>
+                <li>Hellenica </li>
+                <li>Heniochus Comic. </li>
+                <li>Heraclides Comic. </li>
+                <li>Heraclides Trag. </li>
+                <li>Heraclides Ponticus Junior Gramm. </li>
+                <li>&lt;Heraclitus&gt; Comic. </li>
+                <li>Heraclitus Phil. </li>
+                <li>Herennius Philo Hist. et Gramm. </li>
+                <li>Hermas Scr. Eccl. </li>
+                <li>Hermesianax Eleg. </li>
+                <li>Hermias Iamb. </li>
+                <li>Hermippus Comic. </li>
+                <li>Hermocles Lyr. </li>
+                <li>Hermogenes Tarsensis Rhet. </li>
+                <li>Hermolochus Lyr. </li>
+                <li>Herodas Mimogr. </li>
+                <li>Herodianus et Pseudo-Herodianus Gramm. et Rhet. </li>
+                <li>Herodianus Hist. </li>
+                <li>Herodotus Hist. </li>
+                <li>Heron Mech. </li>
+                <li>Hesiodus Epic. </li>
+                <li>Hesychius Lexicogr. </li>
+                <li>Hicetas Phil. </li>
+                <li>Hierophilus Soph. et Phil. </li>
+                <li>Himerius Soph. </li>
+                <li>Hipparchus Comic. </li>
+                <li>Hippasus Phil. </li>
+                <li>Hippias Soph. </li>
+                <li>Hippiatrica </li>
+                <li>Hippocrates Math. </li>
+                <li>Hippocrates Med. et Corpus Hippocraticum </li>
+                <li>Pseudo-Hippocrates Med. </li>
+                <li>&lt;Hippodamus&gt; Phil. </li>
+                <li>Hippolytus Scr. Eccl. </li>
+                <li>Hippon Phil. </li>
+                <li>Hipponax Iamb. </li>
+                <li>[Hippothoon] Trag. </li>
+                <li>Historia Alexandri Magni </li>
+                <li>Historia Monachorum in Aegypto </li>
+                <li>Homerus Epic. </li>
+                <li>[Homerus] &lt;Epic.&gt; </li>
+                <li>Horapollo Gramm. </li>
+                <li>Hymni Homerici </li>
+                <li>Hyperides Orat. </li>
+                <li>Hypsicles Math. et Astron. </li>
+                <li>Iambica Adespota, ALG </li>
+                <li>Iambica Adespota, IEG </li>
+                <li>Iamblichus Phil. </li>
+                <li>Iamblichus Scr. Erot. </li>
+                <li>Ibycus Lyr. </li>
+                <li>Iccus Phil. </li>
+                <li>Idaeus Phil. </li>
+                <li>Ignatius Scr. Eccl. </li>
+                <li>Ion Eleg. </li>
+                <li>Ion Poeta et Phil. </li>
+                <li>Iophon Trag. </li>
+                <li>Irenaeus Theol. </li>
+                <li>Isaeus Orat. </li>
+                <li>Isidorus Scriptor Hymnorum </li>
+                <li>Isidorus Trag. </li>
+                <li>Isocrates Orat. </li>
+                <li>Isyllus Lyr. </li>
+                <li>Joannes Med. </li>
+                <li>Joannes Chrysostomus Scr. Eccl. </li>
+                <li>Joannes Damascenus Theol. et Scr. Eccl. </li>
+                <li>Joannes Hierosolymitanus Scr. Eccl. </li>
+                <li>Joannes Malalas Chronogr. </li>
+                <li>Joannes Philoponus Phil. </li>
+                <li>Josephus et Aseneth </li>
+                <li>Josephus Hist. </li>
+                <li>Julianus Imperator Phil. </li>
+                <li>Julianus Scriptor Legis de Medicis </li>
+                <li>Jusjurandum Medicum </li>
+                <li>Justinus Martyr Apol. </li>
+                <li>Pseudo-Justinus Martyr </li>
+                <li>Lamprocles Lyr. </li>
+                <li>Lamynthius Lyr. </li>
+                <li>Laon Comic. </li>
+                <li>Lasus Lyr. </li>
+                <li>Leo Phil. </li>
+                <li>Leucippus Phil. </li>
+                <li>Leuco Comic. </li>
+                <li>Libanius Rhet. et Soph. </li>
+                <li>Licymnius Lyr. </li>
+                <li>Limenius Lyr. </li>
+                <li>Longinus Phil. et Rhet. </li>
+                <li>[Longinus] Rhet. </li>
+                <li>Longus Scr. Erot. </li>
+                <li>&lt;Lucas Apostolus&gt; Med. </li>
+                <li>Lucianus Soph. </li>
+                <li>Pseudo-Lucianus Soph. </li>
+                <li>Lycon Phil. </li>
+                <li>Lycophron Soph. </li>
+                <li>Lycophron Trag. </li>
+                <li>Lycophronides Lyr. </li>
+                <li>Lycurgus Orat. </li>
+                <li>Joannes Laurentius Lydus Hist. </li>
+                <li>Lynceus Comic. </li>
+                <li>Lyrica Adespota, CA </li>
+                <li>Lyrica Adespota, PMG </li>
+                <li>Lyrica Adespota, SLG </li>
+                <li>Lysias Orat. </li>
+                <li>Lysippus Comic. </li>
+                <li>&lt;Lysis&gt; Phil. </li>
+                <li>Pseudo-Macarius Scr. Eccl. </li>
+                <li>Macedonius Lyr. </li>
+                <li>Machon Comic. </li>
+                <li>Magnes Comic. </li>
+                <li>Mamercus Eleg. </li>
+                <li>Marcellinus I Med. </li>
+                <li>Marcellus Theol. </li>
+                <li>Marcus Aurelius Antoninus Imperator Phil. </li>
+                <li>Martyrium Agapae, Irenae, Chionae et Sodalium </li>
+                <li>Martyrium Carpi, Papyli et Agathonicae </li>
+                <li>Martyrium Cononis </li>
+                <li>Martyrium Dasii </li>
+                <li>Martyrium Marini </li>
+                <li>Martyrium Pionii </li>
+                <li>Martyrium Polycarpi </li>
+                <li>Martyrium Potamiaenae et Basilidis </li>
+                <li>Martyrium Ptolemaei et Lucii </li>
+                <li>Maximus Rhet. </li>
+                <li>Melanippides Lyr. </li>
+                <li>Melanthius Trag. </li>
+                <li>Melanthius Trag. et Eleg. </li>
+                <li>Meletius Med. </li>
+                <li>Meletus Junior Trag. </li>
+                <li>Melinno Lyr. </li>
+                <li>Melissus Phil. </li>
+                <li>Melito Apol. </li>
+                <li>Melito Trag. </li>
+                <li>Menander Comic. </li>
+                <li>Menandri et Philistionis Sententiae </li>
+                <li>Menecrates Comic. </li>
+                <li>Menestor Phil. </li>
+                <li>[Menippus] Comic. </li>
+                <li>Mesomedes Lyr. </li>
+                <li>Metagenes Comic. </li>
+                <li>Metrodorus Major Phil. </li>
+                <li>Metrodorus Phil. </li>
+                <li>Michael Attaliates Hist. </li>
+                <li>Michael Phil. </li>
+                <li>Mimnermus Eleg. </li>
+                <li>Mimnermus Trag. </li>
+                <li>Mnesimachus Comic. </li>
+                <li>Moero Epic. </li>
+                <li>Monodia </li>
+                <li>Morsimus Trag. </li>
+                <li>Moschion Trag. </li>
+                <li>Moschus Bucol. </li>
+                <li>[Musaeus] Phil. </li>
+                <li>Myrtilus Comic. </li>
+                <li>Nausicrates Comic. </li>
+                <li>Nausiphanes Phil. </li>
+                <li>Nautarum Cantiunculae </li>
+                <li>Nemesius Emesenus Theol. </li>
+                <li>Neophron Trag. </li>
+                <li>Nessas Phil. </li>
+                <li>Nicaenetus Epic. </li>
+                <li>Nicander Epic. </li>
+                <li>Nicephorus Gregoras Polyhist. </li>
+                <li>Nicias Epigr. </li>
+                <li>Nico Comic. </li>
+                <li>Nicochares Comic. </li>
+                <li>Nicolaus Comic. </li>
+                <li>Nicomachus Comic. </li>
+                <li>Nicomachus Alexandrinus Trag. </li>
+                <li>Nicomachus Atheniensis Trag. </li>
+                <li>Nicophon Comic. </li>
+                <li>Nicostratus Comic. </li>
+                <li>Nonnus Epic. </li>
+                <li>Novum Testamentum </li>
+                <li>Ocellus Phil. </li>
+                <li>Oeniades Lyr. </li>
+                <li>Oenopides Phil. </li>
+                <li>Olympiodorus Phil. </li>
+                <li>Ophelio Comic. </li>
+                <li>Oppianus Anazarbensis Epic. </li>
+                <li>Oppianus Apamensis Epic. </li>
+                <li>Oracula Chaldaica </li>
+                <li>Oracula Sibyllina </li>
+                <li>Oribasius Med. </li>
+                <li>Origenes Theol. </li>
+                <li>Orphica </li>
+                <li>Paeanes, CA </li>
+                <li>Palladius Med. </li>
+                <li>Palladius Scr. Eccl. </li>
+                <li>Pamphilus Trag. </li>
+                <li>Panarces Scriptor Aenigmatum </li>
+                <li>Pancrates Epic. </li>
+                <li>Pancrates Epigr. </li>
+                <li>Paramonus Comic. </li>
+                <li>Parmeniscus Phil. </li>
+                <li>Parmenides Poet. Phil. </li>
+                <li>Parmeno Iamb. </li>
+                <li>Paron Phil. </li>
+                <li>Parthenius Myth. </li>
+                <li>Patrocles Trag. </li>
+                <li>Paulus Aegineta Med. </li>
+                <li>Pausanias Perieg. </li>
+                <li>Peirazomene </li>
+                <li>Petron Phil. </li>
+                <li>Phaedimus Epigr. </li>
+                <li>Phanocles Eleg. </li>
+                <li>Pherecrates Comic. </li>
+                <li>Pherecydes Phil. et Myth. </li>
+                <li>Phileas Scr. Eccl. </li>
+                <li>Philemon Comic. </li>
+                <li>Philemon Junior Comic. </li>
+                <li>Philetaerus Comic. </li>
+                <li>Philetas Eleg. et Gramm. </li>
+                <li>Philiades Eleg. </li>
+                <li>Philicus Lyr. </li>
+                <li>Philippides Comic. </li>
+                <li>Philippus Comic. </li>
+                <li>Philiscus Comic. </li>
+                <li>Philiscus Trag. </li>
+                <li>Philo Judaeus Phil. </li>
+                <li>Philo Paradox. </li>
+                <li>Philochorus Hist. </li>
+                <li>Philocles Comic. </li>
+                <li>Philocles Trag. </li>
+                <li>Philodamus Lyr. </li>
+                <li>Philolaus Phil. </li>
+                <li>Philonides Comic. </li>
+                <li>Philostephanus Comic. </li>
+                <li>Philostratus Junior Soph. </li>
+                <li>Philostratus Major Soph. </li>
+                <li>Flavius Philostratus Soph. </li>
+                <li>Philoxenus Cytherius Lyr. </li>
+                <li>Philoxenus Leucadius Lyr. </li>
+                <li>Philumenus Med. </li>
+                <li>Philyllius Comic. </li>
+                <li>Phlegon Paradox. </li>
+                <li>Phocylides Eleg. et Gnom. </li>
+                <li>Phoenicides Comic. </li>
+                <li>Phormis Comic. </li>
+                <li>Photius Theol., Scr. Eccl. et Lexicogr. </li>
+                <li>Phrynichus Comic. </li>
+                <li>Phrynichus Trag. </li>
+                <li>Phrynichus II Trag. </li>
+                <li>Phylarchus Hist. </li>
+                <li>Pigres Eleg. </li>
+                <li>Pindarus Lyr. </li>
+                <li>Pisander Epic. </li>
+                <li>Pittacus &lt;Lyr.&gt; </li>
+                <li>Plato Comic. </li>
+                <li>Plato Phil. </li>
+                <li>Plotinus Phil. </li>
+                <li>Plutarchus Biogr. et Phil. </li>
+                <li>Pseudo-Plutarchus </li>
+                <li>Polemaeus Trag. </li>
+                <li>Poliochus Comic. </li>
+                <li>Polyaenus Rhet. </li>
+                <li>Polybius Hist. </li>
+                <li>Polybius Rhet. </li>
+                <li>Polycarpus Scr. Eccl. </li>
+                <li>Polyclitus Phil. </li>
+                <li>&lt;Polyidus&gt; Trag. </li>
+                <li>Polyphrasmon Trag. </li>
+                <li>Polyzelus Comic. </li>
+                <li>Pompeius Macer &lt;Trag.&gt; </li>
+                <li>Porphyrius Tyrius Phil. </li>
+                <li>Posidippus Comic. </li>
+                <li>Posidippus Epigr. </li>
+                <li>Posidonius Phil. </li>
+                <li>Praecepta Salubria </li>
+                <li>Pratinas Trag. </li>
+                <li>Praxilla Lyr. </li>
+                <li>Priscianus Phil. </li>
+                <li>Proclus Phil. </li>
+                <li>Procopius Hist. </li>
+                <li>Prodicus Soph. </li>
+                <li>Pronomus Lyr. </li>
+                <li>Protagoras Soph. </li>
+                <li>Protevangelium Jacobi </li>
+                <li>Michael Psellus Polyhist. </li>
+                <li>Ptolemaeus IV Philopator Trag. </li>
+                <li>&lt;Pythagoras&gt; Phil. </li>
+                <li>Pythagoristae Phil. </li>
+                <li>Python Trag. </li>
+                <li>Quintus Smyrnaeus Epic. </li>
+                <li>Rhetorica Anonyma </li>
+                <li>Rhianus Epic. </li>
+                <li>Rhinthon Comic. </li>
+                <li>Romanus Melodus Hymnographus </li>
+                <li>Rufus Ephesius Med. </li>
+                <li>Rufus Soph. </li>
+                <li>Sallustius Phil. </li>
+                <li>Sannyrion Comic. </li>
+                <li>Sappho Lyr. </li>
+                <li>Sappho et Alcaeus Lyr. </li>
+                <li>Sapphus vel Alcaei Fragmenta </li>
+                <li>Scholia in Aelium Aristidem </li>
+                <li>Scholia in Aeschinem </li>
+                <li>Scholia in Aeschylum </li>
+                <li>Scholia in Apollonium Rhodium </li>
+                <li>Scholia in Aratum </li>
+                <li>Scholia in Aristophanem </li>
+                <li>Scholia in Aristotelem </li>
+                <li>Scholia in Demosthenem </li>
+                <li>Scholia in Dionysium Byzantium </li>
+                <li>Scholia in Dionysium Periegetam </li>
+                <li>Scholia in Diophantum </li>
+                <li>Scholia in Euclidem </li>
+                <li>Scholia in Euripidem </li>
+                <li>Scholia in Hesiodum </li>
+                <li>Scholia in Homerum </li>
+                <li>Scholia in Isocratem </li>
+                <li>Scholia in Lucianum </li>
+                <li>Scholia in Nicandrum </li>
+                <li>Scholia in Oppianum </li>
+                <li>Scholia in Pausaniam </li>
+                <li>Scholia in Pindarum </li>
+                <li>Scholia in Platonem </li>
+                <li>Scholia in Sophoclem </li>
+                <li>Scholia in Theocritum </li>
+                <li>Scholia in Thucydidem </li>
+                <li>Scholia in Xenophontem </li>
+                <li>Sciras Comic. </li>
+                <li>&lt;Sclerias&gt; Trag. </li>
+                <li>Scolia Alphabetica </li>
+                <li>Scylax Perieg. </li>
+                <li>Scythinus Poet. Phil. </li>
+                <li>Seleucus Lyr. </li>
+                <li>Semonides Eleg. et Iamb. </li>
+                <li>&lt;Septem Sapientes&gt; Phil. </li>
+                <li>Septuaginta </li>
+                <li>Serapion Trag. </li>
+                <li>Severianus Scr. Eccl. </li>
+                <li>Severus Iatrosophista Med. </li>
+                <li>Sextus Empiricus Phil. </li>
+                <li>Silenus Trag. </li>
+                <li>Simias Gramm. </li>
+                <li>Simonides Lyr. </li>
+                <li>Simplicius Phil. </li>
+                <li>Simus Phil. </li>
+                <li>Simylus Comic. </li>
+                <li>Simylus Eleg. </li>
+                <li>Simylus Iamb. </li>
+                <li>Socrates Phil. </li>
+                <li>Socrates Scholasticus Hist. </li>
+                <li>Socraticorum Epistulae </li>
+                <li>Socratis Epistulae </li>
+                <li>&lt;Sodamus&gt; Eleg. </li>
+                <li>Sogenes Comic. </li>
+                <li>Solon Nomographus et Poeta </li>
+                <li>Sopater Comic. </li>
+                <li>Sopater Rhet. </li>
+                <li>Sophilus Comic. </li>
+                <li>Sophocles Junior Trag. </li>
+                <li>Sophocles Trag. </li>
+                <li>Sophonias Phil. </li>
+                <li>Sophron Mimogr. </li>
+                <li>Soranus Ephesius Med. </li>
+                <li>Sosicrates Comic. </li>
+                <li>Sosipater Comic. </li>
+                <li>Sosiphanes Trag. </li>
+                <li>Sositheus Trag. </li>
+                <li>Sostratus Gramm. </li>
+                <li>Sotadea </li>
+                <li>Sotades Comic. </li>
+                <li>Sotades Iamb. </li>
+                <li>Sozomenus Scr. Eccl. </li>
+                <li>Speusippus Phil. </li>
+                <li>Spintharus Trag. </li>
+                <li>Stephanus Comic. </li>
+                <li>Stephanus Alexandrinus Med. </li>
+                <li>Stephanus Alexandrinus Phil. </li>
+                <li>Stephanus Atheniensis Med. et Phil. </li>
+                <li>Stephanus Byzantius Gramm. </li>
+                <li>Stephanus fort. Constantinopolitanus Gramm. </li>
+                <li>Stesichorus Lyr. </li>
+                <li>Stesichorus II Lyr. </li>
+                <li>Sthenelus Trag. </li>
+                <li>Stobaeus Anthologus </li>
+                <li>Strabo Geogr. </li>
+                <li>Straton Comic. </li>
+                <li>Strattis Comic. </li>
+                <li>Suda </li>
+                <li>Suetonius Hist. et Gramm. </li>
+                <li>Susarion Comic. </li>
+                <li>Symeon Metaphrastes Biogr. et Hist. </li>
+                <li>Synesius Phil. </li>
+                <li>Syriani, Sopatri et Marcellini Scholia ad Hermogenis Status </li>
+                <li>Syrianus Phil. </li>
+                <li>Teleclides Comic. </li>
+                <li>Telesilla Lyr. </li>
+                <li>Telestes Lyr. </li>
+                <li>Terpander Lyr. </li>
+                <li>Testamentum XL Martyrum </li>
+                <li>Thales Phil. </li>
+                <li>Theagenes Phil. </li>
+                <li>Themistius Phil. et Rhet. </li>
+                <li>Theocles Lyr. </li>
+                <li>Theocritus Bucol. </li>
+                <li>Theodectas Trag. </li>
+                <li>Theodoretus Scr. Eccl. et Theol. </li>
+                <li>Theodoridas Epigr. </li>
+                <li>Theodorides Trag. </li>
+                <li>Theodorus Studites Scr. Eccl. et Theol. </li>
+                <li>Theodorus Math. </li>
+                <li>Theodorus Trag. </li>
+                <li>Theognetus Comic. </li>
+                <li>Theognis Eleg. </li>
+                <li>Theognis Trag. </li>
+                <li>Theon Phil. </li>
+                <li>Theon Rhet. </li>
+                <li>Theophilus Apol. </li>
+                <li>Theophilus Comic. </li>
+                <li>Theophilus Protospatharius Med. </li>
+                <li>Theophilus Protospatharius, Damascius et Stephanus Atheniensis Med. </li>
+                <li>Theophilus Protospatharius et Stephanus Atheniensis Med. </li>
+                <li>Theophrastus Phil. </li>
+                <li>Theophylactus Simocatta Hist. et Epist. </li>
+                <li>Theopompus Comic. </li>
+                <li>Theopompus Hist. </li>
+                <li>Thespis Trag. </li>
+                <li>Theudotus Trag. </li>
+                <li>Thrasyalces Phil. </li>
+                <li>Thrasymachus Rhet. et Soph. </li>
+                <li>Thucydides Hist. </li>
+                <li>Thugenides Comic. </li>
+                <li>Timaeus Hist. </li>
+                <li>Timaeus Phil. </li>
+                <li>Timesitheus Trag. </li>
+                <li>Timocles Comic. </li>
+                <li>Timocles Trag. </li>
+                <li>Timocreon Lyr. </li>
+                <li>Timon Phil. </li>
+                <li>Timostratus Comic. </li>
+                <li>Timotheus Comic. </li>
+                <li>Timotheus Lyr. </li>
+                <li>Timotheus Trag. </li>
+                <li>Timoxenus Comic. </li>
+                <li>Tragica Adespota </li>
+                <li>Troilus Soph. </li>
+                <li>Tryphon I Gramm. </li>
+                <li>Tynnichus Lyr. </li>
+                <li>Tyrtaeus Eleg. </li>
+                <li>Vettius Valens Astrol. </li>
+                <li>Vita Adam et Evae </li>
+                <li>Vitae Aeschinis </li>
+                <li>Vitae Aesopi </li>
+                <li>Vitae Arati et Varia de Arato </li>
+                <li>Vitae Hesiodi Particula </li>
+                <li>Vitae Homeri </li>
+                <li>Vitae Oppiani </li>
+                <li>Vitae Pindari et Varia de Pindaro </li>
+                <li>Xenarchus Comic. </li>
+                <li>Xeniades Soph. </li>
+                <li>Xeno Comic. </li>
+                <li>Xenocles Trag. </li>
+                <li>Xenophanes Poet. Phil. </li>
+                <li>Xenophilus Phil. et Mus. </li>
+                <li>Xenophon Hist. </li>
+                <li>Xenophon Scr. Erot. </li>
+                <li>Xuthus Phil. </li>
+                <li>&lt;Zaleucus Nomographus&gt; &lt;Phil.&gt; </li>
+                <li>Zeno Phil. </li>
+                <li>Zenodorus Gramm. </li>
+                <li>Zenodotus Trag. </li>
+                <li>Zopyrus Trag. </li>
+              </ul>
+              
+            
+              
+        <strong>TLG CD ROM E (1999) </strong>
+              
+           <ul>
+           <li>0116 Abydenus Hist.</li>
+                <li> 2064 Acacius Theol.</li>
+                <li>1832 Acesander Hist.</li>
+                <li>0309 Achaeus Trag.</li>
+                <li> 2133 Achilles Tatius Astron.</li>
+                <li>0532 Achilles Tatius Scr. Erot.</li>
+                <li> 2545 Gaius Acilius Hist. et Phil.</li>
+                <li>3141 Georgius Acropolites Hist.</li><li>
+                0300 Acta Alexandrinorum</li><li>
+                2949 Acta Barnabae</li>
+                <li>
+                0304 Acta Et Martyrium Apollonii</li><li>
+                2012 Acta Eupli</li><li>
+                0317 Acta Joannis</li><li>
+                0384 Acta Justini Et Septem Sodalium</li><li>
+                0388 Acta Pauli</li><li>
+                0389 Acta Petri</li><li>
+                2014 Acta Phileae</li><li>
+                2948 Acta Philippi</li><li>
+                0391 Acta Scillitanorum Martyrum</li><li>
+                2038 Acta Thomae</li><li>
+                2248 Acta Xanthippae Et Polyxenae</li><li>
+                0392 Acusilaus Hist.</li><li>
+                0731 Adamantius Judaeus Med.</li><li>
+                2950 Adamantius Theol.</li><li>
+                2648 Adespota Papyracea (SH)</li><li>
+                0666 Adrianus Rhet. et Soph.</li><li>
+                0668 Aegimius</li><li>
+                0545 Claudius Aelianus Soph.</li><li>
+                0546 Aelianus Tact.</li><li>
+                2434 Aelius Dius Hist.</li><li>
+                4001 Aeneas Phil. et Rhet.</li><li>
+                0058 Aeneas Tact.</li><li>
+                0026 Aeschines Orat.</li><li>
+                0673 Aeschines Socraticus Phil.</li><li>
+                0679 Aeschrion Lyr.</li><li>
+                0085 Aeschylus Trag.</li><li>
+                0321 Aeschylus Trag.</li><li>
+                0096 Aesopus Scr. Fab. et Aesopica</li><li>
+                0683 Aethiopis</li><li>
+                0686 Aethlius Hist.</li><li>
+                0528 Ae+tius Doxogr.</li><li>
+                0718 Ae+tius Med.</li><li>
+                0687 Agaclytus Hist.</li><li>
+                2605 Agamestor Eleg.</li><li>
+                0067 Agatharchides Geogr.</li><li>
+                2192 [Agatharchides] Hist.</li><li>
+                0090 Agathemerus Geogr.</li><li>
+                4024 Agathias Scholasticus Epigr. et Hist.</li><li>
+                0688 Agathocles Hist.</li><li>
+                4086 [Agathodaemon] Alchem.</li><li>
+                1775 Pseudo-Agathon Epigr.</li><li>
+                2566 [Agathon] Hist.</li><li>
+                0318 Agathon Trag.</li><li>
+                2606 Agathyllus Eleg.</li><li>
+                2555 Agesilaus Hist.</li><li>
+                0676 Aglai+s Poet. Med.</li><li>
+                2345 Agl(a)osthenes Hist.</li><li>
+                1835 Agroetas Hist.</li><li>
+                0693 Albinus Phil.</li><li>
+                0400 Alcaeus Comic.</li><li>
+                0383 Alcaeus Lyr.</li><li>
+                0236 Alcibiades &lt;Eleg.&gt;</li><li>
+                0610 Alcidamas Rhet.</li><li>
+                1780 Alcimenes Comic.</li><li>
+                0695 Alcimus Hist.</li><li>
+                0640 Alciphron Rhet. et Soph.</li><li>
+                0766 Alcmaeon Phil.</li><li>
+                0696 Alcmaeonis</li><li>
+                0291 Alcman Lyr.</li><li>
+                0401 Alexander Comic.</li><li>
+                0216 Alexander Lyr. et Trag.</li><li>
+                0744 Alexander Med.</li><li>
+                0732 Alexander Phil.</li><li>
+                0697 Cornelius Alexander Polyhist.</li><li>
+                0698 Alexander Rhet.</li><li>
+                0594 Alexander Rhet. et Soph.</li><li>
+                2860 Alexander Scr. Eccl.</li><li>
+                2059 Alexander Theol.</li><li>
+                0042 Alexandri Magni Epistulae</li><li>
+                2556 [Alexarchus] Hist.</li><li>
+                2607 Alexinus Phil.</li><li>
+                0402 Alexis Comic.</li><li>
+                0707 Alexis Hist.</li><li>
+                0043 Amasis Epistulae</li><li>
+                2219 Amelesagoras Hist.</li><li>
+                2004 Amelii Epistula</li><li>
+                0403 Amipsias Comic.</li><li>
+                0289 Ammonius Epigr.</li><li>
+                0708 &lt;Ammonius&gt; Gramm.</li><li>
+                4016 Ammonius Phil.</li><li>
+                2724 Ammonius Scr. Eccl.</li><li>
+                2445 Amometus Hist.</li><li>
+                0710 Amphiarai Exilium (?)</li><li>
+                2699 Amphicrates Rhet.</li><li>
+                2112 Amphilochius Scr. Eccl.</li><li>
+                0404 Amphis Comic.</li><li>
+                2649 Amyntas Epigr.</li><li>
+                0037 Anacharsidis Epistulae</li><li>
+                0217 Anacreon Junior Eleg.</li><li>
+                0237 Anacreon Lyr.</li><li>
+                4150 Anacreontea</li><li>
+                3145 Joannes Anagnostes Hist. et Poeta</li><li>
+                0238 Ananius Iamb.</li><li>
+                2577 Anatolius Math. et Phil.</li><li>
+                0713 Anaxagoras Phil.</li><li>
+                2284 Anaxandridas Hist.</li><li>
+                0405 Anaxandrides Comic.</li><li>
+                0714 Anaxarchus Phil.</li><li>
+                2210 Anaxicrates Hist.</li><li>
+                0406 Anaxilas Comic.</li><li>
+                0725 Anaximander Phil.</li><li>
+                0547 Anaximenes Hist. et Rhet.</li><li>
+                0617 Anaximenes Phil.</li><li>
+                1121 Anaximenis Milesii Epistulae</li><li>
+                0833 Anaxion Trag.</li><li>
+                0407 Anaxippus Comic.</li><li>
+                0027 Andocides Orat.</li><li>
+                2393 Andreas Hist.</li><li>
+                2346 Andriscus Hist.</li><li>
+                2412 Androetas Hist.</li><li>
+                0280 Andromachus Poet. Med.</li><li>
+                2536 Andron Geogr.</li><li>
+                1123 Andron Hist.</li><li>
+                4347 Andron Hist.</li><li>
+                2172 Andron Hist.</li><li>
+                1124 Andronicus Rhodius Phil.</li><li>
+                1125 Androtion Hist.</li><li>
+                2703 Anna Comnena Hist.</li><li>
+                1127 Anonyma De Musica Scripta Bellermanniana</li><li>
+                1836 Anonymi Aulodia</li><li>
+                1128 Anonymi Commentarius In Platonis Theaetetum</li><li>
+                0227 Anonymi Curetum Hymnus</li><li>
+                4374 Anonymi De Astrologia Dialogus Astrol.</li><li>
+                1129 Anonymi De Barbarismo Et Soloecismo Gramm.</li><li>
+                2972 Anonymi De Terrae Motibus</li><li>
+                3156 Anonymi Exegesis In Hesiodi Theogoniam</li><li>
+                2029 Anonymi Geographia In Sphaera Intelligenda</li><li>
+                0092 Anonymi Geographiae Expositio Compendiaria</li><li>
+                0072 Anonymi Grammatici Gramm.</li><li>
+                1139 Anonymi Historici (FGrH)</li><li>
+                0228 Anonymi Hymnus In Dactylos Idaeos</li><li>
+                5045 Anonymi In Aphthonium Rhet.</li><li>
+                4026 Anonymi In Aristotelis Artem Rhetoricam Rhet.</li><li>
+                4027 Anonymi In Aristotelis Categorias Phil.</li><li>
+                4033 Anonymi In Aristotelis Ethica Nicomachea Phil.</li><li>
+                9004 Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum Commentarium</li><li>
+                4165 Anonymi In Aristotelis Librum De Interpretatione Phil.</li><li>
+                4032 Anonymi In Aristotelis Librum Primum Analyticorum Posteriorum Commentarium</li><li>
+                4193 Anonymi In Aristotelis Sophisticos Elenchos Phil.</li><li>
+                5024 Anonymi In Hermogenem Rhet.</li><li>
+                4171 Anonymi In Oppiani Opera</li><li>
+                3178 Anonymi Lexeis Rhetoricae</li><li>
+                0721 Anonymi Medici Med.</li><li>
+                4037 Anonymi Paradoxographi</li><li>
+                4005 Anonymus Discipulus Isidori Milesii Mech.</li><li>
+                1131 Anonymus Ad Avircium Marcellum Contra Cataphrygas</li><li>
+                1132 Anonymus Alexandri Phil.</li><li>
+                2117 Anonymus De Metrorum Ratione</li><li>
+                4227 Anonymus De Philosophia Platonica Phil.</li><li>
+                1813 Anonymus De Plantis Aegyptiis</li><li>
+                3185 Anonymus De Scientia Politica Hist.</li><li>
+                0282 Anonymus De Viribus Herbarum</li><li>
+                3186 Anonymus Dialogus Cum Judaeis</li><li>
+                1133 Anonymus Diodori Phil.</li><li>
+                1779 Anonymus Epicureus Phil.</li><li>
+                1134 Anonymus Iamblichi Phil.</li><li>
+                9003 Anonymus Lexicographus Lexicogr.</li><li>
+                0643 Anonymus Londinensis Med.</li><li>
+                4282 Anonymus Manichaeus Biogr.</li><li>
+                1135 Anonymus Photii Phil.</li><li>
+                1136 Anonymus Presbyter Scr. Eccl.</li><li>
+                2002 Anonymus Seguerianus Rhet.</li><li>
+                0215 Antagoras Epic.</li><li>
+                2322 Antenor Hist.</li><li>
+                4088 Anthemius Math. et Mech.</li><li>
+                7000 Anthologia Graeca</li><li>
+                7052 Anthologiae Graecae Appendix</li><li>
+                0409 Antidotus Comic.</li><li>
+                1945 Antigenes Hist.</li><li>
+                0618 Antigoni Epistula</li><li>
+                2547 Antigonus</li><li>
+                0568 Antigonus Paradox.</li><li>
+                2173 Antileon Hist.</li><li>
+                0239 Antimachus Eleg. et Epic.</li><li>
+                1141 Antimachus Epic.</li><li>
+                0044 Antiochi Regis Epistulae</li><li>
+                1145 Antiochus Hist.</li><li>
+                1143 Antiochus Phil.</li><li>
+                1146 Antipater Phil.</li><li>
+                0410 Antiphanes Comic.</li><li>
+                0028 Antiphon Orat.</li><li>
+                1147 Antiphon Soph.</li><li>
+                0323 Antiphon Trag.</li><li>
+                2313 Antisthenes Phil.</li><li>
+                0591 Antisthenes Phil. et Rhet.</li><li>
+                1149 Antonini Pii Imperatoris Epistula</li><li>
+                0651 Antoninus Liberalis Myth.</li><li>
+                2807 Antonius Hagiographus Scr. Eccl.</li><li>
+                1148 Antonius Diogenes Scr. Erot.</li><li>
+                0749 Antyllus Med.</li><li>
+                1150 Aphareus Rhet.</li><li>
+                4100 Aphthonius Rhet.</li><li>
+                1152 Apion Gramm.</li><li>
+                1153 Apocalypsis Adam</li><li>
+                1154 Apocalypsis Baruch</li><li>
+                1156 Apocalypsis Eliae</li><li>
+                1157 Apocalypsis Esdrae</li><li>
+                1158 Apocalypsis Joannis</li><li>
+                2243 Apocalypsis Sedrach</li><li>
+                1160 Apocalypsis Sophoniae</li><li>
+                1155 Apocalypsis Syriaca Baruchi</li><li>
+                1161 Apocryphon Ezechiel</li><li>
+                1162 Apollas Hist.</li><li>
+                2074 Apollinaris Theol.</li><li>
+                1163 Claudius Apollinarius Apol.</li><li>
+                0411 Apollodorus Comic.</li><li>
+                0413 Apollodorus Comic.</li><li>
+                0549 Apollodorus Gramm.</li><li>
+                1164 Apollodorus Hist.</li><li>
+                0365 Apollodorus Lyr.</li><li>
+                1165 Apollodorus Mech.</li><li>
+                0548 Pseudo-Apollodorus Myth.</li><li>
+                2319 Apollodorus Phil.</li><li>
+                1166 Apollodorus Phil.</li><li>
+                0700 Apollodorus Trag.</li><li>
+                0412 Apollodorus Carystius vel Apollodorus Gelous Comic.</li><li>
+                0345 Apollonides Trag.</li><li>
+                1167 Apollonius Biogr.</li><li>
+                0394 Apollonius Comic.</li><li>
+                0550 Apollonius Geom.</li><li>
+                1170 Apollonius Hist.</li><li>
+                0660 Apollonius Med.</li><li>
+                0569 Apollonius Paradox.</li><li>
+                0619 Apollonius Phil.</li><li>
+                1171 Apollonius Scr. Eccl.</li><li>
+                1168 Apollonius Soph.</li><li>
+                0082 Apollonius Dyscolus Gramm.</li><li>
+                0001 Apollonius Rhodius Epic.</li><li>
+                0414 Apollophanes Comic.</li><li>
+                2168 Apollophanes Phil.</li><li>
+                4361 Apomasar Astrol.</li><li>
+                2742 Apophthegmata</li><li>
+                9009 Michael Apostolius Paroemiogr.</li><li>
+                9007 Appendix Proverbiorum</li><li>
+                0551 Appianus Hist.</li><li>
+                2027 Valerius Apsines Rhet.</li><li>
+                0415 Araros Comic.</li><li>
+                0653 Aratus Astron. et Epic.</li><li>
+                2162 Aratus Hist.</li>
+                <li>2116 Arcadius Gramm. </li>
+                 <li>0038 Arcesilai Epistula</li>
+                 <li>
+                0520 Arcesilaus Comic.</li><li>
+                1172 Arcesilaus Phil.</li><li>
+                2608 Archebulus Poeta</li><li>
+                1173 Archedemus Phil.</li><li>
+                0416 Archedicus Comic.</li><li>
+                4339 Archelaus Alchem. et Poeta</li><li>
+                0570 Archelaus Paradox.</li><li>
+                2303 Archelaus Phil.</li><li>
+                1174 Archemachus Hist.</li><li>
+                1175 Archestratus Parodius</li><li>
+                1115 Archestratus Trag.</li><li>
+                0127 Aulus Licinius Archias Epigr.</li><li>
+                0661 Archigenes Med.</li><li>
+                0232 Archilochus Eleg. et Iamb.</li><li>
+                0552 Archimedes Geom.</li><li>
+                0131 Archimelus Epigr.</li><li>
+                2418 Archinus Hist.</li><li>
+                0417 Archippus Comic.</li><li>
+                1176 Archytas Epic.</li><li>
+                0620 Archytas Phil.</li><li>
+                1177 Pseudo-Archytas Phil.</li><li>
+                1178 &lt;Aresas&gt; Phil.</li><li>
+                2193 [Aretades] Hist.</li><li>
+                0719 Aretaeus Med.</li><li>
+                2130 Arethas Philol. et Scr. Eccl.</li><li>
+                4237 Joannes Argyropulus Gramm.</li><li>
+                2215 Ar(i)aethus Hist.</li><li>
+                1179 &lt;Arimnestus&gt; Phil.</li><li>
+                0378 Ariphron Lyr.</li><li>
+                4000 Aristaenetus Epist.</li><li>
+                1180 &lt;Aristaeus&gt; Phil.</li><li>
+                0418 Aristagoras Comic.</li><li>
+                1190 Aristagoras Hist.</li><li>
+                1181 Aristarchus Astron.</li><li>
+                0306 Aristarchus Trag.</li><li>
+                1183 Aristeae Epistula</li><li>
+                1182 [Aristeas] Epic.</li><li>
+                0305 Aristias Trag.</li><li>
+                1184 Aristides Apol.</li><li>
+                2194 [Aristides] Hist.</li><li>
+                0284 Aelius Aristides Rhet.</li><li>
+                2054 Aristides Quintilianus Mus.</li><li>
+                2216 Aristippus Hist.</li><li>
+                2557 [Aristobulus] Hist.</li><li>
+                1186 Aristobulus Judaeus Phil.</li><li>
+                0571 Aristocles Paradox.</li><li>
+                1188 Aristocles Phil.</li><li>
+                1189 Aristocrates Hist.</li><li>
+                2455 Aristocreon Hist.</li><li>
+                2341 Aristocritus Hist.</li><li>
+                2148 Aristodemus Hist.</li><li>
+                1875 Aristodemus Hist. et Myth.</li><li>
+                1191 &lt;Aristombrotus&gt; Phil.</li><li>
+                0419 Aristomenes Comic.</li><li>
+                1992 Ariston Apol.</li><li>
+                1192 Ariston Phil.</li><li>
+                1193 Ariston Phil.</li><li>
+                2587 Ariston Phil.</li><li>
+                1194 Aristonicus Gramm.</li><li>
+                1899 Aristonicus Hist.</li><li>
+                0204 Aristonous Lyr.</li><li>
+                0420 Aristonymus Comic.</li><li>
+                0019 Aristophanes Comic.</li><li>
+                0644 Aristophanes Gramm.</li><li>
+                1196 Aristophanes Hist.</li><li>
+                0421 Aristophon Comic.</li><li>
+                0086 Aristoteles Phil. et Corpus Aristotelicum</li><li>
+                0088 Aristoxenus Mus.</li><li>
+                0241 Aristoxenus &lt;Comic.&gt;</li><li>
+                0529 Arius Didymus Doxogr.</li><li>
+                0360 Armenidas Hist.</li><li>
+                2650 Arrianus Epic.</li><li>
+                0074 Flavius Arrianus Hist. et Phil.</li><li>
+                9018 Arsenius Paroemiogr.</li><li>
+                0045 Artaxerxis Epistulae</li><li>
+                2651 Artemidorus Eleg.</li><li>
+                0553 Artemidorus Onir.</li><li>
+                1197 Artemon Gramm.</li><li>
+                2307 Artemon Hist.</li><li>
+                2392 Artemon Hist.</li><li>
+                0137 Asclepiades Epigr.</li><li>
+                1199 Asclepiades Gramm. et Hist.</li><li>
+                2423 Asclepiades Gramm. et Hist.</li><li>
+                1200 Asclepiades Myth.</li><li>
+                0556 Asclepiodotus Tact.</li><li>
+                4018 Asclepius Phil.</li><li>
+                2122 Gaius Asinius Quadratus Hist.</li><li>
+                0242 Asius Eleg. et Epic.</li><li>
+                2609 Asopodorus Iamb.</li><li>
+                0615 Aspasius Phil.</li><li>
+                1201 Assumptio Mosis</li><li>
+                2061 Asterius Sophista Scr. Eccl.</li><li>
+                2060 Asterius Scr. Eccl.</li><li>
+                2642 &lt;Astrampsychus Magus&gt; Onir.</li><li>
+                0325 Astydamas Trag.</li><li>
+                1202 &lt;Athamas&gt; Phil.</li><li>
+                4238 Athanasius Soph.</li><li>
+                2035 Athanasius Theol.</li><li>
+                2387 Athanis Hist.</li><li>
+                0141 Athenaeus Epigr.</li><li>
+                1204 Athenaeus Mech.</li><li>
+                0008 Athenaeus Soph.</li><li>
+                1205 Athenagoras Apol.</li><li>
+                0422 Athenio Comic.</li><li>
+                1206 Athenodorus Phil.</li><li>
+                0621 [Ath]enodorus Trag.</li><li>
+                1212 Atridarum Reditus</li><li>
+                1207 Attalus Astron. et Math.</li><li>
+                1208 Atticus Phil.</li><li>
+                1782 Augeas Comic.</li><li>
+                2205 Autesion Hist.</li><li>
+                2175 &lt;Autocharis&gt; Hist.</li><li>
+                0423 Autocrates Comic.</li><li>
+                2204 Autocrates Hist.</li><li>
+                1210 Autolycus Astron.</li><li>
+                0424 Axionicus Comic.</li><li>
+                0614 Valerius Babrius Scr. Fab.</li><li>
+                0199 Bacchylides Lyr.</li><li>
+                1211 Balagrus Hist.</li><li>
+                1213 Julia Balbilla Lyr.</li><li>
+                3159 Barlaam Math., Theol. et Epist.</li><li>
+                1216 Barnabae Epistula</li><li>
+                2398 Basilides Phil.</li><li>
+                1218 Basilis Hist.</li><li>
+                2084 Basilius Med. et Scr. Eccl.</li><li>
+                2800 Basilius Scr. Eccl.</li><li>
+                2040 Basilius Theol.</li><li>
+                0425 Bato Comic.</li><li>
+                1219 Bato Hist. et Rhet.</li><li>
+                1220 Batrachomyomachia</li><li>
+                1222 Beros(s)us Astrol. et Hist.</li><li>
+                1223 Bias &lt;Phil.&gt;</li><li>
+                0036 Bion Bucol.</li><li>
+                1871 Bion Hist.</li><li>
+                1225 Bion Hist.</li><li>
+                2153 Bion Math. et Phil.</li><li>
+                1224 Bion Phil.</li><li>
+                1792 Biottus Comic.</li><li>
+                0348 Biotus Trag.</li><li>
+                1226 Biton Mech.</li><li>
+                1227 Blaesus Comic.</li><li>
+                4333 Nicephorus Blemmydes Alchem.</li><li>
+                1228 [Boeo] Epic.</li><li>
+                0146 Boethus Epigr.</li><li>
+                2397 Boethus Phil.</li><li>
+                1229 [Boeus] Epic.</li><li>
+                2230 Boi+das Phil.</li><li>
+                2610 Boiscus Iamb.</li><li>
+                1306 Bolus Med. et Phil.</li><li>
+                1230 &lt;Brotinus&gt; Phil.</li><li>
+                1803 Bruti Epistulae</li><li>
+                1231 &lt;Bryson&gt; Phil.</li><li>
+                1559 Bucolicum</li><li>
+                2611 Butas Eleg.</li><li>
+                1232 &lt;Butherus&gt; Phil.</li><li>
+                2612 Caecalus (?) Epic.</li><li>
+                0040 Calani Epistula</li><li>
+                0426 Callias Comic.</li><li>
+                1783 Callicrates Comic.</li><li>
+                1237 &lt;Callicratidas&gt; Phil.</li><li>
+                2613 Callimachus Junior Epic.</li><li>
+                0533 Callimachus Philol.</li><li>
+                2770 Callinicus Biogr.</li><li>
+                2189 Callinicus Soph.</li><li>
+                0243 Callinus Eleg.</li><li>
+                2218 Calliphon et Democedes Med. et Phil.</li><li>
+                0427 &lt;Callippus&gt; Comic.</li><li>
+                2270 Callippus Hist.</li><li>
+                0534 Callisthenes Hist.</li><li>
+                1239 Domitius Callistratus Hist.</li><li>
+                4091 Callistratus Soph.</li><li>
+                1845 Callistratus Trag.</li><li>
+                1240 Callixenus Hist.</li><li>
+                3014 Joannes Camaterus Astrol. et Astron.</li><li>
+                3015 Joannes Cameniates Hist.</li><li>
+                3144 Joannes Cananus Hist.</li><li>
+                1242 Canon Librorum</li><li>
+                0428 Cantharus Comic.</li><li>
+                0276 Cantus Lugubris</li><li>
+                2506 Capito Hist.</li><li>
+                0310 Carcinus Trag.</li><li>
+                0327 Carcinus Junior Trag.</li><li>
+                0286 Carmen Astrologicum</li><li>
+                1241 Carmen Naupactium</li><li>
+                0296 Carmina Convivialia (PMG)</li><li>
+                0295 Carmina Popularia (PMG)</li><li>
+                1244 Carneiscus Phil.</li><li>
+                1245 Carystius Hist.</li><li>
+                0733 Cassius Iatrosophista Med.</li><li>
+                0385 Cassius Dio Hist.</li><li>
+                0382 Castorion Lyr.</li><li>
+                4102 Catenae (Novum Testamentum)</li><li>
+                1247 &lt;Cebes&gt; Phil.</li><li>
+                3018 Georgius Cedrenus Chronogr.</li><li>
+                1248 Celsus Phil.</li><li>
+                1249 Cephalion Hist. et Rhet.</li><li>
+                0429 Cephisodorus Comic.</li><li>
+                1250 Cercidas Iamb.</li><li>
+                2286 Cercops Phil.</li><li>
+                1252 Certamen Homeri Et Hesiodi</li><li>
+                2424 Chaeremon Hist. et Phil.</li><li>
+                0328 Chaeremon Trag.</li><li>
+                1795 Chaerion Comic.</li><li>
+                3139 Laonicus Chalcocondyles Hist.</li><li>
+                1251 Chamaeleon Phil.</li><li>
+                1254 Charax Hist.</li><li>
+                1256 Chares Gnom.</li><li>
+                0430 Chariclides Comic.</li><li>
+                1257 Charinus Choliamb.</li><li>
+                0554 Chariton Scr. Erot.</li><li>
+                1258 Charon Hist.</li><li>
+                1259 &lt;Charondas Nomographus&gt; &lt;Phil.&gt;</li><li>
+                1260 [Chersias] Epic.</li><li>
+                0386 Chilonis Epistula</li><li>
+                0431 Chionides Comic.</li><li>
+                0041 Chionis Epistulae</li><li>
+                1263 Choerilus Epic.</li><li>
+                1262 Choerilus Epic.</li><li>
+                0302 Choerilus Trag.</li><li>
+                4093 Georgius Choeroboscus Gramm.</li><li>
+                1797 Choliambica Adespota (ALG)</li><li>
+                4094 Choricius Rhet. et Soph.</li><li>
+                2119 Christodorus Epic.</li><li>
+                2371 Chronicon Paschale</li><li>
+                2738 Chronographiae Anonymae</li><li>
+                2195 [Chrysermus] Hist.</li><li>
+                2559 [Chrysippus] Hist.</li><li>
+                1264 Chrysippus Phil.</li><li>
+                9008 Macarius Chrysocephalus Paroemiogr.</li><li>
+                2543 Lucius Cincius Alimentus Hist.</li><li>
+                2417 Cineas Rhet.</li><li>
+                0375 Cinesias Lyr.</li><li>
+                3020 Joannes Cinnamus Gramm. et Hist.</li><li>
+                4305 Claudius Casilon Gramm.</li><li>
+                1268 Claudius Iolaus Hist.</li><li>
+                0332 Cleaenetus Trag.</li><li>
+                1269 Cleanthes Phil.</li><li>
+                0432 Clearchus Comic.</li><li>
+                1270 Clearchus Phil.</li><li>
+                0555 Clemens Alexandrinus Theol.</li><li>
+                1271 Clemens Romanus Theol. et Clementina</li><li>
+                0622 Cleobuli Epistula</li><li>
+                0244 Cleobulina Scriptor Aenigmatum</li><li>
+                1274 Cleobulus Epigr. et Lyr.</li><li>
+                2614 Cleomachus Poeta</li><li>
+                1272 Cleomedes Astron.</li><li>
+                0900 Cleomenes Lyr.</li><li>
+                1273 Cleon Eleg.</li><li>
+                0361 Cleonides Mus.</li><li>
+                4335 Cleopatra Alchem.</li><li>
+                1087 Cleophon Trag.</li><li>
+                1275 Cleostratus Poet. Phil.</li><li>
+                1276 Clidemus Hist.</li><li>
+                2305 Clidemus Phil.</li><li>
+                1277 &lt;Clinias&gt; Phil.</li><li>
+                1278 Clitarchus Gnom.</li><li>
+                2190 [Clitonymus] Hist.</li><li>
+                1281 [Clitophon] Hist.</li><li>
+                1282 Clytus Hist.</li><li>
+                3168 Pseudo-Codinus Hist.</li><li>
+                4081 Colluthus Epic.</li><li>
+                2632 Comarius Alchem.</li><li>
+                0408 Comica Adespota (CAF)</li><li>
+                0602 Comica Adespota (FCG)</li><li>
+                0659 Comica Adespota (Suppl. Com.)</li><li>
+                0662 Comica Adespota (CGFPR)</li><li>
+                4175 Commentaria In Dionysii Thracis Artem Grammaticam</li><li>
+                5000 Concilia Oecumenica (ACO)</li><li>
+                1285 Conon Hist.</li><li>
+                3023 Constantinus VII Porphyrogenitus Imperator Hist.</li><li>
+                2894 Constitutiones Apostolorum</li><li>
+                0271 Conventus Avium</li><li>
+                0294 Corinna Lyr.</li><li>
+                0654 Lucius Annaeus Cornutus Phil.</li><li>
+                1286 Corpus Hermeticum</li><li>
+                4330 Cosmas Hieromonachus Alchem.</li><li>
+                4061 Cosmas Indicopleustes Geogr.</li><li>
+                1287 Crantor Phil.</li><li>
+                1288 Craterus Hist.</li><li>
+                0433 Crates Comic.</li><li>
+                1289 Crates Hist.</li><li>
+                0336 Crates Poet. Phil.</li><li>
+                0623 Cratetis Epistulae</li><li>
+                0657 Crateuas Med.</li><li>
+                0434 Cratinus Comic.</li><li>
+                0435 Cratinus Junior Comic.</li><li>
+                1907 Cratippus Hist.</li><li>
+                2291 Cratylus Phil.</li><li>
+                1291 Creophylus Hist.</li><li>
+                1293 Crinis Phil.</li><li>
+                0319 Critias Eleg., Phil. et Trag.</li><li>
+                0436 Crito Comic.</li><li>
+                1867 Crito Hist.</li><li>
+                1292 Crito Phil.</li><li>
+                3147 Michael Critobulus Hist.</li><li>
+                2552 Critolaus Hist.</li><li>
+                1294 Critolaus Phil.</li><li>
+                0437 Crobylus Comic.</li><li>
+                0845 Ctesias Hist. et Med.</li><li>
+                2201 [Ctesiphon] Hist.</li><li>
+                0368 Cydias Lyr.</li><li>
+                1296 Cypria</li><li>
+                1482 Cyranides</li><li>
+                2877 Cyrillus Biogr.</li><li>
+                2110 Cyrillus Scr. Eccl.</li><li>
+                4090 Cyrillus Theol.</li><li>
+                4242 Cyrus Rhet.</li><li>
+                1908 Daimachus Hist.</li><li>
+                2482 Daimachus Hist.</li><li>
+                4066 Damascius Phil.</li><li>
+                1868 Damastes Hist.</li><li>
+                2627 Damianus Scriptor De Opticis</li><li>
+                2655 &lt;Damigeron Magus&gt;</li><li>
+                1297 Damippus Phil.</li><li>
+                2273 Damon Hist.</li><li>
+                2232 Damon Mus.</li><li>
+                2244 Damon et Phintias Phil.</li><li>
+                0438 Damoxenus Comic.</li><li>
+                0364 Danai+s vel Danai+des</li><li>
+                2615 Daphitas Gramm. vel Soph.</li><li>
+                4021 David Phil.</li><li>
+                0272 De Arboribus Avibusque Fabulae</li><li>
+                2326 Dei(l)ochus Hist.</li><li>
+                0535 Demades Orat. et Rhet.</li><li>
+                1812 Demaratus Hist.</li><li>
+                2616 Demareta Poeta</li><li>
+                1298 Demetrii Phalerei Epistula</li><li>
+                0439 Demetrius Comic.</li><li>
+                0440 Demetrius Junior Comic.</li><li>
+                1756 Demetrius Gramm.</li><li>
+                1917 Demetrius Hist.</li><li>2511 Demetrius Hist.</li><li>0624 Demetrius HistPhil.</li><li>1301 Demetrius Poet. P. et hil.</li><li>2617 Demetrius Poeta</li><li>1302 Demetrius Rhet.</li><li>0613 &lt;Demetrius&gt; Rhet.</li><li>1849 Demetrius Trag.</li><li>1303 Demochares Hist. et Orat.</li><li>4390 Democles Hist.</li><li>1305 Democritus Hist.</li><li>1304 Democritus Phil.</li><li>0245 Demodocus Eleg.</li><li>1307 Demon Hist.</li><li>2969 Demonax Phil.</li><li>0349 Demonax &lt;Trag.&gt;</li><li>0441 Demonicus Comic.</li><li>1308 Demosthenes Epic.</li><li>1819 Pseudo-Demosthenes Epigr.</li><li>0014 Demosthenes Orat.</li><li>2196 [Dercyllus] Hist.</li><li>0442 Dexicrates Comic.</li><li>2141 Publius Herennius Dexippus Hist.</li><li>2036 Dexippus Phil.</li><li>0371 Diagoras Lyr.</li><li>1309 Dialexeis ($*DISSOI\ LO/GOI)</li><li>0066 Dicaearchus Phil.</li><li>0322 Dicaeogenes Trag.</li><li>1310 Dictys Hist.</li><li>1311 Didache XII Apostolorum</li><li>2618 Didymarchus Poeta</li><li>0357 Didymus Scriptor De Mensuris</li><li>1312 Didymus Gramm.</li><li>2102 Didymus Caecus Scr. Eccl.</li><li>0856 Dieuches Med.</li><li>1313 Dieuchidas Hist.</li><li>0029 Dinarchus Orat.</li><li>1314 Dinias Hist.</li><li>1315 Dinolochus Comic.</li><li>1316 Dinon Hist.</li><li>0612 Dio Chrysostomus Soph.</li><li>0443 Diocles Comic.</li><li>0444 Diodorus Comic.</li><li>2652 Diodorus Eleg.</li><li>2265 Diodorus Perieg.</li><li>2681 Diodorus Phil.</li><li>2383 Diodorus Phil.</li><li>0165 Diodorus Rhet.</li><li>1318 Diodorus Rhet.</li><li>4134 Diodorus Scr. Eccl.</li><li>0060 Diodorus Siculus Hist.</li><li>2328 Diogenes Hist.</li><li>1319 Diogenes Phil.</li><li>2314 Diogenes Phil.</li><li>1320 Diogenes Phil.</li><li>1321 Diogenes Phil.</li><li>0334 Diogenes Phil. et Trag.</li><li>0320 Diogenes Trag.</li><li>0004 Diogenes Laertius Biogr.</li><li>0097 Diogenianus Gramm.</li><li>1322 Diogenianus Phil.</li><li>1325 Diogenis Sinopensis Epistulae</li><li>1327 Dionis Epistulae</li><li>1323 Aelius Dionysius Attic.</li><li>0445 Dionysius Comic.</li><li>1326 Dionysius Epic.</li><li>2619 Dionysius Epic.</li><li>0083 Dionysius Geogr.</li><li>0069 Dionysius Geogr.</li><li>2466 Dionysius Hist.</li><li>1328 Dionysius Hist.</li><li>1324 Dionysius Hist.</li><li>2354 Dionysius Hist.</li><li>0084 Dionysius Perieg.</li><li>2185 Dionysius $*METAQE/MENOS Phil.</li><li>1329 Dionysius Scr. Eccl.</li><li>4184 Dionysius Soph.</li><li>2798 Pseudo-Dionysius Areopagita Scr. Eccl. et Theol.</li><li>0246 Dionysius Chalcus Eleg.</li><li>0081 Dionysius Halicarnassensis Hist. et Rhet.</li><li>0330 Dionysius I &lt;Trag.&gt;</li><li>0247 Dionysius II &lt;Eleg.&gt;</li><li>2620 Dionysius Iambus Gramm. et Poeta</li><li>0350 &lt;Dionysius Scymnaeus&gt; Trag. vel Comic.</li><li>1881 Dionysius Scytobrachion Gramm.</li><li>0063 Dionysius Thrax Gramm.</li><li>0395 Diophantus Comic.</li><li>2539 Diophantus Hist.</li><li>2039 Diophantus Math.</li><li>2621 Diophilus vel Diophila Poeta</li><li>1118 Pseudo-Dioscorides Med.</li><li>0656 Dioscorides Pedanius Med.</li><li>2121 Dioscorus Poeta</li><li>2409 Dioscurides Hist.</li><li>0174 Diotimus Epic.</li><li>2340 Diotimus Phil.</li><li>1332 &lt;Diotogenes&gt; Phil.</li><li>0446 Dioxippus Comic.</li><li>0447 Diphilus Comic.</li><li>0248 Diphilus Epic. et Iamb.</li><li>0279 Discipulorum Cantiuncula</li><li>1334 Dius Phil.</li><li>1911 Diyllus Hist.</li><li>7051 Doctrina Patrum</li><li>2622 Dorieus Poeta</li><li>1337 Dorotheus Astrol.</li><li>1338 Dosiadas Hist.</li><li>0208 Dosiadas Lyr.</li><li>4096 Dositheus Magister Gramm.</li><li>1896 [Dositheus] Hist.</li><li>3027 Joannes Doxapatres Rhet.</li><li>0448 Dromo Comic.</li><li>3146 Ducas Hist.</li><li>1339 Duris Hist.</li><li>1340 &lt;Eccelus&gt; Phil.</li><li>2242 Echecrates Phil.</li><li>0249 Echembrotus Eleg. et Lyr.</li><li>2289 Echephylidas Hist.</li><li>0449 Ecphantides Comic.</li><li>1341 &lt;Ecphantus&gt; Phil.</li><li>0231 Elegiaca Adespota (CA)</li><li>0234 Elegiaca Adespota (IEG)</li><li>4020 Elias Phil.</li><li>1342 Empedocles Poet. Phil.</li><li>0290 Encomium Ducis Thebaidos</li><li>1343 Eparchides Hist.</li><li>0450 Ephippus Comic.</li><li>0536 Ephorus Hist.</li><li>3170 Ephraem Hist. et Poeta</li><li>1346 Ephraem Scr. Eccl.</li><li>4138 Ephraem Syrus Theol.</li><li>1816 Epica Adespota (GDRK)</li><li>1344 Epica Adespota (CA)</li><li>1345 Epica Incerta (CA)</li><li>0521 Epicharmus Comic. et Pseudepicharmea</li><li>0451 Epicrates Comic.</li><li>0557 Epictetus Phil.</li><li>0537 Epicurus Phil.</li><li>0452 Epigenes Comic.</li><li>1351 Epigoni</li><li>0453 Epilycus Comic.</li><li>1347 Epimenides Phil.</li><li>5004 Epimerismi</li><li>0454 Epinicus Comic.</li><li>2021 Epiphanius Scr. Eccl.</li><li>1349 Epistula A Martyribus Lugdunensibus</li><li>1350 Epistula Ad Diognetum</li><li>1352 Epistula Ecclesiarum Apud Lugdunum Et Viennam</li><li>1353 Epitaphium Abercii</li><li>1570 Epitaphium Pectorii</li><li>0690 Erasistratus Med.</li><li>0222 Eratosthenes et Eratosthenica Philol.</li><li>1354 Ergias Hist.</li><li>1355 Erinna Lyr.</li><li>0455 Eriphus Comic.</li><li>0716 Erotianus Gramm. et Med.</li><li>5003 Erotica Adespota</li><li>2653 Erycius Poeta</li><li>4287 Etymologia Alphabeti</li><li>4097 Etymologicum Genuinum</li><li>4098 Etymologicum Gudianum</li><li>4099 Etymologicum Magnum</li><li>4101 Etymologicum Parvum</li><li>4311 Etymologicum Symeonis</li><li>2372 Euagon Hist.</li><li>0456 Euangelus Comic.</li><li>2623 Euanthes Epic.</li><li>1096 Euaretus Trag.</li><li>1800 Euboeus Parodius</li><li>0457 Eubulides Comic.</li><li>0458 Eubulus Comic.</li><li>0250 Euclides Comic. vel Iamb.</li><li>1799 Euclides Geom.</li><li>1357 Eudemus Phil.</li><li>0888 Eudemus Poet. Med.</li><li>1376 Eudemus Rhet.</li><li>2766 Eudocia Augusta Poeta</li><li>1358 Eudoxus Astron.</li><li>0399 Eudoxus Comic.</li><li>1915 Eudoxus Hist.</li><li>2399 Eudromus Phil.</li><li>0251 Euenus Eleg.</li><li>4323 Eugenius Alchem.</li><li>1972 Eumachus Hist.</li><li>1361 Eumedes Comic.</li><li>0298 Eumelus Epic.</li><li>2050 Eunapius Hist. et Soph.</li><li>0459 Eunicus Comic.</li><li>0396 Euphanes Comic.</li><li>1912 Euphantus Phil.</li><li>0221 Euphorion Epic.</li><li>0460 Euphro Comic.</li><li>0210 Euphronius Lyr.</li><li>0461 Eupolis Comic.</li><li>0006 Euripides Trag.</li><li>1840 Euripides II Trag.</li><li>1367 Euripidis Epistulae</li><li>1360 &lt;Euryphamus&gt; Phil.</li><li>1362 &lt;Eurytus&gt; Phil.</li><li>2640 Eusebius Phil.</li><li>4124 Eusebius Scr. Eccl.</li><li>2018 Eusebius Scr. Eccl. et Theol.</li><li>4083 Eustathius Philol. et Scr. Eccl.</li><li>4117 Eustathius Scr. Eccl. et Theol.</li><li>2499 Eustochius Soph.</li><li>4031 Eustratius Phil.</li><li>0752 Eutecnius Soph.</li><li>0462 Euthycles Comic.</li><li>0897 Euthydemus Med.</li><li>4072 Eutocius Math.</li><li>2236 Eutropius Hist.</li><li>2158 Eutychianus Hist.</li><li>4110 Evagrius Scr. Eccl.</li><li>2733 Evagrius Scholasticus Scr. Eccl.</li><li>1364 Evangelium Aegyptium</li><li>1366 Evangelium Bartholomaei</li><li>1368 Evangelium Ebionitum</li><li>1372 Evangelium Evae</li><li>1369 Evangelium Mariae</li><li>1371 Evangelium Petri</li><li>1373 Evangelium Philippi</li><li>1374 Evangelium Secundum Hebraeos</li><li>1375 Evangelium Thomae</li><li>0343 Ezechiel Trag.</li><li>2542 Quintus Fabius Pictor Hist.</li><li>1377 Favorinus Phil. et Rhet.</li><li>4147 Florilegium Cyrillianum</li><li>2646 Fragmenta Adespota (SH)</li><li>1379 Fragmenta Alchemica</li><li>1817 Fragmenta Anonyma (PsVTGr)</li><li>4293 Fragmentum Lexici Graeci</li><li>2287 Fragmentum Stoicum</li><li>1381 Fragmentum Synodicae Epistulae Concilii Caesariensis</li><li>1382 Fragmentum Teliambicum</li><li>0186 Marcus Cornelius Fronto Rhet.</li><li>0572 Gaius Scr. Eccl.</li><li>3039 Joannes Galenus Gramm.</li><li>0057 Galenus Med.</li><li>0530 Pseudo-Galenus Med.</li><li>1383 Geminus Astron.</li><li>3040 Josephus Genesius Hist.</li><li>2762 Gennadius I Scr. Eccl.</li><li>2030 Geographica Adespota (GGM)</li><li>4080 Geoponica</li><li>3043 Georgius Monachus Chronogr.</li><li>3187 Georgius Gramm.</li><li>3051 Georgius Monachus Continuatus</li><li>2971 Georgius Peccator Poeta</li><li>2701 Georgius Pisides Poeta</li><li>3045 Georgius Syncellus Chronogr.</li><li>4391 Glaucus Hist.</li><li>2460 Glaucus Hist.</li><li>4304 Glossae In Herodotum</li><li>3047 Michael Glycas Astrol. et Hist.</li><li>2945 Gnomologium Vaticanum</li><li>2255 Gorgias Hist.</li><li>0593 Gorgias Rhet. et Soph.</li><li>2357 Gorgon Hist.</li><li>9006 Gregorius Paroemiogr.</li><li>2022 Gregorius Nazianzenus Theol.</li><li>2017 Gregorius Nyssenus Theol.</li><li>2063 Gregorius Thaumaturgus Scr. Eccl.</li><li>2118 Gryllus</li><li>1387 (H)agias-Dercylus Hist.</li><li>1388 Harmodius Hist.</li><li>0720 Harmodius Trag.</li><li>1389 Harpocration Gramm.</li><li>0691 Harpocrationis Epistula</li><li>0538 Hecataeus Hist.</li><li>1390 Hecataeus Hist.</li><li>0197 Hedyle Epigr.</li><li>0198 Hedylus Epigr.</li><li>1391 Hegemon Epic.</li><li>0463 Hegemon Parodius</li><li>1392 Hegesander Hist.</li><li>1393 Hegesianax Astron. et Epic.</li><li>1395 [Hegesinus] Epic.</li><li>0464 Hegesippus Comic.</li><li>1397 Hegesippus Hist.</li><li>1398 Hegesippus Scr. Eccl.</li><li>4337 Heliodorus Alchem. et Poeta</li><li>1400 Heliodorus Perieg.</li><li>0658 Heliodorus Scr. Erot.</li><li>0750 Heliodorus Trag.</li><li>0539 Hellanicus Hist.</li><li>0558 Hellenica</li><li>0465 Heniochus Comic.</li><li>2043 Hephaestion Astrol.</li><li>1402 Hephaestion Gramm.</li><li>0466 Heraclides Comic.</li><li>1408 Heraclides Gramm.</li><li>1406 Heraclides Hist.</li><li>1405 Heraclides Criticus Perieg.</li><li>1954 Heraclides Phil.</li><li>1844 Hera[clides] Trag.</li><li>1407 Heraclides Lembus Hist.</li><li>0283 Heraclides Ponticus Junior Gramm.</li><li>1409 Heraclides Ponticus Phil.</li><li>1411 Heracliti Ephesii Epistulae</li><li>1412 Pseudo-Heracliti Epistulae</li><li>1784 &lt;Heraclitus&gt; Comic.</li><li>1413 Heraclitus Paradox.</li><li>0626 Heraclitus Phil.</li><li>1414 Heraclitus Phil.</li><li>2336 Hereas Hist.</li><li>1416 (H)eren(n)ius Philo Gramm. et Hist.</li><li>2169 Herillus Phil.</li><li>2426 Hermaeus Hist.</li><li>1439 Hermarchus Phil.</li><li>1419 Hermas Scr. Eccl.</li><li>4325 [Hermes] Alchem.</li><li>0213 Hermesianax Eleg.</li><li>2532 [Hermesianax] Hist.</li><li>0531 Hermias Apol.</li><li>2384 Hermias Hist.</li><li>1420 Hermias Iamb.</li><li>2317 Hermias Phil.</li><li>2624 Hermias Poeta</li><li>0252 Hermippus Comic.</li><li>1421 Hermippus Gramm. et Hist.</li><li>0207 Hermocles Lyr.</li><li>0095 Hermodorus Phil.</li><li>0592 Hermogenes Rhet.</li><li>0240 Hermolochus Lyr.</li><li>1425 Hermonax Epic.</li><li>0650 Herodas Mimogr.</li><li>1426 Herodes Atticus Soph.</li><li>0015 Herodianus Hist.</li><li>0087 Aelius Herodianus et Pseudo-Herodianus Gramm. et Rhet.</li>
+                
+                <li>2625 Herodicus Gramm.</li>
+                <li>1427 Herodorus Hist.</li>
+                <li>0016 Herodotus Hist.</li><li>0559 Heron Mech.</li>
+                <li>0020 Hesiodus Epic. </li>
+                <li>1428 Hestiaeus Hist.</li>
+                <li>2274 Hesychius Illustrius Hist.</li><li>4085 Hesychius Lexicogr.</li><li>2797 Hesychius Scr. Eccl.</li><li>2240 Hicetas Phil.</li><li>1429 Hierocles Phil.</li><li>2571 Hierocles Phil.</li><li>1953 Hieronymus Hist.</li><li>1430 Hieronymus Phil.</li><li>0745 Hierophilus Phil. et Soph.</li><li>4331 Hierotheus Alchem.</li><li>4332 Hierotheus Alchem. et Poeta</li><li>2051 Himerius Soph.</li><li>1431 Hipparchus Astron. et Geogr.</li><li>0468 Hipparchus Comic.</li><li>2626 Hipparchus Parodius</li><li>1432 &lt;Hipparchus&gt; Phil.</li><li>1433 Hipparchus &lt;Epigr.&gt;</li><li>2260 Hippasus Phil.</li><li>1435 Hippias Hist.</li><li>1434 Hippias Soph.</li><li>0738 Hippiatrica</li><li>2235 Hippocrates Math.</li><li>0751 Pseudo-Hippocrates Med.</li><li>0627 Hippocrates Med. et Corpus Hippocraticum</li><li>1436 &lt;Hippodamus&gt; Phil.</li><li>2115 Hippolytus Scr. Eccl.</li><li>1437 Hippon Phil.</li><li>0233 Hipponax Iamb.</li><li>2391 Hippostratus Hist.</li><li>0351 [Hippothoon] Trag.</li><li>1438 Hippys Hist.</li><li>1386 Historia Alexandri Magni</li><li>2744 Historia Monachorum In Aegypto</li><li>1802 Homerica</li><li>0012 Homerus Epic.</li><li>0253 [Homerus] &lt;Epic.&gt;</li><li>2052 Horapollo Gramm.</li><li>0742 Hymni Anonymi</li><li>0013 Hymni Homerici</li><li>0030 Hyperides Orat.</li><li>2277 Hypermenes Hist.</li><li>2396 Hyperochus Hist.</li><li>0717 Hypsicles Astron. et Math.</li><li>0235 Iambica Adespota (IEG)</li><li>1821 Iambica Adespota (ALG)</li><li>2140 Iamblichus Alchem.</li><li>2023 Iamblichus Phil.</li><li>1441 Iamblichus Scr. Erot.</li><li>0293 Ibycus Lyr.</li><li>2226 Iccus Phil.</li><li>2628 Idaeus Epic.</li><li>2304 Idaeus Phil.</li><li>1442 Idomeneus Hist.</li><li>9012 Ignatius Biogr. et Poeta</li><li>1443 Ignatius Scr. Eccl.</li><li>1444 Ilias Parva</li><li>1445 Iliu Persis</li><li>1446 Ion Eleg.</li><li>0308 Ion Phil. et Poeta</li><li>0311 Iophon Trag.</li><li>1447 Irenaeus Theol.</li><li>0017 Isaeus Orat.</li><li>0359 Isidorus Scriptor Hymnorum</li><li>0352 Isidorus Trag.</li><li>1083 Isigonus Paradox.</li><li>4334 [Isis Prophetissa] Alchem.</li><li>0010 Isocrates Orat.</li><li>1450 Ister Hist.</li><li>0201 Isyllus Lyr.</li><li>4327 Joannes Archiereus Alchem.</li><li>3155 Joannes Protospatharius Gramm.</li><li>2578 Joannes Gramm. et Poeta</li><li>2816 Joannes Gramm. et Theol.</li><li>0727 Joannes Med.</li><li>4157 Joannes Rhet.</li><li>4235 Joannes Rhet.</li><li>3173 Joannes Theol.</li><li>3188 Joannes Actuarius Med.</li><li>4394 Joannes Antiochenus Hist.</li><li>4201 Joannes Chortasmenus Phil.</li><li>2062 Joannes Chrysostomus Scr. Eccl.</li><li>2934 Joannes Damascenus Scr. Eccl. et Theol.</li><li>4392 Joannes Epiphaniensis Hist.</li><li>2871 Joannes Malalas Chronogr.</li><li>4015 Joannes Philoponus Phil.</li><li>3063 Joannes Scylitzes Hist.</li><li>3169 Joannes VI Cantacuzenus</li><li>3140 Joel Chronogr.</li><li>0526 Flavius Josephus Hist.</li><li>1451 Josephus Et Aseneth</li><li>1452 Juba II Rex Mauretaniae &lt;Hist.&gt;</li><li>0737 Julianus Scriptor Legis De Medicis</li><li>2003 Flavius Claudius Julianus Imperator Phil.</li><li>4105 Julianus Scr. Eccl.</li><li>1757 Julius Epic.</li><li>2956 Sextus Julius Africanus Hist.</li><li>0740 Jusjurandum Medicum</li><li>2734 Flavius Justinianus Imperator Theol.</li><li>0646 Pseudo-Justinus Martyr</li><li>0645 Justinus Martyr Apol.</li><li>2937 Lachares Soph.</li><li>2525 Laetus Hist.</li><li>0370 Lamprocles Lyr.</li><li>0918 Lamynthius Lyr.</li><li>0469 Laon Comic.</li><li>0366 Lasus Lyr.</li><li>1941 Leo Hist.</li><li>1978 Leo Hist.</li><li>2186 Leo Hist.</li><li>3069 Leo Diaconus Hist.</li><li>0723 Leo Phil.</li><li>4187 Leo Magentinus Phil.</li><li>4167 Leontius Mech.</li><li>2914 Leontius Scr. Eccl.</li><li>1459 Lepidus Hist.</li><li>1460 Lesbonax Gramm.</li><li>0649 Lesbonax Rhet.</li><li>1967 Leschides Epic.</li><li>1461 Leucippus Phil.</li><li>0470 Leuco Comic.</li><li>4303 Lexica In Opera Gregorii Nazianzeni</li><li>4289 Lexica Segueriana</li><li>4307 Lexica Synonymica</li><li>4286 Lexica Syntactica</li><li>4288 Lexicon $AI(MWDEI=N</li><li>4290 Lexicon Artis Grammaticae</li><li>4292 Lexicon De Atticis Nominibus</li><li>4302 Lexicon Patmense</li><li>4301 Lexicon Rhetoricum Cantabrigiense</li><li>4300 Lexicon Sabbaiticum</li><li>4294 Lexicon Vindobonense</li><li>2200 Libanius Rhet. et Soph.</li><li>1462 Liber Eldad Et Modad</li><li>1463 Liber Enoch</li><li>1859 Liber Jannes Et Jambres</li><li>1464 Liber Jubilaeorum</li><li>0374 Licymnius Lyr.</li><li>0203 Limenius Lyr.</li><li>2630 Lobo Poeta</li><li>1466 Lollianus Scr. Erot.</li><li>2178 Cassius Longinus Phil. et Rhet.</li><li>0560 [Longinus] Rhet.</li><li>0561 Longus Scr. Erot.</li><li>0734 &lt;Lucas Apostolus&gt; Med.</li><li>0062 Lucianus Soph.</li><li>0061 Pseudo-Lucianus Soph.</li><li>1977 Lucius Licinius Lucullus Hist.</li><li>1469 Lyceas Hist.</li><li>2212 Lyceas Hist.</li><li>2246 Lycon Phil.</li><li>1138 Lycon Phil.</li><li>2444 Lycophron Soph.</li><li>0341 Lycophron Trag.</li><li>0381 Lycophronides Lyr.</li><li>0034 Lycurgus Orat.</li><li>1470 Lycus Hist.</li><li>2580 Joannes Laurentius Lydus Hist.</li><li>0471 Lynceus Comic.</li><li>0230 Lyrica Adespota (CA)</li><li>0297 Lyrica Adespota (PMG)</li><li>1471 Lyrica Adespota (SLG)</li><li>2298 Lysanias Hist.</li><li>0540 Lysias Orat.</li><li>0574 Lysimachus Hist.</li><li>0472 Lysippus Comic.</li><li>0633 &lt;Lysis&gt; Phil.</li><li>2109 Pseudo-Macarius Scr. Eccl.</li><li>0202 Mace(donius) Lyr.</li><li>0473 Machon Comic.</li><li>2339 Maeandrius Hist.</li><li>5002 Magica</li><li>0474 Magnes Comic.</li><li>2157 Magnus Hist.</li><li>1475 Maiistas Epic.</li><li>1476 Mamercus Eleg.</li><li>3074 Constantinus Manasses Hist. et Poeta</li><li>2583 Manetho Astrol.</li><li>1477 Manetho Hist.</li><li>0200 Mantissa Proverbiorum</li><li>2585 Marcellinus Biogr.</li><li>0667 Marcellinus I Med.</li><li>2458 Marcellus Hist.</li><li>0281 Marcellus Poet. Med.</li><li>2041 Marcellus Theol.</li><li>1479 Marci Aurelii Epistula</li><li>4003 Marcianus Geogr.</li><li>2806 Marcus Diaconus Scr. Eccl.</li><li>0562 Marcus Aurelius Antoninus Imperator Phil.</li><li>4075 Marinus Phil.</li><li>2011 Martyrium Agapae, Irenae, Chionae Et Sodalium</li><li>0390 Martyrium Carpi, Papyli Et Agathonicae</li><li>2008 Martyrium Cononis</li><li>2010 Martyrium Dasii</li><li>1483 Martyrium Et Ascensio Isaiae</li><li>2657 Martyrium Ignatii</li><li>2009 Martyrium Marini</li><li>2005 Martyrium Pionii</li><li>1484 Martyrium Polycarpi</li><li>2007 Martyrium Potamiaenae Et Basilidis</li><li>1485 Martyrium Ptolemaei Et Lucii</li><li>1486 Matron Parodius</li><li>1560 Matthiae Traditiones</li><li>3075 Pseudo-Mauricius Tact.</li><li>1487 Maximus Astrol.</li><li>2025 Maximus Rhet.</li><li>0563 Maximus Soph.</li><li>1488 Maximus Theol.</li><li>2892 Maximus Confessor Theol.</li><li>1489 Megasthenes Hist.</li><li>1490 &lt;Megillus&gt; Phil.</li><li>1365 Melampus Scriptor De Divinatione</li><li>0373 Melanippides Lyr.</li><li>0254 Melanthius Eleg. et Trag.</li><li>1491 Melanthius Hist.</li><li>0344 Melanthius Trag.</li><li>0730 Meletius Med.</li><li>1848 Meletus Junior Trag.</li><li>1493 Melinno Lyr.</li><li>0051 &lt;Melissa&gt; Phil.</li><li>2282 Melisseus Hist.</li><li>1494 Melissus Phil.</li><li>1495 Melito Apol.</li><li>0825 Melito Trag.</li><li>1496 Memnon Hist.</li><li>0541 Menander Comic.</li><li>1498 Menander Hist.</li><li>4076 Menander Protector Hist.</li><li>2586 Menander Rhet.</li><li>1791 Menandri Et Philistionis Sententiae</li><li>1499 Menecles Hist.</li><li>0523 Menecrates Comic.</li><li>1503 Menecrates Hist.</li><li>4344 Menecrates Hist.</li><li>2475 Menecrates Hist.</li><li>4346 Menecrates Hist.</li><li>4345 Menecrates Hist.</li><li>0639 Menecrates Med.</li><li>1500 Menecrates Poet. Phil.</li><li>1504 Menelaus Epic.</li><li>1505 Menesthenes Hist.</li><li>2228 Menestor Phil.</li><li>4395 Menetor Hist.</li><li>1787 [Menippus] Comic.</li><li>0079 Menippus Geogr.</li><li>0052 Menippus Phil.</li><li>1506 Menodotus Hist.</li><li>2631 Menophilus Poeta</li><li>2202 [Menyllus] Hist.</li><li>1021 Meropis</li><li>0268 Mesomedes Lyr.</li><li>0475 Metagenes Comic.</li><li>1507 &lt;Metopus&gt; Phil.</li><li>1976 Metrodorus Hist.</li><li>1811 Metrodorus Major Phil.</li><li>1508 Metrodorus Phil.</li><li>2531 Metrophanes Hist.</li><li>4034 Michael Phil.</li><li>3079 Michael Attaliates Hist.</li><li>1509 &lt;Milon&gt; &lt;Phil.&gt;</li><li>0255 Mimnermus Eleg.</li><li>1511 Mimnermus Trag.</li><li>2903 Minucianus Junior Rhet.</li><li>1512 Minyas</li><li>0039 Mithridatis Epistula</li><li>1514 Mnaseas Perieg.</li><li>0476 Mnesimachus Comic.</li><li>2565 Mnesimachus Hist.</li><li>1890 Moderatus Phil.</li><li>1515 Moeris Attic.</li><li>0220 Moero Epic.</li><li>1516 Molpis Hist.</li><li>2968 Monimus Phil.</li><li>0277 Monodia</li><li>1771 Montanus et Montanistae Theol.</li><li>0314 Morsimus Trag.</li><li>0339 Moschion Trag.</li><li>0035 Moschus Bucol.</li><li>2181 Moses Alchem.</li><li>0576 Musaeus Epic.</li><li>4082 Musaeus Grammaticus Epic.</li><li>2691 [Musaeus] Phil.</li><li>0628 Gaius Musonius Rufus Phil.</li><li>0509 &lt;Myia&gt; Phil.</li><li>1523 Myron Hist.</li><li>4397 Myronianus Hist.</li><li>2331 Myrsilus Hist.</li><li>0477 Myrtilus Comic.</li><li>1524 Naumachius Epic.</li><li>0478 Nausicrates Comic.</li><li>2334 Nausiphanes Phil.</li><li>0269 Nautarum Cantiunculae</li><li>1525 Neanthes Hist.</li><li>0743 Nemesius Theol.</li><li>0307 Neophron Trag.</li><li>1526 Neoptolemus Gramm.</li><li>1527 Nepualius Med. et Phil.</li><li>2456 Nessas Phil.</li><li>0218 Nicaenetus Epic.</li><li>0022 Nicander Epic.</li><li>1529 Nicander Gramm.</li><li>2474 Nicander Hist.</li><li>1530 Nicanor Gramm.</li><li>3088 Nicephorus Bryennius Hist.</li><li>4145 Nicephorus Gregoras Hist.</li><li>3086 Nicephorus I Scr. Eccl., Hist. et Theol.</li><li>3181 Nicephorus II Phocas Imperator Tact.</li><li>2633 Niceratus Epic.</li><li>3094 Nicetas Choniates Hist., Scr. Eccl. et Rhet.</li><li>0046 Niciae Epistula</li><li>1533 Nicias Epigr.</li><li>2217 Nicias Hist.</li><li>0479 Nico Comic.</li><li>0480 Nicochares Comic.</li><li>1534 Nicocles Hist.</li><li>1535 Nicocrates Hist.</li><li>0481 Nicolaus Comic.</li><li>0577 Nicolaus Hist.</li><li>2904 Nicolaus Rhet. et Soph.</li><li>3100 Nicolaus I Mysticus Theol. et Epist.</li><li>0482 Nicomachus Comic.</li><li>0358 Nicomachus Math.</li><li>1843 Nicomachus Trag.</li><li>0342 Nicomachus Trag.</li><li>0483 Nicophon Comic.</li><li>0484 Nicostratus Comic.</li><li>1804 Ninus</li><li>4393 Nonnosus Hist.</li><li>3127 Pseudo-Nonnus</li><li>2045 Nonnus Epic.</li><li>1541 Nostoi</li><li>0031 Novum Testamentum</li><li>1542 Numenius Phil.</li><li>0703 Numenius Poet. Didac.</li><li>1544 Nymphis Hist.</li><li>0578 Nymphodorus Hist.</li><li>1545 Ocellus Phil.</li><li>1546 Oechaliae Halosis</li><li>2866 Oecumenius Phil. et Rhet.</li><li>1547 Oedipodea</li><li>0971 Oeniades Lyr.</li><li>1548 Oenomaus Phil.</li><li>2234 Oenopides Phil.</li><li>2589 Olympiodorus Alchem.</li><li>4019 Olympiodorus Phil.</li><li>2865 Olympiodorus Diaconus Scr. Eccl.</li><li>0648 Onasander Tact.</li><li>1549 &lt;Onatas&gt; Phil.</li><li>0485 Ophelio Comic.</li>
+                
+                <li>0023 Oppianus Epic.</li>
+                
+               <li> 0024 Oppianus Epic.</li><li>1550 Oracula Chaldaica</li><li>1551 Oracula Sibyllina</li><li>2960 Oracula Tiburtina</li><li>1552 Oratio Josephi</li><li>1858 Oratio Manassis</li><li>0722 Oribasius Med.</li><li>2042 Origenes Theol.</li><li>2591 Orion Gramm.</li><li>0579 Orphica</li><li>2995 Orus Gramm.</li><li>1016 Ostanes Magus Alchem.</li><li>3142 Georgius Pachymeres Hist.</li><li>1203 Paeanes (CA)</li><li>2512 Paeon Hist.</li><li>1553 &lt;Palaephatus&gt; Myth.</li><li>0726 Palladius Med.</li><li>2111 Palladius Scr. Eccl.</li><li>1828 Pamphila Hist.</li><li>2634 Pamphilus Poeta</li><li>1399 Pamphilus Trag.</li><li>4038 Pamprepius Epic.</li><li>0256 Panarces Scriptor Aenigmatum</li><li>1555 Pancrates Epic.</li><li>1556 Pancrates Epigr.</li><li>2120 Panteleius Epic.</li><li>1557 Panyassis Epic.</li><li>1558 Papias Scr. Eccl.</li><li>4326 Pappus Alchem.</li><li>2032 Pappus Math.</li><li>0580 Paradoxographus Florentinus</li><li>0581 Paradoxographus Palatinus</li><li>0582 Paradoxographus Vaticanus</li><li>1772 Paraleipomena Jeremiou</li><li>1785 Paramonus Comic.</li><li>4174 Paraphrases In Dionysium Periegetam</li><li>1562 Parmenides Poet. Phil.</li><li>2225 Parm(en)iscus Phil.</li><li>1566 Parmeno Iamb.</li><li>1801 Parodica Anonyma</li><li>2227 Paron Phil.</li><li>1567 Parrhasius Epigr.</li><li>1568 Parthax Hist.</li><li>0655 Parthenius Myth.</li><li>2016 Passio Perpetuae Et Felicitatis</li><li>3120 Patria Constantinopoleos</li><li>2479 Patrocles Hist.</li><li>0324 Patrocles Trag.</li><li>2053 Paulus Astrol.</li><li>0715 Paulus Med.</li><li>4039 Paulus Silentiarius Poeta</li><li>0047 Pausaniae I Et Xerxis Epistulae</li><li>1569 Pausanias Attic.</li><li>2573 Pausanias Hist.</li><li>0525 Pausanias Perieg.</li><li>2592 Joannes Pediasimus Philol. et Rhet.</li><li>0275 Peirazomene</li><li>2019 Pelagius Alchem.</li><li>1571 &lt;Pempelus&gt; Phil.</li><li>0629 Periander &lt;Phil.&gt;</li><li>1572 &lt;Perictione&gt; Phil.</li><li>0064 Periplus Hannonis</li><li>0071 Periplus Maris Erythraei</li><li>0077 Periplus Maris Magni</li><li>0075 Periplus Ponti Euxini</li><li>1574 Persaeus Phil.</li><li>2635 Persinus Poeta</li><li>2247 Petron Phil.</li><li>2962 Petrus Scr. Eccl. et Theol.</li><li>1577 Phaedimus Epigr.</li><li>1576 Phaedimus &lt;Epic.&gt;</li><li>1578 Phaenias Phil.</li><li>1580 Phaestus Epic.</li><li>0053 Phalaridis Epistulae</li><li>0214 Phanocles Eleg.</li><li>1583 Phanodemus Hist.</li><li>2278 Phanodicus Hist.</li><li>0486 Pherecrates Comic.</li><li>1584 Pherecydes Hist.</li><li>0630 Pherecydes Myth. et Phil.</li><li>1585 Pherecydis Epistula</li><li>2636 Pherenicus Epic.</li><li>2966 Phileas Scr. Eccl.</li><li>0487 Philemon Comic.</li><li>0488 Philemon Junior Comic.</li><li>2718 Manuel Philes Poeta et Scr. Rerum Nat.</li><li>0489 Philetaerus Comic.</li><li>0212 Philetas Eleg. et Gramm.</li><li>1587 Philiades Eleg.</li><li>1588 Philicus Lyr.</li><li>1969 Philinus Hist.</li><li>0490 Philippides Comic.</li><li>1781 Philippus Comic.</li><li>1590 Philippus Hist.</li><li>0048 Philippus II Rex Macedonum &lt;Epist.&gt;</li><li>0491 Philiscus Comic.</li><li>0257 Philiscus Rhet.</li><li>0335 Philiscus Trag.</li><li>1591 Philistus Hist.</li><li>2594 Phillis Hist.</li><li>1594 Philo Judaeus Senior Epic.</li><li>1599 Philo Mech.</li><li>0706 Philo Med.</li><li>2595 Philo Paradox.</li><li>2638 Philo Poeta</li><li>0018 Philo Judaeus Phil.</li><li>0583 Philochorus Hist.</li><li>1794 Philocles Comic.</li><li>0312 Philocles Trag.</li><li>0205 Philodamus Lyr.</li><li>1595 Philodemus Phil.</li><li>2404 Philogelos</li><li>1596 Philolaus Phil.</li><li>0492 Philonides Comic.</li><li>4329 Philosophus Anonymus Alchem.</li><li>4328 Philosophus Christianus Alchem.</li><li>0493 Philostephanus Comic.</li><li>0584 Philostephanus Hist.</li><li>2058 Philostorgius Scr. Eccl.</li><li>0638 Flavius Philostratus Soph.</li><li>1600 Philostratus Major Soph.</li><li>0652 Philostratus Junior Soph.</li><li>1602 Philoxenus Gramm.</li><li>0379 Philoxenus Lyr.</li><li>0380 Philoxenus Lyr.</li><li>0671 Philumenus Med.</li><li>0494 Philyllius Comic.</li><li>1603 &lt;Phintys&gt; Phil.</li><li>0585 Publius Aelius Phlegon Paradox.</li><li>1604 Phocylides Eleg. et Gnom.</li><li>1605 Pseudo-Phocylides Gnom.</li><li>2596 Phoebammon Soph.</li><li>0495 Phoenicides Comic.</li><li>1606 Phoenix Iamb.</li><li>1788 Phormis Comic.</li><li>1607 Phoronis</li><li>4040 Photius Lexicogr., Scr. Eccl. et Theol.</li><li>1608 Phrynichus Attic.</li><li>0496 Phrynichus Comic.</li><li>0303 Phrynichus Trag.</li><li>0876 Phrynichus II Trag.</li><li>1609 Phylarchus Hist.</li><li>2654 Physiologus</li><li>0258 Pigres Eleg.</li><li>0033 Pindarus Lyr.</li><li>0288 Pisander Epic.</li><li>0522 Pisander Epic.</li><li>0049 Pisistrati Epistula</li><li>1613 Pittaci Epistula</li><li>0631 Pittacus &lt;Lyr.&gt;</li><li>0497 Plato Comic.</li><li>0059 Plato Phil.</li><li>1615 Platonius Gramm.</li><li>2000 Plotinus Phil.</li><li>0094 Pseudo-Plutarchus</li><li>0007 Plutarchus Biogr. et Phil.</li><li>0625 Polemaeus Trag.</li><li>2233 Pseudo-Polemon</li><li>0586 Polemon Perieg.</li><li>1617 Marcus Antonius Polemon Soph.</li><li>0498 Poliochus Comic.</li><li>0542 Julius Pollux Gramm.</li><li>0616 Polyaenus Rhet.</li><li>0543 Polybius Hist.</li><li>0605 Polybius Rhet.</li><li>1622 Polycarpus Scr. Eccl.</li><li>1623 Polycharmus Hist.</li><li>1625 Polyclitus Phil.</li><li>1627 Polycrates Hist.</li><li>1626 Polycrates Scr. Eccl.</li><li>2385 Polycritus Hist.</li><li>0331 &lt;Polyidus&gt; Trag.</li><li>1839 Polyphrasmon Trag.</li><li>1629 Polystratus Phil.</li><li>0499 Polyzelus Comic.</li><li>0346 Pompeius Macer &lt;Trag.&gt;</li><li>2034 Porphyrius Phil.</li><li>0500 Posidippus Comic.</li><li>1632 Posidippus Epigr.</li><li>2639 Posidonius Epic.</li><li>2187 Posidonius Hist.</li><li>1052 Posidonius Phil.</li><li>2333 Possis Hist.</li><li>1949 Potamon Hist.</li><li>0663 Praecepta Salubria</li><li>0278 Praelusio Mimi</li><li>1833 Pratinas Trag.</li><li>2151 Praxagoras Hist.</li><li>0372 Praxilla Lyr.</li><li>0089 Praxiphanes Phil.</li><li>1633 Praxiteles &lt;Epigr.&gt;</li><li>4014 Priscianus Phil.</li><li>2641 Priscus Epic.</li><li>2946 Priscus Hist. et Rhet.</li><li>4036 Proclus Phil.</li><li>4029 Procopius Hist.</li><li>2598 Procopius Rhet. et Scr. Eccl.</li><li>1634 Prodicus Soph.</li><li>2721 Theodorus Prodromus Poeta et Polyhist.</li><li>3002 Prolegomena De Comoedia</li><li>2300 Promathidas Hist.</li><li>2548 Promathion Hist.</li><li>0397 Pronomus Lyr.</li><li>2729 Prorus Phil.</li><li>1635 Protagoras Soph.</li><li>1636 Protagorides Hist.</li><li>1637 Protevangelium Jacobi</li><li>1638 Proxenus Hist.</li><li>2702 Michael Psellus Polyhist.</li><li>1639 Pseudo-Auctores Hellenistae (PsVTGr)</li><li>0050 Ptolemaei II Philadelphi Et Eleazari Epistulae</li><li>1642 Pseudo-Ptolemaeus</li><li>1641 Ptolemaeus Gnost.</li><li>1643 Ptolemaeus Gramm.</li><li>1646 Ptolemaeus Hist.</li><li>0363 Claudius Ptolemaeus Math.</li><li>2693 Ptolemaeus III Euergetes I &lt;Epigr.&gt;</li><li>0604 Ptolemaeus IV Philopator Trag.</li><li>1645 Ptolemaeus VIII Euergetes II &lt;Hist.&gt;</li><li>1814 Ptolemais Phil.</li><li>2349 [Pyrander] Hist.</li><li>1648 Pyrgion Hist.</li><li>2160 Pyrrhus Hist.</li><li>1649 Pythaenetus Hist.</li><li>0632 &lt;Pythagoras&gt; Phil.</li><li>2239 Pythagoristae (D-K) Phil.</li><li>1650 Pytheas Perieg.</li><li>1651 Pythermus Hist.</li><li>2560 Pythocles Hist.</li><li>0337 Python Trag.</li><li>2046 Quintus Epic.</li><li>0598 Rhetorica Anonyma</li><li>0219 Rhianus Epic.</li><li>1654 Rhinthon Comic.</li><li>2881 Romanus Melodus Hymnographus</li><li>0564 Rufus Med.</li><li>0606 Rufus Soph.</li><li>2546 Publius Rutilius Rufus Hist.</li><li>2049 Sallustius Phil.</li><li>4340 Salmanas Alchem.</li><li>0501 Sannyrion Comic.</li><li>0009 Sappho Lyr.</li><li>1815 Sappho et Alcaeus Lyr.</li><li>0387 Sapphus vel Alcaei Fragmenta</li><li>0608 Satyrus Biogr.</li><li>1661 Satyrus Hist.</li><li>2330 Scamon Hist.</li><li>5008 Scholia In Aelium Aristidem</li><li>5009 Scholia In Aeschinem</li><li>5010 Scholia In Aeschylum</li><li>5012 Scholia In Apollonium Rhodium</li><li>5013 Scholia In Aratum</li><li>5014 Scholia In Aristophanem</li><li>5015 Scholia In Aristotelem</li><li>5016 Scholia In Callimachum</li><li>5048 Scholia In Clementem Alexandrinum</li><li>5017 Scholia In Demosthenem</li><li>5018 Scholia In Dionysium Byzantium</li><li>5019 Scholia In Dionysium Periegetam</li><li>5021 Scholia In Diophantum</li><li>5022 Scholia In Euclidem</li><li>5023 Scholia In Euripidem</li><li>5025 Scholia In Hesiodum</li><li>5026 Scholia In Homerum</li><li>5027 Scholia In Iamblichum Philosophum</li><li>5028 Scholia In Isocratem</li><li>5029 Scholia In Lucianum</li><li>5030 Scholia In Lycophronem</li><li>5031 Scholia In Nicandrum</li><li>5032 Scholia In Oppianum</li><li>5033 Scholia In Pausaniam</li><li>5034 Scholia In Pindarum</li><li>5035 Scholia In Platonem</li><li>5037 Scholia In Sophoclem</li><li>5038 Scholia In Theocritum</li><li>5046 Scholia In Theonem Rhetorem</li><li>5039 Scholia In Thucydidem</li><li>5040 Scholia In Xenophontem</li><li>5052 Scholia in Maximum Confessorem</li><li>1662 Sciras Comic.</li><li>0353 &lt;Sclerias&gt; Trag.</li><li>0273 Scolia Alphabetica</li><li>3177 Scriptor Incertus De Leone Armenio Hist.</li><li>0065 Scylax Perieg.</li><li>3064 Scylitzes Continuatus</li><li>0068 Pseudo-Scymnus Geogr.</li><li>2680 Scythinus Epigr.</li><li>0259 Scythinus Poet. Phil.</li><li>0209 Seleucus Lyr.</li><li>0260 Semonides Eleg. et Iamb.</li><li>1663 Semus Gramm.</li><li>1664 Seniores Alexandrini Scr. Eccl.</li><li>1665 Seniores Apud Irenaeum Scr. Eccl.</li><li>1759 Sententiae Pythagoreorum</li><li>1666 Sententiae Sexti</li><li>1667 &lt;Septem Sapientes&gt; Phil.</li><li>0527 Septuaginta</li><li>1670 Serapion Scr. Eccl.</li><li>0347 Serapion Trag.</li><li>2055 Serenus Geom.</li><li>4139 Severianus Scr. Eccl.</li><li>0748 Severus Iatrosophista Med.</li><li>2970 Severus Phil.</li><li>4239 Severus Soph.</li><li>0544 Sextus Empiricus Phil.</li><li>1970 Silenus Hist.</li><li>0603 Silenus Trag.</li><li>0211 Simias Gramm.</li><li>2600 Simon Scriptor De Re Equestri</li><li>1906 Simonides Epic.</li><li>0261 Simonides Lyr.</li><li>4013 Simplicius Phil.</li><li>2245 Simus Phil.</li><li>0398 Simylus Comic.</li><li>1675 Simylus Eleg.</li><li>1676 Simylus Iamb.</li><li>2644 Sminthes Astron.</li><li>1678 Socrates Hist.</li><li>1679 Socrates Hist.</li><li>2057 Socrates Scholasticus Hist.</li><li>0262 Socrates Phil.</li><li>0637 Socraticorum Epistulae</li><li>0636 Socratis Epistulae</li><li>1680 &lt;Sodamus&gt; Eleg.</li><li>1786 Sogenes Comic.</li><li>0263 Solon Nomographus et Poeta</li><li>1681 Solonis Epistulae</li><li>1682 Sopater Comic.</li><li>2031 Sopater Rhet.</li><li>1683 Sophaenetus Hist.</li><li>0502 Sophilus Comic.</li><li>0011 Sophocles Trag.</li><li>0326 Sophocles Junior Trag.</li><li>4030 Sophonias Phil.</li><li>0524 Sophron Mimogr.</li><li>4149 Sophronius Gramm.</li><li>0565 Soranus Med.</li><li>1685 Sosibius Gramm.</li><li>0503 Sosicrates Comic.</li><li>1687 Sosicrates Hist.</li><li>1748 Sosigenes Phil.</li><li>0504 Sosipater Comic.</li><li>0338 Sosiphanes Trag.</li><li>0340 Sositheus Trag.</li><li>2568 [Sosthenes] Hist.</li><li>1688 Sostratus Gramm.</li><li>2694 Sostratus Poeta</li><li>1690 Sotadea</li><li>0505 Sotades Comic.</li><li>1691 Sotades Iamb.</li><li>0587 Sotion &lt;Paradox.&gt;</li><li>2048 Salaminius Hermias Sozomenus Scr. Eccl.</li><li>1692 Speusippus Phil.</li><li>1693 Sphaerus Phil.</li><li>3143 Georgius Sphrantzes Hist.</li><li>3176 Pseudo-Sphrantzes Hist.</li><li>1846 Spintharus Trag.</li><li>2182 Staphylus Hist.</li><li>9021 Stephanus Alchem.</li><li>0506 Stephanus Comic.</li><li>4028 Stephanus Gramm.</li><li>9020 Stephanus Gramm.</li><li>0736 Stephanus Med.</li><li>0724 Stephanus Med. et Phil.</li><li>9019 Stephanus Phil.</li><li>0292 Stesichorus Lyr.</li><li>0981 Stesichorus II Lyr.</li><li>2171 Stesiclides Hist.</li><li>1923 Stesimbrotus Hist.</li><li>0315 Sthenelus Trag.</li><li>1695 &lt;Sthenidas&gt; Phil.</li><li>2037 Joannes Stobaeus Anthologus</li><li>0099 Strabo Geogr.</li><li>0507 Straton Comic.</li><li>1696 Straton Phil.</li><li>2645 Stratonicus Poeta</li><li>0508 Strattis Comic.</li><li>9010 Suda</li><li>1760 Gaius Suetonius Tranquillus Gramm. et Hist.</li><li>0264 Susarion Comic.</li><li>3182 Pseudo-Symeon Hist.</li><li>3070 Symeon Logothetes Hist.</li><li>3115 Symeon Metaphrastes Biogr. et Hist.</li><li>4324 Synesius Alchem.</li><li>2006 Synesius Phil.</li><li>2047 Syriani, Sopatri Et Marcellini Scholia Ad Hermogenis Status</li><li>4017 Syrianus Phil.</li><li>1766 Tatianus Apol.</li><li>1597 &lt;Telauges&gt; Phil.</li><li>0510 Teleclides Comic.</li><li>4163 Telegonia</li><li>1698 Telephus Gramm.</li><li>1699 Teles Phil.</li><li>0369 Telesilla Lyr.</li><li>0377 Telestes Lyr.</li><li>0299 Terpander Lyr.</li><li>1700 Testamenta XII Patriarcharum</li><li>1701 Testamentum Abrahae</li><li>1702 Testamentum Jobi</li><li>2679 Testamentum Salomonis</li><li>2015 Testamentum XL Martyrum</li><li>1703 Teucer Astrol.</li><li>1704 Teucer Hist.</li><li>1705 Thales Phil.</li><li>1706 Thallus Hist.</li><li>1709 Theagenes Hist.</li><li>2275 Theagenes Phil.</li><li>1710 &lt;Theages&gt; Phil.</li><li>0054 &lt;Theano&gt; Phil.</li><li>1711 &lt;Thearidas&gt; Phil.</li><li>1712 Thebai+s</li><li>1713 Themison Hist.</li><li>2001 Themistius Phil. et Rhet.</li><li>0055 Themistoclis Epistulae</li><li>0206 Theocles Lyr.</li><li>0005 Theocritus Bucol.</li><li>1714 Theocritus Soph.</li><li>0329 Theodectas Trag.</li><li>4089 Theodoretus Scr. Eccl. et Theol.</li><li>1715 Theodoridas Epigr.</li><li>1094 Theodorides Trag.</li><li>3158 Theodorus Epist.</li><li>3157 Theodorus Scutariota Hist.</li><li>2237 Theodorus Math.</li><li>2696 Theodorus Poeta</li><li>1987 Theodorus Poeta</li><li>4126 Theodorus Scr. Eccl.</li><li>4135 Theodorus Theol.</li><li>0611 Theodorus Trag.</li><li>2714 Theodorus Studites Scr. Eccl. et Theol.</li><li>2967 Theodorus Heracleensis vel Theodorus Mopsuestenus Scr. Eccl.</li><li>1719 Theodosius Astron. et Math.</li><li>2020 Theodosius Gramm.</li><li>3125 Theodosius Diaconus Hist. et Poeta</li><li>1720 Theodotus Judaeus Epic.</li><li>0511 Theognetus Comic.</li><li>0002 Theognis Eleg.</li><li>2367 Theognis Hist.</li><li>0313 Theognis Trag.</li><li>3128 Theognostus Gramm.</li><li>1723 Theolytus Epic.</li><li>1838 Theon Gramm.</li><li>2033 Theon Math.</li><li>1724 Theon Phil.</li><li>0607 Aelius Theon Rhet.</li><li>1981 Theophanes Hist.</li><li>4046 Theophanes Confessor Chronogr.</li><li>4153 Theophanes Continuatus</li><li>1725 Theophilus Apol.</li><li>0512 Theophilus Comic.</li><li>2203 [Theophilus] Hist.</li><li>0729 Theophilus Protospatharius Med.</li><li>4115 Theophilus Scr. Eccl.</li><li>0728 Theophilus Protospatharius, Damascius et Stephanus Atheniensis Med.</li><li>0746 Theophilus Protospatharius et Stephanus Atheniensis Med.</li><li>4338 Theophrastus Alchem. et Poeta</li><li>0093 Theophrastus Phil.</li><li>3130 Theophylactus Simocatta Epist. et Hist.</li><li>0513 Theopompus Comic.</li><li>1726 Theopompus Epic.</li><li>0566 Theopompus Hist.</li><li>1727 Theotimus Hist.</li><li>1728 Theseus Hist.</li><li>0301 Thespis Trag.</li><li>1004 Thessalus Astrol. et Med.</li><li>0816 Theudo[tus] Trag.</li><li>9023 Thomas Magister Philol.</li><li>2231 Thrasyalces Phil.</li><li>0056 Thrasybuli Epistula</li><li>2428 Thrasyllus Hist.</li><li>1729 Thrasymachus Rhet. et Soph.</li><li>0003 Thucydides Hist.</li><li>0514 Thugenides Comic.</li><li>2601 Tiberius Rhet.</li><li>1732 Timachidas Hist.</li><li>2602 Timaeus Sophista Gramm.</li><li>1733 Timaeus Hist.</li><li>1734 Timaeus Phil.</li><li>1105 Timaeus Praxidas Astrol.</li><li>1918 Timagenes Hist.</li><li>4396 Timagetus Hist.</li><li>2268 Timagoras Hist.</li><li>0889 Timesitheus Trag.</li><li>0515 Timocles Comic.</li><li>0333 Timocles Trag.</li><li>0265 Timocreon Lyr.</li><li>2533 Timolaus Hist.</li><li>2697 Timolaus Rhet.</li><li>1735 Timon Phil.</li><li>1736 Timonax Hist.</li><li>2386 Timonides Hist.</li><li>0516 Timostratus Comic.</li><li>0517 Timotheus Comic.</li><li>2449 Timotheus Gramm.</li><li>2213 [Timotheus] Hist.</li><li>0376 Timotheus Lyr.</li><li>0467 Timotheus Trag.</li><li>1793 Timoxenus Comic.</li><li>1737 Titanomachia</li><li>1738 Tragica Adespota</li><li>0647 Triphiodorus Epic. et Gramm.</li><li>2127 Troilus Soph.</li><li>4236 Trophonius Rhet. et Soph.</li><li>0609 Tryphon I Gramm.</li><li>1763 Tryphon II Gramm.</li><li>0367 Tynnichus Lyr.</li><li>1266 Tyrannion Gramm.</li><li>1611 Tyrannion Junior Gramm.</li><li>0266 Tyrtaeus Eleg.</li><li>9022 Joannes Tzetzes Gramm. et Poeta</li><li>2604 Ulpianus Gramm. et Rhet.</li><li>2461 Uranius Hist.</li><li>1746 Valentinus Gnost.</li><li>4291 Verba In Scripturis De Christo</li><li>1764 Vettius Valens Astrol.</li><li>1747 Vita Adam Et Evae</li><li>1521 Vita Et Sententiae Secundi</li><li>4318 Vita Sophoclis</li><li>4166 Vitae Aeschinis</li><li>1765 Vitae Aesopi</li><li>4161 Vitae Arati Et Varia De Arato</li><li>2695 Vitae Aristotelis</li><li>4173 Vitae Dionysii Periegetae</li><li>1749 Vitae Hesiodi Particula</li><li>1805 Vitae Homeri</li><li>4172 Vitae Oppiani</li><li>4170 Vitae Pindari Et Varia De Pindaro</li><li>1750 Vitae Prophetarum</li><li>1751 Xanthus Hist.</li><li>1752 Xenagoras Geogr. et Hist.</li><li>0518 Xenarchus Comic.</li><li>2355 Xeniades Soph.</li><li>1753 Xenion Hist.</li><li>0519 Xeno Comic.</li><li>0316 Xenocles Trag.</li><li>0634 Xenocrates Phil.</li><li>2306 Xenomedes Hist.</li><li>0267 Xenophanes Poet. Phil.</li><li>2241 Xenophilus Mus. et Phil.</li><li>0032 Xenophon Hist.</li><li>0641 Xenophon Scr. Erot.</li><li>1754 Xenophontis Epistulae</li><li>2229 Xuthus Phil.</li><li>0601 &lt;Zaleucus Nomographus&gt; &lt;Phil.&gt;</li><li>2364 Zeno Hist.</li><li>0595 Zeno Phil.</li><li>0635 Zeno Phil.</li><li>2294 Zeno Phil.</li><li>0098 Zenobius Sophista &lt;Paroemiogr.&gt;</li><li>0597 Zenodorus Gramm.</li><li>0354 Zenodotus Trag.</li><li>0125 Zenonis Epistula</li><li>2647 Zenothemis Geogr.</li><li>3135 Joannes Zonaras Gramm. et Hist.</li><li>3136 Pseudo-Zonaras Lexicogr.</li><li>0355 Zopyrus Trag.</li><li>4319 Zosimus Alchem.</li>
+               <li>4084 Zosimus Hist.</li>
+                 </ul>
+          
+       
+			</div>
+				<!-- ####################################################################################################### -->
+				</div>
+				</div>
+
+				<!-- Scroll Top and Bottom -->
+				<div style="display: none;" class="nav_up" id="nav_up" title="Top" aria-hidden="true"></div>
+				<div style="display: none;" class="nav_down" id="nav_down" title="Bottom" aria-hidden="true"></div>
+				</div>
+				<!-- ####################################################################################################### -->
+				
+				
+<!-- ####################################################################################################### -->
+<div class="wrapper row5" role="contentinfo">
+		<div class="row5in">
+
+	<div id="footer" class="clear">
+		<!-- ####################################################################################################### -->
+		<div class="foot_contact">
+			<p id="footercontact">Thesaurus Linguae Graecae&reg;</p>
+			<address>
+				University of California, Irvine<br /> 220 University Tower<br />
+				Irvine, CA 92697-5550
+			</address>
+			<p>
+				<p><strong>Tel:</strong> (949) 824-7031</p>
+				<p><strong>Fax: </strong>(949) 824-8434</p>
+				<p class="last"><strong>Email:</strong> <a href="mailto:tlg@uci.edu">tlg@uci.edu</a></p>
+			</p>
+		</div>
+		<div class="footbox">
+			<strong>Useful Links:</strong>
+			<ul>
+				<li><a id='h_creditsjsp' href='/credits.php'>Credits</a></li>
+				<li><a href="/copyright.php">Terms of use</a></li>
+				<li><a id='h_privacyjsp' href='/privacy.php'>Privacy</a></li>
+				<li><a id='h_accessibilityjsp' href='/accessibility.php'>Accessibility</a></li>
+				<li><a href="http://www.uci.edu" target="_blank">UC Irvine</a></li>
+				<li><a href="http://www.research.uci.edu/" target="_blank">Office
+						of Research</a></li>
+			</ul>
+		</div>
+
+		<!-- ####################################################################################################### -->
+	</div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+	<div id="copyright" class="clear">
+		<p class="fl_left">&copy; 2014 UC Regents.<br />
+         TLG&reg; is a registered trademark of the University of California. All rights reserved.<br />
+        Use of TLG&reg; materials is subject to the TLG License Agreement. <br />
+        </p>
+	</div>
+	</div>
+
+</body>
+<script type="text/javascript" src="/Iris/js/jquery/jquery.min.js?v=76"></script>
+<script type="text/javascript" src="/Iris/js/jquery/jquery-ui.custom.min.js?strict=false&v=76"></script>
+<script type="text/javascript" src="/Iris/js/common/common.js?v=76"></script>
+</html>

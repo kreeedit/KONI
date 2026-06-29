@@ -1,0 +1,1 @@
+"""KONI reader app package (stdlib backend)."""
