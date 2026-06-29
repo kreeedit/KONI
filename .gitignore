@@ -1,0 +1,60 @@
+# ─────────────────────────────────────────────────────────────────────────
+#  KONI — .gitignore
+#  Keeps generated, fetched, and RESTRICTED data out of the public repo.
+#  See README → "License & data provenance" and the NOTICE file.
+# ─────────────────────────────────────────────────────────────────────────
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Patch backups (created by apply_flame_patch.py / apply_stream_patch.py) ---
+*.bak
+*.bak.*
+
+# ─────────────────────────────────────────────────────────────────────────
+#  KONI data — everything under data/ is built locally by the ETL or fetched
+#  at runtime, and includes TLG-derived and unlicensed material that MUST NOT
+#  be redistributed. Ignore the whole directory; keep the folder via .gitkeep.
+#
+#  This covers, among others:
+#    data/raw/             cached scraped sources (incl. TLG HTML) — restricted
+#    data/intermediate/    parsed per-source JSON, repo map, discovery cache
+#    data/texts/           downloaded Greek TEI (CC BY-SA) — fetched at runtime
+#    data/canon.json       canon built partly from restricted sources
+#    data/canon.csv
+#    data/diogenes.sqlite  Diogenes export of the canon (TLG-derived)
+#    data/diogenes_canon.csv
+#    data/bpe_vocab.json   BPE cache — rebuildable via scripts/build_bpe.py
+# ─────────────────────────────────────────────────────────────────────────
+data/*
+!data/.gitkeep
+
+# --- Generated analysis outputs (Flame batch / reports) ---
+text_comparisons_*.html
+similarity_heatmap.html
+similarity_summary.tsv
+linguistic_variations.tsv
+dist_mat.npz
+
+# --- Logs / temp ---
+*.log
+*.tmp
+temp_corpus.txt

@@ -1,0 +1,97 @@
+KONI — Κοινή Online Nexus of Integration
+=========================================
+
+KONI's own source code — the web reader, the Flame text-reuse engine, the ETL
+scripts, and the frontend — is licensed under the MIT License (see the LICENSE
+file).
+
+KONI builds on, and at runtime retrieves, third-party content that is licensed
+SEPARATELY from KONI's code. The notices and attributions below apply to that
+content. Where content is redistributed, its own license governs; where content
+is restricted, KONI uses it only for a LOCAL build on a machine with lawful
+access and does NOT redistribute it.
+
+
+-------------------------------------------------------------------------------
+1. Greek texts (TEI) — redistributable under CC BY-SA 4.0
+-------------------------------------------------------------------------------
+  Perseus Digital Library — PerseusDL/canonical-greekLit
+      https://github.com/PerseusDL/canonical-greekLit
+  Open Greek and Latin — OpenGreekAndLatin/First1KGreek
+      https://github.com/OpenGreekAndLatin/First1KGreek
+
+  License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+           https://creativecommons.org/licenses/by-sa/4.0/
+
+  Required attribution (keep on any redistribution or derivative):
+      "Greek text from the Perseus Digital Library and the Open Greek and Latin
+       project, licensed under CC BY-SA 4.0."
+
+  Share-alike: any redistributed or derivative version of these texts must be
+  released under the same CC BY-SA 4.0 license. KONI fetches these texts at
+  runtime and caches them under data/texts/; they are NOT committed to this
+  repository.
+
+  The underlying ancient works themselves (Homer, Herodotus, etc.) are in the
+  public domain; the CC BY-SA terms cover these particular digital editions.
+
+
+-------------------------------------------------------------------------------
+2. Canon metadata from Wikidata — CC0 1.0 (public domain dedication)
+-------------------------------------------------------------------------------
+  Wikidata — author Greek names, eras, and identifiers
+      https://www.wikidata.org/
+
+  License: CC0 1.0 Universal
+           https://creativecommons.org/publicdomain/zero/1.0/
+  No conditions; attribution appreciated but not required.
+
+
+-------------------------------------------------------------------------------
+3. Canon metadata from the Perseus CTS inventory
+-------------------------------------------------------------------------------
+  Perseus / Perseids CTS inventory — work URNs and Greek titles
+      https://cts.perseids.org/
+
+  Openly licensed; attribution retained. Consult the Perseus/Perseids project
+  terms for the applicable license.
+
+
+-------------------------------------------------------------------------------
+4. Typefaces (web reader)
+-------------------------------------------------------------------------------
+  Cardo and Noto Serif (with Greek/polytonic coverage)
+  License: SIL Open Font License 1.1
+           https://scripts.sil.org/OFL
+  The fonts' own license governs their use; they are loaded by the reader for
+  display only.
+
+
+-------------------------------------------------------------------------------
+5. RESTRICTED sources — NOT redistributed by KONI
+-------------------------------------------------------------------------------
+  Thesaurus Linguae Graecae (TLG), University of California, Irvine
+      https://stephanus.tlg.uci.edu/
+
+  TLG materials are copyrighted and are NOT in the public domain. The TLG terms
+  prohibit downloading, copying the TLG web pages, and redistribution (short
+  quotations for research are permitted). Any TLG-derived author/work data is
+  used by KONI ONLY for a local build on a machine with lawful access, and is
+  NOT committed or redistributed in this repository. To publish a TLG-derived
+  canon, obtain permission from the TLG (tlg@uci.edu).
+
+  bcdavasconcelos/Greek-Authors-and-Works-in-TLG
+      https://github.com/bcdavasconcelos/Greek-Authors-and-Works-in-TLG
+
+  This repository has no license file (default: all rights reserved), and its
+  README states the data was in part collected from the TLG website. It is
+  therefore EXCLUDED from any redistributed KONI dataset and may be used only
+  with the author's explicit permission, and subject to the TLG terms above.
+
+
+-------------------------------------------------------------------------------
+This NOTICE is informational and is not legal advice. Licenses and website terms
+change; verify each source independently. For publication or any commercial use,
+consult your institution's library/IP office or a qualified lawyer. Database
+rights and text-and-data-mining rules also vary by jurisdiction (e.g., the EU
+sui generis database right and the DSM-Directive TDM exceptions).
