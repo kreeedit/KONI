@@ -33,6 +33,59 @@ import common
 
 SCAIFE = "https://scaife.perseus.org/library/{urn}/"
 
+# The printed authority that defines the TLG author/work numbering scheme KONI
+# reconstructs. Cited (not derived-from) at the ConceptScheme level. The @id is
+# the stable WorldCat record; identifiers carry the ISBN/OCLC.
+SOURCE_WORK = {
+    "id": "koni:source/tlg-canon-1990",
+    "type": "schema:Book",
+    "dcterms:title": "Thesaurus Linguae Graecae: Canon of Greek Authors and Works",
+    "schema:bookEdition": "3rd ed.",
+    "dcterms:creator": ["Luci Berkowitz", "Karl A. Squitier", "William A. Johnson"],
+    "dcterms:publisher": "Oxford University Press",
+    "dcterms:date": "1990",
+    "dcterms:extent": "lx, 471 p.",
+    "dcterms:language": "en",
+    "dcterms:bibliographicCitation":
+        "Berkowitz, Luci, and Karl A. Squitier, with technical assistance from "
+        "William A. Johnson. Thesaurus Linguae Graecae: Canon of Greek Authors "
+        "and Works. 3rd ed. New York: Oxford University Press, 1990.",
+    # Links to precise, resolvable bibliographic records (not retailer pages):
+    "exactMatch": [
+        "https://openlibrary.org/books/OL2220683M",
+        "https://lccn.loc.gov/89049454",
+        "https://www.worldcat.org/oclc/20828572",
+    ],
+    "dcterms:identifier": [
+        "urn:isbn:9780195060379", "urn:isbn:0195060377",
+        "urn:oclc:20828572", "urn:lccn:89049454",
+    ],
+    "rdfs:comment": "Printed authority defining the TLG author/work numbering "
+                    "scheme reconstructed by KONI; cited as the source of the "
+                    "identifier scheme, not as a data source.",
+}
+
+# Greek script ranges (incl. Greek Extended / polytonic).
+_GREEK = "\u0370\u03FF\u1F00\u1FFF"
+
+
+def _first_script(s):
+    """Language of a title by its FIRST alphabetic character.
+
+    Titles lead with their primary language, so this correctly keeps a
+    Latin title that carries a Greek gloss in parentheses
+    (e.g. 'De figuris (= Περὶ σχημάτων)') as Latin, while a Greek title
+    mis-filed in the Latin column ('Περὶ Συντάξεως') is recognised as Greek.
+    """
+    for ch in s:
+        o = ord(ch)
+        if (0x0370 <= o <= 0x03FF) or (0x1F00 <= o <= 0x1FFF):
+            return "grc"
+        if ("A" <= ch <= "Z") or ("a" <= ch <= "z"):
+            return "la"
+    return None
+
+
 SRC_URI = {
     common.SRC_TLG_CD:   "https://stephanus.tlg.uci.edu/",
     common.SRC_TLG_POST: "https://stephanus.tlg.uci.edu/",
@@ -96,12 +149,27 @@ def work_node(aid, wid, w):
         n["exactMatch"] = SCAIFE.format(urn=urn)   # dereferenceable text
     else:
         n["proposed"] = True                       # suggested URI, no open text yet
-    if w.get("title_latin"):
-        n["title_la"] = w["title_latin"]
-    if w.get("title_greek"):
-        n["title_grc"] = w["title_greek"]
-    if w.get("title_english"):
-        n["title_en"] = w["title_english"]
+    # Language tags follow the title's actual script, not the column name:
+    # ~525 works carry a Greek title mis-filed in the Latin column.
+    buckets = {"la": [], "grc": [], "en": []}
+
+    def _put(val, default):
+        if not val:
+            return
+        sc = _first_script(val)
+        lang = "grc" if sc == "grc" else ("en" if default == "en" else "la")
+        if val not in buckets[lang]:
+            buckets[lang].append(val)
+
+    _put(w.get("title_latin"), "la")
+    _put(w.get("title_greek"), "grc")
+    _put(w.get("title_english"), "en")
+    if buckets["la"]:
+        n["title_la"] = buckets["la"][0] if len(buckets["la"]) == 1 else buckets["la"]
+    if buckets["grc"]:
+        n["title_grc"] = buckets["grc"][0] if len(buckets["grc"]) == 1 else buckets["grc"]
+    if buckets["en"]:
+        n["title_en"] = buckets["en"][0] if len(buckets["en"]) == 1 else buckets["en"]
     if w.get("edition"):
         n["edition"] = w["edition"]
     return n
@@ -153,9 +221,10 @@ def build_graph(canon, wikidata):
         "type": "skos:ConceptScheme",
         "rdfs:label": "KONI — open machine-readable reconstruction of the TLG "
                       "author/work canon",
+        "source": SOURCE_WORK["id"],
     }
     nodes = [author_node(aid, a, wikidata) for aid, a in sorted(canon.items())]
-    return [scheme] + nodes
+    return [SOURCE_WORK, scheme] + nodes
 
 
 def nt_lines(canon, wikidata):

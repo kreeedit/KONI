@@ -68,6 +68,14 @@
       "@id": "skos:inScheme",
       "@type": "@id"
     },
+    "source": {
+      "@id": "dcterms:source",
+      "@type": "@id"
+    },
+    "references": {
+      "@id": "dcterms:references",
+      "@type": "@id"
+    },
     "author": {
       "@id": "dcterms:creator",
       "@type": "@id"
