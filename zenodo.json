@@ -1,0 +1,38 @@
+{
+  "title": "KONI — Koiné Online Nexus of Integration",
+  "upload_type": "software",
+  "description": "KONI (Koiné Online Nexus of Integration) is a lightweight workstation for classical philologists and digital humanists. It builds a machine-readable, Linked-Open-Data index of the Thesaurus Linguae Graecae (TLG) canon from public sources, serves a zero-dependency web reader for openly licensed Greek texts, and runs a two-phase text-reuse engine (\"Flame\") tuned for inflected, dialectally varied Greek. This record archives the source code; the canon index it builds is TLG-derived and is not redistributed (it is built locally from public sources). The openly licensed cross-reference dataset produced by KONI is deposited separately (see Related identifiers).",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Kovács, Tamás",
+      "affiliation": "University of Graz",
+      "orcid": "0000-0002-3913-2946"
+    }
+  ],
+  "keywords": [
+    "Thesaurus Linguae Graecae",
+    "Greek literature",
+    "text reuse",
+    "linked open data",
+    "digital classics",
+    "philology",
+    "JSON-LD"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21068684",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.15805449",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://w3id.org/koni/tlg/",
+      "relation": "references"
+    }
+  ]
+}

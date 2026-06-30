@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "KONI — Koiné Online Nexus of Integration"
+type: software
+authors:
+  - family-names: "Kovács"
+    given-names: "Tamás"
+    orcid: "https://orcid.org/0000-0002-3913-2946"
+    affiliation: "University of Graz"
+version: "1.0.0"
+date-released: "2026-06-30"
+license: MIT
+repository-code: "https://github.com/kreeedit/KONI/"
+url: "https://github.com/kreeedit/KONI/"
+keywords:
+  - Thesaurus Linguae Graecae
+  - Greek literature
+  - text reuse
+  - linked open data
+  - digital classics
+  - JSON-LD
+# After your first GitHub release, Zenodo mints a software DOI. Add its
+# *concept* DOI here so the cite button points at all versions:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Concept DOI (all versions) of the KONI software"
+references:
+  - type: data
+    title: "KONI: An Openly Licensed Linked Open Data Cross-Reference of the Thesaurus Linguae Graecae Canon"
+    authors:
+      - family-names: "Kovács"
+        given-names: "Tamás"
+    doi: "10.5281/zenodo.21068684"
+    year: 2026
