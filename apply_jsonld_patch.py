@@ -1,4 +1,114 @@
-"""Emit a JSON-LD (Linked Open Data) view of the KONI canon.
+#!/usr/bin/env python3
+"""KONI — add a JSON-LD / Linked Open Data view of the canon.
+
+Run from the PROJECT ROOT:
+
+    python3 apply_jsonld_patch.py
+
+Creates (additive — no existing file is modified):
+
+  schema/context.jsonld    A publishable JSON-LD @context. Anchors the canon on
+                           LAWD / SKOS / Dublin Core / PROV, with Wikidata (wd:)
+                           and VIAF (viaf:) prefixes for cross-links.
+
+  scripts/build_jsonld.py  Pure-stdlib converter. Reads data/canon.json, joins
+                           Wikidata QIDs from the cached Wikidata intermediate,
+                           and writes:
+                             data/canon.jsonld   full JSON-LD (@context + @graph)
+                             data/canon-links.nt the SAFE cross-reference subset
+                                                 (with --links): N-Triples linking
+                                                 koni:/Scaife URIs to public
+                                                 Wikidata/VIAF URIs only — no TLG
+                                                 bibliographic content.
+
+After running, build the LOD view with:
+
+    python3 scripts/build_jsonld.py            # -> data/canon.jsonld
+    python3 scripts/build_jsonld.py --links    # also -> data/canon-links.nt
+
+Safe to re-run (existing targets are backed up to *.bak.<ts> first).
+"""
+from __future__ import annotations
+
+import json
+import pathlib
+import shutil
+import sys
+import time
+
+ROOT = pathlib.Path.cwd()
+STAMP = time.strftime("%Y%m%d-%H%M%S")
+
+
+def _need_root() -> None:
+    if not (ROOT / "scripts" / "common.py").exists() or not (ROOT / "schema").exists():
+        sys.exit("[ABORT] Futtasd a projekt gyökeréből (ahol a scripts/ és schema/ van).")
+
+
+def _write(rel: str, text: str) -> None:
+    fp = ROOT / rel
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    if fp.exists():
+        bak = fp.with_name(fp.name + f".bak.{STAMP}")
+        shutil.copy2(fp, bak)
+        print(f"    backup -> {bak.name}")
+    fp.write_text(text, encoding="utf-8")
+    print(f"  wrote {rel}")
+
+
+# --------------------------------------------------------------------------
+# The JSON-LD @context (single source of truth; build_jsonld.py embeds it).
+# --------------------------------------------------------------------------
+CONTEXT = {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+
+    "koni": "https://w3id.org/koni/tlg/",
+    "lawd": "http://lawd.info/ontology/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "wd": "http://www.wikidata.org/entity/",
+    "viaf": "https://viaf.org/viaf/",
+
+    "Author": "lawd:Author",
+    "Work": "lawd:Work",
+
+    "name_la":  {"@id": "skos:prefLabel", "@language": "la"},
+    "name_grc": {"@id": "skos:altLabel",  "@language": "grc"},
+    "name_en":  {"@id": "rdfs:label",     "@language": "en"},
+    "title_la":  {"@id": "dcterms:title", "@language": "la"},
+    "title_grc": {"@id": "dcterms:title", "@language": "grc"},
+    "title_en":  {"@id": "dcterms:title", "@language": "en"},
+
+    "epithet": "dcterms:subject",
+    "floruit": "dcterms:temporal",
+    "edition": "dcterms:bibliographicCitation",
+    "tlg_id":  "dcterms:identifier",
+    "cts_urn": "dcterms:identifier",
+
+    "ctsConfirmed": {"@id": "koni:ctsConfirmed", "@type": "xsd:boolean"},
+    "proposed":     {"@id": "koni:proposed",     "@type": "xsd:boolean"},
+
+    "exactMatch":  {"@id": "skos:exactMatch",  "@type": "@id"},
+    "closeMatch":  {"@id": "skos:closeMatch",  "@type": "@id"},
+    "derivedFrom": {"@id": "prov:wasDerivedFrom", "@type": "@id"},
+    "inScheme":    {"@id": "skos:inScheme", "@type": "@id"},
+    "source":      {"@id": "dcterms:source", "@type": "@id"},
+    "references":  {"@id": "dcterms:references", "@type": "@id"},
+    "author":      {"@id": "dcterms:creator", "@type": "@id"},
+    "works":       {"@id": "dcterms:hasPart", "@type": "@id"},
+}
+
+
+# --------------------------------------------------------------------------
+# scripts/build_jsonld.py  (raw string: JS-style/Python escapes emitted verbatim)
+# --------------------------------------------------------------------------
+BUILD_JSONLD = r'''"""Emit a JSON-LD (Linked Open Data) view of the KONI canon.
 
 Reads data/canon.json, joins Wikidata QIDs from the cached Wikidata
 intermediate (data/intermediate/wikidata_era.json), and writes a JSON-LD graph.
@@ -332,6 +442,27 @@ def main():
                   "local:curated entries. Restricted-tier sources are excluded.\n")
         ed_path.write_text(hdr_ed + "\n".join(editions) + "\n", encoding="utf-8")
         common.log(f"Wrote {ed_path}: {len(editions)} edition citations (publishable).")
+
+
+if __name__ == "__main__":
+    main()
+'''
+
+
+def main() -> None:
+    _need_root()
+    print(f"KONI JSON-LD patch — projekt gyökér: {ROOT}\nidőbélyeg: {STAMP}\n")
+    print("[1/2] schema/context.jsonld")
+    _write("schema/context.jsonld",
+           json.dumps({"@context": CONTEXT}, ensure_ascii=False, indent=2) + "\n")
+    print("[2/2] scripts/build_jsonld.py")
+    _write("scripts/build_jsonld.py", BUILD_JSONLD)
+    print("\nKész. Építsd meg a LOD-nézetet:")
+    print("  python3 scripts/build_jsonld.py            # -> data/canon.jsonld")
+    print("  python3 scripts/build_jsonld.py --links    # + data/canon-links.nt")
+    print("\nMegjegyzés: a data/canon.jsonld a TLG-eredetű kánonból épül -> a")
+    print("data/ amúgy is .gitignore-olt, ne publikáld. A data/canon-links.nt a")
+    print("biztonságos, publikus URI-k közti kereszthivatkozási gráf (CC0 Wikidata/VIAF).")
 
 
 if __name__ == "__main__":
