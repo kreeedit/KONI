@@ -76,10 +76,17 @@ as RDF under a standard JSON-LD processor.
 }
 ```
 
-A separate `--links` run writes `canon-links.nt`: a cross-reference graph of
-nothing but `koni:` / Scaife ↔ public Wikidata / VIAF edges. That subset is the
-**safe, redistributable LOD contribution** — the full `canon.jsonld` is
-TLG-derived and stays local (see *License & data provenance*).
+`build_jsonld.py --links` then writes the two **publishable** graphs, kept in
+separate files so their licences never mix:
+
+- **`canon-links.nt`** — a **CC0** cross-reference graph of nothing but `koni:` /
+  Scaife ↔ public Wikidata / VIAF edges (identifiers and links only).
+- **`canon-editions.nt`** — the per-work source-edition citations: the open TEI
+  editions (**CC BY-SA**, from First1KGreek / Perseus) plus your own
+  `local:curated` entries.
+
+The full **`canon.jsonld`** carries TLG-derived names, epithets, and titles, so
+it **stays local**.
 
 ---
 
@@ -164,9 +171,13 @@ are always kept for display.
 ```
 ETL (canon build — runs locally)
   public sources ──► parse + merge + enrich ──► canon.json / canon.csv
+       local/supplement.json ──► (curation overlay, tiered)  ┘   │
                                                  ├──► Diogenes export (CSV + SQLite)
-                                                 └──► JSON-LD / LOD: canon.jsonld
-                                                       + canon-links.nt (safe links)
+                                                 └──► JSON-LD / LOD
+                                                       canon.jsonld        (local; TLG-derived)
+                                                       canon-links.nt      (publishable; CC0)
+                                                       canon-editions.nt   (publishable; CC BY-SA + curated)
+                                                       └─ firewall drops restricted:* tiers
 
 Reader + Flame (runtime, stdlib only)
   openly-licensed TEI / CTS text ──► citation-unit chunking
