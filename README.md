@@ -187,7 +187,15 @@ directly.
 ```bash
 pip install -r requirements.txt
 ```
-**2) Launch the zero-dependency Flame engine & reader**
+**2) Fetch sources (one-time). The canon index is NOT shipped in git. Build it locally once from the public sources:**
+```bash
+python scripts/fetch_sources.py
+```
+**3) Build canon (one-time)**
+```bash
+python scripts/build_canon.py
+```
+**4) Launch the zero-dependency Flame engine & reader**
 ```bash
 python scripts/serve.py
 ```
