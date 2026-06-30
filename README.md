@@ -39,6 +39,8 @@ the realities of a heavily inflected, dialectally varied language.
 
 ## 1. A machine-readable Canon index
 
+<img src="koni_index.png" alt="Text Resuse" width="950">
+
 The TLG canon — the index assigning every author a 4-digit ID (Homer = `0012`)
 and every work a 3-digit ID (Iliad = `001`) — is the backbone that links an
 identifier to an actual text. KONI assembles a normalized index
