@@ -1,0 +1,12 @@
+# Copyrighted source scans — do NOT commit.
+# Haury Teubner (de Gruyter) and the Kaldellis translation (HUP) are under
+# copyright. They live here only as local working copies for apparatus
+# extraction; only derived factual citations (author + reference) leave this
+# folder, never the verbatim apparatus text.
+raw_pdfs/
+
+# pdftotext working cache (verbatim copyrighted text — same rule as raw_pdfs).
+.cache_pdftotext/
+
+# Local scratch.
+*.tmp

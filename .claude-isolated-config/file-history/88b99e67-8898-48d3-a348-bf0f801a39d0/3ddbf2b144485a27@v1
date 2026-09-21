@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KONI — Greek text reader</title>
+<meta name="description" content="KONI (Koiné Online Nexus of Integration) — an open Canon reader.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cardo:ital@0;1&family=Noto+Serif+Greek&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body data-theme="light">
+<header class="topbar">
+  <a class="brand" href="#/">KONI <span class="brand-sub">Koiné Online Nexus of Integration</span></a>
+  <nav class="top-nav">
+    <a href="#/">Search</a>
+    <a href="#/compare">Text reuse</a>
+  </nav>
+  <div class="top-actions">
+    <button class="icon-btn" id="font-dec" title="Smaller font" aria-label="Smaller font">A−</button>
+    <button class="icon-btn" id="font-inc" title="Larger font" aria-label="Larger font">A+</button>
+    <button class="icon-btn" id="lh-toggle" title="Line spacing" aria-label="Line spacing">⇕</button>
+    <button class="icon-btn" id="theme-toggle" title="Dark/light mode" aria-label="Toggle theme">◐</button>
+  </div>
+</header>
+
+<main id="view"></main>
+
+<div id="toast" class="toast" hidden></div>
+
+<footer class="footer">
+  KONI (Koiné Online Nexus of Integration) — an open TLG canon. Data: TLG, Perseus CTS, Wikidata (P3576), bcdavasconcelos.
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

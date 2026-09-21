@@ -1,0 +1,63 @@
+{
+  "numStartups": 1,
+  "installMethod": "native",
+  "autoUpdates": false,
+  "tipsHistory": {
+    "new-user-warmup": 1,
+    "default-permission-mode-config": 1,
+    "workflow-size-prompting": 1
+  },
+  "unpinOpus47LaunchEffort": true,
+  "unpinOpus48LaunchEffort": true,
+  "unpinFable5LaunchEffort": true,
+  "firstStartTime": "2026-09-21T08:56:50.117Z",
+  "firstStartVersion": "2.1.278",
+  "machineID": "9de669107d2e23c7c5f98823463d9ee3a8686e7fa6246126dfb57e1dc491962a",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 14,
+  "userID": "e31f6afabf296adafeec0db1c89b935bcc16c3e10b6da93e3738cd38eb54c606",
+  "changelogLastFetched": 1789981010356,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.278",
+  "projects": {
+    "/home/tamask/github/KONI": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.278"
+    }
+  },
+  "githubRepoPaths": {
+    "kreeedit/koni": [
+      "/home/tamask/github/KONI"
+    ]
+  },
+  "lastReleaseNotesSeen": "2.1.278",
+  "closedIssuesLastChecked": 1789981019557,
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "autoUpdatesProtectedForNative": true,
+  "lastPlanModeUse": 1789981027910,
+  "hasSeenAutoModeEntryWarning": true,
+  "tipLifetimeShownCounts": {
+    "new-user-warmup": 1,
+    "default-permission-mode-config": 1,
+    "workflow-size-prompting": 1
+  },
+  "autoModeClassifierBillingNoticeAcknowledgedAt": 1789981794984,
+  "tipsHistoryByCommand": {
+    "config": {
+      "tipId": "workflow-size-prompting",
+      "numStartups": 1
+    }
+  }
+}

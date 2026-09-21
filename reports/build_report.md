@@ -21,6 +21,7 @@
 - Wikidata (P3576): 1924
 
 ## Known limitations
+- The dataset represents the **publicly reconstructable portion** of the TLG canon. Newly catalogued authors and works available only within the subscription service cannot be incorporated until corresponding public metadata become available. KONI is therefore an open mirror of what is currently available, not a copy of the full subscription library — so coverage is intentionally never 100% complete. This is a consequence of the licensing environment, not a quality defect.
 - The classical TLG canon (cd.authors.php) lists only authors, not works. The classical works are supplied by the bcdavasconcelos list (broad) and the Perseus CTS inventory (authoritative, with Greek titles).
 - `cts_confirmed=false`: the cts_urn is synthesized (`urn:cts:greekLit:tlg<author>.tlg<work>`); the work is in the canon, but the Perseus CTS catalog has no published text (the reader then tries the repo map, CTS, and finally the Hopper).
 - The VIAF API cannot be called directly (Cloudflare 403); the VIAF id and the era come from the Wikidata **P214 / P569 / P570 / P2348** properties (P3576 exact matching). The era is best-effort: some authors are `null`.

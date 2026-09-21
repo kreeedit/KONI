@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://koni.dev/schema/canon.schema.json",
+  "title": "KONI Canon",
+  "description": "Open reconstruction of the TLG author/work canon.",
+  "type": "object",
+  "additionalProperties": false,
+  "patternProperties": {
+    "^[0-9]{4}$": {
+      "type": "object",
+      "required": ["author_id", "author_name_latin", "works", "source"],
+      "additionalProperties": false,
+      "properties": {
+        "author_id": { "type": "string", "pattern": "^[0-9]{4}$" },
+        "author_name_latin": { "type": ["string", "null"] },
+        "author_name_greek": { "type": ["string", "null"] },
+        "author_name_english": { "type": ["string", "null"] },
+        "epitheton": { "type": ["string", "null"] },
+        "era": { "type": ["string", "null"] },
+        "viaf_id": { "type": ["string", "null"] },
+        "source": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "works": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]{3}$": {
+              "type": "object",
+              "required": ["work_id", "cts_urn", "cts_confirmed"],
+              "additionalProperties": false,
+              "properties": {
+                "work_id": { "type": "string", "pattern": "^[0-9]{3}$" },
+                "title_latin": { "type": ["string", "null"] },
+                "title_english": { "type": ["string", "null"] },
+                "title_greek": { "type": ["string", "null"] },
+                "edition": { "type": ["string", "null"] },
+                "cts_urn": {
+                  "type": "string",
+                  "pattern": "^urn:cts:greekLit:tlg[0-9]{4}\\.tlg[0-9]{3}$"
+                },
+                "cts_confirmed": { "type": "boolean" }
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    }
+  }
+}

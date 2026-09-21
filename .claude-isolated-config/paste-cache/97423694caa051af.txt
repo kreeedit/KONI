@@ -1,0 +1,23 @@
+A legutóbbi módosítások során bevezetett helyi hapax/archaizmus detektor (collections.Counter fejezetenként) hibás, mert a leggyakoribb görög szavakat (αλλα, αμα, βασιλεα) jelöli meg ritkaságként, és ezzel tiszta zajt generál. A szövegek ablakozott megnyirbálása (view_i/j) pedig tönkretette a UI-t, mert túl kevés szöveget mutat. Csak hapax-ot várunk el, azaz olyan szót, amely mindkét munkában jelen van, de az egyikben csak 1 vagy maximum 2 alkalommal szerepel. 
+
+Feladatok a kód teljes letisztításához és helyreállításához:
+
+1. A Hapax/Archaizmus motor:
+- Javítsd ki minden helyi Counter alapú hapax- és archaizmus-számítási logikát az 'app/flame_pure.py' és 'app/server.py' modulokból.
+- Javítsd az 'is_archaism', 'archaism_count' és 'archaism_words' mezőket a kimeneti JSON-ből és a TSV exportőrből is.
+
+2. A Teljes Fejezetszöveg és Független SequenceMatcher visszaállítása:
+- A Flame motor működése térjen vissza az eredeti alapokhoz: a globális Cosine pontszám csupán a párok durva orientációjára és listázására szolgál.
+- Amikor a rendszer összehasonlít két fejezetet, a SequenceMatcher / Levenstein distans / Rolling Hash ablakos láncoló modul teljesen FÜGGETLENÜL, a két fejezet TELJES terjedelmű szövegén fusson végig, ne pedig előre levágott részleteken.
+- A backend a teljes görög fejezetszövegeket adja át a frontendnek, hogy a felületen a teljes szöveg olvasható legyen, ne csak töredékek.
+
+3. Tűpontos Token-to-Word Index Alignment (Index-elcsúszás gátlása):
+- Mivel a BPE subword tokenek száma eltér a szavak számától, a tokenizáció során (bpe_pure.py / flame_pure.py) kötelezően hozz létre egy leképezési tömböt (Token-to-Word Index Map), ami megmondja, hogy a kettedik, harmadik stb. subword token pontosan melyik eredeti szóból származik.
+- Amikor a SequenceMatcher megtalálja az egyező token-tartományokat (start_token, end_token), a kód ezeket a térkép segítségével konvertálja vissza valós szó-indexekre (actual_word_start, actual_word_end).
+- A frontend felé továbbított egyezési térképek (matched_i/j, bridges_i/j) és a TSV exportőr 'source1_word_range' értékei szigorúan ezeket a pontos, visszafejtett szó-indexeket használják, így a felületi zöld/barna kiemelések milliméterre pontosan a valós egyező szavakra fognak rákerülni.
+
+4. Sliderek és Exportőr tisztasága:
+- Az élő csúszkák (ngram, n_out, min_chain) ezen a tiszta, teljes fejezetszövegen dolgozzanak. Ha n_out = 0, a motor váltson szigorú, folytonos n-gramm egyezésre.
+- A TSV/Markdown exportőr a teljes fejezetek és a tűpontosan visszafejtett, valós egyezést mutató görög szövegrészleteket mentse el (excerpt_1/2).
+
+Végezd el a tisztítást szigorúan zero-dependency (stdlib + vanilla JS) módon, biztosítva, hogy a validate_canon.py 0 hibát adjon vissza!

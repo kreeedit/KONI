@@ -50,6 +50,21 @@ text exists for it; `false` = attested in the canon but with no open text yet).
 This index is **built locally** by the ETL pipeline on your machine. The
 project does **not** redistribute the canon assembled from restricted sources.
 
+> **Why not just `canonical-greekLit`?** CTS catalogues identify only works
+> *represented by available digital texts*; they are not comprehensive authority
+> registers for the TLG canon and do not provide a complete cross-reference
+> between TLG identifiers and external authority systems (Wikidata / VIAF). Of
+> the 8 816 works in the KONI canon, only ~1 622 have an open CTS text — the rest
+> are attested in the canon but have no open edition yet. KONI indexes the full
+> public canon and *signals where the open infrastructure is still missing*.
+
+> **Coverage is the publicly reconstructable portion.** The dataset represents
+> the publicly reconstructable portion of the TLG canon. Newly catalogued
+> authors and works available only within the subscription service cannot be
+> incorporated until corresponding public metadata become available. KONI is
+> therefore an open mirror of what is currently available, not a copy of the
+> full subscription library — so coverage is intentionally never 100% complete.
+
 **Linked Open Data (JSON-LD).** The canon is an *authority list of entities*,
 not a corpus of texts — so it fits Linked Open Data naturally. `scripts/build_jsonld.py`
 emits the index as JSON-LD (`canon.jsonld`) anchored on **LAWD / SKOS / Dublin
@@ -204,11 +219,54 @@ In **Flame · compare**: pick two works with the autocomplete pickers, hit
 **Compare**, watch matches stream in, then tune the sliders and press
 **↻ Recompute**. Click a highlighted word to jump to its counterpart; export as TSV.
 
-**3) Optional — export the canon as Linked Open Data (JSON-LD)**
+**5) Optional — export the canon as Linked Open Data (JSON-LD)**
 ```bash
 python scripts/build_canon.py            # build the canon index first (if not yet built)
 python scripts/build_jsonld.py --links   # -> data/canon.jsonld + data/canon-links.nt
 ```
+
+**6) Optional — regenerate the open-backlog (gaps) report**
+```bash
+python scripts/build_gaps_report.py       # -> reports/gaps_report.md
+```
+
+---
+
+## Roadmap & the open backlog
+
+KONI is, in the long run, a *modular Open Classical Authority Graph* — a
+Linked-Open-Data authority layer for classical literature. The Greek **TLG
+canon** is the first module (`KONI-GR`); the architecture is intended to extend
+to further corpora as open sources allow. The natural next step is **Latin**
+(`KONI-LA`): Greek and Latin digital infrastructure today runs partly in
+parallel (TLG / CTS / Wikidata on one side, other Latin canons / CTS / Wikidata
+on the other), yet classical, late-antique, Byzantine-reception and humanist
+research constantly crosses the two. A feasibility note — mapping open Latin
+sources (Perseus `latinLit` CTS, PHI, Wikidata Latin authors, VIAF) and the
+schema changes a second module would need — is in
+[`docs/latin-feasibility.md`](docs/latin-feasibility.md). Further corpora
+(Syriac, Coptic, medieval Latin) are a longer-term vision, not current work.
+
+**The open backlog.** KONI is not only a cross-reference dataset, it is a
+*signalling system* for the community: it shows where open metadata, an open
+text, or an authority link is still missing. Running
+`scripts/build_gaps_report.py` produces `reports/gaps_report.md` — the
+authors with no Wikidata match, no VIAF link, no era, and the works that are
+attested in the canon but still have no open TEI text (flagged `koni:proposed`
+in the JSON-LD). Like Wikidata's red links, these gaps point independent
+researchers to where a new open TEI edition, a Wikidata `P3576` statement, or
+a VIAF reconciliation adds the most value.
+
+The aim is cooperative, not adversarial: the subscription TLG library has a
+legitimate model, and the Greek *texts* need not be opened. What KONI
+encourages is the release of **structured metadata** — TEI headers or their
+RDF-projectable parts (author, work, CTS URN, edition, date, language, related
+authority IDs) — without opening the texts themselves. If such metadata become
+public, the open research infrastructure enriches considerably and parts of
+KONI's reconciliation work become unnecessary — which is exactly the mark of a
+successful open-infrastructure project. See
+[`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for how to report a missing link
+or offer an open TEI edition.
 
 ---
 

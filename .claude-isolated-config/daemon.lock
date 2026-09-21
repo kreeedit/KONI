@@ -1,0 +1,16 @@
+{
+  "pid": 4155964,
+  "version": "2.1.278",
+  "jsonPath": "/home/tamask/github/KONI/.claude-isolated-config/daemon.json",
+  "logPath": "/home/tamask/github/KONI/.claude-isolated-config/daemon.log",
+  "startedAt": 1789982891275,
+  "origin": "transient",
+  "spawnedBy": {
+    "label": "claude",
+    "cwd": "/home/tamask/github/KONI",
+    "pid": 4143093
+  },
+  "procStart": "181723981",
+  "launchTarget": "/home/tamask/.local/share/claude/versions/2.1.278",
+  "processWrapper": ""
+}

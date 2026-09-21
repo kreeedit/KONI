@@ -1,0 +1,109 @@
+{
+  "numStartups": 3,
+  "installMethod": "native",
+  "autoUpdates": false,
+  "tipsHistory": {
+    "new-user-warmup": 1,
+    "default-permission-mode-config": 1,
+    "workflow-size-prompting": 1,
+    "color-when-multi-clauding": 3,
+    "auto-copy-config-hint": 3,
+    "memory-command": 3,
+    "frontend-design-plugin": 3
+  },
+  "promptQueueUseCount": 1,
+  "unpinOpus47LaunchEffort": true,
+  "unpinOpus48LaunchEffort": true,
+  "unpinFable5LaunchEffort": true,
+  "firstStartTime": "2026-09-21T08:56:50.117Z",
+  "firstStartVersion": "2.1.278",
+  "machineID": "9de669107d2e23c7c5f98823463d9ee3a8686e7fa6246126dfb57e1dc491962a",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 14,
+  "userID": "e31f6afabf296adafeec0db1c89b935bcc16c3e10b6da93e3738cd38eb54c606",
+  "changelogLastFetched": 1789981010356,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.278",
+  "projects": {
+    "/home/tamask/github/KONI": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.278",
+      "lastCost": 4.134574000000001,
+      "lastAPIDuration": 1022381,
+      "lastAPIDurationWithoutRetries": 1021980,
+      "lastToolDuration": 25294,
+      "lastDuration": 1881123,
+      "lastStartTime": 1789981010015,
+      "lastLinesAdded": 90,
+      "lastLinesRemoved": 1,
+      "lastTotalInputTokens": 238340,
+      "lastTotalOutputTokens": 63978,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 2686848,
+      "lastTotalWebSearchRequests": 0,
+      "lastModelUsage": {
+        "deepseek-ai/DeepSeek-V4.1-Flash": {
+          "inputTokens": 238340,
+          "outputTokens": 63978,
+          "thinkingTokens": 0,
+          "cacheReadInputTokens": 2686848,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 4.134574000000001
+        }
+      },
+      "lastSessionId": "b580575e-2861-49db-a85b-8458e7980a61"
+    }
+  },
+  "githubRepoPaths": {
+    "kreeedit/koni": [
+      "/home/tamask/github/KONI"
+    ]
+  },
+  "lastReleaseNotesSeen": "2.1.278",
+  "closedIssuesLastChecked": 1789981019557,
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "autoUpdatesProtectedForNative": true,
+  "lastPlanModeUse": 1789981027910,
+  "hasSeenAutoModeEntryWarning": true,
+  "tipLifetimeShownCounts": {
+    "new-user-warmup": 1,
+    "default-permission-mode-config": 1,
+    "workflow-size-prompting": 1,
+    "color-when-multi-clauding": 1,
+    "auto-copy-config-hint": 1,
+    "memory-command": 1,
+    "frontend-design-plugin": 1
+  },
+  "autoModeClassifierBillingNoticeAcknowledgedAt": 1789981794984,
+  "tipsHistoryByCommand": {
+    "config": {
+      "tipId": "workflow-size-prompting",
+      "numStartups": 1
+    },
+    "memory": {
+      "tipId": "memory-command",
+      "numStartups": 3
+    },
+    "plugin": {
+      "tipId": "frontend-design-plugin",
+      "numStartups": 3
+    }
+  },
+  "hasOpenedAgentsView": true,
+  "agentLastUsed": {
+    "bg": 1789982891126
+  }
+}

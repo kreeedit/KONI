@@ -1,0 +1,40 @@
+A BPE (Byte-Pair Encoding) használata magyarázza a fejlécben látható szokatlanul alacsony szókincsméretet (`vocab: 2703`). Flektáló nyelvnél ez ügyes mérnöki kompromisszum a teljes szótáralapú lemmatizáció megkerülésére, mivel a ragozott végződéseket és töveket részben külön szubtókenekre bontja.
+
+Ugyanakkor a klasszikus nyelveknél a tisztán statisztikai BPE-nek komoly korlátai vannak. Az alábbi fejlesztési irányokkal emelhető a rendszer hatékonysága:
+
+---
+
+### 1. Politonikus normalizálás a BPE előtt (Diacritic-folding)
+
+Az ógörögben a hangsúlyok (éles, tompa, meghajlott), a hehezékek és az ióta subscriptum helyzete a ragozás vagy proklízis során eltolódik.
+
+* **Probléma:** Ha a BPE a hangsúlyos karaktert külön karakterkódként kezeli, ugyanaz a szótő 3-4 különböző szubtókenre esik szét pusztán egy hangsúlyeltolódás miatt.
+* **Fejlesztés:** A BPE tréninget és a tokenizálást strippingelt vagy normalizált (accent-agnostic) karaktereken kell futtatni, míg a megjelenítésnél meg kell őrizni az eredeti politonikus szöveget.
+
+### 2. Morfológiailag irányított szubtókenizálás (Morpheme-informed BPE)
+
+A standard BPE tisztán gyakorisági alapon vág, figyelmen kívül hagyva a nyelvtan logikáját.
+
+* **Probléma:** Gyakran a szótő utolsó betűjét egybeolvasztja a rag első betűjével, ami megbontja a valódi egyezések detektálását.
+* **Fejlesztés:** Nem felügyelt Morfessor modell vagy reguláris előszűrés beiktatása, amely a vágási pontokat a valódi morfémahatárokhoz (prefixum, tő, augmentum, rag) kényszeríti. Ezzel a flektált alakok szótöve garantáltan azonos BPE-token marad.
+
+### 3. Információtartalom-alapú token-súlyozás (Subword-level IDF)
+
+A rendszerben jelenleg a gyakori és ritka n-grammok hasonló súllyal vesznek részt a láncolásban.
+
+* **Probléma:** A görögben rendkívül gyakori flexiós végződések (pl. `-ον`, `-ων`, `-ου`) vagy partikulák önálló BPE-tókenként mesterségesen életben tarthatnak olyan láncokat, amelyek mögött nincs valós tartalmi átvétel.
+* **Fejlesztés:** A láncépítésnél (`min chain`) nem pusztán a tokenek darabszámát, hanem azok információs entrópiáját (token-szintű IDF értékét) kell alapul venni: a gyakori morfématöredékek minimális súlyt kapjanak.
+
+
+
+### 4. Hibridizáció: BPE n-gram + Sűrű beágyazás (Dense Embeddings)
+
+A BPE kizárólag a lexikális egyezések variációit (szótövek, kompozitumok) kezeli, a szemantikai parafrázisokat nem.
+
+* **Fejlesztés:** Kétcsatornás szűrés bevezetése. A BPE alapú inverz index maradjon meg a szó szerinti és formuláris átvételek gyors szűrésére, mellé pedig egy klasszikus görögre finomhangolt transzformátor modell (pl. GreBERTa, PhiloBERTa) állítson elő beágyazásokat mondat- vagy szakaszkörnyezetre. Így a szinonimákkal átfogalmazott imitációk is a felszínre kerülnek.
+
+### 5. Formuláris minták deduplikációja (Toposz-klaszterezés)
+
+A jelenlegi modell minden egyes párhuzamos láncot önálló találatként tálal, ami szétzilálja a listát (pl. Prokopiosz összes évzárása Thuküdidész összes évzárásával).
+
+* **Fejlesztés:** Graph clustering algoritmus alkalmazása a találati halmazon: a strukturálisan azonos BPE-láncokat vonja össze egyetlen közös „évzáró formula” toposszá, és a találati nézetben ezt egy aggregált sablonként mutassa be ahelyett, hogy 20-30 külön sorban ismételné ugyanazt a mintát.
