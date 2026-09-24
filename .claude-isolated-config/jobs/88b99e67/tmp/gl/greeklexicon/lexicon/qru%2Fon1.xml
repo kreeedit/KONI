@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θρύον</form>
+	<date>Tue Jul 26 22:33:22 EDT 2011</date>
+	<count>15</count>
+	<per10K>0.032</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>thryum</sense>
+				<count>7</count>
+				<prob>0.700</prob>
+				<loglikelihood>24.500</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

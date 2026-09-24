@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἧμαι</form>
+	<date>Tue Jul 26 23:48:31 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>92</count>
+		<senses>
+			<senseContainer>
+				<sense>sit</sense>
+				<count>19</count>
+				<prob>0.207</prob>
+				<loglikelihood>5.011</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.842</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

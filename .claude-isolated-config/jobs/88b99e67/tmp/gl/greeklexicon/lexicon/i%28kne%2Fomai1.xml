@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱκνέομαι</form>
+	<date>Wed Jul 27 00:48:55 EDT 2011</date>
+	<count>481</count>
+	<per10K>1.015</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>557</count>
+		<senses>
+			<senseContainer>
+				<sense>come</sense>
+				<count>224</count>
+				<prob>0.402</prob>
+				<loglikelihood>23.640</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.728</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>reach</sense>
+				<count>75</count>
+				<prob>0.135</prob>
+				<loglikelihood>29.974</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.840</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>γαῖα</original>
+				<trans>come to land</trans>
+				<loglikelihood>3.69</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῶμα</original>
+				<trans>come to thy house</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἴκαδε</original>
+				<trans>reach home</trans>
+				<loglikelihood>2.29</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

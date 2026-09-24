@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βούλευμα</form>
+	<date>Tue Jul 26 23:35:22 EDT 2011</date>
+	<count>123</count>
+	<per10K>0.26</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>155</count>
+		<senses>
+			<senseContainer>
+				<sense>plan</sense>
+				<count>34</count>
+				<prob>0.219</prob>
+				<loglikelihood>10.477</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

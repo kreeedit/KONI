@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δολιχόσκιος</form>
+	<date>Tue Jul 26 22:49:09 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>far - shadowing</sense>
+				<count>19</count>
+				<prob>0.704</prob>
+				<loglikelihood>75.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

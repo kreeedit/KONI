@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φόνος</form>
+	<date>Wed Jul 27 01:21:27 EDT 2011</date>
+	<count>721</count>
+	<per10K>1.522</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>843</count>
+		<senses>
+			<senseContainer>
+				<sense>murder</sense>
+				<count>314</count>
+				<prob>0.372</prob>
+				<loglikelihood>772.938</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>slaughter</sense>
+				<count>126</count>
+				<prob>0.149</prob>
+				<loglikelihood>224.230</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.341</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>death</sense>
+				<count>57</count>
+				<prob>0.068</prob>
+				<loglikelihood>4.170</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.351</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>blood</sense>
+				<count>55</count>
+				<prob>0.065</prob>
+				<loglikelihood>18.065</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.382</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>slay</sense>
+				<count>36</count>
+				<prob>0.043</prob>
+				<loglikelihood>4.281</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>homicide</sense>
+				<count>22</count>
+				<prob>0.026</prob>
+				<loglikelihood>33.934</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.636</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bloodshed</sense>
+				<count>18</count>
+				<prob>0.021</prob>
+				<loglikelihood>32.375</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀκούσιος</original>
+				<trans>involuntary homicide</trans>
+				<loglikelihood>6.45</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

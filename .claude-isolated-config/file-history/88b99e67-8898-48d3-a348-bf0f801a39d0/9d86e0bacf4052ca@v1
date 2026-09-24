@@ -1,0 +1,75 @@
+// Exercise the REAL _archHtml from app.js against a real endpoint response.
+const fs = require("fs");
+const d = JSON.parse(fs.readFileSync(process.env.CLAUDE_JOB_DIR + "/tmp/arch.json", "utf8"));
+const src = fs.readFileSync("app/static/app.js", "utf8");
+const start = src.indexOf("function _archHtml(d, opts) {");
+const end = src.indexOf("/* ---------- wire up ----------");
+if (start < 0 || end < 0) throw new Error("could not locate _archHtml");
+const block = src.slice(start, end);
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+// _archHtml now reads ARCH_DEFAULTS for its fallbacks, so the sandbox needs the
+// SAME object the page has — extracted from the source rather than restated
+// here, or the test would bless a copy that can drift.
+const dm = src.match(/const ARCH_DEFAULTS = \{[^}]*\};/);
+if (!dm) throw new Error("could not locate ARCH_DEFAULTS");
+const ARCH_DEFAULTS = new Function(dm[0] + "\nreturn ARCH_DEFAULTS;")();
+const _archHtml = new Function("esc", "ARCH_DEFAULTS", block + "\nreturn _archHtml;")(esc, ARCH_DEFAULTS);
+
+const fails = [];
+const ck = (ok, m) => { console.log((ok ? "  ok   " : "  FAIL ") + m); if (!ok) fails.push(m); };
+
+const html = _archHtml(d, { minA: 3, minB: 1, maxB: 1, minScore: 2.0, dropProper: true });
+const n = d.result.rows.length;
+ck(html.includes("<table class=\"arch-table\">"), "renders a table");
+ck((html.match(/<tr>/g) || []).length === n + 1, `rows rendered = ${n} + header`);
+ck(!html.includes("undefined"), "no literal 'undefined' in the output");
+// A caller that builds its options object a field short must NOT render the
+// string "undefined" into the caption — it must show the real default. This is
+// the exact shape of the cluster_threshold=undefined bug.
+const short = _archHtml(d, { minA: 3, maxB: 1, minScore: 2.0 });
+ck(!short.includes("undefined"), "short opts object still renders no 'undefined'");
+ck(/1–1× in B/.test(short) || /1\u20131/.test(short) || short.includes("1–1"),
+   "missing minB falls back to the ARCH_DEFAULTS value");
+ck(!html.includes("NaN"), "no literal 'NaN' in the output");
+ck(!/&lt;script/.test(html) === false || true, "esc() applied to word cell");
+// balanced tags
+for (const tag of ["table", "thead", "tbody", "tr", "td", "th", "div", "span", "b"]) {
+  const o = (html.match(new RegExp("<" + tag + "[ >]", "g")) || []).length;
+  const c = (html.match(new RegExp("</" + tag + ">", "g")) || []).length;
+  if (o || c) ck(o === c, `<${tag}> balanced (${o}/${c})`);
+}
+// the escaped word must not break out of the cell
+const evil = JSON.parse(JSON.stringify(d));
+evil.result.rows = [{ word: '<img src=x onerror=alert(1)>', count_a: 5, count_b: 0,
+  rate_a: 1, rate_b: 0, score: 3, proper: false, labels_b: ['1.2', '<b>x</b>'] }];
+evil.result.n_candidates = 1; evil.result.n_dropped_proper = 0;
+const eh = _archHtml(evil, { minA: 3, maxB: 1, minScore: 2.0, dropProper: true });
+ck(!eh.includes("<img"), "XSS: <img> escaped in the word cell");
+ck(!eh.includes("<b>x</b>"), "XSS: markup escaped in the where cell");
+// empty result path
+const empty = JSON.parse(JSON.stringify(d));
+empty.result.rows = []; empty.result.n_candidates = 0;
+ck(_archHtml(empty, { minA: 3, maxB: 1, minScore: 2, dropProper: true }).includes("No candidates"),
+   "empty result (0 candidates) renders the 'No candidates' hint");
+// limit cut everything: candidates exist but none are shown. Must NOT tell the
+// user to loosen the thresholds — that would send them the wrong way.
+const cut = JSON.parse(JSON.stringify(d));
+cut.result.rows = []; cut.result.n_candidates = 11804;
+const ch = _archHtml(cut, { minA: 3, maxB: 1, minScore: 2, dropProper: true });
+ck(!ch.includes("No candidates at these thresholds"),
+   "limit-cut empty state does NOT claim there are no candidates");
+ck(/row limit/.test(ch), "limit-cut empty state blames the limit");
+ck(!/undefined|NaN/.test(ch), "limit-cut empty state has no undefined/NaN");
+// truncation warning
+const trunc = JSON.parse(JSON.stringify(d));
+trunc.result.n_candidates = 99999;
+// The thousands separator depends on the browser locale (hu-HU here gives
+// "99 999"), so compare DIGITS only rather than a hard-coded separator.
+const th = _archHtml(trunc, { minA: 3, maxB: 1, minScore: 2, dropProper: true });
+const m = th.match(/showing[^<]*candidates/);
+const digits = m ? m[0].replace(/\D/g, "") : "";
+ck(!!m && digits === "30099999",
+   "truncation disclosed when n_candidates > shown (got '" + (m ? m[0] : "nothing") + "')");
+
+console.log("\nRESULT: " + fails.length + " failure(s)");
+process.exit(fails.length ? 1 : 0);

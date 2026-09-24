@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολίχνη</form>
+	<date>Tue Jul 26 23:32:34 EDT 2011</date>
+	<count>115</count>
+	<per10K>0.243</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>102</count>
+		<senses>
+			<senseContainer>
+				<sense>small town</sense>
+				<count>25</count>
+				<prob>0.245</prob>
+				<loglikelihood>83.330</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.920</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>small city</sense>
+				<count>7</count>
+				<prob>0.069</prob>
+				<loglikelihood>21.777</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἵππος</form>
+	<date>Wed Jul 27 03:10:23 EDT 2011</date>
+	<count>2212</count>
+	<per10K>4.669</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>2349</count>
+		<senses>
+			<senseContainer>
+				<sense>horse</sense>
+				<count>1720</count>
+				<prob>0.732</prob>
+				<loglikelihood>5413.991</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cavalry</sense>
+				<count>74</count>
+				<prob>0.032</prob>
+				<loglikelihood>32.900</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>chariot</sense>
+				<count>56</count>
+				<prob>0.024</prob>
+				<loglikelihood>19.661</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.732</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mare</sense>
+				<count>55</count>
+				<prob>0.023</prob>
+				<loglikelihood>129.892</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐλαύνω</original>
+				<trans>drive horses</trans>
+				<loglikelihood>5.89</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ζεύγνυμι</original>
+				<trans>yoked horses</trans>
+				<loglikelihood>3.72</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιβαίνω</original>
+				<trans>mount horseback</trans>
+				<loglikelihood>2.99</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>μῶνυξ</original>
+				<trans>single-hooved horses</trans>
+				<loglikelihood>135.97</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὠκύς</original>
+				<trans>swift horses</trans>
+				<loglikelihood>58.49</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καλλίθριξ</original>
+				<trans>fair-maned horses</trans>
+				<loglikelihood>53.83</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὠκύπους</original>
+				<trans>swift-footed horses</trans>
+				<loglikelihood>44.46</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δούρειος</original>
+				<trans>wooden horse</trans>
+				<loglikelihood>21.75</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἀθλοφόρος</original>
+				<trans>horses, winners</trans>
+				<loglikelihood>13.97</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κέλης</original>
+				<trans>horse-race</trans>
+				<loglikelihood>10.42</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θυμοειδής</original>
+				<trans>spirited horse</trans>
+				<loglikelihood>4.33</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἰαῖ</form>
+	<date>Tue Jul 26 23:34:29 EDT 2011</date>
+	<count>121</count>
+	<per10K>0.255</per10K>
+	<posContainer>
+		<pos>exclam</pos>
+		<count>155</count>
+		<senses>
+			<senseContainer>
+				<sense>alas</sense>
+				<count>42</count>
+				<prob>0.271</prob>
+				<loglikelihood>25.101</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.690</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alas !</sense>
+				<count>17</count>
+				<prob>0.110</prob>
+				<loglikelihood>21.807</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.647</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἶδα</form>
+	<date>Wed Jul 27 05:42:48 EDT 2011</date>
+	<count>5936</count>
+	<per10K>12.529</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>5084</count>
+		<senses>
+			<senseContainer>
+				<sense>know</sense>
+				<count>2854</count>
+				<prob>0.561</prob>
+				<loglikelihood>5655.595</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>knowledge</sense>
+				<count>131</count>
+				<prob>0.026</prob>
+				<loglikelihood>59.374</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>i know</trans>
+				<loglikelihood>3.46</loglikelihood>
+				<count>236</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>χάρις</original>
+				<trans>you grateful</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄνειαρ</form>
+	<date>Tue Jul 26 22:52:15 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>good cheer</sense>
+				<count>15</count>
+				<prob>0.441</prob>
+				<loglikelihood>19.565</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πρόκειμαι</original>
+				<trans>good cheer lying</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόσειμι</form>
+	<date>Wed Jul 27 00:57:08 EDT 2011</date>
+	<count>525</count>
+	<per10K>1.108</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>455</count>
+		<senses>
+			<senseContainer>
+				<sense>approach</sense>
+				<count>50</count>
+				<prob>0.110</prob>
+				<loglikelihood>21.562</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.420</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιδικάζω</form>
+	<date>Tue Jul 26 23:02:40 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>adjudicate</sense>
+				<count>10</count>
+				<prob>0.244</prob>
+				<loglikelihood>17.391</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>adjudication</sense>
+				<count>6</count>
+				<prob>0.146</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

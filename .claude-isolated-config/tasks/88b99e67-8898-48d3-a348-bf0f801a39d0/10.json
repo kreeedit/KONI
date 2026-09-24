@@ -1,0 +1,9 @@
+{
+  "id": "10",
+  "subject": "Lexicon builder (scripts/build_lexicon.py)",
+  "description": "Resumable fetch of the 27 LSJ slices, iterparse extraction of a compact reading-aid index (headword, POS, first senses, truncated), beta→Unicode, JSON per slice + combined, provenance (commit SHA, CC BY-SA attribution).",
+  "activeForm": "Building the lexicon index",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

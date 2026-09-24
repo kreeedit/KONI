@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀόρατος</form>
+	<date>Tue Jul 26 22:44:39 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>invisible</sense>
+				<count>16</count>
+				<prob>0.372</prob>
+				<loglikelihood>19.320</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

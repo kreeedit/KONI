@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀλκμήνη</form>
+	<date>Tue Jul 26 23:12:59 EDT 2011</date>
+	<count>74</count>
+	<per10K>0.156</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>alcmene</sense>
+				<count>12</count>
+				<prob>0.480</prob>
+				<loglikelihood>26.181</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alcmena</sense>
+				<count>10</count>
+				<prob>0.400</prob>
+				<loglikelihood>11.428</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

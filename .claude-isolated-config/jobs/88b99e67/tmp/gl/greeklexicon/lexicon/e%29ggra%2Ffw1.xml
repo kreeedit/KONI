@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐγγράφω</form>
+	<date>Tue Jul 26 23:58:05 EDT 2011</date>
+	<count>187</count>
+	<per10K>0.395</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>146</count>
+		<senses>
+			<senseContainer>
+				<sense>register</sense>
+				<count>18</count>
+				<prob>0.123</prob>
+				<loglikelihood>17.048</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inscribed on</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>6.399</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>registered as</sense>
+				<count>3</count>
+				<prob>0.021</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

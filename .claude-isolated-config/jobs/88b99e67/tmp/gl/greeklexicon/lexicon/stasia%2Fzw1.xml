@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στασιάζω</form>
+	<date>Wed Jul 27 00:06:45 EDT 2011</date>
+	<count>233</count>
+	<per10K>0.492</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>167</count>
+		<senses>
+			<senseContainer>
+				<sense>faction</sense>
+				<count>20</count>
+				<prob>0.120</prob>
+				<loglikelihood>10.521</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>party strife</sense>
+				<count>4</count>
+				<prob>0.024</prob>
+				<loglikelihood>5.817</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

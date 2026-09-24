@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐλευθερία</form>
+	<date>Wed Jul 27 00:56:58 EDT 2011</date>
+	<count>524</count>
+	<per10K>1.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>601</count>
+		<senses>
+			<senseContainer>
+				<sense>freedom</sense>
+				<count>265</count>
+				<prob>0.441</prob>
+				<loglikelihood>614.451</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>liberty</sense>
+				<count>178</count>
+				<prob>0.296</prob>
+				<loglikelihood>432.392</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.416</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

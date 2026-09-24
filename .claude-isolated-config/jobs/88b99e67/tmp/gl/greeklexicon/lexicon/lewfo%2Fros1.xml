@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λεωφόρος</form>
+	<date>Tue Jul 26 22:43:56 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>28</count>
+		<senses>
+			<senseContainer>
+				<sense>highway</sense>
+				<count>16</count>
+				<prob>0.571</prob>
+				<loglikelihood>34.133</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>high road</sense>
+				<count>4</count>
+				<prob>0.143</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

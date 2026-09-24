@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χείρ</form>
+	<date>Wed Jul 27 03:52:03 EDT 2011</date>
+	<count>2803</count>
+	<per10K>5.916</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>3136</count>
+		<senses>
+			<senseContainer>
+				<sense>hand</sense>
+				<count>2063</count>
+				<prob>0.658</prob>
+				<loglikelihood>5496.671</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.314</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>arm</sense>
+				<count>159</count>
+				<prob>0.051</prob>
+				<loglikelihood>73.867</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.352</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἰάλλω</original>
+				<trans>they put forth their hands</trans>
+				<loglikelihood>31.92</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκτείνω</original>
+				<trans>stretched out his hand</trans>
+				<loglikelihood>7.38</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιβάλλω</original>
+				<trans>laid hands</trans>
+				<loglikelihood>6.46</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀρέγω</original>
+				<trans>stretched out hands</trans>
+				<loglikelihood>6.01</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνατείνω</original>
+				<trans>stretched out his hands</trans>
+				<loglikelihood>5.57</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>προσφέρω</original>
+				<trans>such vessels hands</trans>
+				<loglikelihood>5.38</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>πετάννυμι</original>
+				<trans>null</trans>
+				<loglikelihood>4.74</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνέχω</original>
+				<trans>lifted up his hands</trans>
+				<loglikelihood>4.33</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποκόπτω</original>
+				<trans>cut off hand</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>from the hands</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>140</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>into the hands</trans>
+				<loglikelihood>2.78</loglikelihood>
+				<count>230</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἄαπτος</original>
+				<trans>invincible hands</trans>
+				<loglikelihood>71.90</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δεξιτερός</original>
+				<trans>right hand</trans>
+				<loglikelihood>42.00</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στιβαρός</original>
+				<trans>strong hands</trans>
+				<loglikelihood>21.14</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παχύς</original>
+				<trans>his stout hand</trans>
+				<loglikelihood>5.87</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λαιός</original>
+				<trans>left hand</trans>
+				<loglikelihood>5.41</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ὕπερθεν</original>
+				<trans>his hands above</trans>
+				<loglikelihood>3.28</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δεξιός</original>
+				<trans>right hand</trans>
+				<loglikelihood>3.27</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀριστερός</original>
+				<trans>left hand</trans>
+				<loglikelihood>2.90</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφότερος</original>
+				<trans>both hands</trans>
+				<loglikelihood>2.76</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

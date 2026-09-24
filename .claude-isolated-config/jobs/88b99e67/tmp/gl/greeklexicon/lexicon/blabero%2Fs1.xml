@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βλαβερός</form>
+	<date>Tue Jul 26 23:26:22 EDT 2011</date>
+	<count>102</count>
+	<per10K>0.215</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>harmful</sense>
+				<count>32</count>
+				<prob>0.416</prob>
+				<loglikelihood>53.192</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.438</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.438</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hurtful</sense>
+				<count>6</count>
+				<prob>0.078</prob>
+				<loglikelihood>11.076</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mischievous</sense>
+				<count>6</count>
+				<prob>0.078</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>most harmful</sense>
+				<count>3</count>
+				<prob>0.039</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>6</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

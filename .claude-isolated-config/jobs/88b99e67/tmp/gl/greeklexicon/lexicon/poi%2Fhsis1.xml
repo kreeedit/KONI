@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποίησις</form>
+	<date>Wed Jul 27 00:35:31 EDT 2011</date>
+	<count>395</count>
+	<per10K>0.834</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>236</count>
+		<senses>
+			<senseContainer>
+				<sense>poetry</sense>
+				<count>65</count>
+				<prob>0.275</prob>
+				<loglikelihood>128.985</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.431</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>adoption</sense>
+				<count>33</count>
+				<prob>0.140</prob>
+				<loglikelihood>65.003</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.667</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

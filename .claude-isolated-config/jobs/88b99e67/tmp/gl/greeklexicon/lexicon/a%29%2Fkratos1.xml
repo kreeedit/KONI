@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄκρατος</form>
+	<date>Tue Jul 26 23:05:10 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>83</count>
+		<senses>
+			<senseContainer>
+				<sense>unmixed</sense>
+				<count>16</count>
+				<prob>0.193</prob>
+				<loglikelihood>30.116</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.438</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unmitigated</sense>
+				<count>4</count>
+				<prob>0.048</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unblended</sense>
+				<count>3</count>
+				<prob>0.036</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unmixed wine</sense>
+				<count>3</count>
+				<prob>0.036</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

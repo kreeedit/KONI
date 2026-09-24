@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἰώνιος</form>
+	<date>Tue Jul 26 23:00:16 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>eternal</sense>
+				<count>37</count>
+				<prob>0.389</prob>
+				<loglikelihood>35.098</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.811</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ζωή</original>
+				<trans>eternal life</trans>
+				<loglikelihood>3.32</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

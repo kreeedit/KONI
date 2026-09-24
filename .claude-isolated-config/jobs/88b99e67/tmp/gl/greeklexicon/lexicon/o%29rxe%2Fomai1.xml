@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀρχέομαι</form>
+	<date>Tue Jul 26 23:15:59 EDT 2011</date>
+	<count>82</count>
+	<per10K>0.173</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>dance</sense>
+				<count>41</count>
+				<prob>0.641</prob>
+				<loglikelihood>28.131</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.341</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

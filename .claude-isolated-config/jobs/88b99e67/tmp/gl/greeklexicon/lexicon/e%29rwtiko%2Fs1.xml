@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρωτικός</form>
+	<date>Tue Jul 26 23:15:29 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>53</count>
+		<senses>
+			<senseContainer>
+				<sense>love - matters</sense>
+				<count>7</count>
+				<prob>0.132</prob>
+				<loglikelihood>27.999</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>love -</sense>
+				<count>4</count>
+				<prob>0.075</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>17</count>
+		<senses>
+			<senseContainer>
+				<sense>amorous</sense>
+				<count>4</count>
+				<prob>0.235</prob>
+				<loglikelihood>5.818</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

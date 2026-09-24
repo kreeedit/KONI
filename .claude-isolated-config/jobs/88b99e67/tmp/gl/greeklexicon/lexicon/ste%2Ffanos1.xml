@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στέφανος</form>
+	<date>Wed Jul 27 00:43:29 EDT 2011</date>
+	<count>450</count>
+	<per10K>0.95</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>545</count>
+		<senses>
+			<senseContainer>
+				<sense>crown</sense>
+				<count>232</count>
+				<prob>0.426</prob>
+				<loglikelihood>406.819</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stephanus</sense>
+				<count>87</count>
+				<prob>0.160</prob>
+				<loglikelihood>293.868</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.943</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>garland</sense>
+				<count>63</count>
+				<prob>0.116</prob>
+				<loglikelihood>135.638</loglikelihood>
+				<authorContainer>
+					<author><name>Pindar</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wreath</sense>
+				<count>15</count>
+				<prob>0.028</prob>
+				<loglikelihood>17.294</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>στεφανόω</original>
+				<trans>crowned with a golden crown</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

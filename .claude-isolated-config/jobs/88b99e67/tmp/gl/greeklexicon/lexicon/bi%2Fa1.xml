@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βία</form>
+	<date>Wed Jul 27 01:24:12 EDT 2011</date>
+	<count>738</count>
+	<per10K>1.558</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>793</count>
+		<senses>
+			<senseContainer>
+				<sense>by force</sense>
+				<count>135</count>
+				<prob>0.170</prob>
+				<loglikelihood>396.030</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>force</sense>
+				<count>102</count>
+				<prob>0.129</prob>
+				<loglikelihood>24.295</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>violence</sense>
+				<count>58</count>
+				<prob>0.073</prob>
+				<loglikelihood>49.035</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>strength</sense>
+				<count>29</count>
+				<prob>0.037</prob>
+				<loglikelihood>4.844</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.724</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>forcible</sense>
+				<count>29</count>
+				<prob>0.037</prob>
+				<loglikelihood>61.126</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.517</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mighty</sense>
+				<count>23</count>
+				<prob>0.029</prob>
+				<loglikelihood>3.925</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.609</relativeFreq></author>
+					<author><name>Hesiod</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>violent</sense>
+				<count>21</count>
+				<prob>0.026</prob>
+				<loglikelihood>8.293</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>under compulsion</sense>
+				<count>20</count>
+				<prob>0.025</prob>
+				<loglikelihood>39.974</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

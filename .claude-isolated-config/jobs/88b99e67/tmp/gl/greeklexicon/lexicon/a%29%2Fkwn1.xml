@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄκων</form>
+	<date>Wed Jul 27 00:11:38 EDT 2011</date>
+	<count>265</count>
+	<per10K>0.559</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>233</count>
+		<senses>
+			<senseContainer>
+				<sense>involuntary</sense>
+				<count>52</count>
+				<prob>0.223</prob>
+				<loglikelihood>61.788</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.635</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unintentional</sense>
+				<count>15</count>
+				<prob>0.064</prob>
+				<loglikelihood>39.125</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reluctant</sense>
+				<count>7</count>
+				<prob>0.030</prob>
+				<loglikelihood>4.258</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unwitting</sense>
+				<count>6</count>
+				<prob>0.026</prob>
+				<loglikelihood>4.498</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

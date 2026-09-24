@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φαεινός</form>
+	<date>Tue Jul 26 23:36:47 EDT 2011</date>
+	<count>127</count>
+	<per10K>0.268</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>bright</sense>
+				<count>38</count>
+				<prob>0.400</prob>
+				<loglikelihood>31.907</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.921</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bright spear</sense>
+				<count>15</count>
+				<prob>0.158</prob>
+				<loglikelihood>59.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shine</sense>
+				<count>13</count>
+				<prob>0.137</prob>
+				<loglikelihood>5.876</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>δόρυ</original>
+				<trans>with his bright spear</trans>
+				<loglikelihood>3.87</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

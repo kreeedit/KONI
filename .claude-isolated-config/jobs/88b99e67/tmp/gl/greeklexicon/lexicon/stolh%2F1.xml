@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στολή</form>
+	<date>Tue Jul 26 23:38:48 EDT 2011</date>
+	<count>133</count>
+	<per10K>0.281</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>78</count>
+		<senses>
+			<senseContainer>
+				<sense>garment</sense>
+				<count>16</count>
+				<prob>0.205</prob>
+				<loglikelihood>4.195</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

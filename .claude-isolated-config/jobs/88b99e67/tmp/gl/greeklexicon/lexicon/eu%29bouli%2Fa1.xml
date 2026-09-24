@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐβουλία</form>
+	<date>Tue Jul 26 22:57:10 EDT 2011</date>
+	<count>47</count>
+	<per10K>0.099</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>good counsel</sense>
+				<count>10</count>
+				<prob>0.169</prob>
+				<loglikelihood>33.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deliberative excellence</sense>
+				<count>6</count>
+				<prob>0.102</prob>
+				<loglikelihood>17.999</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

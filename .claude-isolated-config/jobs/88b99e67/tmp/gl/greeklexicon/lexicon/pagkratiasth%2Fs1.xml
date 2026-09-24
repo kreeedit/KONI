@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παγκρατιαστής</form>
+	<date>Tue Jul 26 22:40:11 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>14</count>
+		<senses>
+			<senseContainer>
+				<sense>pancratiast</sense>
+				<count>9</count>
+				<prob>0.643</prob>
+				<loglikelihood>19.059</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

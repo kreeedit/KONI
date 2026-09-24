@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παρανομία</form>
+	<date>Tue Jul 26 23:22:24 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>149</count>
+		<senses>
+			<senseContainer>
+				<sense>transgression</sense>
+				<count>21</count>
+				<prob>0.141</prob>
+				<loglikelihood>24.495</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.810</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lawlessness</sense>
+				<count>15</count>
+				<prob>0.101</prob>
+				<loglikelihood>23.681</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

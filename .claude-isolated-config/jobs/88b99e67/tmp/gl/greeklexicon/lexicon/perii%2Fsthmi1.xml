@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περιίστημι</form>
+	<date>Wed Jul 27 00:02:04 EDT 2011</date>
+	<count>204</count>
+	<per10K>0.431</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>194</count>
+		<senses>
+			<senseContainer>
+				<sense>stood about</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

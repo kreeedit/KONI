@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταλείπω</form>
+	<date>Wed Jul 27 02:10:17 EDT 2011</date>
+	<count>1294</count>
+	<per10K>2.731</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>983</count>
+		<senses>
+			<senseContainer>
+				<sense>leave</sense>
+				<count>166</count>
+				<prob>0.169</prob>
+				<loglikelihood>91.069</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>left behind</sense>
+				<count>73</count>
+				<prob>0.074</prob>
+				<loglikelihood>119.636</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bequeath</sense>
+				<count>37</count>
+				<prob>0.038</prob>
+				<loglikelihood>62.167</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>leave behind</sense>
+				<count>23</count>
+				<prob>0.023</prob>
+				<loglikelihood>60.419</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

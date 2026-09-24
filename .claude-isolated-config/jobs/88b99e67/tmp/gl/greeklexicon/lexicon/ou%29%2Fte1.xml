@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὔτε</form>
+	<date>Wed Jul 27 06:11:12 EDT 2011</date>
+	<count>7086</count>
+	<per10K>14.956</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>2824</count>
+		<senses>
+			<senseContainer>
+				<sense>nor</sense>
+				<count>584</count>
+				<prob>0.207</prob>
+				<loglikelihood>267.117</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>or</sense>
+				<count>421</count>
+				<prob>0.149</prob>
+				<loglikelihood>36.347</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>neither</sense>
+				<count>371</count>
+				<prob>0.131</prob>
+				<loglikelihood>252.066</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>not</sense>
+				<count>322</count>
+				<prob>0.114</prob>
+				<loglikelihood>10.969</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no</sense>
+				<count>183</count>
+				<prob>0.065</prob>
+				<loglikelihood>10.252</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>either</sense>
+				<count>175</count>
+				<prob>0.062</prob>
+				<loglikelihood>53.711</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

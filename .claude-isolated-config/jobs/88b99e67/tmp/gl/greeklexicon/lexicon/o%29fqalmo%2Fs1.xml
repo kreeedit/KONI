@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀφθαλμός</form>
+	<date>Wed Jul 27 01:05:54 EDT 2011</date>
+	<count>596</count>
+	<per10K>1.258</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>627</count>
+		<senses>
+			<senseContainer>
+				<sense>eye</sense>
+				<count>462</count>
+				<prob>0.737</prob>
+				<loglikelihood>749.934</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mine eyes</sense>
+				<count>13</count>
+				<prob>0.021</prob>
+				<loglikelihood>48.272</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐκκόπτω</original>
+				<trans>out eyes</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>8</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

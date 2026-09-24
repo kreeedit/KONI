@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐτόχθων</form>
+	<date>Tue Jul 26 23:02:54 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>aboriginal</sense>
+				<count>18</count>
+				<prob>0.295</prob>
+				<loglikelihood>64.798</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>indigenous</sense>
+				<count>4</count>
+				<prob>0.066</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>aborigine</sense>
+				<count>4</count>
+				<prob>0.066</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

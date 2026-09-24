@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μετοικέω</form>
+	<date>Tue Jul 26 23:06:36 EDT 2011</date>
+	<count>62</count>
+	<per10K>0.131</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>migrate</sense>
+				<count>10</count>
+				<prob>0.172</prob>
+				<loglikelihood>10.256</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

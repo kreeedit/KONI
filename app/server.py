@@ -8,23 +8,51 @@ Routes:
   GET /api/author/<aid>               -> one author + works
   GET /api/text/<aid>/<wid>/sections  -> section index for the reader
   GET /api/text/<aid>/<wid>/section/<idx> -> one section's blocks
+  GET /api/archaism/<a1>/<w1>/<a2>/<w2>  -> lexical rarity, style register,
+                                            lemma aggregation, or the
+                                            three-corpus Koine contrast
+                                            (?mode=lexical|style|lemma|koine,
+                                             &ref=<aid>/<wid> for koine)
+  GET /api/loci/<a1>/<w1>/<a2>/<w2>?word=     -> keyword-in-context in both
+  GET /api/ngrams/<a1>/<w1>/<a2>/<w2>?word=   -> 2-/3-gram phraseology
+  GET /api/parallel/<a1>/<w1>/<a2>/<w2>?word=&label=&index= -> parallels in A
+  GET /api/lexicon?word=              -> the reading aid: an LSJ entry for a
+                                         form, plus the grammatical reading
+                                         that reached it (?pare= for the
+                                         occurrence count in a work pair)
+  GET /api/lexicon/info              -> whether the dictionary was built, and
+                                         the attribution it must carry
 
 Run:  python scripts/serve.py
 """
 from __future__ import annotations
 
 import json
+import math
 import mimetypes
 import re
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, unquote, urlparse
 
+from . import archaism_pure
 from . import canon
+from . import lemmas_pure
+from . import lexicon
+from . import loci_pure
 from . import repo
 from . import texts
 from . import sources
 from . import flame_pure
+from .flame_pure import normalize, words_elided
+from .variants import BY_NAME as VARIANT_RULES
+from .variants import unify as _variants_unify
+
+# The rule names the engine actually knows. The loci handler validates against
+# this rather than trusting the query string, so `rule=ξυ` (a pattern, not a
+# name) is a 400 with the real list instead of an empty result that looks like
+# "this work never uses it".
+VARIANT_RULE_NAMES = tuple(VARIANT_RULES)
 
 STATIC_DIR = Path(__file__).resolve().parent / "static"
 
@@ -50,6 +78,48 @@ def _work_meta(aid: str, wid: str) -> dict:
         "cts_urn": w.get("cts_urn"),
     }
 
+def _with_works(out: dict, a1: str, w1: str, a2: str, w2: str) -> dict:
+    """Attach the standard work descriptors to an evidence response.
+
+    work1/work2 are the EARLIER and YOUNGER work, in that order, exactly as in
+    /api/archaism. The evidence endpoints return them too so a panel can be
+    titled without a second round-trip, and so a response read on its own still
+    says which two works it is about.
+    """
+    out["work1"] = {"aid": a1, "wid": w1, "title": _work_title(a1, w1),
+                    "meta": _work_meta(a1, w1)}
+    out["work2"] = {"aid": a2, "wid": w2, "title": _work_title(a2, w2),
+                    "meta": _work_meta(a2, w2)}
+    return out
+
+
+def _qnum(q: dict, key: str, cast):
+    """Coerce a query-string number, returning None for absent OR unparsable.
+
+    The query string is user-editable, and a stale cached page can send the
+    literal string "undefined" or "NaN" (a client-side state object that lost
+    a field). Calling `float("undefined")` in the handler turned that into an
+    unhandled ValueError and a 500 — the request never reached the engine. A
+    junk value must fall back to the engine's own default instead.
+
+    Returns None (not 0) when absent, so a caller can keep the meaningful
+    `n_out=0` case distinct from "not supplied".
+    """
+    raw = q.get(key, "")
+    if raw == "":
+        return None
+    try:
+        v = cast(raw)
+    except (TypeError, ValueError):
+        return None
+    # float("nan")/float("inf") parse cleanly but are junk as hyper-parameters,
+    # and nan poisons every clamp it reaches (nan compares False against
+    # everything, so min/max silently keep the wrong bound).
+    if isinstance(v, float) and not math.isfinite(v):
+        return None
+    return v
+
+
 _ROUTES = [
     (r"^/api/health$", "health"),
     (r"^/api/authors$", "authors"),
@@ -57,6 +127,14 @@ _ROUTES = [
     (r"^/api/text/(\d{4})/(\d{3})/sections$", "sections"),
     (r"^/api/text/(\d{4})/(\d{3})/section/(\d+)$", "section"),
     (r"^/api/sources/(\d{4})/(\d{3})$", "sources"),
+    (r"^/api/archaism/(\d{4})/(\d{3})/(\d{4})/(\d{3})$", "archaism"),
+    # Evidence endpoints for a row of the archaism reports: the occurrences
+    # themselves, the parallels in the earlier work, and the phraseology.
+    (r"^/api/loci/(\d{4})/(\d{3})/(\d{4})/(\d{3})$", "loci"),
+    (r"^/api/parallel/(\d{4})/(\d{3})/(\d{4})/(\d{3})$", "parallel"),
+    (r"^/api/ngrams/(\d{4})/(\d{3})/(\d{4})/(\d{3})$", "ngrams"),
+    (r"^/api/lexicon$", "lexicon"),
+    (r"^/api/lexicon/info$", "lexicon_info"),
     (r"^/api/compare_stream$", "compare_stream"),
     (r"^/api/compare$", "compare"),
 ]
@@ -123,7 +201,9 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json({"ok": True, "authors": len(canon.canon())})
             if name == "authors":
                 q = query.get("q", "")
-                limit = int(query.get("limit", "50"))
+                limit = _qnum(query, "limit", int)
+                if limit is None:
+                    limit = 50
                 return self._json(canon.search(q, limit))
             if name == "author":
                 a = canon.get_author(m.group(1))
@@ -159,14 +239,22 @@ class Handler(BaseHTTPRequestHandler):
                         {"error": "one or both works have no readable text: "
                                   + ", ".join(missing)}, 404)
                 kw = {}
-                ng = q.get("ngram", ""); no = q.get("n_out", ""); ch = q.get("chain", "")
-                fz = q.get("fuzz", "")
-                st = q.get("similarity_threshold", q.get("threshold", ""))
-                if ng: kw["ngram"] = int(ng)
-                if no: kw["n_out"] = int(no)
-                if ch: kw["min_chain_words"] = int(ch)
-                if fz != "": kw["fuzz_threshold"] = float(fz)
-                if st != "": kw["similarity_threshold"] = float(st)
+                ng = _qnum(q, "ngram", int)
+                no = _qnum(q, "n_out", int)
+                ch = _qnum(q, "chain", int)
+                fz = _qnum(q, "fuzz", float)
+                ct = _qnum(q, "cluster_threshold", float)
+                cm = _qnum(q, "cluster_min", int)
+                st = _qnum(q, "similarity_threshold", float)
+                if st is None:
+                    st = _qnum(q, "threshold", float)
+                if ng is not None: kw["ngram"] = ng
+                if no is not None: kw["n_out"] = no
+                if ch is not None: kw["min_chain_words"] = ch
+                if fz is not None: kw["fuzz_threshold"] = fz
+                if ct is not None: kw["cluster_threshold"] = ct
+                if cm is not None: kw["cluster_min"] = cm
+                if st is not None: kw["similarity_threshold"] = st
                 self.send_response(200)
                 self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
                 self.send_header("Cache-Control", "no-store")
@@ -197,6 +285,327 @@ class Handler(BaseHTTPRequestHandler):
                         pass
                 return
 
+            if name == "archaism":
+                a1, w1, a2, w2 = m.group(1), m.group(2), m.group(3), m.group(4)
+                # window=False: the engine's comparison windows OVERLAP, so
+                # counting over them double-counts every boundary by a fraction
+                # that depends on each unit's length — it would inflate whichever
+                # work has the longer leaves and bias the contrast itself.
+                s1 = texts.section_texts(a1, w1, window=False)
+                s2 = texts.section_texts(a2, w2, window=False)
+                if s1 is None or s2 is None:
+                    missing = []
+                    if s1 is None: missing.append(f"{a1}.{w1}")
+                    if s2 is None: missing.append(f"{a2}.{w2}")
+                    return self._json(
+                        {"error": "one or both works have no readable text: "
+                                  + ", ".join(missing)}, 404)
+                kw = {}
+                for key, cast in (("min_a", int), ("min_b", int), ("max_b", int),
+                                  ("min_score", float), ("limit", int)):
+                    v = _qnum(query, key, cast)
+                    if v is not None:
+                        kw[key] = v
+                dp = query.get("drop_proper", "")
+                if dp != "":
+                    kw["drop_proper"] = dp.strip().lower() not in (
+                        "0", "false", "no", "off")
+                # `variants` selects the morphophonetic pooling (see
+                # app/variants.py). An unknown rule name is dropped rather than
+                # rejected, so a typo narrows the pooling instead of 500-ing;
+                # the selection actually applied comes back in the response, so
+                # the difference is visible rather than silent.
+                variants = archaism_pure.variants_names(query.get("variants", ""))
+                mode = (query.get("mode", "") or "lexical").strip().lower()
+                if mode not in ("lexical", "style", "lemma", "koine"):
+                    mode = "lexical"
+                reference = None
+                if mode == "koine":
+                    # REPORT 3 OF 3: the same vocabulary against a third,
+                    # CONTEMPORARY and NON-archaizing Koine work. The work is
+                    # resolved through the SAME `texts` path as work1/work2 —
+                    # First1KGreek is already wired in, so this needs no new
+                    # dependency and no new fetch layer. `ref` defaults to the
+                    # declared reference; a caller may pass any readable work
+                    # (`ref=2057/002` or `2057.002`) and the response says which
+                    # one it actually got.
+                    ref = (query.get("ref", "") or "").strip() or (
+                        f"{archaism_pure.KOINE_REFERENCE['aid']}"
+                        f"/{archaism_pure.KOINE_REFERENCE['wid']}")
+                    rm = re.match(r"^(\d{4})[/.](\d{3})$", ref)
+                    if not rm:
+                        return self._json(
+                            {"error": "ref must be <aid>/<wid>, e.g. 2057/002 — "
+                                      "a work id, not a URN"}, 400)
+                    ref_aid, ref_wid = rm.group(1), rm.group(2)
+                    s3 = texts.section_texts(ref_aid, ref_wid, window=False)
+                    if s3 is None:
+                        return self._json(
+                            {"error": f"the reference work {ref_aid}.{ref_wid} "
+                                      "has no readable text"}, 404)
+                    reference = dict(archaism_pure.KOINE_REFERENCE)
+                    default_ref = (f"{reference['aid']}/{reference['wid']}")
+                    reference.update({"aid": ref_aid, "wid": ref_wid,
+                                      "title": _work_title(ref_aid, ref_wid),
+                                      "meta": _work_meta(ref_aid, ref_wid)})
+                    if ref != default_ref:
+                        # The declared `why` argues for a specific work, so it
+                        # must not be shown next to a different one.
+                        reference["why"] = (
+                            "Caller-supplied reference work. The three-corpus "
+                            "test is only interpretable if this work is a "
+                            "CONTEMPORARY of work2 that does NOT archaize; "
+                            "nothing here can verify that.")
+                    kk = {"limit": kw.get("limit", 300),
+                          "drop_proper": kw.get("drop_proper", True)}
+                    if "min_a" in kw:
+                        kk["min_a"] = kw["min_a"]
+                    # min_b / max_b / min_score belong to `contrast`'s rarity
+                    # filter and have no meaning here — this report is not
+                    # ranked by that score, and passing them through would
+                    # filter on a column its rows do not carry.
+                    for key, cast in (("min_ac", float), ("min_bc", float),
+                                      ("min_revival", float)):
+                        v = _qnum(query, key, cast)
+                        if v is not None:
+                            kk[key] = v
+                    result = archaism_pure.koine_report(
+                        s1, s2, s3, variants=variants, reference=reference, **kk)
+                elif mode == "style":
+                    # REPORT 2: the spelling-choice register. Not a filter of
+                    # the first report — it answers a question the rarity
+                    # ranking structurally cannot (see variant_report).
+                    result = archaism_pure.variant_report(
+                        s1, s2, variants=variants,
+                        drop_proper=kw.get("drop_proper", True))
+                elif mode == "lemma":
+                    # REPORT 3: the same ranking one level up, with the
+                    # inflectional split repaired. `min_a` / `min_b` / `max_b`
+                    # / `min_score` are NOT passed through, because this report
+                    # is not ranked by `contrast`'s score and silently applying
+                    # the lexical thresholds to it would filter on a column
+                    # that is not in its rows (see lemma_report). `limit` and
+                    # `drop_proper` do mean the same thing on both.
+                    result = lemmas_pure.lemma_report(
+                        s1, s2, variants=variants,
+                        drop_proper=kw.get("drop_proper", True),
+                        limit=kw.get("limit", 300))
+                else:
+                    result = archaism_pure.report(s1, s2, variants=variants, **kw)
+                return self._json({
+                    # work1 is the EARLIER work, work2 the YOUNGER one. The
+                    # direction is the caller's to state — nothing here infers
+                    # a date, and swapping them answers a different question.
+                    "mode": mode,
+                    "work1": {"aid": a1, "wid": w1, "title": _work_title(a1, w1),
+                              "meta": _work_meta(a1, w1)},
+                    "work2": {"aid": a2, "wid": w2, "title": _work_title(a2, w2),
+                              "meta": _work_meta(a2, w2)},
+                    # Rule descriptions ride with the response so the UI builds
+                    # its toggles from the same source the engine reads, instead
+                    # of restating the rule names and drifting from them.
+                    "variants_available": archaism_pure.variants_describe(),
+                    # The DECLARED Koine reference rides on every response, not
+                    # only on mode=koine, so the UI's reference field is built
+                    # from the engine's declaration instead of restating the
+                    # work id and drifting from it.
+                    "koine_reference": archaism_pure.KOINE_REFERENCE,
+                    # Which work the third corpus actually was, for mode=koine;
+                    # null otherwise. Carried at the envelope level as well as
+                    # inside the result so a caller can render the header
+                    # without reaching into a report shape that differs by mode.
+                    "reference": reference,
+                    "result": result,
+                })
+
+            if name == "lexicon":
+                word = (query.get("word", "") or "").strip()
+                if not word:
+                    return self._json(
+                        {"error": "word= is required, e.g. "
+                              "?word=%E1%BC%94%CF%87%CF%89"}, 400)
+                hit = lexicon.lookup(word)
+                if hit is None:
+                    return self._json({"word": word, "found": False,
+                                   "available": lexicon.available()})
+                # Where does this form actually occur? Optional, because
+                # the panel is useful with the definition alone, and the
+                # corpus scan costs a pass over both works when asked for.
+                seen = []
+                for a, w in ((query.get("a1", ""), query.get("w1", "")),
+                         (query.get("a2", ""), query.get("w2", ""))):
+                    if not (re.match(r"^\d{4}$", a or "")
+                        and re.match(r"^\d{3}$", w or "")):
+                        continue
+                    secs = texts.section_texts(a, w, window=False) or []
+                    n = 0
+                    for s in secs:
+                        t = s.get("text") or ""
+                        n += sum(1 for x in flame_pure.words(t)
+                             if normalize(x) == hit["key"])
+                    seen.append({"aid": a, "wid": w, "count": n,
+                             "title": _work_title(a, w)})
+                return self._json({"word": word, "found": True,
+                               "occurrences": seen, **hit})
+            if name == "lexicon_info":
+                return self._json({**lexicon.available(),
+                               "describe": lexicon.describe()})
+            if name in ("loci", "parallel", "ngrams"):
+                a1, w1, a2, w2 = m.group(1), m.group(2), m.group(3), m.group(4)
+                # window=False, same as the archaism counts: the loci and the
+                # grams must be drawn from the SAME token stream the row's
+                # numbers were counted over, or the evidence cannot confirm the
+                # count it is displayed beside.
+                s1 = texts.section_texts(a1, w1, window=False)
+                s2 = texts.section_texts(a2, w2, window=False)
+                if s1 is None or s2 is None:
+                    missing = []
+                    if s1 is None: missing.append(f"{a1}.{w1}")
+                    if s2 is None: missing.append(f"{a2}.{w2}")
+                    return self._json(
+                        {"error": "one or both works have no readable text: "
+                                  + ", ".join(missing)}, 404)
+                variants = archaism_pure.variants_names(query.get("variants", ""))
+                # The client sends the DISPLAYED word (an accented surface form
+                # from the report). The pooling key — what the count was filed
+                # under — is derived here, from the same function the count
+                # used, so the two can never disagree about what a row is.
+                word = (query.get("word", "") or "").strip()
+                # A style-report row is a RULE, not a word: `ξυ` is not a word,
+                # and looking it up as one finds `σύ` ("you"). The rule name
+                # selects the token class the row is about, and it is validated
+                # against the engine's own registry so a made-up name is a 400
+                # rather than a silent empty result.
+                rule = (query.get("rule", "") or "").strip().lower()
+                if rule and rule not in VARIANT_RULE_NAMES:
+                    return self._json(
+                        {"error": f"unknown rule {rule!r}",
+                         "rules": list(VARIANT_RULE_NAMES)}, 400)
+                # `parallel` accepts a free passage instead of a word, and there
+                # the key is not needed at all — it only labels the panel. The
+                # other two are word- or rule-driven, so they require one.
+                if not word and not rule and name != "parallel":
+                    return self._json({"error": "word or rule required"}, 400)
+                if rule:
+                    word = word or rule
+                key = _variants_unify(normalize(word), variants) if word else ""
+                if word and not rule and not any(c.isalpha() for c in key):
+                    # A "word" of punctuation normalises to itself and would
+                    # silently match nothing; say so instead.
+                    return self._json(
+                        {"error": f"word {word!r} has no letters"}, 400)
+                # A LEMMA row is not looked up by its own string. `ὁπλίτης`
+                # occurs in the work as ὁπλίτας, ὁπλῖται, ὁπλιτῶν, and a key
+                # lookup on the headword would find only the handful of tokens
+                # that happen to be spelled in the nominative — returning loci
+                # that plainly do not add up to the count printed beside them.
+                # The keys come from the SAME analysis that produced the row,
+                # through the same index, so the two can never disagree about
+                # which tokens a lemma row is.
+                lemma_mode = (query.get("mode", "") or "").strip().lower() == "lemma"
+                if name == "loci":
+                    span = _qnum(query, "span", int)
+                    limit = _qnum(query, "limit", int)
+                    per = _qnum(query, "per_key", int)
+                    if rule:
+                        kw = {"variants": variants, "keys": set(), "rule": rule}
+                    elif lemma_mode:
+                        forms = lemmas_pure.key_forms(s1, s2, key, variants)
+                        kw = {"variants": variants,
+                              "keys": {_variants_unify(f, variants)
+                                       for f in forms}}
+                    else:
+                        kw = {"variants": variants, "keys": {key}}
+                    if lemma_mode and per is None:
+                        # A lemma row is many keys, and `kwic`'s own default
+                        # cap is 40 per key — with the article's 17 forms that
+                        # is 680 hits for one click. The cap stays PER FORM,
+                        # which is the right unit here: what it has to prevent
+                        # is one very frequent form filling the panel on its
+                        # own, and the paradigm is the point of the expansion.
+                        per = 20
+                    if span is not None: kw["span"] = max(1, min(span, 40))
+                    if limit is not None: kw["limit"] = max(1, min(limit, 2000))
+                    if per is not None: kw["per_key"] = max(1, min(per, 500))
+                    out = {"word": word, "rule": rule or None,
+                           "key": rule or key, "mode": "lemma" if lemma_mode
+                           else "lexical",
+                           "work_a": loci_pure.kwic(s1, **kw),
+                           "work_b": loci_pure.kwic(s2, **kw)}
+                    return self._json(_with_works(out, a1, w1, a2, w2))
+                if name == "ngrams":
+                    ng = _qnum(query, "n", int)
+                    limit = _qnum(query, "limit", int)
+                    mn = _qnum(query, "min_a", int)
+                    mx = _qnum(query, "max_b", int)
+                    ng = 3 if ng == 3 else 2        # 2/3-gram only, as specified
+                    lim = max(1, min(limit, 200)) if limit is not None else 60
+                    ta = loci_pure.ngram_table(s1, {key}, n=ng, variants=variants,
+                                               limit=lim)
+                    tb = loci_pure.ngram_table(s2, {key}, n=ng, variants=variants,
+                                               limit=lim)
+                    # Denominators for the rate are the WORKS' pooled token
+                    # totals, not the tables' own sums — a context table counts
+                    # each gram once per key it contains (see ngram_contrast).
+                    fa = archaism_pure.work_freq(s1, variants=variants)
+                    fb = archaism_pure.work_freq(s2, variants=variants)
+                    con = loci_pure.ngram_contrast(
+                        ta, tb,
+                        min_a=mn if mn is not None else 2,
+                        max_b=mx if mx is not None else 0,
+                        limit=lim,
+                        total_a=fa["total"], total_b=fb["total"])
+                    out = {"word": word, "key": key, "n": ng,
+                           "table_a": ta, "table_b": tb, "contrast": con,
+                           "n_a": fa["total"], "n_b": fb["total"]}
+                    return self._json(_with_works(out, a1, w1, a2, w2))
+                # parallel: one locus in B, ranked against A's sentences.
+                # Either an explicit (label, index) taken from a KWIC hit, or a
+                # free passage — the free form is what makes this usable for a
+                # phrase the user typed rather than clicked.
+                label = (query.get("label", "") or "").strip()
+                idx = _qnum(query, "index", int)
+                span = _qnum(query, "span", int)
+                nn = _qnum(query, "n", int)
+                mw = _qnum(query, "min_shared", int)
+                span = max(1, min(span, 40)) if span is not None else 10
+                qwords: list[str] = []
+                anchor = None
+                if label and idx is not None:
+                    for s in s2:
+                        if s.get("label", "") != label:
+                            continue
+                        # Same tokenization the KWIC hit was indexed with, or the
+                        # index the client clicked would point at a different
+                        # token here than it did there.
+                        toks = [w for w, el in
+                                words_elided(s.get("text", "")) if not el]
+                        if idx < 0 or idx >= len(toks):
+                            break
+                        lo = max(0, idx - span)
+                        qwords = toks[lo:idx + span + 1]
+                        anchor = {"label": label, "index": idx,
+                                  "hit": toks[idx],
+                                  "before": toks[lo:idx],
+                                  "after": toks[idx + 1:idx + span + 1]}
+                        break
+                    if anchor is None:
+                        return self._json(
+                            {"error": f"no locus {label!r} at index {idx} in "
+                                      f"{a2}.{w2}"}, 404)
+                else:
+                    qwords = (query.get("q", "") or "").split()
+                    anchor = {"text": " ".join(qwords)}
+                    if not qwords:
+                        return self._json(
+                            {"error": "either label+index or q required"}, 400)
+                kw2 = {"n": max(1, min(nn, 25)) if nn is not None else 5,
+                       "min_shared": max(0, min(mw, 10)) if mw is not None else 1}
+                out = {"word": word, "key": key, "span": span, "anchor": anchor,
+                       "query_words": qwords,
+                       "result": loci_pure.parallel_loci(s1, qwords, **kw2)}
+                return self._json(_with_works(out, a1, w1, a2, w2))
+
             if name == "compare":
                 q = query
                 a1, w1 = q.get("auth1", "").zfill(4), q.get("work1", "").zfill(3)
@@ -212,19 +621,25 @@ class Handler(BaseHTTPRequestHandler):
                     return self._json(
                         {"error": "one or both works have no readable text: "
                                   + ", ".join(missing)}, 404)
-                # live hyper-parameters (with safe defaults/clamps)
-                ng = q.get("ngram", "")
-                no = q.get("n_out", "")
-                ch = q.get("chain", "")
-                fz = q.get("fuzz", "")  # Levenshtein tolerance (Phase 2)
-                vs = q.get("vocab", "")  # deprecated (BPE removed); ignored
-                st = q.get("similarity_threshold", q.get("threshold", ""))
+                # live hyper-parameters (junk/absent values fall back to the
+                # engine defaults — see _qnum; the engine clamps the ranges)
+                ng = _qnum(q, "ngram", int)
+                no = _qnum(q, "n_out", int)
+                ch = _qnum(q, "chain", int)
+                fz = _qnum(q, "fuzz", float)                # Levenshtein tolerance
+                ct = _qnum(q, "cluster_threshold", float)   # topos clustering
+                cm = _qnum(q, "cluster_min", int)
+                st = _qnum(q, "similarity_threshold", float)
+                if st is None:
+                    st = _qnum(q, "threshold", float)
                 kw = {}
-                if ng: kw["ngram"] = int(ng)
-                if no: kw["n_out"] = int(no)
-                if ch: kw["min_chain_words"] = int(ch)
-                if fz != "": kw["fuzz_threshold"] = float(fz)
-                if st != "": kw["similarity_threshold"] = float(st)
+                if ng is not None: kw["ngram"] = ng
+                if no is not None: kw["n_out"] = no
+                if ch is not None: kw["min_chain_words"] = ch
+                if fz is not None: kw["fuzz_threshold"] = fz
+                if ct is not None: kw["cluster_threshold"] = ct
+                if cm is not None: kw["cluster_min"] = cm
+                if st is not None: kw["similarity_threshold"] = st
                 return self._json({
                     "work1": {"aid": a1, "wid": w1,
                               "title": _work_title(a1, w1),

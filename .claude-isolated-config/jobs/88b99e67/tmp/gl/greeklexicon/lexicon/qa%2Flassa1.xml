@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάλασσα</form>
+	<date>Wed Jul 27 03:11:47 EDT 2011</date>
+	<count>2225</count>
+	<per10K>4.696</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>2515</count>
+		<senses>
+			<senseContainer>
+				<sense>sea</sense>
+				<count>1851</count>
+				<prob>0.736</prob>
+				<loglikelihood>4612.554</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>coast</sense>
+				<count>98</count>
+				<prob>0.039</prob>
+				<loglikelihood>92.161</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.408</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>to the sea</trans>
+				<loglikelihood>6.29</loglikelihood>
+				<count>224</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>into the sea</trans>
+				<loglikelihood>3.05</loglikelihood>
+				<count>232</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>from the sea</trans>
+				<loglikelihood>2.38</loglikelihood>
+				<count>84</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πολύφλοισβος</original>
+				<trans>loud-resounding sea</trans>
+				<loglikelihood>39.96</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βόρειος</original>
+				<trans>northern sea</trans>
+				<loglikelihood>3.29</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

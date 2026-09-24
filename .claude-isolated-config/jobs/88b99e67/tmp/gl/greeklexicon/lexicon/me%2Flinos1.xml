@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέλινος</form>
+	<date>Tue Jul 26 22:44:32 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>ashen</sense>
+				<count>8</count>
+				<prob>0.381</prob>
+				<loglikelihood>19.692</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>millet</sense>
+				<count>6</count>
+				<prob>0.286</prob>
+				<loglikelihood>10.286</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

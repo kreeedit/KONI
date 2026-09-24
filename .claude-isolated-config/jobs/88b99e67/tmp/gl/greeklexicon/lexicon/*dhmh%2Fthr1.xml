@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Δημήτηρ</form>
+	<date>Wed Jul 27 00:08:21 EDT 2011</date>
+	<count>243</count>
+	<per10K>0.513</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>demeter</sense>
+				<count>32</count>
+				<prob>0.914</prob>
+				<loglikelihood>15.456</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βραχύς</form>
+	<date>Wed Jul 27 01:18:39 EDT 2011</date>
+	<count>689</count>
+	<per10K>1.454</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>597</count>
+		<senses>
+			<senseContainer>
+				<sense>short</sense>
+				<count>88</count>
+				<prob>0.147</prob>
+				<loglikelihood>58.363</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>brief</sense>
+				<count>71</count>
+				<prob>0.119</prob>
+				<loglikelihood>100.753</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>small</sense>
+				<count>43</count>
+				<prob>0.072</prob>
+				<loglikelihood>6.556</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.326</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

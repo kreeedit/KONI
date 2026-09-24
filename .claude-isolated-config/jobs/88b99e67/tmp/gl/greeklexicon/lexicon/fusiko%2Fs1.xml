@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φυσικός</form>
+	<date>Tue Jul 26 23:47:03 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>85</count>
+		<senses>
+			<senseContainer>
+				<sense>physicist</sense>
+				<count>5</count>
+				<prob>0.059</prob>
+				<loglikelihood>9.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>16</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

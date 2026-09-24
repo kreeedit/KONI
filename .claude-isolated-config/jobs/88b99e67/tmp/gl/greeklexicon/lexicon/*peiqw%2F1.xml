@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πειθώ</form>
+	<date>Tue Jul 26 23:24:23 EDT 2011</date>
+	<count>97</count>
+	<per10K>0.205</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>83</count>
+		<senses>
+			<senseContainer>
+				<sense>persuasion</sense>
+				<count>48</count>
+				<prob>0.578</prob>
+				<loglikelihood>49.544</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὕπνος</form>
+	<date>Wed Jul 27 00:29:44 EDT 2011</date>
+	<count>358</count>
+	<per10K>0.756</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>359</count>
+		<senses>
+			<senseContainer>
+				<sense>sleep</sense>
+				<count>280</count>
+				<prob>0.780</prob>
+				<loglikelihood>525.190</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.379</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>asleep</sense>
+				<count>27</count>
+				<prob>0.075</prob>
+				<loglikelihood>25.563</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>νήδυμος</original>
+				<trans>sweet sleep</trans>
+				<loglikelihood>30.76</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γλυκύς</original>
+				<trans>sweet sleep</trans>
+				<loglikelihood>9.86</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

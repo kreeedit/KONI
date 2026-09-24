@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παραμυθέομαι</form>
+	<date>Tue Jul 26 23:06:57 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>40</count>
+		<senses>
+			<senseContainer>
+				<sense>console</sense>
+				<count>4</count>
+				<prob>0.100</prob>
+				<loglikelihood>7.111</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

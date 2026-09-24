@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μνῆμα</form>
+	<date>Wed Jul 27 00:18:09 EDT 2011</date>
+	<count>296</count>
+	<per10K>0.625</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>289</count>
+		<senses>
+			<senseContainer>
+				<sense>tomb</sense>
+				<count>189</count>
+				<prob>0.654</prob>
+				<loglikelihood>245.022</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.730</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>monument</sense>
+				<count>36</count>
+				<prob>0.125</prob>
+				<loglikelihood>58.893</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.417</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐνθάδε</form>
+	<date>Wed Jul 27 01:19:04 EDT 2011</date>
+	<count>695</count>
+	<per10K>1.467</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>730</count>
+		<senses>
+			<senseContainer>
+				<sense>here</sense>
+				<count>447</count>
+				<prob>0.612</prob>
+				<loglikelihood>290.566</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hither</sense>
+				<count>48</count>
+				<prob>0.066</prob>
+				<loglikelihood>50.303</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρουρα</form>
+	<date>Tue Jul 26 23:20:03 EDT 2011</date>
+	<count>90</count>
+	<per10K>0.19</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>113</count>
+		<senses>
+			<senseContainer>
+				<sense>field</sense>
+				<count>42</count>
+				<prob>0.372</prob>
+				<loglikelihood>17.037</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.381</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ζείδωρος</original>
+				<trans>giver of grain</trans>
+				<loglikelihood>72.00</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

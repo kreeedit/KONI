@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συλλογισμός</form>
+	<date>Tue Jul 26 23:25:58 EDT 2011</date>
+	<count>101</count>
+	<per10K>0.213</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>72</count>
+		<senses>
+			<senseContainer>
+				<sense>syllogism</sense>
+				<count>43</count>
+				<prob>0.597</prob>
+				<loglikelihood>98.610</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.535</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.465</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

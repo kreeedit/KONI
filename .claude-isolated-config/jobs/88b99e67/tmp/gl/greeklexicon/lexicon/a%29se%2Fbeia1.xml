@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀσέβεια</form>
+	<date>Tue Jul 26 23:27:46 EDT 2011</date>
+	<count>104</count>
+	<per10K>0.22</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>impiety</sense>
+				<count>77</count>
+				<prob>0.554</prob>
+				<loglikelihood>124.808</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

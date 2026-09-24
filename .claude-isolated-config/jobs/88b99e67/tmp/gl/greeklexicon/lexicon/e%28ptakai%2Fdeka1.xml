@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑπτακαίδεκα</form>
+	<date>Tue Jul 26 22:47:13 EDT 2011</date>
+	<count>33</count>
+	<per10K>0.07</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>38</count>
+		<senses>
+			<senseContainer>
+				<sense>seventeen</sense>
+				<count>26</count>
+				<prob>0.684</prob>
+				<loglikelihood>61.453</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

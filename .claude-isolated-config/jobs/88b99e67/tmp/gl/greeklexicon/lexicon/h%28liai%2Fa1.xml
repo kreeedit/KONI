@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡλιαία</form>
+	<date>Tue Jul 26 22:34:46 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>heliaea</sense>
+				<count>6</count>
+				<prob>0.316</prob>
+				<loglikelihood>20.571</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

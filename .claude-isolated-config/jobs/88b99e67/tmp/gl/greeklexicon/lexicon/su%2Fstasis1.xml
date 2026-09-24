@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύστασις</form>
+	<date>Tue Jul 26 22:55:06 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>structure</sense>
+				<count>11</count>
+				<prob>0.143</prob>
+				<loglikelihood>9.489</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.636</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

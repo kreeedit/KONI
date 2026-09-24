@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κόλπος</form>
+	<date>Wed Jul 27 00:41:08 EDT 2011</date>
+	<count>435</count>
+	<per10K>0.918</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>479</count>
+		<senses>
+			<senseContainer>
+				<sense>gulf</sense>
+				<count>312</count>
+				<prob>0.651</prob>
+				<loglikelihood>1066.613</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.705</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bosom</sense>
+				<count>34</count>
+				<prob>0.071</prob>
+				<loglikelihood>78.346</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bay</sense>
+				<count>13</count>
+				<prob>0.027</prob>
+				<loglikelihood>12.744</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Μέλας</original>
+				<trans>melas gulf</trans>
+				<loglikelihood>12.45</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

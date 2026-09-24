@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ξανθός</form>
+	<date>Tue Jul 26 23:24:22 EDT 2011</date>
+	<count>97</count>
+	<per10K>0.205</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>94</count>
+		<senses>
+			<senseContainer>
+				<sense>fair - haired</sense>
+				<count>32</count>
+				<prob>0.340</prob>
+				<loglikelihood>77.279</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.969</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>yellow</sense>
+				<count>11</count>
+				<prob>0.117</prob>
+				<loglikelihood>26.887</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>Μενέλαος</original>
+				<trans>fair-haired menelaus</trans>
+				<loglikelihood>9.83</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

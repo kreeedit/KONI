@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τύραννος</form>
+	<date>Wed Jul 27 01:22:35 EDT 2011</date>
+	<count>727</count>
+	<per10K>1.534</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>828</count>
+		<senses>
+			<senseContainer>
+				<sense>tyrant</sense>
+				<count>450</count>
+				<prob>0.543</prob>
+				<loglikelihood>1370.100</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>despot</sense>
+				<count>131</count>
+				<prob>0.158</prob>
+				<loglikelihood>428.856</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.542</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Βάκχειος</form>
+	<date>Tue Jul 26 22:56:30 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>bacchus</sense>
+				<count>11</count>
+				<prob>0.367</prob>
+				<loglikelihood>8.642</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bacchic</sense>
+				<count>8</count>
+				<prob>0.267</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>2</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

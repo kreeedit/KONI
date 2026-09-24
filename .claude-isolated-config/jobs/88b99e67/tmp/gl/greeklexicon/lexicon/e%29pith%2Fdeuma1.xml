@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιτήδευμα</form>
+	<date>Wed Jul 27 00:14:07 EDT 2011</date>
+	<count>276</count>
+	<per10K>0.583</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>337</count>
+		<senses>
+			<senseContainer>
+				<sense>pursuit</sense>
+				<count>74</count>
+				<prob>0.220</prob>
+				<loglikelihood>61.491</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.622</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>institution</sense>
+				<count>35</count>
+				<prob>0.104</prob>
+				<loglikelihood>48.020</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.743</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>practice</sense>
+				<count>30</count>
+				<prob>0.089</prob>
+				<loglikelihood>9.956</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>habit</sense>
+				<count>23</count>
+				<prob>0.068</prob>
+				<loglikelihood>6.857</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.304</relativeFreq></author>
+					<author><name>Isocrates</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

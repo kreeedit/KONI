@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολιτεύω</form>
+	<date>Wed Jul 27 00:30:55 EDT 2011</date>
+	<count>367</count>
+	<per10K>0.775</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>233</count>
+		<senses>
+			<senseContainer>
+				<sense>govern</sense>
+				<count>19</count>
+				<prob>0.082</prob>
+				<loglikelihood>4.681</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.579</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>politics</sense>
+				<count>11</count>
+				<prob>0.047</prob>
+				<loglikelihood>4.396</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>public life</sense>
+				<count>10</count>
+				<prob>0.043</prob>
+				<loglikelihood>9.087</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

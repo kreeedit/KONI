@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἰθίοψ</form>
+	<date>Tue Jul 26 23:33:50 EDT 2011</date>
+	<count>119</count>
+	<per10K>0.251</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>73</count>
+		<senses>
+			<senseContainer>
+				<sense>ethiopian</sense>
+				<count>40</count>
+				<prob>0.548</prob>
+				<loglikelihood>71.108</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ethiopia</sense>
+				<count>14</count>
+				<prob>0.192</prob>
+				<loglikelihood>12.644</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aethiopians</sense>
+				<count>5</count>
+				<prob>0.068</prob>
+				<loglikelihood>9.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

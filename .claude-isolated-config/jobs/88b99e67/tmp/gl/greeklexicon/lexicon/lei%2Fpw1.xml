@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λείπω</form>
+	<date>Wed Jul 27 01:48:07 EDT 2011</date>
+	<count>1009</count>
+	<per10K>2.13</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>817</count>
+		<senses>
+			<senseContainer>
+				<sense>leave</sense>
+				<count>104</count>
+				<prob>0.127</prob>
+				<loglikelihood>35.710</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>remain</sense>
+				<count>57</count>
+				<prob>0.070</prob>
+				<loglikelihood>11.804</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>behind</sense>
+				<count>21</count>
+				<prob>0.026</prob>
+				<loglikelihood>4.381</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.476</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπωθέω</form>
+	<date>Tue Jul 26 23:44:19 EDT 2011</date>
+	<count>146</count>
+	<per10K>0.308</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>121</count>
+		<senses>
+			<senseContainer>
+				<sense>reject</sense>
+				<count>16</count>
+				<prob>0.132</prob>
+				<loglikelihood>5.882</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thrust back</sense>
+				<count>5</count>
+				<prob>0.041</prob>
+				<loglikelihood>9.090</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>drove back</sense>
+				<count>4</count>
+				<prob>0.033</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

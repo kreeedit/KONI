@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Σειρήν</form>
+	<date>Tue Jul 26 22:44:28 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>29</count>
+		<senses>
+			<senseContainer>
+				<sense>siren</sense>
+				<count>23</count>
+				<prob>0.793</prob>
+				<loglikelihood>68.257</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.435</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

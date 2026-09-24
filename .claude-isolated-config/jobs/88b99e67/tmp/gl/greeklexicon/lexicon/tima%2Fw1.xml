@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τιμάω</form>
+	<date>Wed Jul 27 02:00:24 EDT 2011</date>
+	<count>1148</count>
+	<per10K>2.423</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>717</count>
+		<senses>
+			<senseContainer>
+				<sense>honor</sense>
+				<count>127</count>
+				<prob>0.177</prob>
+				<loglikelihood>65.558</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>honored</sense>
+				<count>106</count>
+				<prob>0.148</prob>
+				<loglikelihood>153.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>honour</sense>
+				<count>74</count>
+				<prob>0.103</prob>
+				<loglikelihood>62.858</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.676</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>value</sense>
+				<count>20</count>
+				<prob>0.028</prob>
+				<loglikelihood>6.325</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assess</sense>
+				<count>15</count>
+				<prob>0.021</prob>
+				<loglikelihood>21.933</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

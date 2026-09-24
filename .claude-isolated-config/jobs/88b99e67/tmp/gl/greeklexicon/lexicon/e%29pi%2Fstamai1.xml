@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίσταμαι</form>
+	<date>Wed Jul 27 01:23:23 EDT 2011</date>
+	<count>729</count>
+	<per10K>1.539</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>588</count>
+		<senses>
+			<senseContainer>
+				<sense>know</sense>
+				<count>310</count>
+				<prob>0.527</prob>
+				<loglikelihood>66.707</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.426</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>understand</sense>
+				<count>69</count>
+				<prob>0.117</prob>
+				<loglikelihood>23.047</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>know how</sense>
+				<count>54</count>
+				<prob>0.092</prob>
+				<loglikelihood>112.103</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

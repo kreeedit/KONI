@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πλούτων</form>
+	<date>Tue Jul 26 22:43:54 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>7</count>
+		<senses>
+			<senseContainer>
+				<sense>pluto</sense>
+				<count>8</count>
+				<prob>1.143</prob>
+				<loglikelihood>8.258</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

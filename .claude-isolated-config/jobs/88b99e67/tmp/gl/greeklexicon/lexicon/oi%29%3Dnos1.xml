@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἶνος</form>
+	<date>Wed Jul 27 01:00:35 EDT 2011</date>
+	<count>555</count>
+	<per10K>1.171</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>562</count>
+		<senses>
+			<senseContainer>
+				<sense>wine</sense>
+				<count>509</count>
+				<prob>0.906</prob>
+				<loglikelihood>1701.417</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.354</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>πίνω</original>
+				<trans>drink wine</trans>
+				<loglikelihood>4.62</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λείβω</original>
+				<trans>poured wine</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>αἶθοψ</original>
+				<trans>flaming wine</trans>
+				<loglikelihood>64.36</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μελιηδής</original>
+				<trans>honey-sweet wine</trans>
+				<loglikelihood>23.03</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μελίφρων</original>
+				<trans>honey-hearted wine</trans>
+				<loglikelihood>18.28</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρυθρός</original>
+				<trans>red wine</trans>
+				<loglikelihood>6.53</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

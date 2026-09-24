@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξελαύνω</form>
+	<date>Wed Jul 27 00:21:49 EDT 2011</date>
+	<count>313</count>
+	<per10K>0.661</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>247</count>
+		<senses>
+			<senseContainer>
+				<sense>drive</sense>
+				<count>41</count>
+				<prob>0.166</prob>
+				<loglikelihood>13.877</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>banish</sense>
+				<count>26</count>
+				<prob>0.105</prob>
+				<loglikelihood>11.545</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>expel</sense>
+				<count>20</count>
+				<prob>0.081</prob>
+				<loglikelihood>7.434</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>driven out</sense>
+				<count>11</count>
+				<prob>0.045</prob>
+				<loglikelihood>7.219</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>παρασάγγης</original>
+				<trans>marched one stage, five parasangs</trans>
+				<loglikelihood>21.61</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>σταθμός</original>
+				<trans>he marched</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

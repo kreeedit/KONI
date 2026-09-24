@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύμμετρος</form>
+	<date>Tue Jul 26 23:05:58 EDT 2011</date>
+	<count>61</count>
+	<per10K>0.129</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>87</count>
+		<senses>
+			<senseContainer>
+				<sense>commensurable</sense>
+				<count>6</count>
+				<prob>0.069</prob>
+				<loglikelihood>11.076</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commensurate</sense>
+				<count>5</count>
+				<prob>0.057</prob>
+				<loglikelihood>7.142</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>symmetrical</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>due proportion</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

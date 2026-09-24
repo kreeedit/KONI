@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παράνομος</form>
+	<date>Tue Jul 26 23:59:21 EDT 2011</date>
+	<count>192</count>
+	<per10K>0.405</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>227</count>
+		<senses>
+			<senseContainer>
+				<sense>illegal</sense>
+				<count>30</count>
+				<prob>0.132</prob>
+				<loglikelihood>44.434</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lawless</sense>
+				<count>12</count>
+				<prob>0.053</prob>
+				<loglikelihood>9.927</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unconstitutional</sense>
+				<count>11</count>
+				<prob>0.048</prob>
+				<loglikelihood>28.466</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unlawful</sense>
+				<count>11</count>
+				<prob>0.048</prob>
+				<loglikelihood>10.518</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>illegality</sense>
+				<count>9</count>
+				<prob>0.040</prob>
+				<loglikelihood>29.451</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for illegality</sense>
+				<count>5</count>
+				<prob>0.022</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>10</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

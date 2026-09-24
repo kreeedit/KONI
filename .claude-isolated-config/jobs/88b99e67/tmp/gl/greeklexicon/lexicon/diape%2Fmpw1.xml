@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαπέμπω</form>
+	<date>Tue Jul 26 23:41:48 EDT 2011</date>
+	<count>139</count>
+	<per10K>0.293</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>send</sense>
+				<count>65</count>
+				<prob>0.442</prob>
+				<loglikelihood>4.102</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent around</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

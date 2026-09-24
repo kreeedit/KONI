@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄνω</form>
+	<date>Wed Jul 27 00:30:21 EDT 2011</date>
+	<count>363</count>
+	<per10K>0.766</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>473</count>
+		<senses>
+			<senseContainer>
+				<sense>upper</sense>
+				<count>96</count>
+				<prob>0.203</prob>
+				<loglikelihood>287.931</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>above</sense>
+				<count>47</count>
+				<prob>0.099</prob>
+				<loglikelihood>9.937</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.319</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>upwards</sense>
+				<count>15</count>
+				<prob>0.032</prob>
+				<loglikelihood>33.322</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>inland</sense>
+				<count>11</count>
+				<prob>0.023</prob>
+				<loglikelihood>5.619</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

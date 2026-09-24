@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄποικος</form>
+	<date>Tue Jul 26 23:31:51 EDT 2011</date>
+	<count>113</count>
+	<per10K>0.239</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>98</count>
+		<senses>
+			<senseContainer>
+				<sense>colony</sense>
+				<count>44</count>
+				<prob>0.449</prob>
+				<loglikelihood>38.714</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.409</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>colonist</sense>
+				<count>18</count>
+				<prob>0.184</prob>
+				<loglikelihood>21.597</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.333</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>colonists from</sense>
+				<count>7</count>
+				<prob>0.071</prob>
+				<loglikelihood>27.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>settlers from</sense>
+				<count>4</count>
+				<prob>0.041</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

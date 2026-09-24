@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χαλκεύς</form>
+	<date>Tue Jul 26 23:00:42 EDT 2011</date>
+	<count>53</count>
+	<per10K>0.112</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>smith</sense>
+				<count>18</count>
+				<prob>0.486</prob>
+				<loglikelihood>27.574</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

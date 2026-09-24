@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Θρασυμήδης</form>
+	<date>Tue Jul 26 22:32:09 EDT 2011</date>
+	<count>14</count>
+	<per10K>0.03</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>thrasymedes</sense>
+				<count>8</count>
+				<prob>0.800</prob>
+				<loglikelihood>15.059</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

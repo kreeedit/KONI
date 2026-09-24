@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δόγμα</form>
+	<date>Wed Jul 27 00:35:55 EDT 2011</date>
+	<count>399</count>
+	<per10K>0.842</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>356</count>
+		<senses>
+			<senseContainer>
+				<sense>opinion</sense>
+				<count>110</count>
+				<prob>0.309</prob>
+				<loglikelihood>30.930</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>decree</sense>
+				<count>88</count>
+				<prob>0.247</prob>
+				<loglikelihood>35.681</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>principle</sense>
+				<count>86</count>
+				<prob>0.242</prob>
+				<loglikelihood>56.738</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.988</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>resolution</sense>
+				<count>28</count>
+				<prob>0.079</prob>
+				<loglikelihood>14.917</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>conviction</sense>
+				<count>10</count>
+				<prob>0.028</prob>
+				<loglikelihood>3.878</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>σύγκλητος</original>
+				<trans>decree of the senate</trans>
+				<loglikelihood>4.46</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

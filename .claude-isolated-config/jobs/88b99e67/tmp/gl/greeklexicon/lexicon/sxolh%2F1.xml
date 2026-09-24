@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχολή</form>
+	<date>Wed Jul 27 00:08:36 EDT 2011</date>
+	<count>246</count>
+	<per10K>0.519</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>leisure</sense>
+				<count>25</count>
+				<prob>0.424</prob>
+				<loglikelihood>14.284</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>school</sense>
+				<count>12</count>
+				<prob>0.203</prob>
+				<loglikelihood>4.720</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

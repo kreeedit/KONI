@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στάδιος</form>
+	<date>Wed Jul 27 02:19:57 EDT 2011</date>
+	<count>1406</count>
+	<per10K>2.968</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1150</count>
+		<senses>
+			<senseContainer>
+				<sense>stadia</sense>
+				<count>447</count>
+				<prob>0.389</prob>
+				<loglikelihood>1228.895</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.919</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stades</sense>
+				<count>191</count>
+				<prob>0.166</prob>
+				<loglikelihood>459.988</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.686</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>furlong</sense>
+				<count>92</count>
+				<prob>0.080</prob>
+				<loglikelihood>260.259</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.761</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>race</sense>
+				<count>43</count>
+				<prob>0.037</prob>
+				<loglikelihood>13.173</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.814</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stadium</sense>
+				<count>31</count>
+				<prob>0.027</prob>
+				<loglikelihood>83.506</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.387</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>distance</sense>
+				<count>29</count>
+				<prob>0.025</prob>
+				<loglikelihood>9.263</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.655</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>τεσσαράκοντα</original>
+				<trans>forty stadia</trans>
+				<loglikelihood>6.89</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑξήκοντα</original>
+				<trans>sixty stadia</trans>
+				<loglikelihood>6.76</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἴκοσι</original>
+				<trans>twenty stadia</trans>
+				<loglikelihood>5.59</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τριάκοντα</original>
+				<trans>thirty stadia</trans>
+				<loglikelihood>2.99</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀγδοήκοντα</original>
+				<trans>eighty stades</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

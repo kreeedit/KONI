@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποκρίνω</form>
+	<date>Wed Jul 27 01:59:08 EDT 2011</date>
+	<count>1126</count>
+	<per10K>2.377</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>901</count>
+		<senses>
+			<senseContainer>
+				<sense>answer</sense>
+				<count>560</count>
+				<prob>0.622</prob>
+				<loglikelihood>666.292</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.446</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>reply</sense>
+				<count>157</count>
+				<prob>0.174</prob>
+				<loglikelihood>87.267</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.420</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

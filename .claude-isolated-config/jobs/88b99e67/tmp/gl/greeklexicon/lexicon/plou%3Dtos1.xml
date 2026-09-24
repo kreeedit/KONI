@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλοῦτος</form>
+	<date>Wed Jul 27 01:03:23 EDT 2011</date>
+	<count>576</count>
+	<per10K>1.216</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>621</count>
+		<senses>
+			<senseContainer>
+				<sense>wealth</sense>
+				<count>376</count>
+				<prob>0.605</prob>
+				<loglikelihood>670.548</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>riches</sense>
+				<count>99</count>
+				<prob>0.159</prob>
+				<loglikelihood>218.921</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.343</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>plutus</sense>
+				<count>31</count>
+				<prob>0.050</prob>
+				<loglikelihood>81.756</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.935</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

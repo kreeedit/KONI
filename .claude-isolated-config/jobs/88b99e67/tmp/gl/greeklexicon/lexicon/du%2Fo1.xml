@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δύο</form>
+	<date>Wed Jul 27 03:58:13 EDT 2011</date>
+	<count>2901</count>
+	<per10K>6.123</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>3357</count>
+		<senses>
+			<senseContainer>
+				<sense>two</sense>
+				<count>2576</count>
+				<prob>0.767</prob>
+				<loglikelihood>7297.113</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνάπτω</form>
+	<date>Tue Jul 26 23:06:50 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>79</count>
+		<senses>
+			<senseContainer>
+				<sense>dais</sense>
+				<count>4</count>
+				<prob>0.051</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

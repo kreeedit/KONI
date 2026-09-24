@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τειχίζω</form>
+	<date>Wed Jul 27 00:02:58 EDT 2011</date>
+	<count>207</count>
+	<per10K>0.437</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>155</count>
+		<senses>
+			<senseContainer>
+				<sense>fortify</sense>
+				<count>58</count>
+				<prob>0.374</prob>
+				<loglikelihood>67.268</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

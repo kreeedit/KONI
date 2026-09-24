@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πορθμός</form>
+	<date>Tue Jul 26 23:33:00 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>94</count>
+		<senses>
+			<senseContainer>
+				<sense>strait</sense>
+				<count>56</count>
+				<prob>0.596</prob>
+				<loglikelihood>68.540</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.518</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>porthmus</sense>
+				<count>6</count>
+				<prob>0.064</prob>
+				<loglikelihood>23.999</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

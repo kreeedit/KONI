@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπεύθυνος</form>
+	<date>Tue Jul 26 23:14:17 EDT 2011</date>
+	<count>77</count>
+	<per10K>0.163</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>84</count>
+		<senses>
+			<senseContainer>
+				<sense>audit</sense>
+				<count>16</count>
+				<prob>0.190</prob>
+				<loglikelihood>16.514</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>accountable</sense>
+				<count>7</count>
+				<prob>0.083</prob>
+				<loglikelihood>13.066</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

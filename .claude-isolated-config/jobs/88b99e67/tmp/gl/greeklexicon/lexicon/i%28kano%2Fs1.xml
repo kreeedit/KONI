@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱκανός</form>
+	<date>Wed Jul 27 02:04:36 EDT 2011</date>
+	<count>1222</count>
+	<per10K>2.579</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>302</count>
+		<senses>
+			<senseContainer>
+				<sense>sufficient</sense>
+				<count>47</count>
+				<prob>0.156</prob>
+				<loglikelihood>20.720</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.340</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>enough</sense>
+				<count>33</count>
+				<prob>0.109</prob>
+				<loglikelihood>7.494</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>137</count>
+		<senses>
+			<senseContainer>
+				<sense>sufficient</sense>
+				<count>24</count>
+				<prob>0.175</prob>
+				<loglikelihood>5.403</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.417</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

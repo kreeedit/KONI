@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στρογγύλος</form>
+	<date>Tue Jul 26 22:57:35 EDT 2011</date>
+	<count>47</count>
+	<per10K>0.099</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>60</count>
+		<senses>
+			<senseContainer>
+				<sense>round</sense>
+				<count>26</count>
+				<prob>0.433</prob>
+				<loglikelihood>4.467</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.577</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>strongyle</sense>
+				<count>5</count>
+				<prob>0.083</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

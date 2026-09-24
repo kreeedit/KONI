@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐπορέω</form>
+	<date>Tue Jul 26 23:43:12 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>114</count>
+		<senses>
+			<senseContainer>
+				<sense>well provided</sense>
+				<count>3</count>
+				<prob>0.026</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

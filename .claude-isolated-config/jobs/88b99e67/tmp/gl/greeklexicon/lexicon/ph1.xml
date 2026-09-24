@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πη</form>
+	<date>Wed Jul 27 00:18:06 EDT 2011</date>
+	<count>296</count>
+	<per10K>0.625</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>287</count>
+		<senses>
+			<senseContainer>
+				<sense>somehow</sense>
+				<count>11</count>
+				<prob>0.038</prob>
+				<loglikelihood>5.623</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

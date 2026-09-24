@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μητρυιά</form>
+	<date>Tue Jul 26 22:39:57 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>stepmother</sense>
+				<count>9</count>
+				<prob>0.562</prob>
+				<loglikelihood>21.600</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλείων</form>
+	<date>Wed Jul 27 03:54:37 EDT 2011</date>
+	<count>2890</count>
+	<per10K>6.1</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>3448</count>
+		<senses>
+			<senseContainer>
+				<sense>more</sense>
+				<count>1122</count>
+				<prob>0.325</prob>
+				<loglikelihood>1147.359</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more than</sense>
+				<count>257</count>
+				<prob>0.075</prob>
+				<loglikelihood>514.568</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>great</sense>
+				<count>225</count>
+				<prob>0.065</prob>
+				<loglikelihood>27.048</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>several</sense>
+				<count>139</count>
+				<prob>0.040</prob>
+				<loglikelihood>149.274</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.446</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>most</sense>
+				<count>96</count>
+				<prob>0.028</prob>
+				<loglikelihood>11.796</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>large</sense>
+				<count>90</count>
+				<prob>0.026</prob>
+				<loglikelihood>25.509</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

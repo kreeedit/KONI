@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀριστάω</form>
+	<date>Tue Jul 26 23:17:45 EDT 2011</date>
+	<count>85</count>
+	<per10K>0.179</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>breakfast</sense>
+				<count>9</count>
+				<prob>0.143</prob>
+				<loglikelihood>6.893</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>luncheon</sense>
+				<count>6</count>
+				<prob>0.095</prob>
+				<loglikelihood>8.470</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lunch</sense>
+				<count>3</count>
+				<prob>0.048</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

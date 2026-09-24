@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Δελφίνιος</form>
+	<date>Tue Jul 26 22:35:34 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>13</count>
+		<senses>
+			<senseContainer>
+				<sense>delphinium</sense>
+				<count>11</count>
+				<prob>0.846</prob>
+				<loglikelihood>40.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

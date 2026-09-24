@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐλάτης</form>
+	<date>Tue Jul 26 22:41:59 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>pine</sense>
+				<count>8</count>
+				<prob>0.320</prob>
+				<loglikelihood>5.565</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fir</sense>
+				<count>5</count>
+				<prob>0.200</prob>
+				<loglikelihood>7.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

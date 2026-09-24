@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδελφός</form>
+	<date>Wed Jul 27 02:48:48 EDT 2011</date>
+	<count>1880</count>
+	<per10K>3.968</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1253</count>
+		<senses>
+			<senseContainer>
+				<sense>brother</sense>
+				<count>856</count>
+				<prob>0.683</prob>
+				<loglikelihood>1595.182</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>brethren</sense>
+				<count>94</count>
+				<prob>0.075</prob>
+				<loglikelihood>211.449</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.936</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὁμοπάτριος</original>
+				<trans>father brother</trans>
+				<loglikelihood>4.54</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ὁμομήτριος</original>
+				<trans>half-brother</trans>
+				<loglikelihood>3.42</loglikelihood>
+				<count>7</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

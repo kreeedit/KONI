@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φεῦ</form>
+	<date>Tue Jul 26 23:53:37 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>exclam</pos>
+		<count>232</count>
+		<senses>
+			<senseContainer>
+				<sense>ah</sense>
+				<count>45</count>
+				<prob>0.194</prob>
+				<loglikelihood>16.087</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alas</sense>
+				<count>42</count>
+				<prob>0.181</prob>
+				<loglikelihood>25.095</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.381</relativeFreq></author>
+					<author><name>Aeschylus</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>oh</sense>
+				<count>27</count>
+				<prob>0.116</prob>
+				<loglikelihood>6.399</loglikelihood>
+				<authorContainer>
+					<author><name>Sophocles</name><relativeFreq>0.519</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

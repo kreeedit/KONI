@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἴμη</form>
+	<date>Wed Jul 27 00:20:06 EDT 2011</date>
+	<count>306</count>
+	<per10K>0.646</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>266</count>
+		<senses>
+			<senseContainer>
+				<sense>imagine</sense>
+				<count>27</count>
+				<prob>0.102</prob>
+				<loglikelihood>7.118</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.741</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

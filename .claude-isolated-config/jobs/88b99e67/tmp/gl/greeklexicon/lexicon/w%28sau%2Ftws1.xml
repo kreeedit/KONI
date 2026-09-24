@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὡσαύτως</form>
+	<date>Wed Jul 27 00:33:21 EDT 2011</date>
+	<count>382</count>
+	<per10K>0.806</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>458</count>
+		<senses>
+			<senseContainer>
+				<sense>same</sense>
+				<count>73</count>
+				<prob>0.159</prob>
+				<loglikelihood>4.373</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.466</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>likewise</sense>
+				<count>70</count>
+				<prob>0.153</prob>
+				<loglikelihood>60.258</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.557</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>similar</sense>
+				<count>29</count>
+				<prob>0.063</prob>
+				<loglikelihood>5.475</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.448</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>same way</sense>
+				<count>28</count>
+				<prob>0.061</prob>
+				<loglikelihood>21.607</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>in like manner</sense>
+				<count>20</count>
+				<prob>0.044</prob>
+				<loglikelihood>44.429</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.550</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

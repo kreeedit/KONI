@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κομπάζω</form>
+	<date>Tue Jul 26 22:44:22 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>24</count>
+		<senses>
+			<senseContainer>
+				<sense>boast</sense>
+				<count>19</count>
+				<prob>0.792</prob>
+				<loglikelihood>10.696</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschylus</name><relativeFreq>0.474</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

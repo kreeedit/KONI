@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δόρπον</form>
+	<date>Tue Jul 26 23:07:17 EDT 2011</date>
+	<count>64</count>
+	<per10K>0.135</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>supper</sense>
+				<count>43</count>
+				<prob>0.843</prob>
+				<loglikelihood>63.756</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

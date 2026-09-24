@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χαλκός</form>
+	<date>Wed Jul 27 00:39:36 EDT 2011</date>
+	<count>423</count>
+	<per10K>0.893</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>429</count>
+		<senses>
+			<senseContainer>
+				<sense>bronze</sense>
+				<count>321</count>
+				<prob>0.748</prob>
+				<loglikelihood>555.332</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.639</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>copper</sense>
+				<count>29</count>
+				<prob>0.068</prob>
+				<loglikelihood>76.434</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brass</sense>
+				<count>18</count>
+				<prob>0.042</prob>
+				<loglikelihood>21.233</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>κορύσσω</original>
+				<trans>harnessed in flaming bronze</trans>
+				<loglikelihood>20.09</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>νῶροψ</original>
+				<trans>gleaming bronze</trans>
+				<loglikelihood>31.99</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νηλής</original>
+				<trans>pitiless bronze</trans>
+				<loglikelihood>24.91</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αἶθοψ</original>
+				<trans>flaming bronze</trans>
+				<loglikelihood>13.71</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀξύς</original>
+				<trans>sharp bronze</trans>
+				<loglikelihood>8.15</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

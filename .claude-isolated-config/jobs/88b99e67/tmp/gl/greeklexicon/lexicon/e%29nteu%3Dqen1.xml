@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐντεῦθεν</form>
+	<date>Wed Jul 27 01:02:08 EDT 2011</date>
+	<count>563</count>
+	<per10K>1.188</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>671</count>
+		<senses>
+			<senseContainer>
+				<sense>thence</sense>
+				<count>83</count>
+				<prob>0.124</prob>
+				<loglikelihood>110.136</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.530</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from there</sense>
+				<count>35</count>
+				<prob>0.052</prob>
+				<loglikelihood>45.332</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.514</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from here</sense>
+				<count>22</count>
+				<prob>0.033</prob>
+				<loglikelihood>33.940</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from thence</sense>
+				<count>14</count>
+				<prob>0.021</prob>
+				<loglikelihood>13.739</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

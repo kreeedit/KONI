@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρίω</form>
+	<date>Tue Jul 26 23:03:43 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>anoint</sense>
+				<count>36</count>
+				<prob>0.923</prob>
+				<loglikelihood>65.619</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.611</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

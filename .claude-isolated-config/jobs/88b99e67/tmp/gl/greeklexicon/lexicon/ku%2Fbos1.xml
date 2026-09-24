@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κύβος</form>
+	<date>Tue Jul 26 22:43:52 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>dice</sense>
+				<count>18</count>
+				<prob>0.545</prob>
+				<loglikelihood>35.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cube</sense>
+				<count>6</count>
+				<prob>0.182</prob>
+				<loglikelihood>18.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

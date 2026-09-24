@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅστις</form>
+	<date>Wed Jul 27 07:28:58 EDT 2011</date>
+	<count>13558</count>
+	<per10K>28.616</per10K>
+	<posContainer>
+		<pos>pron</pos>
+		<count>3421</count>
+		<senses>
+			<senseContainer>
+				<sense>who</sense>
+				<count>584</count>
+				<prob>0.171</prob>
+				<loglikelihood>102.271</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>that</sense>
+				<count>515</count>
+				<prob>0.151</prob>
+				<loglikelihood>43.648</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>whoever</sense>
+				<count>144</count>
+				<prob>0.042</prob>
+				<loglikelihood>237.531</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>what</sense>
+				<count>139</count>
+				<prob>0.041</prob>
+				<loglikelihood>4.977</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>any</sense>
+				<count>110</count>
+				<prob>0.032</prob>
+				<loglikelihood>7.715</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

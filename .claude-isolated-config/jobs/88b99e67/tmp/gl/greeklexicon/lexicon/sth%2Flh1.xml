@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στήλη</form>
+	<date>Wed Jul 27 00:03:23 EDT 2011</date>
+	<count>209</count>
+	<per10K>0.441</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>262</count>
+		<senses>
+			<senseContainer>
+				<sense>pillar</sense>
+				<count>87</count>
+				<prob>0.332</prob>
+				<loglikelihood>119.165</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>slab</sense>
+				<count>49</count>
+				<prob>0.187</prob>
+				<loglikelihood>184.673</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.918</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

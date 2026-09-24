@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γεωργός</form>
+	<date>Tue Jul 26 23:44:08 EDT 2011</date>
+	<count>146</count>
+	<per10K>0.308</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>farmer</sense>
+				<count>37</count>
+				<prob>0.627</prob>
+				<loglikelihood>38.834</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.351</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>husbandman</sense>
+				<count>11</count>
+				<prob>0.186</prob>
+				<loglikelihood>11.523</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

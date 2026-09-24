@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἰκών</form>
+	<date>Wed Jul 27 00:40:45 EDT 2011</date>
+	<count>432</count>
+	<per10K>0.912</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>431</count>
+		<senses>
+			<senseContainer>
+				<sense>statue</sense>
+				<count>172</count>
+				<prob>0.399</prob>
+				<loglikelihood>208.974</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.767</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>image</sense>
+				<count>75</count>
+				<prob>0.174</prob>
+				<loglikelihood>25.577</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.387</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>likeness</sense>
+				<count>39</count>
+				<prob>0.090</prob>
+				<loglikelihood>38.724</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.436</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>simile</sense>
+				<count>10</count>
+				<prob>0.023</prob>
+				<loglikelihood>19.993</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>χάλκεος</original>
+				<trans>bronze statues</trans>
+				<loglikelihood>3.61</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γοῦν</form>
+	<date>Wed Jul 27 01:13:31 EDT 2011</date>
+	<count>643</count>
+	<per10K>1.357</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>829</count>
+		<senses>
+			<senseContainer>
+				<sense>any rate</sense>
+				<count>112</count>
+				<prob>0.135</prob>
+				<loglikelihood>334.360</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at any rate</sense>
+				<count>81</count>
+				<prob>0.098</prob>
+				<loglikelihood>167.051</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.531</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>certain</sense>
+				<count>58</count>
+				<prob>0.070</prob>
+				<loglikelihood>5.770</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.793</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at least</sense>
+				<count>40</count>
+				<prob>0.048</prob>
+				<loglikelihood>24.466</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.325</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>according</sense>
+				<count>40</count>
+				<prob>0.048</prob>
+				<loglikelihood>7.519</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.975</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>all events</sense>
+				<count>24</count>
+				<prob>0.029</prob>
+				<loglikelihood>79.415</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>least</sense>
+				<count>22</count>
+				<prob>0.027</prob>
+				<loglikelihood>4.786</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

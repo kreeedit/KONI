@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀσφάλεια</form>
+	<date>Wed Jul 27 00:15:33 EDT 2011</date>
+	<count>283</count>
+	<per10K>0.597</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>411</count>
+		<senses>
+			<senseContainer>
+				<sense>security</sense>
+				<count>90</count>
+				<prob>0.219</prob>
+				<loglikelihood>108.306</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.356</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>safety</sense>
+				<count>58</count>
+				<prob>0.141</prob>
+				<loglikelihood>27.037</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τετρακισμύριοι</form>
+	<date>Tue Jul 26 22:37:41 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>forty thousand</sense>
+				<count>7</count>
+				<prob>0.259</prob>
+				<loglikelihood>28.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>40</sense>
+				<count>7</count>
+				<prob>0.259</prob>
+				<loglikelihood>11.529</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

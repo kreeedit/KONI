@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταλαμβάνω</form>
+	<date>Wed Jul 27 01:24:31 EDT 2011</date>
+	<count>744</count>
+	<per10K>1.57</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>626</count>
+		<senses>
+			<senseContainer>
+				<sense>seize</sense>
+				<count>59</count>
+				<prob>0.094</prob>
+				<loglikelihood>20.297</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>overtake</sense>
+				<count>48</count>
+				<prob>0.077</prob>
+				<loglikelihood>59.028</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>occupy</sense>
+				<count>26</count>
+				<prob>0.042</prob>
+				<loglikelihood>7.222</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.346</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

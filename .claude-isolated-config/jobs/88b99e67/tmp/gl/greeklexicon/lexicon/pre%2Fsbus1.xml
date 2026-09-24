@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρέσβυς</form>
+	<date>Wed Jul 27 01:34:20 EDT 2011</date>
+	<count>851</count>
+	<per10K>1.796</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>866</count>
+		<senses>
+			<senseContainer>
+				<sense>elder</sense>
+				<count>210</count>
+				<prob>0.242</prob>
+				<loglikelihood>506.627</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>old</sense>
+				<count>190</count>
+				<prob>0.219</prob>
+				<loglikelihood>111.259</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.474</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eldest</sense>
+				<count>109</count>
+				<prob>0.126</prob>
+				<loglikelihood>386.225</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>older than</sense>
+				<count>30</count>
+				<prob>0.035</prob>
+				<loglikelihood>97.254</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>older men</sense>
+				<count>29</count>
+				<prob>0.033</prob>
+				<loglikelihood>105.083</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>209</count>
+		<senses>
+			<senseContainer>
+				<sense>old man</sense>
+				<count>25</count>
+				<prob>0.120</prob>
+				<loglikelihood>6.273</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.480</relativeFreq></author>
+					<author><name>Sophocles</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

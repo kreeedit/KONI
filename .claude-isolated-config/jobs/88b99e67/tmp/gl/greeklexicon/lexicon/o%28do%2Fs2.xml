@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁδός</form>
+	<date>Wed Jul 27 02:18:23 EDT 2011</date>
+	<count>1395</count>
+	<per10K>2.944</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1366</count>
+		<senses>
+			<senseContainer>
+				<sense>road</sense>
+				<count>504</count>
+				<prob>0.369</prob>
+				<loglikelihood>1344.832</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>way</sense>
+				<count>256</count>
+				<prob>0.187</prob>
+				<loglikelihood>103.656</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>journey</sense>
+				<count>182</count>
+				<prob>0.133</prob>
+				<loglikelihood>326.759</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>path</sense>
+				<count>51</count>
+				<prob>0.037</prob>
+				<loglikelihood>57.049</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>march</sense>
+				<count>42</count>
+				<prob>0.031</prob>
+				<loglikelihood>7.896</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἡγεμονεύω</original>
+				<trans>lead way</trans>
+				<loglikelihood>2.43</loglikelihood>
+				<count>7</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

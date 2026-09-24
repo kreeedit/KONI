@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παροιμία</form>
+	<date>Tue Jul 26 23:14:15 EDT 2011</date>
+	<count>77</count>
+	<per10K>0.163</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>92</count>
+		<senses>
+			<senseContainer>
+				<sense>proverb</sense>
+				<count>41</count>
+				<prob>0.446</prob>
+				<loglikelihood>98.877</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.415</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>proverb says</sense>
+				<count>6</count>
+				<prob>0.065</prob>
+				<loglikelihood>23.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>proverbial</sense>
+				<count>4</count>
+				<prob>0.043</prob>
+				<loglikelihood>4.571</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

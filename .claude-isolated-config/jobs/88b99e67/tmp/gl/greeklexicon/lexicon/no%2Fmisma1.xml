@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νόμισμα</form>
+	<date>Tue Jul 26 23:41:30 EDT 2011</date>
+	<count>138</count>
+	<per10K>0.291</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>153</count>
+		<senses>
+			<senseContainer>
+				<sense>money</sense>
+				<count>48</count>
+				<prob>0.314</prob>
+				<loglikelihood>4.743</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>coin</sense>
+				<count>28</count>
+				<prob>0.183</prob>
+				<loglikelihood>63.993</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>coinage</sense>
+				<count>16</count>
+				<prob>0.105</prob>
+				<loglikelihood>53.891</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>currency</sense>
+				<count>8</count>
+				<prob>0.052</prob>
+				<loglikelihood>17.065</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>coined money</sense>
+				<count>7</count>
+				<prob>0.046</prob>
+				<loglikelihood>27.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>coin does</sense>
+				<count>4</count>
+				<prob>0.026</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

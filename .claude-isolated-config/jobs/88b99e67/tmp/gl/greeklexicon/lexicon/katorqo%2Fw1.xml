@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατορθόω</form>
+	<date>Wed Jul 27 00:05:59 EDT 2011</date>
+	<count>226</count>
+	<per10K>0.477</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>127</count>
+		<senses>
+			<senseContainer>
+				<sense>success</sense>
+				<count>24</count>
+				<prob>0.189</prob>
+				<loglikelihood>7.173</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>succeed</sense>
+				<count>23</count>
+				<prob>0.181</prob>
+				<loglikelihood>5.421</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>successful</sense>
+				<count>22</count>
+				<prob>0.173</prob>
+				<loglikelihood>13.440</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

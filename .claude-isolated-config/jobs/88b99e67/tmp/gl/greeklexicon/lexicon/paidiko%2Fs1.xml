@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παιδικός</form>
+	<date>Tue Jul 26 23:37:43 EDT 2011</date>
+	<count>130</count>
+	<per10K>0.274</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>92</count>
+		<senses>
+			<senseContainer>
+				<sense>favorite</sense>
+				<count>23</count>
+				<prob>0.250</prob>
+				<loglikelihood>47.019</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.870</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>favourite</sense>
+				<count>6</count>
+				<prob>0.065</prob>
+				<loglikelihood>7.199</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>favorites</sense>
+				<count>5</count>
+				<prob>0.054</prob>
+				<loglikelihood>9.090</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>6</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

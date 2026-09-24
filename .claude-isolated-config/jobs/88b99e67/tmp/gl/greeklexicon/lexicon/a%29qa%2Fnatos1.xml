@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀθάνατος</form>
+	<date>Wed Jul 27 01:01:27 EDT 2011</date>
+	<count>558</count>
+	<per10K>1.178</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>576</count>
+		<senses>
+			<senseContainer>
+				<sense>immortal</sense>
+				<count>419</count>
+				<prob>0.727</prob>
+				<loglikelihood>1407.043</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.539</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>deathless</sense>
+				<count>27</count>
+				<prob>0.047</prob>
+				<loglikelihood>91.099</loglikelihood>
+				<authorContainer>
+					<author><name>Hesiod</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>deathless gods</sense>
+				<count>19</count>
+				<prob>0.033</prob>
+				<loglikelihood>68.744</loglikelihood>
+				<authorContainer>
+					<author><name>Hesiod</name><relativeFreq>0.947</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἐπιείκελος</original>
+				<trans>man like unto the immortals</trans>
+				<loglikelihood>14.21</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θεός</original>
+				<trans>immortal gods</trans>
+				<loglikelihood>2.53</loglikelihood>
+				<count>81</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

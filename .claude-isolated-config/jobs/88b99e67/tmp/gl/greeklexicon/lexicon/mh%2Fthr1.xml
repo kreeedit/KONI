@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μήτηρ</form>
+	<date>Wed Jul 27 03:08:41 EDT 2011</date>
+	<count>2176</count>
+	<per10K>4.593</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>2198</count>
+		<senses>
+			<senseContainer>
+				<sense>mother</sense>
+				<count>1961</count>
+				<prob>0.892</prob>
+				<loglikelihood>6924.835</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>γείνομαι</original>
+				<trans>mother bare</trans>
+				<loglikelihood>7.57</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πότνια</original>
+				<trans>queenly mother</trans>
+				<loglikelihood>32.31</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

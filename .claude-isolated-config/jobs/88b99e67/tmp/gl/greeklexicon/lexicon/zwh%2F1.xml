@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζωή</form>
+	<date>Wed Jul 27 00:06:08 EDT 2011</date>
+	<count>227</count>
+	<per10K>0.479</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>154</count>
+		<senses>
+			<senseContainer>
+				<sense>life</sense>
+				<count>83</count>
+				<prob>0.539</prob>
+				<loglikelihood>10.702</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.446</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>αἰώνιος</original>
+				<trans>eternal life</trans>
+				<loglikelihood>7.11</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

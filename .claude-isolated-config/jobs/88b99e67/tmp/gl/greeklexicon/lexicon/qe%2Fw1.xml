@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θέω</form>
+	<date>Wed Jul 27 00:15:05 EDT 2011</date>
+	<count>281</count>
+	<per10K>0.593</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>212</count>
+		<senses>
+			<senseContainer>
+				<sense>run</sense>
+				<count>71</count>
+				<prob>0.335</prob>
+				<loglikelihood>39.285</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

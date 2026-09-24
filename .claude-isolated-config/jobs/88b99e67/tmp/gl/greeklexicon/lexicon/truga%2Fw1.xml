@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τρυγάω</form>
+	<date>Tue Jul 26 22:39:49 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>vintage</sense>
+				<count>4</count>
+				<prob>0.222</prob>
+				<loglikelihood>9.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διότι</form>
+	<date>Wed Jul 27 00:37:04 EDT 2011</date>
+	<count>407</count>
+	<per10K>0.859</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>688</count>
+		<senses>
+			<senseContainer>
+				<sense>because</sense>
+				<count>108</count>
+				<prob>0.157</prob>
+				<loglikelihood>9.485</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>because they</sense>
+				<count>16</count>
+				<prob>0.023</prob>
+				<loglikelihood>31.982</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

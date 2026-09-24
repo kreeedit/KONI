@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπαινετός</form>
+	<date>Tue Jul 26 23:00:33 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>praiseworthy</sense>
+				<count>11</count>
+				<prob>0.314</prob>
+				<loglikelihood>19.359</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

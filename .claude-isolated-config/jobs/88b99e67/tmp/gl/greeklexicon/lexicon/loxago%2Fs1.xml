@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λοχαγός</form>
+	<date>Tue Jul 26 23:54:33 EDT 2011</date>
+	<count>174</count>
+	<per10K>0.367</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>captain</sense>
+				<count>32</count>
+				<prob>0.552</prob>
+				<loglikelihood>11.158</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>centurion</sense>
+				<count>14</count>
+				<prob>0.241</prob>
+				<loglikelihood>9.332</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

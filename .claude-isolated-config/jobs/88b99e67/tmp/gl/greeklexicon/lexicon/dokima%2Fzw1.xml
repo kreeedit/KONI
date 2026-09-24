@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δοκιμάζω</form>
+	<date>Wed Jul 27 00:00:49 EDT 2011</date>
+	<count>199</count>
+	<per10K>0.42</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>174</count>
+		<senses>
+			<senseContainer>
+				<sense>test</sense>
+				<count>16</count>
+				<prob>0.092</prob>
+				<loglikelihood>4.075</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>approve</sense>
+				<count>15</count>
+				<prob>0.086</prob>
+				<loglikelihood>3.892</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scrutiny</sense>
+				<count>8</count>
+				<prob>0.046</prob>
+				<loglikelihood>4.194</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>appraise</sense>
+				<count>5</count>
+				<prob>0.029</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>certify</sense>
+				<count>4</count>
+				<prob>0.023</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

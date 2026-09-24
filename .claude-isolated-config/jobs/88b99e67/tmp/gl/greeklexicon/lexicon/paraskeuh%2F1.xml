@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παρασκευή</form>
+	<date>Wed Jul 27 00:29:39 EDT 2011</date>
+	<count>358</count>
+	<per10K>0.756</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>170</count>
+		<senses>
+			<senseContainer>
+				<sense>preparation</sense>
+				<count>23</count>
+				<prob>0.135</prob>
+				<loglikelihood>10.118</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>preparation for</sense>
+				<count>5</count>
+				<prob>0.029</prob>
+				<loglikelihood>7.691</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαμπερής</form>
+	<date>Tue Jul 26 22:56:07 EDT 2011</date>
+	<count>45</count>
+	<per10K>0.095</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>clean through</sense>
+				<count>5</count>
+				<prob>0.152</prob>
+				<loglikelihood>7.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

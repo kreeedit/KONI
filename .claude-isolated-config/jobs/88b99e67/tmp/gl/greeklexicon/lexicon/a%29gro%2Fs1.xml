@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγρός</form>
+	<date>Wed Jul 27 00:15:59 EDT 2011</date>
+	<count>285</count>
+	<per10K>0.602</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>310</count>
+		<senses>
+			<senseContainer>
+				<sense>field</sense>
+				<count>89</count>
+				<prob>0.287</prob>
+				<loglikelihood>76.492</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>country</sense>
+				<count>72</count>
+				<prob>0.232</prob>
+				<loglikelihood>6.316</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>farm</sense>
+				<count>43</count>
+				<prob>0.139</prob>
+				<loglikelihood>39.957</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.372</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

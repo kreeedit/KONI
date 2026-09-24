@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεσμός</form>
+	<date>Wed Jul 27 00:11:30 EDT 2011</date>
+	<count>265</count>
+	<per10K>0.559</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>226</count>
+		<senses>
+			<senseContainer>
+				<sense>bond</sense>
+				<count>66</count>
+				<prob>0.292</prob>
+				<loglikelihood>101.873</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>imprisonment</sense>
+				<count>33</count>
+				<prob>0.146</prob>
+				<loglikelihood>76.409</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>chain</sense>
+				<count>14</count>
+				<prob>0.062</prob>
+				<loglikelihood>7.058</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from bonds</sense>
+				<count>7</count>
+				<prob>0.031</prob>
+				<loglikelihood>27.997</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

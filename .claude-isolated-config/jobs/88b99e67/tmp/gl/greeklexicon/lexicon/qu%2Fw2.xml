@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θύω</form>
+	<date>Wed Jul 27 00:36:37 EDT 2011</date>
+	<count>402</count>
+	<per10K>0.848</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>238</count>
+		<senses>
+			<senseContainer>
+				<sense>sacrifice</sense>
+				<count>106</count>
+				<prob>0.445</prob>
+				<loglikelihood>31.113</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>offered sacrifice</sense>
+				<count>20</count>
+				<prob>0.084</prob>
+				<loglikelihood>44.437</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>offer sacrifice</sense>
+				<count>16</count>
+				<prob>0.067</prob>
+				<loglikelihood>37.920</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>offer sacrifices</sense>
+				<count>7</count>
+				<prob>0.029</prob>
+				<loglikelihood>10.313</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>they sacrifice</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>6.248</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>offered sacrifices</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>5.880</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁπλίζω</form>
+	<date>Wed Jul 27 00:00:55 EDT 2011</date>
+	<count>200</count>
+	<per10K>0.422</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>99</count>
+		<senses>
+			<senseContainer>
+				<sense>arm</sense>
+				<count>43</count>
+				<prob>0.434</prob>
+				<loglikelihood>5.457</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>made ready</sense>
+				<count>6</count>
+				<prob>0.061</prob>
+				<loglikelihood>4.499</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>armed themselves</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>δόρπον</original>
+				<trans>null</trans>
+				<loglikelihood>3.84</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

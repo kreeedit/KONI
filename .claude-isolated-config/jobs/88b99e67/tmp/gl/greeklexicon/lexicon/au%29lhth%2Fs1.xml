@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐλητής</form>
+	<date>Tue Jul 26 23:13:30 EDT 2011</date>
+	<count>75</count>
+	<per10K>0.158</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>flute - player</sense>
+				<count>13</count>
+				<prob>0.289</prob>
+				<loglikelihood>33.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>flute - players</sense>
+				<count>8</count>
+				<prob>0.178</prob>
+				<loglikelihood>17.066</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>player</sense>
+				<count>5</count>
+				<prob>0.111</prob>
+				<loglikelihood>4.166</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>piper</sense>
+				<count>3</count>
+				<prob>0.067</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

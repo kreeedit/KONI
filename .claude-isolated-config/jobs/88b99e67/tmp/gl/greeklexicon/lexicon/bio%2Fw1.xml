@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βιόω</form>
+	<date>Wed Jul 27 00:07:10 EDT 2011</date>
+	<count>236</count>
+	<per10K>0.498</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>116</count>
+		<senses>
+			<senseContainer>
+				<sense>live</sense>
+				<count>43</count>
+				<prob>0.371</prob>
+				<loglikelihood>5.144</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have lived</sense>
+				<count>5</count>
+				<prob>0.043</prob>
+				<loglikelihood>7.691</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>has lived</sense>
+				<count>4</count>
+				<prob>0.034</prob>
+				<loglikelihood>9.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

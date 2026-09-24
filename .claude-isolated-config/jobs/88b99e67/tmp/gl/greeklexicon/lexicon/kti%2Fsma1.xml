@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κτίσμα</form>
+	<date>Tue Jul 26 23:29:52 EDT 2011</date>
+	<count>109</count>
+	<per10K>0.23</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>96</count>
+		<senses>
+			<senseContainer>
+				<sense>founded by</sense>
+				<count>52</count>
+				<prob>0.542</prob>
+				<loglikelihood>152.332</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>settlement</sense>
+				<count>14</count>
+				<prob>0.146</prob>
+				<loglikelihood>4.427</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

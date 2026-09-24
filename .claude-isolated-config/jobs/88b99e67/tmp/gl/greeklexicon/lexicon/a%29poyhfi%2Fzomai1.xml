@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποψηφίζομαι</form>
+	<date>Tue Jul 26 23:20:50 EDT 2011</date>
+	<count>91</count>
+	<per10K>0.192</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>74</count>
+		<senses>
+			<senseContainer>
+				<sense>acquit</sense>
+				<count>36</count>
+				<prob>0.486</prob>
+				<loglikelihood>28.018</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>should acquit</sense>
+				<count>3</count>
+				<prob>0.041</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

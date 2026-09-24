@@ -1,0 +1,2374 @@
+{
+  "sha": "79d05d645a294d7bad8bfbb1a792f7ceb9820947",
+  "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/79d05d645a294d7bad8bfbb1a792f7ceb9820947",
+  "tree": [
+    {
+      "path": ".attic",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a1df3dd8c95c13fae0bf06f4bdcb56285ae882a",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/8a1df3dd8c95c13fae0bf06f4bdcb56285ae882a"
+    },
+    {
+      "path": ".attic/tll-pdf-download.cgi",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "91aa034a5677ee94a7da780ceb9b4947cf9967c6",
+      "size": 1762,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/91aa034a5677ee94a7da780ceb9b4947cf9967c6"
+    },
+    {
+      "path": ".attic/tll-pdf-download.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c8f39ed75ec6b97ad823451cffece349e1c0e802",
+      "size": 21488,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c8f39ed75ec6b97ad823451cffece349e1c0e802"
+    },
+    {
+      "path": ".dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de48b12a538b027adf3a71cec0b1ff42c8dc9dcb",
+      "size": 344,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/de48b12a538b027adf3a71cec0b1ff42c8dc9dcb"
+    },
+    {
+      "path": ".elasticbeanstalk",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "57892944d4d159ca9caf7b993c6122afb4ebf84e",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/57892944d4d159ca9caf7b993c6122afb4ebf84e"
+    },
+    {
+      "path": ".elasticbeanstalk/config.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d29f85a9f29df1a95fe2b839e0c492d34a70dd16",
+      "size": 552,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d29f85a9f29df1a95fe2b839e0c492d34a70dd16"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e0b33e30d2b4f90e671207c8c1eda82f03879da",
+      "size": 461,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7e0b33e30d2b4f90e671207c8c1eda82f03879da"
+    },
+    {
+      "path": "COPYING",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98c7d09b98627442e1c9ee9ee28e27ee9bd9037b",
+      "size": 32760,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/98c7d09b98627442e1c9ee9ee28e27ee9bd9037b"
+    },
+    {
+      "path": "Changes.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24beecc1d8e8f3c33c28ca0734cb2d0eda4316dc",
+      "size": 5327,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/24beecc1d8e8f3c33c28ca0734cb2d0eda4316dc"
+    },
+    {
+      "path": "Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58268b4754e1fe9e0c5513af6ab6d94cbcb63306",
+      "size": 216,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/58268b4754e1fe9e0c5513af6ab6d94cbcb63306"
+    },
+    {
+      "path": "Dockerrun.aws.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b986404a5db6c2a2e62cf485f08b045d37f83b7",
+      "size": 271,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5b986404a5db6c2a2e62cf485f08b045d37f83b7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15f0159b800d9c9a11c3568b06eb09e395f13f08",
+      "size": 9163,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/15f0159b800d9c9a11c3568b06eb09e395f13f08"
+    },
+    {
+      "path": "TODO.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf23bd086cd490e9ce769b4eb28791d1594a920b",
+      "size": 2303,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bf23bd086cd490e9ce769b4eb28791d1594a920b"
+    },
+    {
+      "path": "client",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "128ce57293ed4b0dc11598faae982e2792866657",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/128ce57293ed4b0dc11598faae982e2792866657"
+    },
+    {
+      "path": "client/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "360f46c7539fb6c4bf241f29634411d5f6e62637",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/360f46c7539fb6c4bf241f29634411d5f6e62637"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81607af7fac31d7e92e298b870ea88b1c203d8b6",
+      "size": 25543,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/81607af7fac31d7e92e298b870ea88b1c203d8b6"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66ac0be3505a80fe6e1fbbcd992f7163e8fc9ac2",
+      "size": 15591,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/66ac0be3505a80fe6e1fbbcd992f7163e8fc9ac2"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo.xcf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cea1e1686616d5fdd22b415a03e21d918c17013",
+      "size": 62496,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2cea1e1686616d5fdd22b415a03e21d918c17013"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo_Small.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f11d91bb80944f3a08c1a66ca3640032a1a940aa",
+      "size": 6691,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f11d91bb80944f3a08c1a66ca3640032a1a940aa"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo_Small.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "818bc18ea1a10f175229e4d179eacde087954f03",
+      "size": 3363,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/818bc18ea1a10f175229e4d179eacde087954f03"
+    },
+    {
+      "path": "client/assets/Diogenes_Logo_Small.xcf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa09fef042d73764d9cea57053880cd12a85a65d",
+      "size": 16661,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/aa09fef042d73764d9cea57053880cd12a85a65d"
+    },
+    {
+      "path": "client/assets/icon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1e7d5b48c66a1eecea93a4eb6b6ee8ebeb2f681",
+      "size": 370070,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f1e7d5b48c66a1eecea93a4eb6b6ee8ebeb2f681"
+    },
+    {
+      "path": "client/assets/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "269b4e4e374a97723d8fe07cd5c6034b2f4946c4",
+      "size": 31401,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/269b4e4e374a97723d8fe07cd5c6034b2f4946c4"
+    },
+    {
+      "path": "client/main.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dc3805327490f255d6adc0d76856601fcb04060",
+      "size": 31754,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5dc3805327490f255d6adc0d76856601fcb04060"
+    },
+    {
+      "path": "client/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd3cfbbdcef66dbb69a264cb367d0ec7898d4966",
+      "size": 220,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bd3cfbbdcef66dbb69a264cb367d0ec7898d4966"
+    },
+    {
+      "path": "client/pages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "108510f286a8c3faf7fa1cc2e04603a870600c2a",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/108510f286a8c3faf7fa1cc2e04603a870600c2a"
+    },
+    {
+      "path": "client/pages/find.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b1e4b6b2257e0bff919551799c98267c520cba5",
+      "size": 802,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3b1e4b6b2257e0bff919551799c98267c520cba5"
+    },
+    {
+      "path": "client/pages/find.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d68a059d2bcfaec10c31cff463dc9f3b88f64acf",
+      "size": 1763,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d68a059d2bcfaec10c31cff463dc9f3b88f64acf"
+    },
+    {
+      "path": "client/pages/firstrun.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "359b7dfdeba990a43c59beed3425d4e7bd38fa54",
+      "size": 960,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/359b7dfdeba990a43c59beed3425d4e7bd38fa54"
+    },
+    {
+      "path": "client/pages/firstrun.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bfa4a39fb62f72f1ba1f7141d2693bbe5367d1d",
+      "size": 2766,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0bfa4a39fb62f72f1ba1f7141d2693bbe5367d1d"
+    },
+    {
+      "path": "client/pages/firstrun.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97e41cd6b6202531ed6a37b17c93561263ebbcb5",
+      "size": 1996,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/97e41cd6b6202531ed6a37b17c93561263ebbcb5"
+    },
+    {
+      "path": "client/pages/font.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22bdf8d76f91bd9d1150e1d53d0aaba366425894",
+      "size": 27,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/22bdf8d76f91bd9d1150e1d53d0aaba366425894"
+    },
+    {
+      "path": "client/pages/font.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2629aa195d64f3aa3fdfe6404508bec03621f244",
+      "size": 1396,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2629aa195d64f3aa3fdfe6404508bec03621f244"
+    },
+    {
+      "path": "client/pages/font.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d4753ae4beeadde5b006b9df9d7290b7605698b",
+      "size": 1711,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8d4753ae4beeadde5b006b9df9d7290b7605698b"
+    },
+    {
+      "path": "client/preload.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "020dc785ee5cdbacfbdf0206870ebec3685780a0",
+      "size": 994,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/020dc785ee5cdbacfbdf0206870ebec3685780a0"
+    },
+    {
+      "path": "dependencies",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d5d58d031eb6ea4ec93658f62312c56e6e6bba3c",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/d5d58d031eb6ea4ec93658f62312c56e6e6bba3c"
+    },
+    {
+      "path": "dependencies/CPAN",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de14b7f450e8ed5fc6f4dafe52d83994607ea677",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/de14b7f450e8ed5fc6f4dafe52d83994607ea677"
+    },
+    {
+      "path": "dependencies/CPAN/CGI.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09bb624693632b9128f3be01a87a42b3faadba12",
+      "size": 230363,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/09bb624693632b9128f3be01a87a42b3faadba12"
+    },
+    {
+      "path": "dependencies/CPAN/CGI",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07133d97232ed97bf8a7c845e1081bcfead1e15a",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/07133d97232ed97bf8a7c845e1081bcfead1e15a"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Apache.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c711a484b0b9cf4b580b441cfd8c73a5d6a6db48",
+      "size": 271,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c711a484b0b9cf4b580b441cfd8c73a5d6a6db48"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Carp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "255b9e758a66e0effda1f7a72fc427ec7b65e89e",
+      "size": 15413,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/255b9e758a66e0effda1f7a72fc427ec7b65e89e"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Cookie.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27a93c55b0dcd7c2f802904b5a052c78d4e3ff38",
+      "size": 14215,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/27a93c55b0dcd7c2f802904b5a052c78d4e3ff38"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Pretty.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d824a025e4fbb86298e1c830edefc7841e813e9a",
+      "size": 7838,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d824a025e4fbb86298e1c830edefc7841e813e9a"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Push.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e72abda550878e591e739166ed3fa67d2492c95",
+      "size": 10942,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9e72abda550878e591e739166ed3fa67d2492c95"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Switch.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8cc9ef463ff8d2a8a0a33294fb463787e644593",
+      "size": 285,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b8cc9ef463ff8d2a8a0a33294fb463787e644593"
+    },
+    {
+      "path": "dependencies/CPAN/CGI/Util.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be104facf911fcd7a182aa2e507c27598f91705d",
+      "size": 11064,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/be104facf911fcd7a182aa2e507c27598f91705d"
+    },
+    {
+      "path": "dependencies/CPAN/File",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f345e025b97b165f3995104a701929027f8f840",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/5f345e025b97b165f3995104a701929027f8f840"
+    },
+    {
+      "path": "dependencies/CPAN/File/Which.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69e336b03bd40d9ee7e5dd3b7b133281f4250128",
+      "size": 6682,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/69e336b03bd40d9ee7e5dd3b7b133281f4250128"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d23ec0270bcad029729b90b8c17c1c33db990d89",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/d23ec0270bcad029729b90b8c17c1c33db990d89"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Cookies.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "225f1b4a29f7ce7ac816cc5bd39c55c0b6473208",
+      "size": 20549,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/225f1b4a29f7ce7ac816cc5bd39c55c0b6473208"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Cookies",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "559df7fc1faac403ed167d0ababd2e17caf2abbc",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/559df7fc1faac403ed167d0ababd2e17caf2abbc"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Cookies/Microsoft.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30ae1de1473ee5c9c31671bab900c685a4eea554",
+      "size": 8175,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/30ae1de1473ee5c9c31671bab900c685a4eea554"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Cookies/Netscape.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b613e380993315c9d2bc76f625f618b6b929f647",
+      "size": 3025,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b613e380993315c9d2bc76f625f618b6b929f647"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Daemon.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59db0e64baf9f2410ebd8fc6eaa2341d5301e85a",
+      "size": 22237,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/59db0e64baf9f2410ebd8fc6eaa2341d5301e85a"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Date.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ddf46bb839659fe303e3ff6cdc20588b7e80c82",
+      "size": 10744,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1ddf46bb839659fe303e3ff6cdc20588b7e80c82"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Headers.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75422b8daf46f234f70daf772f74b4d611a49bdb",
+      "size": 21243,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/75422b8daf46f234f70daf772f74b4d611a49bdb"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Headers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "476140a56126087482f3e74529a68e833e6a3ffc",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/476140a56126087482f3e74529a68e833e6a3ffc"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Headers/Auth.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56319bbba7e9346f32af3933758bedde57609005",
+      "size": 2040,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/56319bbba7e9346f32af3933758bedde57609005"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Headers/ETag.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "877fd5cf4c20eaa44663aeba0a94ac41ec190c49",
+      "size": 2230,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/877fd5cf4c20eaa44663aeba0a94ac41ec190c49"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Headers/Util.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25d52081570a249bb969a867192c4eab9bb08515",
+      "size": 4513,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/25d52081570a249bb969a867192c4eab9bb08515"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Message.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dca6e8f95de5562d65e99b07516631b71cccd3e0",
+      "size": 19433,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/dca6e8f95de5562d65e99b07516631b71cccd3e0"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Negotiate.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "999c5c89e9fbd35280e26402d65debdcffd8e39c",
+      "size": 16242,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/999c5c89e9fbd35280e26402d65debdcffd8e39c"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Request.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29284fcb22aea43ca5b0b738e2528944c09918b1",
+      "size": 5030,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/29284fcb22aea43ca5b0b738e2528944c09918b1"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Request",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f7a64f977a3b4a5541eb912ed64a4574a93172ae",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/f7a64f977a3b4a5541eb912ed64a4574a93172ae"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Request/Common.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd113e2577c7bb16aeac251c1a4dc86b2fc1ac6b",
+      "size": 12980,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/dd113e2577c7bb16aeac251c1a4dc86b2fc1ac6b"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Response.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a122d7ef2f9b78a4a74350c896849a9e67168fb1",
+      "size": 11827,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a122d7ef2f9b78a4a74350c896849a9e67168fb1"
+    },
+    {
+      "path": "dependencies/CPAN/HTTP/Status.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3fd43f2ab369bd06334a0b6a2d66371b7924098",
+      "size": 6653,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d3fd43f2ab369bd06334a0b6a2d66371b7924098"
+    },
+    {
+      "path": "dependencies/CPAN/JSON",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e559b7f15d5d3db4c024a8b61b93946b72b9b1b6",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/e559b7f15d5d3db4c024a8b61b93946b72b9b1b6"
+    },
+    {
+      "path": "dependencies/CPAN/JSON/Tiny.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "792b1a9c2b5c6c47880e0a30f10586c76c6dbfcd",
+      "size": 6696,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/792b1a9c2b5c6c47880e0a30f10586c76c6dbfcd"
+    },
+    {
+      "path": "dependencies/CPAN/LWP.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "820b754a40f8470188659f180d40bea18ca089bf",
+      "size": 21386,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/820b754a40f8470188659f180d40bea18ca089bf"
+    },
+    {
+      "path": "dependencies/CPAN/LWP",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3d37eea58b70c8831b924c63d5fb8851e52865af",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/3d37eea58b70c8831b924c63d5fb8851e52865af"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Authen",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b0975b5a7dcd7613ec4fdcfb3fb292229dfc883",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/1b0975b5a7dcd7613ec4fdcfb3fb292229dfc883"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Authen/Basic.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4c5f4982bed0c236e30b1be45a392aba6b1ca50",
+      "size": 1039,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f4c5f4982bed0c236e30b1be45a392aba6b1ca50"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Authen/Digest.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffd9cb158ff243d2a497167e6257020c66f4ce69",
+      "size": 2559,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ffd9cb158ff243d2a497167e6257020c66f4ce69"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Authen/Ntlm.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0147f71f65da7ada28508c5235d847b8a1192624",
+      "size": 6327,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0147f71f65da7ada28508c5235d847b8a1192624"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/ConnCache.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d0d21ad8ba3bf6a095d8b14b8b3742f4f91c97e",
+      "size": 7661,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3d0d21ad8ba3bf6a095d8b14b8b3742f4f91c97e"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Debug.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7475b9b0c286972cc8df9fae187b2b143694684",
+      "size": 3089,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a7475b9b0c286972cc8df9fae187b2b143694684"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/DebugFile.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c03c358c54521663b1122a5c538af3f27f297db6",
+      "size": 6434,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c03c358c54521663b1122a5c538af3f27f297db6"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/MediaTypes.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d46bd4b2242280abb1931b9cf5d9ba9f894b837",
+      "size": 7021,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1d46bd4b2242280abb1931b9cf5d9ba9f894b837"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/MemberMixin.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9989616c7a429747663e33ecdf05fe8b9f73b74",
+      "size": 907,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e9989616c7a429747663e33ecdf05fe8b9f73b74"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3edf99aa8f602580048393c2124e183d05eb7747",
+      "size": 8083,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3edf99aa8f602580048393c2124e183d05eb7747"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5a52c8f5c2b030274e30cde7594ee997599c2a2c",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/5a52c8f5c2b030274e30cde7594ee997599c2a2c"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/GHTTP.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54d8d58beb979a87059060b5b3c1581b4188756d",
+      "size": 1824,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/54d8d58beb979a87059060b5b3c1581b4188756d"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/cpan.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66d8f213b988d122992c7cab6964bd7c7f505989",
+      "size": 1380,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/66d8f213b988d122992c7cab6964bd7c7f505989"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/data.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac71c869cf925d42fd85d53decb6099e12c53652",
+      "size": 1279,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ac71c869cf925d42fd85d53decb6099e12c53652"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/file.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5261ccaa8763b60f68fd1025757cb44d48e92940",
+      "size": 3895,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5261ccaa8763b60f68fd1025757cb44d48e92940"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/ftp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7475d9ca952478397dd8492e7dd8a3213b1579",
+      "size": 17503,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ab7475d9ca952478397dd8492e7dd8a3213b1579"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/gopher.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e40e7f860e48efc5587006c7757bec51c7c7862",
+      "size": 5793,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2e40e7f860e48efc5587006c7757bec51c7c7862"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/http.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a469e27ef7b340fac7b59e87b1c3c54c800c3aa",
+      "size": 10613,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3a469e27ef7b340fac7b59e87b1c3c54c800c3aa"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/http10.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b4feb8f8f79f8002a7763a31d369da97f42eedc",
+      "size": 8445,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2b4feb8f8f79f8002a7763a31d369da97f42eedc"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/https.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bea86bfa35124c44ce21254dd3044e8e8aa46a37",
+      "size": 1289,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bea86bfa35124c44ce21254dd3044e8e8aa46a37"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/https10.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37918efa4bc15bc7a08bff7d7a9a11206de251e1",
+      "size": 1829,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/37918efa4bc15bc7a08bff7d7a9a11206de251e1"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/loopback.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cd67ae36087a16ecd6fcc57233eefae4f9fc9c5",
+      "size": 601,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2cd67ae36087a16ecd6fcc57233eefae4f9fc9c5"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/mailto.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d38fa09f1ac62924ef8902fb9fab37223cf3a4",
+      "size": 4465,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c4d38fa09f1ac62924ef8902fb9fab37223cf3a4"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/nntp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efc9b94ec49147e1eb44e7c8e25f62ed60d374a9",
+      "size": 3757,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/efc9b94ec49147e1eb44e7c8e25f62ed60d374a9"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Protocol/nogo.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53a2ec534338c5a32d2af21de8eb1e8c20ff315e",
+      "size": 630,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/53a2ec534338c5a32d2af21de8eb1e8c20ff315e"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/RobotUA.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59db8ee9cbb733e9e62de88a6af64a7fbf142e8f",
+      "size": 8127,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/59db8ee9cbb733e9e62de88a6af64a7fbf142e8f"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/Simple.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "968f909286d8190a936fb7840fc97ec08b85a47f",
+      "size": 8924,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/968f909286d8190a936fb7840fc97ec08b85a47f"
+    },
+    {
+      "path": "dependencies/CPAN/LWP/UserAgent.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77b948efef6ca60f0c56861d696e4d8e2690dc1c",
+      "size": 41593,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/77b948efef6ca60f0c56861d696e4d8e2690dc1c"
+    },
+    {
+      "path": "dependencies/CPAN/Module",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6bb95a57cc3f0dee7e9567bd916c3494a0b05988",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/6bb95a57cc3f0dee7e9567bd916c3494a0b05988"
+    },
+    {
+      "path": "dependencies/CPAN/Module/Path.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d5cca38ed3a40e36566055f592d9e9e41068782",
+      "size": 4995,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0d5cca38ed3a40e36566055f592d9e9e41068782"
+    },
+    {
+      "path": "dependencies/CPAN/PorterStemmer.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d88c6af6362fb0fb3ba31b1bb2fa695bbe4d0b3f",
+      "size": 3156,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d88c6af6362fb0fb3ba31b1bb2fa695bbe4d0b3f"
+    },
+    {
+      "path": "dependencies/CPAN/Search",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ecdc2e10b323902f36680ec37044fc73f36d895b",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/ecdc2e10b323902f36680ec37044fc73f36d895b"
+    },
+    {
+      "path": "dependencies/CPAN/Search/Binary.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b25f4089d54b4b5d9c8f281aaeedf7669ca73edc",
+      "size": 5319,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b25f4089d54b4b5d9c8f281aaeedf7669ca73edc"
+    },
+    {
+      "path": "dependencies/CPAN/URI.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d259c734afb6f612860c6afdfb44453f28a2cbe",
+      "size": 34764,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7d259c734afb6f612860c6afdfb44453f28a2cbe"
+    },
+    {
+      "path": "dependencies/CPAN/URI",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e5e4f1a0f79e3d5a5b7979eabbb01b177b5b4ab",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/5e5e4f1a0f79e3d5a5b7979eabbb01b177b5b4ab"
+    },
+    {
+      "path": "dependencies/CPAN/URI/Escape.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9392d446fe143f0df1207198dd895fd03b480ef",
+      "size": 7061,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f9392d446fe143f0df1207198dd895fd03b480ef"
+    },
+    {
+      "path": "dependencies/CPAN/URI/Heuristic.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4ace34379d1e6c337a69b017897d36746b52539",
+      "size": 6524,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d4ace34379d1e6c337a69b017897d36746b52539"
+    },
+    {
+      "path": "dependencies/CPAN/URI/IRI.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edb10450f7c77e0f2ec368f10691c0de233d929c",
+      "size": 794,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/edb10450f7c77e0f2ec368f10691c0de233d929c"
+    },
+    {
+      "path": "dependencies/CPAN/URI/QueryParam.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16eed9823daf9a647acf8700d3e6cb0fa4f153f2",
+      "size": 4861,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/16eed9823daf9a647acf8700d3e6cb0fa4f153f2"
+    },
+    {
+      "path": "dependencies/CPAN/URI/Split.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39b5bcf7f2034cd22f397d11e4ed1deb3a0b8131",
+      "size": 2353,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/39b5bcf7f2034cd22f397d11e4ed1deb3a0b8131"
+    },
+    {
+      "path": "dependencies/CPAN/URI/URL.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba05ecaeba4a941002c9bf26652efc014e417583",
+      "size": 5487,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ba05ecaeba4a941002c9bf26652efc014e417583"
+    },
+    {
+      "path": "dependencies/CPAN/URI/WithBase.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "943b7b533a7cc40de5007a9c1c8baa850b46aadf",
+      "size": 3857,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/943b7b533a7cc40de5007a9c1c8baa850b46aadf"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_foreign.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d556c853e6826f7d35616ec61be44818cb399868",
+      "size": 107,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d556c853e6826f7d35616ec61be44818cb399868"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_generic.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0da8f72998a4641b5c0ba0fec3e3772e694d9f3f",
+      "size": 5822,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0da8f72998a4641b5c0ba0fec3e3772e694d9f3f"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_idna.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8392e107d9212e31bfa89ae0b0e1f58b6f328fc3",
+      "size": 2079,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8392e107d9212e31bfa89ae0b0e1f58b6f328fc3"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_ldap.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5057c37cb33f850a65028b334ebce51e8ddc6dac",
+      "size": 3249,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5057c37cb33f850a65028b334ebce51e8ddc6dac"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_login.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c3e5a1b83644784b7e11da1c722b49d52d9b7e4",
+      "size": 231,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7c3e5a1b83644784b7e11da1c722b49d52d9b7e4"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_punycode.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "405acc2de1bf5bdb3bb65556209d5e2d56a2bc89",
+      "size": 5622,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/405acc2de1bf5bdb3bb65556209d5e2d56a2bc89"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_query.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9dde133e3452a0c9d1eff0b9236ef4bc2ffe62f",
+      "size": 2531,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d9dde133e3452a0c9d1eff0b9236ef4bc2ffe62f"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_segment.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01f207feb1543d404e2de3543b2ba29cf20f4eb4",
+      "size": 416,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/01f207feb1543d404e2de3543b2ba29cf20f4eb4"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_server.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c32400d17f1a656e78bf42ae151aeb594081680",
+      "size": 3724,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5c32400d17f1a656e78bf42ae151aeb594081680"
+    },
+    {
+      "path": "dependencies/CPAN/URI/_userpass.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b57fb2a5023789c487317d094be1ebd8c59e7c48",
+      "size": 1034,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b57fb2a5023789c487317d094be1ebd8c59e7c48"
+    },
+    {
+      "path": "dependencies/CPAN/URI/data.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b21b5a31a0a452257af9f81a1e904ba5938a2ca8",
+      "size": 3391,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b21b5a31a0a452257af9f81a1e904ba5938a2ca8"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d76ddf2b5e20b4c05ad5dbf2c0f287aa0ff377d9",
+      "size": 9761,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d76ddf2b5e20b4c05ad5dbf2c0f287aa0ff377d9"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa222674a56082ecc561352f5ea204aea62773e5",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/fa222674a56082ecc561352f5ea204aea62773e5"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/Base.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bddd78a44fc3df4d591588872bb1524339a8a254",
+      "size": 1487,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bddd78a44fc3df4d591588872bb1524339a8a254"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/FAT.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78ed78002e3e833b4745abd5524578197941d8fb",
+      "size": 497,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/78ed78002e3e833b4745abd5524578197941d8fb"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/Mac.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "155d618b4227ff5c4c89d456eab66a887011db16",
+      "size": 2485,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/155d618b4227ff5c4c89d456eab66a887011db16"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/OS2.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3cbf980b3185e530392d6d041293fed79e40108",
+      "size": 561,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a3cbf980b3185e530392d6d041293fed79e40108"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/QNX.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "995fd632e27d9b29961deb8a24e43929e6548be9",
+      "size": 337,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/995fd632e27d9b29961deb8a24e43929e6548be9"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/Unix.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "869e8991a7e29c9cc49d91b85cb8f02ff3de7345",
+      "size": 1022,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/869e8991a7e29c9cc49d91b85cb8f02ff3de7345"
+    },
+    {
+      "path": "dependencies/CPAN/URI/file/Win32.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4f1ecfe5699f552930bd6462fb71dee1ff420df",
+      "size": 1757,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d4f1ecfe5699f552930bd6462fb71dee1ff420df"
+    },
+    {
+      "path": "dependencies/CPAN/URI/ftp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2d195026dafbfbe86814d33a7501e7387bcf4eb",
+      "size": 1056,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e2d195026dafbfbe86814d33a7501e7387bcf4eb"
+    },
+    {
+      "path": "dependencies/CPAN/URI/gopher.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00bc363a9ec46e192680970176e2ac8d6d4e0e86",
+      "size": 2428,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/00bc363a9ec46e192680970176e2ac8d6d4e0e86"
+    },
+    {
+      "path": "dependencies/CPAN/URI/http.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b02cac9aa3f883149fd4e749bddbf3f5cc772f4",
+      "size": 425,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1b02cac9aa3f883149fd4e749bddbf3f5cc772f4"
+    },
+    {
+      "path": "dependencies/CPAN/URI/https.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f40636bb94ef7d6a8f96881d5b62977548de3647",
+      "size": 144,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f40636bb94ef7d6a8f96881d5b62977548de3647"
+    },
+    {
+      "path": "dependencies/CPAN/URI/ldap.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "813bff9ea2a7aced05bccf7244120d2abfa3e001",
+      "size": 2924,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/813bff9ea2a7aced05bccf7244120d2abfa3e001"
+    },
+    {
+      "path": "dependencies/CPAN/URI/ldapi.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b138c8849cf6739e9d36ec53ee357dc00f186e06",
+      "size": 441,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b138c8849cf6739e9d36ec53ee357dc00f186e06"
+    },
+    {
+      "path": "dependencies/CPAN/URI/ldaps.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02ad5115fb58af4b655815fb1aa8440c03352d52",
+      "size": 144,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/02ad5115fb58af4b655815fb1aa8440c03352d52"
+    },
+    {
+      "path": "dependencies/CPAN/URI/mailto.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "300386ef4495f5b7dea58c2447b8e8918d93ff75",
+      "size": 1276,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/300386ef4495f5b7dea58c2447b8e8918d93ff75"
+    },
+    {
+      "path": "dependencies/CPAN/URI/mms.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c0e44f05413ec23e3921cfc67e0fcaf58c0f74d",
+      "size": 125,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3c0e44f05413ec23e3921cfc67e0fcaf58c0f74d"
+    },
+    {
+      "path": "dependencies/CPAN/URI/news.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55dcf71556d47b911ca8e111b0b75d552974edfa",
+      "size": 1454,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/55dcf71556d47b911ca8e111b0b75d552974edfa"
+    },
+    {
+      "path": "dependencies/CPAN/URI/nntp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80bd9429f980ac69bffcaad37e8512efdbfbcffa",
+      "size": 127,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/80bd9429f980ac69bffcaad37e8512efdbfbcffa"
+    },
+    {
+      "path": "dependencies/CPAN/URI/pop.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba824c01b03e04b21605642dc9727273060866d3",
+      "size": 1207,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ba824c01b03e04b21605642dc9727273060866d3"
+    },
+    {
+      "path": "dependencies/CPAN/URI/rlogin.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dd5667486bf17f1b7563820e2ce774b67b6fe8d",
+      "size": 129,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9dd5667486bf17f1b7563820e2ce774b67b6fe8d"
+    },
+    {
+      "path": "dependencies/CPAN/URI/rsync.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb6fc132f4b14f0c3c207bf48a70f1cdecdfe72a",
+      "size": 207,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fb6fc132f4b14f0c3c207bf48a70f1cdecdfe72a"
+    },
+    {
+      "path": "dependencies/CPAN/URI/rtsp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b06193ad3b558f5743ecbdc3184c385c85c92a7f",
+      "size": 125,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b06193ad3b558f5743ecbdc3184c385c85c92a7f"
+    },
+    {
+      "path": "dependencies/CPAN/URI/rtspu.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ed9707da4ba170f87054f2dd8f6018987a7dae8",
+      "size": 126,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8ed9707da4ba170f87054f2dd8f6018987a7dae8"
+    },
+    {
+      "path": "dependencies/CPAN/URI/sftp.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93ff152ed161b6a1e820da1d4c0f84a2a0c1ef7a",
+      "size": 98,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/93ff152ed161b6a1e820da1d4c0f84a2a0c1ef7a"
+    },
+    {
+      "path": "dependencies/CPAN/URI/sip.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d793a3f57a8fba1d6f2ac3dd083046142f731037",
+      "size": 1709,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d793a3f57a8fba1d6f2ac3dd083046142f731037"
+    },
+    {
+      "path": "dependencies/CPAN/URI/sips.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d5553b5313ff0a7d6fcb2fabe1150470695cc3b",
+      "size": 143,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/4d5553b5313ff0a7d6fcb2fabe1150470695cc3b"
+    },
+    {
+      "path": "dependencies/CPAN/URI/snews.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9911046396180dd1d235c5c6bd971b953cd80811",
+      "size": 172,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9911046396180dd1d235c5c6bd971b953cd80811"
+    },
+    {
+      "path": "dependencies/CPAN/URI/ssh.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4848f02f8ed2872f76fff1f09e12ccc6419337b",
+      "size": 175,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c4848f02f8ed2872f76fff1f09e12ccc6419337b"
+    },
+    {
+      "path": "dependencies/CPAN/URI/telnet.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d95a6200ca2b99301482b4dee9732766c6db231",
+      "size": 128,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/4d95a6200ca2b99301482b4dee9732766c6db231"
+    },
+    {
+      "path": "dependencies/CPAN/URI/tn3270.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdcabbde855cf8ad34afa53f9327a38836a8b454",
+      "size": 128,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/cdcabbde855cf8ad34afa53f9327a38836a8b454"
+    },
+    {
+      "path": "dependencies/CPAN/URI/urn.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bca02cb78809deb9030054b4f7304f53c5d80858",
+      "size": 2175,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bca02cb78809deb9030054b4f7304f53c5d80858"
+    },
+    {
+      "path": "dependencies/CPAN/URI/urn",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4b72d5eae0408434c05edd2192278d46f6dd21e5",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/4b72d5eae0408434c05edd2192278d46f6dd21e5"
+    },
+    {
+      "path": "dependencies/CPAN/URI/urn/isbn.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92463459448a902a238700e026fd94d8888399b2",
+      "size": 2541,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/92463459448a902a238700e026fd94d8888399b2"
+    },
+    {
+      "path": "dependencies/CPAN/URI/urn/oid.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a4a0f9dcdea1666491478e46947e0021accb243",
+      "size": 283,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2a4a0f9dcdea1666491478e46947e0021accb243"
+    },
+    {
+      "path": "dependencies/CPAN/XML",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a38dc2a8f08432f681b81de59fe71a69030e9c2c",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/a38dc2a8f08432f681b81de59fe71a69030e9c2c"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cf15253a42ef2aec4e229c6f1e8fdbaef63ccf0a",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/cf15253a42ef2aec4e229c6f1e8fdbaef63ccf0a"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e84875c447cdd808fabd09269612daff7b477fd",
+      "size": 8130,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1e84875c447cdd808fabd09269612daff7b477fd"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5064024883e520a2c2f9680d4309bdba203ed1c4",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/5064024883e520a2c2f9680d4309bdba203ed1c4"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Constants.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cddd7813bd8df4649f44cdd0ab616e94efc0b5f",
+      "size": 2195,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8cddd7813bd8df4649f44cdd0ab616e94efc0b5f"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Document.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fad10d9c25b08b76edcbf1d056097a733e81f2d",
+      "size": 2891,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7fad10d9c25b08b76edcbf1d056097a733e81f2d"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Extras.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da62aa2e3dc524e109db706158652a1325864bd9",
+      "size": 417,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/da62aa2e3dc524e109db706158652a1325864bd9"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Node.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74d4fbaa06f04cc5513688b648b31ae247ae2a1e",
+      "size": 6631,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/74d4fbaa06f04cc5513688b648b31ae247ae2a1e"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/NodeIterator.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49dfc69c0e7a9f197e32afbcb2a4b98c76d847ec",
+      "size": 4152,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/49dfc69c0e7a9f197e32afbcb2a4b98c76d847ec"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/NodeList.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "494fd0d2ead3037c09643dcd0a345b7bd975ee4c",
+      "size": 1516,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/494fd0d2ead3037c09643dcd0a345b7bd975ee4c"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Parser.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "592a5abb7923c5b5a34b698752e2167b1b16368e",
+      "size": 8566,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/592a5abb7923c5b5a34b698752e2167b1b16368e"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/Serializer.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb0a8b8ccb08dff70dcae3272083456659390851",
+      "size": 1843,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/bb0a8b8ccb08dff70dcae3272083456659390851"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/XPath.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "027aa8ae939fe0cd166c1224cfef7fbd2fccdc02",
+      "size": 56505,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/027aa8ae939fe0cd166c1224cfef7fbd2fccdc02"
+    },
+    {
+      "path": "dependencies/CPAN/XML/DOM/Lite/XSLT.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30a09c5364f8a1429e36c670eae45744a08aa0dd",
+      "size": 16588,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/30a09c5364f8a1429e36c670eae45744a08aa0dd"
+    },
+    {
+      "path": "dependencies/CPAN/XML/Tiny.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daba3b00ed2d946e6f3e0c5ffd694fbe39a9dd77",
+      "size": 14830,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/daba3b00ed2d946e6f3e0c5ffd694fbe39a9dd77"
+    },
+    {
+      "path": "dist",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b8017c08012a400f5ac4166ea4610c0ceb005c6",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/0b8017c08012a400f5ac4166ea4610c0ceb005c6"
+    },
+    {
+      "path": "dist/Diogenes.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ff1376cc305a6c1376d0c04023c5da61dcd37ee",
+      "size": 946256,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2ff1376cc305a6c1376d0c04023c5da61dcd37ee"
+    },
+    {
+      "path": "dist/diogenes-win32.iss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c5c4fb5189f0cb9b5cb0d383f1e9d5ab6e1356df",
+      "size": 981,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c5c4fb5189f0cb9b5cb0d383f1e9d5ab6e1356df"
+    },
+    {
+      "path": "dist/diogenes-win64.iss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3651b0c104dbbdeb04c47960cfeef7b6b6e798df",
+      "size": 981,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/3651b0c104dbbdeb04c47960cfeef7b6b6e798df"
+    },
+    {
+      "path": "dist/diogenes.desktop",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e573b614c589e0d6875ac5853c507456455de30a",
+      "size": 189,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e573b614c589e0d6875ac5853c507456455de30a"
+    },
+    {
+      "path": "dist/icon.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41c1e8f0c9da963215e5b1b73eb9569c7e9ec6f3",
+      "size": 286,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/41c1e8f0c9da963215e5b1b73eb9569c7e9ec6f3"
+    },
+    {
+      "path": "dist/mt",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "19f6a021bf1cf3ed9ec6c78d5b6da302d322e502",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/19f6a021bf1cf3ed9ec6c78d5b6da302d322e502"
+    },
+    {
+      "path": "dist/mt/midlrtmd.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ab805009ebbf91fe94c14ba246dc0cfc2d38453",
+      "size": 390112,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/6ab805009ebbf91fe94c14ba246dc0cfc2d38453"
+    },
+    {
+      "path": "dist/mt/mt.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd1d392038ca006a3cf625af0ba0826e7a4a8e0a",
+      "size": 1481184,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/cd1d392038ca006a3cf625af0ba0826e7a4a8e0a"
+    },
+    {
+      "path": "dist/perl.exe.manifest",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "553f643fa57abe746db8b4054ffb519d45512100",
+      "size": 396,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/553f643fa57abe746db8b4054ffb519d45512100"
+    },
+    {
+      "path": "dist/post-install-deb.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ace63455b4f596c7b3c2cef3b05c8a1651205f05",
+      "size": 230,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/ace63455b4f596c7b3c2cef3b05c8a1651205f05"
+    },
+    {
+      "path": "dist/post-install-rpm.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05a8cae20f1b64cfbcc3bf6b9ab4f08468372d01",
+      "size": 162,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/05a8cae20f1b64cfbcc3bf6b9ab4f08468372d01"
+    },
+    {
+      "path": "makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "376422a0fcb22bef221188c4c3b31c71152961f2",
+      "size": 22952,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/376422a0fcb22bef221188c4c3b31c71152961f2"
+    },
+    {
+      "path": "mk.common",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a29e048cdfd6b25558e677f2e74bcf0da2b2e91",
+      "size": 254,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/4a29e048cdfd6b25558e677f2e74bcf0da2b2e91"
+    },
+    {
+      "path": "mk.data",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5e21ae0f68f89f0b8f7b1b3e4ad212e25cb55dc",
+      "size": 3075,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a5e21ae0f68f89f0b8f7b1b3e4ad212e25cb55dc"
+    },
+    {
+      "path": "mk.lexica-logeion",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0460e835b5a2513620b521ce459520e733ce9bf",
+      "size": 1311,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c0460e835b5a2513620b521ce459520e733ce9bf"
+    },
+    {
+      "path": "mk.lexica-perseus",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ce9697edb5e453bfae60fcd482ed1cfef59b6ed",
+      "size": 2461,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1ce9697edb5e453bfae60fcd482ed1cfef59b6ed"
+    },
+    {
+      "path": "mk.morpheus-alatius",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1efe73611c6d0fbf4094fa0988b9d6b4bc55c8e2",
+      "size": 1115,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1efe73611c6d0fbf4094fa0988b9d6b4bc55c8e2"
+    },
+    {
+      "path": "mk.morpheus-broken",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f43ef4e7abe8d6fe0feb6ef3eab7dd10b4f6e252",
+      "size": 1195,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f43ef4e7abe8d6fe0feb6ef3eab7dd10b4f6e252"
+    },
+    {
+      "path": "mk.morpheus-old",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "942473175b913733c51d5e778c57748efde4ce30",
+      "size": 1192,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/942473175b913733c51d5e778c57748efde4ce30"
+    },
+    {
+      "path": "mk.morpheus-v3",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "778f7233e657d79feed70c6a975750c37fb5b1a8",
+      "size": 555,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/778f7233e657d79feed70c6a975750c37fb5b1a8"
+    },
+    {
+      "path": "mk.pdf-data",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1a8d0f6c6a0b4c6804c391e7d6148fe1b28cb83",
+      "size": 1428,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f1a8d0f6c6a0b4c6804c391e7d6148fe1b28cb83"
+    },
+    {
+      "path": "mk.prebuilt-data",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14bbfd7bb09f50881b34178c36cc5f7085ce11c4",
+      "size": 583,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/14bbfd7bb09f50881b34178c36cc5f7085ce11c4"
+    },
+    {
+      "path": "mk.wordlists",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07f08b6dbc5acd480491a75323118e201c85028e",
+      "size": 2469,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/07f08b6dbc5acd480491a75323118e201c85028e"
+    },
+    {
+      "path": "server",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f09a40a76d0c4581e90983ee427a7e04b5da904a",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/f09a40a76d0c4581e90983ee427a7e04b5da904a"
+    },
+    {
+      "path": "server/Beta_input.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43f9ebaa42854a07b251a324f1a2b497c34f1aa4",
+      "size": 2060,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/43f9ebaa42854a07b251a324f1a2b497c34f1aa4"
+    },
+    {
+      "path": "server/Diogenes.map",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b23932cd54dd62388511feaa88f25ff086fa8590",
+      "size": 108706,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b23932cd54dd62388511feaa88f25ff086fa8590"
+    },
+    {
+      "path": "server/Diogenes.pod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efbb2a83ec2a668ad71fd782ff131af9a1cec9f9",
+      "size": 33714,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/efbb2a83ec2a668ad71fd782ff131af9a1cec9f9"
+    },
+    {
+      "path": "server/Diogenes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d152ea8e4b4bdd691747dd8cbb2d94f9951ea245",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/d152ea8e4b4bdd691747dd8cbb2d94f9951ea245"
+    },
+    {
+      "path": "server/Diogenes/Base.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86d0381ff0560d78221fc3de3549529193e99bf8",
+      "size": 129298,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/86d0381ff0560d78221fc3de3549529193e99bf8"
+    },
+    {
+      "path": "server/Diogenes/BetaHtml.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "596225a1d9120d98eefacdf6996e8829bd327fba",
+      "size": 19575,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/596225a1d9120d98eefacdf6996e8829bd327fba"
+    },
+    {
+      "path": "server/Diogenes/BetaXml.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "287a595005dfacc5046988712ece16ffa9ff128d",
+      "size": 7210,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/287a595005dfacc5046988712ece16ffa9ff128d"
+    },
+    {
+      "path": "server/Diogenes/Browser.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3e079c23ef6b614740e8957fc3e57dc1c9e30b7",
+      "size": 34954,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d3e079c23ef6b614740e8957fc3e57dc1c9e30b7"
+    },
+    {
+      "path": "server/Diogenes/Indexed.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46b54939d2c664cfd0ebc75148068fccf6e2b344",
+      "size": 46660,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/46b54939d2c664cfd0ebc75148068fccf6e2b344"
+    },
+    {
+      "path": "server/Diogenes/Perseus.pm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e70e1d974935c4d0b15c812f3bdcf9a49b27251b",
+      "size": 35126,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e70e1d974935c4d0b15c812f3bdcf9a49b27251b"
+    },
+    {
+      "path": "server/Diogenes/Script.pm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d2bd0403bca6afcc9fb53dd5d4fd1c772776762b",
+      "size": 75669,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d2bd0403bca6afcc9fb53dd5d4fd1c772776762b"
+    },
+    {
+      "path": "server/Diogenes/Search.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ba78ef9ebd066facf515737af79f928b9018fdf",
+      "size": 38110,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0ba78ef9ebd066facf515737af79f928b9018fdf"
+    },
+    {
+      "path": "server/Diogenes/UnicodeInput.pm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daee6a3ff0910c64aa9522468099ed1709a18242",
+      "size": 6279,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/daee6a3ff0910c64aa9522468099ed1709a18242"
+    },
+    {
+      "path": "server/Diogenes/phi_files.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6021ffd95a7099a97554373cfcc6ef5a08739060",
+      "size": 3810,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/6021ffd95a7099a97554373cfcc6ef5a08739060"
+    },
+    {
+      "path": "server/Diogenes/tlg-chronology.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "482c3a14e1e8c47192983b735b379f45be1ce014",
+      "size": 29742,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/482c3a14e1e8c47192983b735b379f45be1ce014"
+    },
+    {
+      "path": "server/Perseus_input.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a2be90388af411059adf93e50fca7c94e28494e",
+      "size": 2246,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/1a2be90388af411059adf93e50fca7c94e28494e"
+    },
+    {
+      "path": "server/Settings.cgi",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "29e98bdc56137257a69525eb1d70064640afce7f",
+      "size": 9153,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/29e98bdc56137257a69525eb1d70064640afce7f"
+    },
+    {
+      "path": "server/Shortcuts.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "009e5cec169836d6c9b0bfdfec629d858a88d158",
+      "size": 953,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/009e5cec169836d6c9b0bfdfec629d858a88d158"
+    },
+    {
+      "path": "server/Unicode_input.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0897ae5b20d0ba0cedc61c8f68c3cb0ca723d29f",
+      "size": 3732,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0897ae5b20d0ba0cedc61c8f68c3cb0ca723d29f"
+    },
+    {
+      "path": "server/database-error.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c56d6e77992d764ba9de817c34a1c7435d1e438",
+      "size": 341,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/4c56d6e77992d764ba9de817c34a1c7435d1e438"
+    },
+    {
+      "path": "server/digiliblt.rnc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b006a862ca7e643ce6542ef83f2ff9962bbb2ab",
+      "size": 102323,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2b006a862ca7e643ce6542ef83f2ff9962bbb2ab"
+    },
+    {
+      "path": "server/digiliblt.rng",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51adaef49d32d25725ad3f95b49fe4a966fe089a",
+      "size": 186437,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/51adaef49d32d25725ad3f95b49fe4a966fe089a"
+    },
+    {
+      "path": "server/diogenes-cgi.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d9cace082743b8be64114621a03c98155d099f9",
+      "size": 13917,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9d9cace082743b8be64114621a03c98155d099f9"
+    },
+    {
+      "path": "server/diogenes-cli.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a49b914d122282a79b69a06161bef74a38e9f18a",
+      "size": 28143,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a49b914d122282a79b69a06161bef74a38e9f18a"
+    },
+    {
+      "path": "server/diogenes-server-alt.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c0bf1a4030b61391f052b778887a755bcccf233c",
+      "size": 7319,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c0bf1a4030b61391f052b778887a755bcccf233c"
+    },
+    {
+      "path": "server/diogenes-server.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "176ddb4ba235d3b51af24d91ffdc8bbf5d828924",
+      "size": 15886,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/176ddb4ba235d3b51af24d91ffdc8bbf5d828924"
+    },
+    {
+      "path": "server/diogenes.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e02587ba5f8b7f4f3fdb9b2006b6b1ebf624af3",
+      "size": 7623,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9e02587ba5f8b7f4f3fdb9b2006b6b1ebf624af3"
+    },
+    {
+      "path": "server/download-tll.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ab1ff8ca5749d7e9a37c50eebe50c274c577d72",
+      "size": 3654,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7ab1ff8ca5749d7e9a37c50eebe50c274c577d72"
+    },
+    {
+      "path": "server/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "baf31bff952afb878cc885d3b785248af70d8fc5",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/baf31bff952afb878cc885d3b785248af70d8fc5"
+    },
+    {
+      "path": "server/images/Diogenes_Logo.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81607af7fac31d7e92e298b870ea88b1c203d8b6",
+      "size": 25543,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/81607af7fac31d7e92e298b870ea88b1c203d8b6"
+    },
+    {
+      "path": "server/images/Diogenes_Logo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66ac0be3505a80fe6e1fbbcd992f7163e8fc9ac2",
+      "size": 15591,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/66ac0be3505a80fe6e1fbbcd992f7163e8fc9ac2"
+    },
+    {
+      "path": "server/images/Diogenes_Logo.xcf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cea1e1686616d5fdd22b415a03e21d918c17013",
+      "size": 62496,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2cea1e1686616d5fdd22b415a03e21d918c17013"
+    },
+    {
+      "path": "server/images/Diogenes_Logo_Small.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f11d91bb80944f3a08c1a66ca3640032a1a940aa",
+      "size": 6691,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f11d91bb80944f3a08c1a66ca3640032a1a940aa"
+    },
+    {
+      "path": "server/images/Diogenes_Logo_Small.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "818bc18ea1a10f175229e4d179eacde087954f03",
+      "size": 3363,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/818bc18ea1a10f175229e4d179eacde087954f03"
+    },
+    {
+      "path": "server/images/Diogenes_Logo_Small.xcf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa09fef042d73764d9cea57053880cd12a85a65d",
+      "size": 16661,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/aa09fef042d73764d9cea57053880cd12a85a65d"
+    },
+    {
+      "path": "server/images/Diogenes_Transliteration.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c178fba59265e5c4737f29cd4b660ff26fbdec87",
+      "size": 5977,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c178fba59265e5c4737f29cd4b660ff26fbdec87"
+    },
+    {
+      "path": "server/images/closed.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d35c9cabb83ebaf113c3cda9993a747e00a5700",
+      "size": 278,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9d35c9cabb83ebaf113c3cda9993a747e00a5700"
+    },
+    {
+      "path": "server/images/closed.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd5821b373d91d33562723dce564f3e7303caa61",
+      "size": 196,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/cd5821b373d91d33562723dce564f3e7303caa61"
+    },
+    {
+      "path": "server/images/dialog-close.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "392a924d96650e108bfe6a950e71679444c4bf2a",
+      "size": 2245,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/392a924d96650e108bfe6a950e71679444c4bf2a"
+    },
+    {
+      "path": "server/images/dialog-close.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4da036e524ae1291990043edfef866115438f08",
+      "size": 942,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f4da036e524ae1291990043edfef866115438f08"
+    },
+    {
+      "path": "server/images/go-next.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b5116bed3247ff7b3e58bae3b0dcbc76dd791e1",
+      "size": 1438,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2b5116bed3247ff7b3e58bae3b0dcbc76dd791e1"
+    },
+    {
+      "path": "server/images/go-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d59e8dac6bf332c65c03b67ff01d3e7ba7f9853d",
+      "size": 720,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d59e8dac6bf332c65c03b67ff01d3e7ba7f9853d"
+    },
+    {
+      "path": "server/images/go-previous.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfc0e617ac670b21b7d18beb1f21727c56a5678e",
+      "size": 1475,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/dfc0e617ac670b21b7d18beb1f21727c56a5678e"
+    },
+    {
+      "path": "server/images/go-previous.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ebf2a8ac6ca85070aa46470c0341a74f94e6b0c",
+      "size": 712,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5ebf2a8ac6ca85070aa46470c0341a74f94e6b0c"
+    },
+    {
+      "path": "server/images/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "269b4e4e374a97723d8fe07cd5c6034b2f4946c4",
+      "size": 31401,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/269b4e4e374a97723d8fe07cd5c6034b2f4946c4"
+    },
+    {
+      "path": "server/images/icon.xcf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21bbc72d509f675f6425712acaed1e847b56bec0",
+      "size": 83773,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/21bbc72d509f675f6425712acaed1e847b56bec0"
+    },
+    {
+      "path": "server/images/opened.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "920a32dffd067afe8455dbe8fee9cd2d2fd86ff8",
+      "size": 271,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/920a32dffd067afe8455dbe8fee9cd2d2fd86ff8"
+    },
+    {
+      "path": "server/images/opened.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "208c02cf8af008d77a64b19a5b9a549d3b2f7781",
+      "size": 194,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/208c02cf8af008d77a64b19a5b9a549d3b2f7781"
+    },
+    {
+      "path": "server/images/tll-download-link.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cf142f63ed1c7211977f2c915dd7fb8c4e48e8f",
+      "size": 89519,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2cf142f63ed1c7211977f2c915dd7fb8c4e48e8f"
+    },
+    {
+      "path": "server/images/view-fullscreen.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7877c0c66d6c3372cf42b7599ea74cc59f203a8",
+      "size": 1186,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b7877c0c66d6c3372cf42b7599ea74cc59f203a8"
+    },
+    {
+      "path": "server/images/view-fullscreen.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d190f70fdc363337a92856bae7ee42796c7e4a3",
+      "size": 685,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8d190f70fdc363337a92856bae7ee42796c7e4a3"
+    },
+    {
+      "path": "server/images/view-restore.hidpi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e4acea149cb2f5cb2ad68f3cf906241566402d3",
+      "size": 1481,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8e4acea149cb2f5cb2ad68f3cf906241566402d3"
+    },
+    {
+      "path": "server/images/view-restore.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0f1345cf4eedb7927c8a8fd2e1617be5db54c55",
+      "size": 754,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a0f1345cf4eedb7927c8a8fd2e1617be5db54c55"
+    },
+    {
+      "path": "server/jing.jar",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe01514e80920805e2e9169381fcf72cc5994aed",
+      "size": 708436,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fe01514e80920805e2e9169381fcf72cc5994aed"
+    },
+    {
+      "path": "server/morph-server.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "700e5d8c0c3001e2f910c58eb3295f513c25353a",
+      "size": 4044,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/700e5d8c0c3001e2f910c58eb3295f513c25353a"
+    },
+    {
+      "path": "server/perseus-abo.pl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a308007979a69487109ae43a34ff0ebebe6d0d50",
+      "size": 4903,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a308007979a69487109ae43a34ff0ebebe6d0d50"
+    },
+    {
+      "path": "server/regexp_info.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e35fff66c1cd948a1dba48f92c8199ad71020961",
+      "size": 4539,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e35fff66c1cd948a1dba48f92c8199ad71020961"
+    },
+    {
+      "path": "server/splash.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a800de62d9c91251602ccd6015180bd448c2e14",
+      "size": 13667,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0a800de62d9c91251602ccd6015180bd448c2e14"
+    },
+    {
+      "path": "server/tei_all.rnc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b170af4c6a7906469003bec771a466b46eb2ee5a",
+      "size": 420403,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b170af4c6a7906469003bec771a466b46eb2ee5a"
+    },
+    {
+      "path": "server/tei_all.rng",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "351826973c22dea9a0cee3a8af087c41477f03a5",
+      "size": 898421,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/351826973c22dea9a0cee3a8af087c41477f03a5"
+    },
+    {
+      "path": "server/tll-pdf-rename.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b1b2eb2a883681405960fb5c1aded5e288786cf2",
+      "size": 5224,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/b1b2eb2a883681405960fb5c1aded5e288786cf2"
+    },
+    {
+      "path": "server/tll-pdf-urls.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67ffdd51f058bde4a82531ceda02a8313915996a",
+      "size": 9595,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/67ffdd51f058bde4a82531ceda02a8313915996a"
+    },
+    {
+      "path": "server/xml-export-libxml.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "30a2d83ff8cce12dab890d33bfb8c6820c643281",
+      "size": 40030,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/30a2d83ff8cce12dab890d33bfb8c6820c643281"
+    },
+    {
+      "path": "server/xml-export-lite.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2264f543eca3c4f919ba5a9c5c98a383e2bc7589",
+      "size": 41687,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/2264f543eca3c4f919ba5a9c5c98a383e2bc7589"
+    },
+    {
+      "path": "server/xml-export.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0fd794b8a64c99c2358c5b1dc35312e84c4bb24a",
+      "size": 108777,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/0fd794b8a64c99c2358c5b1dc35312e84c4bb24a"
+    },
+    {
+      "path": "utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7774e8b0d828ae365219b413ec76e7ded7f5a3d6",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/7774e8b0d828ae365219b413ec76e7ded7f5a3d6"
+    },
+    {
+      "path": "utils/attic",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "480be1f08f368257ba81cda6f1d4fc1d101a0d1b",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/480be1f08f368257ba81cda6f1d4fc1d101a0d1b"
+    },
+    {
+      "path": "utils/attic/github-create-release.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "82893846d76ad74e23275fbb658514eb2a4a5bcb",
+      "size": 631,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/82893846d76ad74e23275fbb658514eb2a4a5bcb"
+    },
+    {
+      "path": "utils/attic/upload-github-release-asset.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e27a619d57a121cb0de31166227a3f05c8bfe681",
+      "size": 1736,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e27a619d57a121cb0de31166227a3f05c8bfe681"
+    },
+    {
+      "path": "utils/count_phi_files.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "117f19f65e550ae326ce77cc35aa4a5490ebd515",
+      "size": 372,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/117f19f65e550ae326ce77cc35aa4a5490ebd515"
+    },
+    {
+      "path": "utils/ent_to_array.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f1d17b847dbba34692afaa29dd1a889d9612b1e4",
+      "size": 1011,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f1d17b847dbba34692afaa29dd1a889d9612b1e4"
+    },
+    {
+      "path": "utils/get_tll_bookmarks.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fa34d960e1b0c10625133fa9ed2543daf937ab77",
+      "size": 5882,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fa34d960e1b0c10625133fa9ed2543daf937ab77"
+    },
+    {
+      "path": "utils/index_lewis.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "438d709a1332a76e10560fc1076220830052085a",
+      "size": 784,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/438d709a1332a76e10560fc1076220830052085a"
+    },
+    {
+      "path": "utils/index_lewis_head.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5843a9973e6c1afc754eadce9dbbb106d6cb190d",
+      "size": 280,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/5843a9973e6c1afc754eadce9dbbb106d6cb190d"
+    },
+    {
+      "path": "utils/index_lewis_trans.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "397364be77f6fb24026a106e5abc131a55a1a6bc",
+      "size": 458,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/397364be77f6fb24026a106e5abc131a55a1a6bc"
+    },
+    {
+      "path": "utils/index_lsj.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6571db3a6f0945ace61087d8eff581553f84d8f6",
+      "size": 2463,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/6571db3a6f0945ace61087d8eff581553f84d8f6"
+    },
+    {
+      "path": "utils/index_lsj_head.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8ddb8ed604f940cec37de9e964ac73b00b6a6f47",
+      "size": 405,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8ddb8ed604f940cec37de9e964ac73b00b6a6f47"
+    },
+    {
+      "path": "utils/index_lsj_trans.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e9ebd045b2a7c6b640b9b77ce56e4683e57b325b",
+      "size": 504,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e9ebd045b2a7c6b640b9b77ce56e4683e57b325b"
+    },
+    {
+      "path": "utils/make_greek_analyses.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7b106eede083384fbe94ba2e0b3daeea36c8f6da",
+      "size": 7274,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7b106eede083384fbe94ba2e0b3daeea36c8f6da"
+    },
+    {
+      "path": "utils/make_greek_lemmata.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d50a75a3b084779c829818cb2512fa0ba062e3f2",
+      "size": 5518,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/d50a75a3b084779c829818cb2512fa0ba062e3f2"
+    },
+    {
+      "path": "utils/make_greek_wordlist.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7fc968dcbe2f4519961d85482602895b4ffb9ea0",
+      "size": 457,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7fc968dcbe2f4519961d85482602895b4ffb9ea0"
+    },
+    {
+      "path": "utils/make_greek_wordlist_perseus.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "65563cf72714796a4742c06d5a2f1aec564e6e10",
+      "size": 572,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/65563cf72714796a4742c06d5a2f1aec564e6e10"
+    },
+    {
+      "path": "utils/make_index.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "93e463d0da844e9fe603f58d887e4ff6a3fa9e43",
+      "size": 818,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/93e463d0da844e9fe603f58d887e4ff6a3fa9e43"
+    },
+    {
+      "path": "utils/make_latin_analyses.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "68b7f645522fc9597a5426fa65ea00e4ba202466",
+      "size": 4227,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/68b7f645522fc9597a5426fa65ea00e4ba202466"
+    },
+    {
+      "path": "utils/make_latin_lemmata.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dd827bc008cf8dedd14cd2e61eb0f91020c747c2",
+      "size": 3867,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/dd827bc008cf8dedd14cd2e61eb0f91020c747c2"
+    },
+    {
+      "path": "utils/make_latin_wordlist.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fc24af83000a7b7f68c9aa33ab70b91c09e9f26c",
+      "size": 1254,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fc24af83000a7b7f68c9aa33ab70b91c09e9f26c"
+    },
+    {
+      "path": "utils/make_latin_wordlist_digilib.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c9336291f3cd26cccacd797510c0375c280c028a",
+      "size": 530,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/c9336291f3cd26cccacd797510c0375c280c028a"
+    },
+    {
+      "path": "utils/make_latin_wordlist_perseus.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f7c892a01c2ce5111b1ae08408d1062628bbcee7",
+      "size": 526,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/f7c892a01c2ce5111b1ae08408d1062628bbcee7"
+    },
+    {
+      "path": "utils/make_pdf_bookmarks.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9103f0c671b838c16413bb7d2e8cf17b4a22a42e",
+      "size": 4346,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9103f0c671b838c16413bb7d2e8cf17b4a22a42e"
+    },
+    {
+      "path": "utils/make_unicode_compounds.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "211868b519cd8c9e5e287540a20a4a1eb6c136a0",
+      "size": 951,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/211868b519cd8c9e5e287540a20a4a1eb6c136a0"
+    },
+    {
+      "path": "utils/munge_gcide.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8fd56daaefd161cb16942bfb16d7a1b6548e6efe",
+      "size": 492,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8fd56daaefd161cb16942bfb16d7a1b6548e6efe"
+    },
+    {
+      "path": "utils/phi2tei",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1808e88c91b3a4cb1fd8fbc1a5d522f4d97ead3f",
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/trees/1808e88c91b3a4cb1fd8fbc1a5d522f4d97ead3f"
+    },
+    {
+      "path": "utils/phi2tei/phi2tei",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7cb6042dc23114e7072be777487b74f380bf40d5",
+      "size": 33800,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/7cb6042dc23114e7072be777487b74f380bf40d5"
+    },
+    {
+      "path": "utils/phi2tei/tei2tesserae",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fe364567936a5effe0942a2461147694dcc5227d",
+      "size": 2919,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fe364567936a5effe0942a2461147694dcc5227d"
+    },
+    {
+      "path": "utils/reformat_gcide.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "30a011c5d012f96728cd452e112b768e1837ea38",
+      "size": 1537,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/30a011c5d012f96728cd452e112b768e1837ea38"
+    },
+    {
+      "path": "utils/reformat_lewis_logeion.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e5cd025558016522f3fd907d7ce1a7d51866a5ac",
+      "size": 413,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/e5cd025558016522f3fd907d7ce1a7d51866a5ac"
+    },
+    {
+      "path": "utils/reformat_lsj.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a4840df6c0b5a26995d4b1de74f81003bd5a720a",
+      "size": 2474,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/a4840df6c0b5a26995d4b1de74f81003bd5a720a"
+    },
+    {
+      "path": "utils/reformat_lsj_logeion.pl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8e6584768bf65d575bb7af11c815efca3af5b1e2",
+      "size": 423,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/8e6584768bf65d575bb7af11c815efca3af5b1e2"
+    },
+    {
+      "path": "utils/tei2tesserae",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fe364567936a5effe0942a2461147694dcc5227d",
+      "size": 2919,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/fe364567936a5effe0942a2461147694dcc5227d"
+    },
+    {
+      "path": "utils/tll-rename.pl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cef8be247640530e9ba61c094f574478aa5c001",
+      "size": 291,
+      "url": "https://api.github.com/repos/pjheslin/diogenes/git/blobs/9cef8be247640530e9ba61c094f574478aa5c001"
+    }
+  ],
+  "truncated": false
+}

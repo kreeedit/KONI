@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παράπλοος</form>
+	<date>Tue Jul 26 23:13:50 EDT 2011</date>
+	<count>76</count>
+	<per10K>0.16</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>coast</sense>
+				<count>23</count>
+				<prob>0.343</prob>
+				<loglikelihood>5.097</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.913</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>coasting voyage</sense>
+				<count>4</count>
+				<prob>0.060</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

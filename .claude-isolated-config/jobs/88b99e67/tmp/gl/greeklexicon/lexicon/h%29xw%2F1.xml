@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἠχώ</form>
+	<date>Tue Jul 26 22:34:40 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>echo</sense>
+				<count>6</count>
+				<prob>0.600</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

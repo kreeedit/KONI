@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναχώρησις</form>
+	<date>Tue Jul 26 23:10:59 EDT 2011</date>
+	<count>70</count>
+	<per10K>0.148</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>88</count>
+		<senses>
+			<senseContainer>
+				<sense>retreat</sense>
+				<count>23</count>
+				<prob>0.261</prob>
+				<loglikelihood>8.461</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.652</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

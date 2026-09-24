@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πηλούσιον</form>
+	<date>Tue Jul 26 22:46:35 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>17</count>
+		<senses>
+			<senseContainer>
+				<sense>pelusium</sense>
+				<count>12</count>
+				<prob>0.706</prob>
+				<loglikelihood>23.040</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

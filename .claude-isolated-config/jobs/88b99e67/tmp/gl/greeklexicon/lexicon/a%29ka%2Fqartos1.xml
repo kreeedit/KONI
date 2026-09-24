@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκάθαρτος</form>
+	<date>Tue Jul 26 22:59:06 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>unclean</sense>
+				<count>31</count>
+				<prob>0.554</prob>
+				<loglikelihood>78.447</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.871</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>impure</sense>
+				<count>9</count>
+				<prob>0.161</prob>
+				<loglikelihood>12.959</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>πνεῦμα</original>
+				<trans>unclean spirits</trans>
+				<loglikelihood>2.12</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γυναικεῖος</form>
+	<date>Tue Jul 26 23:09:38 EDT 2011</date>
+	<count>68</count>
+	<per10K>0.144</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>85</count>
+		<senses>
+			<senseContainer>
+				<sense>womanish</sense>
+				<count>4</count>
+				<prob>0.047</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

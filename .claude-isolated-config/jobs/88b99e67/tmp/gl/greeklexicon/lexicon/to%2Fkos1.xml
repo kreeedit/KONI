@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τόκος</form>
+	<date>Tue Jul 26 23:37:11 EDT 2011</date>
+	<count>128</count>
+	<per10K>0.27</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>182</count>
+		<senses>
+			<senseContainer>
+				<sense>interest</sense>
+				<count>70</count>
+				<prob>0.385</prob>
+				<loglikelihood>34.010</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.486</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>interest on</sense>
+				<count>6</count>
+				<prob>0.033</prob>
+				<loglikelihood>23.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>usury</sense>
+				<count>5</count>
+				<prob>0.027</prob>
+				<loglikelihood>12.498</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>interest as far</sense>
+				<count>5</count>
+				<prob>0.027</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

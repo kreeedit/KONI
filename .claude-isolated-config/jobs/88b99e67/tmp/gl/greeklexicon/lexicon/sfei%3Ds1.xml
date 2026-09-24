@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σφεῖς</form>
+	<date>Wed Jul 27 04:11:48 EDT 2011</date>
+	<count>3381</count>
+	<per10K>7.136</per10K>
+	<posContainer>
+		<pos>pron</pos>
+		<count>3624</count>
+		<senses>
+			<senseContainer>
+				<sense>them</sense>
+				<count>894</count>
+				<prob>0.247</prob>
+				<loglikelihood>250.100</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.337</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>their</sense>
+				<count>607</count>
+				<prob>0.167</prob>
+				<loglikelihood>123.919</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>they</sense>
+				<count>535</count>
+				<prob>0.148</prob>
+				<loglikelihood>145.515</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.406</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>themselves</sense>
+				<count>137</count>
+				<prob>0.038</prob>
+				<loglikelihood>28.475</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

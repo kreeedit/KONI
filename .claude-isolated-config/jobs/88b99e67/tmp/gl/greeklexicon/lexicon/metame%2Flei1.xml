@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεταμέλει</form>
+	<date>Tue Jul 26 23:13:16 EDT 2011</date>
+	<count>75</count>
+	<per10K>0.158</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>73</count>
+		<senses>
+			<senseContainer>
+				<sense>repent</sense>
+				<count>27</count>
+				<prob>0.370</prob>
+				<loglikelihood>22.257</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>regret</sense>
+				<count>12</count>
+				<prob>0.164</prob>
+				<loglikelihood>12.520</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

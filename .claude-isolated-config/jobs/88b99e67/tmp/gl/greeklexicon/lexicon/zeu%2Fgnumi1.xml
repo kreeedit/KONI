@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζεύγνυμι</form>
+	<date>Tue Jul 26 23:37:20 EDT 2011</date>
+	<count>129</count>
+	<per10K>0.272</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>yoke</sense>
+				<count>31</count>
+				<prob>0.333</prob>
+				<loglikelihood>20.443</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.645</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

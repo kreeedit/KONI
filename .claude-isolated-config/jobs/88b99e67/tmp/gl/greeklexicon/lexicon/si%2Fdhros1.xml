@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σίδηρος</form>
+	<date>Wed Jul 27 00:07:55 EDT 2011</date>
+	<count>240</count>
+	<per10K>0.507</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>254</count>
+		<senses>
+			<senseContainer>
+				<sense>iron</sense>
+				<count>153</count>
+				<prob>0.602</prob>
+				<loglikelihood>349.342</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sword</sense>
+				<count>36</count>
+				<prob>0.142</prob>
+				<loglikelihood>8.048</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.417</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>steel</sense>
+				<count>18</count>
+				<prob>0.071</prob>
+				<loglikelihood>39.265</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅμορος</form>
+	<date>Tue Jul 26 23:52:58 EDT 2011</date>
+	<count>170</count>
+	<per10K>0.359</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>176</count>
+		<senses>
+			<senseContainer>
+				<sense>neighbors</sense>
+				<count>27</count>
+				<prob>0.153</prob>
+				<loglikelihood>11.473</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>borders on</sense>
+				<count>14</count>
+				<prob>0.080</prob>
+				<loglikelihood>29.033</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>border</sense>
+				<count>11</count>
+				<prob>0.062</prob>
+				<loglikelihood>7.221</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bordering on</sense>
+				<count>10</count>
+				<prob>0.057</prob>
+				<loglikelihood>26.664</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

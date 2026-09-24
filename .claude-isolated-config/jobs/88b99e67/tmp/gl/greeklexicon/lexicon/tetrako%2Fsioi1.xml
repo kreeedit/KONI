@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τετρακόσιοι</form>
+	<date>Wed Jul 27 00:13:47 EDT 2011</date>
+	<count>274</count>
+	<per10K>0.578</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>311</count>
+		<senses>
+			<senseContainer>
+				<sense>four hundred</sense>
+				<count>208</count>
+				<prob>0.669</prob>
+				<loglikelihood>804.839</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>400</sense>
+				<count>16</count>
+				<prob>0.051</prob>
+				<loglikelihood>46.537</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.938</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

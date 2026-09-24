@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μονομάχος</form>
+	<date>Tue Jul 26 22:51:47 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>gladiator</sense>
+				<count>25</count>
+				<prob>0.714</prob>
+				<loglikelihood>86.206</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.440</relativeFreq></author>
+					<author><name>Appian</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gladiatorial</sense>
+				<count>3</count>
+				<prob>0.086</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

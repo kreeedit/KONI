@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑγίεια</form>
+	<date>Wed Jul 27 00:00:26 EDT 2011</date>
+	<count>197</count>
+	<per10K>0.416</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>221</count>
+		<senses>
+			<senseContainer>
+				<sense>health</sense>
+				<count>159</count>
+				<prob>0.719</prob>
+				<loglikelihood>343.921</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.421</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.340</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

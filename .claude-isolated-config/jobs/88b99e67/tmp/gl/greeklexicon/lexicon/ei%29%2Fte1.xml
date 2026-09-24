@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἴτε</form>
+	<date>Wed Jul 27 02:21:11 EDT 2011</date>
+	<count>1413</count>
+	<per10K>2.982</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>289</count>
+		<senses>
+			<senseContainer>
+				<sense>whether</sense>
+				<count>92</count>
+				<prob>0.318</prob>
+				<loglikelihood>15.117</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>- whether</sense>
+				<count>6</count>
+				<prob>0.021</prob>
+				<loglikelihood>5.330</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

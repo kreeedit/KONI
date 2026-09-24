@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θαυμάζω</form>
+	<date>Wed Jul 27 01:48:40 EDT 2011</date>
+	<count>1013</count>
+	<per10K>2.138</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>889</count>
+		<senses>
+			<senseContainer>
+				<sense>wonder</sense>
+				<count>149</count>
+				<prob>0.168</prob>
+				<loglikelihood>267.277</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>admire</sense>
+				<count>109</count>
+				<prob>0.123</prob>
+				<loglikelihood>212.959</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>marvel</sense>
+				<count>38</count>
+				<prob>0.043</prob>
+				<loglikelihood>48.078</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wonder at</sense>
+				<count>30</count>
+				<prob>0.034</prob>
+				<loglikelihood>97.253</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>surprise</sense>
+				<count>23</count>
+				<prob>0.026</prob>
+				<loglikelihood>22.240</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>admiration</sense>
+				<count>22</count>
+				<prob>0.025</prob>
+				<loglikelihood>18.232</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>marveled</sense>
+				<count>20</count>
+				<prob>0.022</prob>
+				<loglikelihood>57.113</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wondered at</sense>
+				<count>19</count>
+				<prob>0.021</prob>
+				<loglikelihood>55.510</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>surprised at</sense>
+				<count>19</count>
+				<prob>0.021</prob>
+				<loglikelihood>57.732</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

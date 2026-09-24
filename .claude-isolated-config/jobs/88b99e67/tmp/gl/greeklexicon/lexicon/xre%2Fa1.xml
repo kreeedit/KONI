@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρέα</form>
+	<date>Tue Jul 26 22:41:21 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>debt</sense>
+				<count>19</count>
+				<prob>0.731</prob>
+				<loglikelihood>6.843</loglikelihood>
+				<authorContainer>
+					<author><name>Hyperides</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεκάδαρχος</form>
+	<date>Tue Jul 26 22:32:41 EDT 2011</date>
+	<count>15</count>
+	<per10K>0.032</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>sergeant</sense>
+				<count>4</count>
+				<prob>0.211</prob>
+				<loglikelihood>8.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

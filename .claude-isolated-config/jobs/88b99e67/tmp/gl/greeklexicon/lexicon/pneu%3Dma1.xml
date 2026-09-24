@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πνεῦμα</form>
+	<date>Wed Jul 27 00:41:55 EDT 2011</date>
+	<count>440</count>
+	<per10K>0.929</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>612</count>
+		<senses>
+			<senseContainer>
+				<sense>spirit</sense>
+				<count>202</count>
+				<prob>0.330</prob>
+				<loglikelihood>189.833</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.911</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wind</sense>
+				<count>99</count>
+				<prob>0.162</prob>
+				<loglikelihood>70.038</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.313</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>breath</sense>
+				<count>27</count>
+				<prob>0.044</prob>
+				<loglikelihood>28.844</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἅγιος</original>
+				<trans>holy spirit</trans>
+				<loglikelihood>37.83</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀκάθαρτος</original>
+				<trans>unclean spirits</trans>
+				<loglikelihood>23.12</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

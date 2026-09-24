@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πτολεμαῖος</form>
+	<date>Wed Jul 27 00:26:15 EDT 2011</date>
+	<count>338</count>
+	<per10K>0.713</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>142</count>
+		<senses>
+			<senseContainer>
+				<sense>ptolemy</sense>
+				<count>86</count>
+				<prob>0.606</prob>
+				<loglikelihood>95.418</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.419</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

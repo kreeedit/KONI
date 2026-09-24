@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Εὐρυβάτης</form>
+	<date>Tue Jul 26 22:30:01 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>7</count>
+		<senses>
+			<senseContainer>
+				<sense>eurybates</sense>
+				<count>6</count>
+				<prob>0.857</prob>
+				<loglikelihood>11.077</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

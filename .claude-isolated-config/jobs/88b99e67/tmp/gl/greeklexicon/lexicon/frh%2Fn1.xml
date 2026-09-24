@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φρήν</form>
+	<date>Wed Jul 27 01:26:34 EDT 2011</date>
+	<count>763</count>
+	<per10K>1.61</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>681</count>
+		<senses>
+			<senseContainer>
+				<sense>heart</sense>
+				<count>244</count>
+				<prob>0.358</prob>
+				<loglikelihood>166.771</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.631</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mind</sense>
+				<count>129</count>
+				<prob>0.189</prob>
+				<loglikelihood>41.442</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.488</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wit</sense>
+				<count>24</count>
+				<prob>0.035</prob>
+				<loglikelihood>24.747</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>τέρπω</original>
+				<trans>glad heart</trans>
+				<loglikelihood>2.38</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

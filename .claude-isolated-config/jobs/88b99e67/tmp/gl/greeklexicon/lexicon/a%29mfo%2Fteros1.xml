@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμφότερος</form>
+	<date>Wed Jul 27 02:34:42 EDT 2011</date>
+	<count>1616</count>
+	<per10K>3.411</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1830</count>
+		<senses>
+			<senseContainer>
+				<sense>both</sense>
+				<count>991</count>
+				<prob>0.542</prob>
+				<loglikelihood>940.038</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>two</sense>
+				<count>107</count>
+				<prob>0.058</prob>
+				<loglikelihood>12.287</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>both sides</sense>
+				<count>75</count>
+				<prob>0.041</prob>
+				<loglikelihood>185.723</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>both parties</sense>
+				<count>45</count>
+				<prob>0.025</prob>
+				<loglikelihood>117.254</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

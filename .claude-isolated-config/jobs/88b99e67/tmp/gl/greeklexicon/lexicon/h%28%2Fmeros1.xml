@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἥμερος</form>
+	<date>Wed Jul 27 02:51:56 EDT 2011</date>
+	<count>1972</count>
+	<per10K>4.162</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1498</count>
+		<senses>
+			<senseContainer>
+				<sense>day</sense>
+				<count>865</count>
+				<prob>0.577</prob>
+				<loglikelihood>782.542</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tame</sense>
+				<count>34</count>
+				<prob>0.023</prob>
+				<loglikelihood>62.401</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>δένδρον</original>
+				<trans>cultivated trees</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>13</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλίνω</form>
+	<date>Tue Jul 26 23:57:25 EDT 2011</date>
+	<count>185</count>
+	<per10K>0.39</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>128</count>
+		<senses>
+			<senseContainer>
+				<sense>bed</sense>
+				<count>20</count>
+				<prob>0.156</prob>
+				<loglikelihood>3.937</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>couch</sense>
+				<count>19</count>
+				<prob>0.148</prob>
+				<loglikelihood>9.687</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.579</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

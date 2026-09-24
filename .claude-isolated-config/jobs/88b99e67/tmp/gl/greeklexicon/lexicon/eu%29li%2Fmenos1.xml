@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐλίμενος</form>
+	<date>Tue Jul 26 22:43:37 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>good harbors</sense>
+				<count>5</count>
+				<prob>0.238</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>good harbor</sense>
+				<count>5</count>
+				<prob>0.238</prob>
+				<loglikelihood>16.667</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

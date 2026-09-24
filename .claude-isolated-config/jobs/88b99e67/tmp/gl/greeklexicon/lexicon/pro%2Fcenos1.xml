@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόξενος</form>
+	<date>Tue Jul 26 23:26:00 EDT 2011</date>
+	<count>101</count>
+	<per10K>0.213</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>108</count>
+		<senses>
+			<senseContainer>
+				<sense>proxenus</sense>
+				<count>56</count>
+				<prob>0.519</prob>
+				<loglikelihood>202.315</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>proxenos</sense>
+				<count>4</count>
+				<prob>0.037</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>proxeni</sense>
+				<count>4</count>
+				<prob>0.037</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>diplomatic</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>diplomatic agent</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

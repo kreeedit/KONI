@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θύρα</form>
+	<date>Wed Jul 27 00:50:41 EDT 2011</date>
+	<count>493</count>
+	<per10K>1.041</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>468</count>
+		<senses>
+			<senseContainer>
+				<sense>door</sense>
+				<count>351</count>
+				<prob>0.750</prob>
+				<loglikelihood>1005.549</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>gate</sense>
+				<count>44</count>
+				<prob>0.094</prob>
+				<loglikelihood>10.130</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.455</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>οἴγω</original>
+				<trans>opened doors</trans>
+				<loglikelihood>23.03</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνοίγνυμι</original>
+				<trans>open the door</trans>
+				<loglikelihood>2.96</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>κόπτω</original>
+				<trans>knocking at the door</trans>
+				<loglikelihood>2.39</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Aristophanes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>αὔλειος</original>
+				<trans>outer door</trans>
+				<loglikelihood>8.16</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>φαεινός</original>
+				<trans>bright door</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

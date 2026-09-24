@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολυμήχανος</form>
+	<date>Tue Jul 26 22:49:52 EDT 2011</date>
+	<count>36</count>
+	<per10K>0.076</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>many devices</sense>
+				<count>12</count>
+				<prob>0.462</prob>
+				<loglikelihood>44.307</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>la ï¿½ rtes</sense>
+				<count>4</count>
+				<prob>0.154</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>Ὀδυσσεύς</original>
+				<trans>odysseus of many devices</trans>
+				<loglikelihood>2.33</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄνειδος</form>
+	<date>Wed Jul 27 00:01:54 EDT 2011</date>
+	<count>203</count>
+	<per10K>0.428</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>238</count>
+		<senses>
+			<senseContainer>
+				<sense>reproach</sense>
+				<count>83</count>
+				<prob>0.349</prob>
+				<loglikelihood>66.694</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>disgrace</sense>
+				<count>35</count>
+				<prob>0.147</prob>
+				<loglikelihood>18.135</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>taunt</sense>
+				<count>7</count>
+				<prob>0.029</prob>
+				<loglikelihood>3.917</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scandal</sense>
+				<count>7</count>
+				<prob>0.029</prob>
+				<loglikelihood>12.247</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

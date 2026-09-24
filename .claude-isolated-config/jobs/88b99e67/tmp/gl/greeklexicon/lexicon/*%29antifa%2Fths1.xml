@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀντιφάτης</form>
+	<date>Tue Jul 26 22:31:56 EDT 2011</date>
+	<count>14</count>
+	<per10K>0.03</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>8</count>
+		<senses>
+			<senseContainer>
+				<sense>antiphates</sense>
+				<count>11</count>
+				<prob>1.375</prob>
+				<loglikelihood>40.333</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

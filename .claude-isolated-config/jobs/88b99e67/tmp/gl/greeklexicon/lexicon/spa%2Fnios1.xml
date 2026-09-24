@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σπάνιος</form>
+	<date>Tue Jul 26 23:23:44 EDT 2011</date>
+	<count>96</count>
+	<per10K>0.203</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>110</count>
+		<senses>
+			<senseContainer>
+				<sense>rare</sense>
+				<count>33</count>
+				<prob>0.300</prob>
+				<loglikelihood>53.117</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scarce</sense>
+				<count>9</count>
+				<prob>0.082</prob>
+				<loglikelihood>6.112</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scanty</sense>
+				<count>5</count>
+				<prob>0.045</prob>
+				<loglikelihood>3.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rare thing</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>13</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

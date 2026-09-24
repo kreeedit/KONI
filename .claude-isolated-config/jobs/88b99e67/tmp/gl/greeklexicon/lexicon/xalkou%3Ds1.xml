@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χαλκοῦς</form>
+	<date>Tue Jul 26 23:06:06 EDT 2011</date>
+	<count>62</count>
+	<per10K>0.131</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>52</count>
+		<senses>
+			<senseContainer>
+				<sense>copper vessel</sense>
+				<count>3</count>
+				<prob>0.058</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>8</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

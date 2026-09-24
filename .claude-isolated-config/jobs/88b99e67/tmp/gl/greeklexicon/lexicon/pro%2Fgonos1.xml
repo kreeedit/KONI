@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόγονος</form>
+	<date>Wed Jul 27 00:56:10 EDT 2011</date>
+	<count>520</count>
+	<per10K>1.098</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>603</count>
+		<senses>
+			<senseContainer>
+				<sense>ancestor</sense>
+				<count>327</count>
+				<prob>0.542</prob>
+				<loglikelihood>1018.129</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forefather</sense>
+				<count>110</count>
+				<prob>0.182</prob>
+				<loglikelihood>244.343</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἡμέτερος</original>
+				<trans>our ancestors</trans>
+				<loglikelihood>5.83</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

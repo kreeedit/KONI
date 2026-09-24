@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥυθμός</form>
+	<date>Tue Jul 26 23:29:58 EDT 2011</date>
+	<count>109</count>
+	<per10K>0.23</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>92</count>
+		<senses>
+			<senseContainer>
+				<sense>rhythm</sense>
+				<count>59</count>
+				<prob>0.641</prob>
+				<loglikelihood>160.040</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.559</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

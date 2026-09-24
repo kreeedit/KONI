@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πένης</form>
+	<date>Wed Jul 27 00:11:44 EDT 2011</date>
+	<count>266</count>
+	<per10K>0.561</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>270</count>
+		<senses>
+			<senseContainer>
+				<sense>poor</sense>
+				<count>156</count>
+				<prob>0.578</prob>
+				<loglikelihood>204.454</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>poor man</sense>
+				<count>32</count>
+				<prob>0.119</prob>
+				<loglikelihood>85.320</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>poverty</sense>
+				<count>18</count>
+				<prob>0.067</prob>
+				<loglikelihood>5.155</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>poor men</sense>
+				<count>9</count>
+				<prob>0.033</prob>
+				<loglikelihood>32.396</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>14</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

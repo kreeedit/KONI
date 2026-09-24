@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδύνατος</form>
+	<date>Wed Jul 27 01:21:09 EDT 2011</date>
+	<count>718</count>
+	<per10K>1.515</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>905</count>
+		<senses>
+			<senseContainer>
+				<sense>impossible</sense>
+				<count>288</count>
+				<prob>0.318</prob>
+				<loglikelihood>485.393</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.451</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cannot</sense>
+				<count>68</count>
+				<prob>0.075</prob>
+				<loglikelihood>11.903</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.456</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.397</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>impossible for</sense>
+				<count>37</count>
+				<prob>0.041</prob>
+				<loglikelihood>144.050</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.486</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>impossibility</sense>
+				<count>28</count>
+				<prob>0.031</prob>
+				<loglikelihood>74.625</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unable</sense>
+				<count>26</count>
+				<prob>0.029</prob>
+				<loglikelihood>6.024</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

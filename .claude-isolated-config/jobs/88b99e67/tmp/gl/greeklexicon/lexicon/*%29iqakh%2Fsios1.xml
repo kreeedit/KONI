@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἰθακήσιος</form>
+	<date>Tue Jul 26 22:37:17 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>ithaca</sense>
+				<count>14</count>
+				<prob>1.167</prob>
+				<loglikelihood>4.284</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

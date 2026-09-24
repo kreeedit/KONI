@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄναρ</form>
+	<date>Tue Jul 26 23:22:31 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>116</count>
+		<senses>
+			<senseContainer>
+				<sense>dream</sense>
+				<count>82</count>
+				<prob>0.707</prob>
+				<loglikelihood>68.954</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

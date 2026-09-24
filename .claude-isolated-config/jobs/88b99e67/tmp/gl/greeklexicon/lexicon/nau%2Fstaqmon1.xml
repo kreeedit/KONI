@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναύσταθμον</form>
+	<date>Tue Jul 26 23:01:39 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>naval station</sense>
+				<count>23</count>
+				<prob>0.511</prob>
+				<loglikelihood>58.776</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.870</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

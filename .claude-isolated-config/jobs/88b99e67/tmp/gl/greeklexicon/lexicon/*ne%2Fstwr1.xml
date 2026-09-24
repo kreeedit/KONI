@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Νέστωρ</form>
+	<date>Wed Jul 27 00:14:49 EDT 2011</date>
+	<count>278</count>
+	<per10K>0.587</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>208</count>
+		<senses>
+			<senseContainer>
+				<sense>nestor</sense>
+				<count>227</count>
+				<prob>1.091</prob>
+				<loglikelihood>733.473</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.634</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Νηληιάδης</original>
+				<trans>nestor, son of neleus</trans>
+				<loglikelihood>17.82</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

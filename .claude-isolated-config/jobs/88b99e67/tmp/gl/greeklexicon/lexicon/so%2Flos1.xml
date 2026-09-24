@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σόλος</form>
+	<date>Tue Jul 26 22:43:32 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>38</count>
+		<senses>
+			<senseContainer>
+				<sense>soli</sense>
+				<count>10</count>
+				<prob>0.263</prob>
+				<loglikelihood>14.814</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

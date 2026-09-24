@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διανοέομαι</form>
+	<date>Wed Jul 27 00:42:31 EDT 2011</date>
+	<count>443</count>
+	<per10K>0.935</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>365</count>
+		<senses>
+			<senseContainer>
+				<sense>intend</sense>
+				<count>38</count>
+				<prob>0.104</prob>
+				<loglikelihood>14.382</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>conceive</sense>
+				<count>17</count>
+				<prob>0.047</prob>
+				<loglikelihood>5.150</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φηγός</form>
+	<date>Tue Jul 26 22:38:46 EDT 2011</date>
+	<count>22</count>
+	<per10K>0.046</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>oak - tree</sense>
+				<count>4</count>
+				<prob>0.154</prob>
+				<loglikelihood>10.667</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

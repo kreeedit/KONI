@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δοῦλος</form>
+	<date>Wed Jul 27 01:46:52 EDT 2011</date>
+	<count>987</count>
+	<per10K>2.083</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>713</count>
+		<senses>
+			<senseContainer>
+				<sense>slave</sense>
+				<count>512</count>
+				<prob>0.718</prob>
+				<loglikelihood>698.656</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>servant</sense>
+				<count>87</count>
+				<prob>0.122</prob>
+				<loglikelihood>42.846</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.644</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>312</count>
+		<senses>
+			<senseContainer>
+				<sense>slave</sense>
+				<count>209</count>
+				<prob>0.670</prob>
+				<loglikelihood>116.409</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>servant</sense>
+				<count>33</count>
+				<prob>0.106</prob>
+				<loglikelihood>6.162</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.636</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

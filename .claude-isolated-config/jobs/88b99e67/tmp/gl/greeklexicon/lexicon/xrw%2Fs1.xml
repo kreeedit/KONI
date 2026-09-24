@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρώς</form>
+	<date>Tue Jul 26 23:54:45 EDT 2011</date>
+	<count>175</count>
+	<per10K>0.369</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>202</count>
+		<senses>
+			<senseContainer>
+				<sense>flesh</sense>
+				<count>53</count>
+				<prob>0.262</prob>
+				<loglikelihood>29.867</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.811</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνάγω</form>
+	<date>Wed Jul 27 00:50:04 EDT 2011</date>
+	<count>487</count>
+	<per10K>1.028</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>403</count>
+		<senses>
+			<senseContainer>
+				<sense>together</sense>
+				<count>37</count>
+				<prob>0.092</prob>
+				<loglikelihood>5.419</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>gather</sense>
+				<count>31</count>
+				<prob>0.077</prob>
+				<loglikelihood>13.010</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.484</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gathered together</sense>
+				<count>14</count>
+				<prob>0.035</prob>
+				<loglikelihood>7.250</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.786</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>collect</sense>
+				<count>13</count>
+				<prob>0.032</prob>
+				<loglikelihood>4.270</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

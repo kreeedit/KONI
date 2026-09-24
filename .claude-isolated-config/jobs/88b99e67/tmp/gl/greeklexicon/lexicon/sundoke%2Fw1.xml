@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνδοκέω</form>
+	<date>Tue Jul 26 23:27:02 EDT 2011</date>
+	<count>104</count>
+	<per10K>0.22</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>99</count>
+		<senses>
+			<senseContainer>
+				<sense>agree</sense>
+				<count>48</count>
+				<prob>0.485</prob>
+				<loglikelihood>8.433</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.729</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>agree me</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

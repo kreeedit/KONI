@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φρονέω</form>
+	<date>Wed Jul 27 01:36:41 EDT 2011</date>
+	<count>869</count>
+	<per10K>1.834</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>693</count>
+		<senses>
+			<senseContainer>
+				<sense>wisdom</sense>
+				<count>37</count>
+				<prob>0.053</prob>
+				<loglikelihood>7.163</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pride</sense>
+				<count>26</count>
+				<prob>0.038</prob>
+				<loglikelihood>18.748</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>proud</sense>
+				<count>26</count>
+				<prob>0.038</prob>
+				<loglikelihood>17.877</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thought</sense>
+				<count>17</count>
+				<prob>0.025</prob>
+				<loglikelihood>6.475</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

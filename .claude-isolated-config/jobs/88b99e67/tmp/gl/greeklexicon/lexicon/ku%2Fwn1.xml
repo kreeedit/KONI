@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κύων</form>
+	<date>Wed Jul 27 01:03:47 EDT 2011</date>
+	<count>578</count>
+	<per10K>1.22</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>600</count>
+		<senses>
+			<senseContainer>
+				<sense>dog</sense>
+				<count>340</count>
+				<prob>0.567</prob>
+				<loglikelihood>1170.386</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hound</sense>
+				<count>163</count>
+				<prob>0.272</prob>
+				<loglikelihood>539.329</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.485</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀστρακίζω</form>
+	<date>Tue Jul 26 22:33:19 EDT 2011</date>
+	<count>15</count>
+	<per10K>0.032</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>ostracize</sense>
+				<count>8</count>
+				<prob>0.800</prob>
+				<loglikelihood>9.846</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θνητός</form>
+	<date>Wed Jul 27 00:42:51 EDT 2011</date>
+	<count>446</count>
+	<per10K>0.941</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>404</count>
+		<senses>
+			<senseContainer>
+				<sense>mortal</sense>
+				<count>291</count>
+				<prob>0.720</prob>
+				<loglikelihood>439.204</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

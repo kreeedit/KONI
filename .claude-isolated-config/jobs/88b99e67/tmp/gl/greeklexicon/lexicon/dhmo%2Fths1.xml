@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημότης</form>
+	<date>Tue Jul 26 23:46:54 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>191</count>
+		<senses>
+			<senseContainer>
+				<sense>demesmen</sense>
+				<count>39</count>
+				<prob>0.204</prob>
+				<loglikelihood>141.477</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>deme</sense>
+				<count>36</count>
+				<prob>0.188</prob>
+				<loglikelihood>66.451</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow - demesmen</sense>
+				<count>8</count>
+				<prob>0.042</prob>
+				<loglikelihood>31.997</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>townsman</sense>
+				<count>6</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.643</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>plebeian</sense>
+				<count>6</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.112</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow - townsmen</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

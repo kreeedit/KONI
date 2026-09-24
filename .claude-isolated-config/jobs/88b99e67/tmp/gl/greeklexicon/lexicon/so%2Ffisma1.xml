@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σόφισμα</form>
+	<date>Tue Jul 26 23:03:46 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>69</count>
+		<senses>
+			<senseContainer>
+				<sense>trick</sense>
+				<count>18</count>
+				<prob>0.261</prob>
+				<loglikelihood>12.581</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.611</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sophism</sense>
+				<count>7</count>
+				<prob>0.101</prob>
+				<loglikelihood>19.599</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

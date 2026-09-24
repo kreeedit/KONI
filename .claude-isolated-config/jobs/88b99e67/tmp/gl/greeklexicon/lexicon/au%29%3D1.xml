@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὖ</form>
+	<date>Wed Jul 27 02:11:05 EDT 2011</date>
+	<count>1304</count>
+	<per10K>2.752</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>2369</count>
+		<senses>
+			<senseContainer>
+				<sense>again</sense>
+				<count>412</count>
+				<prob>0.174</prob>
+				<loglikelihood>203.070</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.522</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>turn</sense>
+				<count>141</count>
+				<prob>0.060</prob>
+				<loglikelihood>70.205</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.468</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>other hand</sense>
+				<count>67</count>
+				<prob>0.028</prob>
+				<loglikelihood>111.961</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.493</relativeFreq></author>
+					<author><name>Xenophon</name><relativeFreq>0.373</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

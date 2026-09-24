@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κίων</form>
+	<date>Tue Jul 26 23:44:23 EDT 2011</date>
+	<count>146</count>
+	<per10K>0.308</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>155</count>
+		<senses>
+			<senseContainer>
+				<sense>pillar</sense>
+				<count>102</count>
+				<prob>0.658</prob>
+				<loglikelihood>163.825</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.461</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>column</sense>
+				<count>16</count>
+				<prob>0.103</prob>
+				<loglikelihood>15.996</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>pillar which</sense>
+				<count>4</count>
+				<prob>0.026</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

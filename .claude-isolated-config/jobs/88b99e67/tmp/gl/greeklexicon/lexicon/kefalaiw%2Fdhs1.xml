@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κεφαλαιώδης</form>
+	<date>Tue Jul 26 22:32:43 EDT 2011</date>
+	<count>15</count>
+	<per10K>0.032</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>summary statement</sense>
+				<count>3</count>
+				<prob>0.136</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>10</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φράστωρ</form>
+	<date>Tue Jul 26 22:45:29 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>11</count>
+		<senses>
+			<senseContainer>
+				<sense>phrastor</sense>
+				<count>10</count>
+				<prob>0.909</prob>
+				<loglikelihood>15.385</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

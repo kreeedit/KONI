@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φίλιππος</form>
+	<date>Wed Jul 27 02:03:59 EDT 2011</date>
+	<count>1194</count>
+	<per10K>2.52</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1648</count>
+		<senses>
+			<senseContainer>
+				<sense>philip</sense>
+				<count>1011</count>
+				<prob>0.613</prob>
+				<loglikelihood>3525.646</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.451</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

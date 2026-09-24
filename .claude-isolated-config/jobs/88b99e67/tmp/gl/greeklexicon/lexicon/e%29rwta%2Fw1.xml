@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρωτάω</form>
+	<date>Wed Jul 27 01:34:54 EDT 2011</date>
+	<count>852</count>
+	<per10K>1.798</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>585</count>
+		<senses>
+			<senseContainer>
+				<sense>ask</sense>
+				<count>293</count>
+				<prob>0.501</prob>
+				<loglikelihood>162.069</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.300</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>question</sense>
+				<count>114</count>
+				<prob>0.195</prob>
+				<loglikelihood>52.997</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.632</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔξω</form>
+	<date>Wed Jul 27 01:30:02 EDT 2011</date>
+	<count>798</count>
+	<per10K>1.684</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>458</count>
+		<senses>
+			<senseContainer>
+				<sense>outside</sense>
+				<count>109</count>
+				<prob>0.238</prob>
+				<loglikelihood>102.792</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>out</sense>
+				<count>99</count>
+				<prob>0.216</prob>
+				<loglikelihood>12.465</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>external</sense>
+				<count>26</count>
+				<prob>0.057</prob>
+				<loglikelihood>18.758</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

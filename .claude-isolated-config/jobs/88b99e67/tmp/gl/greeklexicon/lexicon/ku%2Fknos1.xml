@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κύκνος</form>
+	<date>Tue Jul 26 23:00:25 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>72</count>
+		<senses>
+			<senseContainer>
+				<sense>swan</sense>
+				<count>25</count>
+				<prob>0.347</prob>
+				<loglikelihood>92.590</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.320</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cycnus</sense>
+				<count>22</count>
+				<prob>0.306</prob>
+				<loglikelihood>77.438</loglikelihood>
+				<authorContainer>
+					<author><name>Hesiod</name><relativeFreq>0.364</relativeFreq></author>
+					<author><name>Pausanias</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμπίπτω</form>
+	<date>Wed Jul 27 00:32:42 EDT 2011</date>
+	<count>377</count>
+	<per10K>0.796</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>370</count>
+		<senses>
+			<senseContainer>
+				<sense>fall</sense>
+				<count>41</count>
+				<prob>0.111</prob>
+				<loglikelihood>8.487</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fell upon</sense>
+				<count>21</count>
+				<prob>0.057</prob>
+				<loglikelihood>12.498</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fall upon</sense>
+				<count>8</count>
+				<prob>0.022</prob>
+				<loglikelihood>4.918</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

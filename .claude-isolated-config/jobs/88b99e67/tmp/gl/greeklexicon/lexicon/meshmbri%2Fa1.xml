@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεσημβρία</form>
+	<date>Tue Jul 26 23:17:33 EDT 2011</date>
+	<count>85</count>
+	<per10K>0.179</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>118</count>
+		<senses>
+			<senseContainer>
+				<sense>south</sense>
+				<count>40</count>
+				<prob>0.339</prob>
+				<loglikelihood>26.549</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>noon</sense>
+				<count>16</count>
+				<prob>0.136</prob>
+				<loglikelihood>36.568</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>midday</sense>
+				<count>11</count>
+				<prob>0.093</prob>
+				<loglikelihood>16.131</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mesambria</sense>
+				<count>3</count>
+				<prob>0.025</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

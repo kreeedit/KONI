@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χειρίς</form>
+	<date>Tue Jul 26 22:57:25 EDT 2011</date>
+	<count>47</count>
+	<per10K>0.099</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>sleeve</sense>
+				<count>3</count>
+				<prob>0.081</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>παχύς</original>
+				<trans>with his stout hand</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

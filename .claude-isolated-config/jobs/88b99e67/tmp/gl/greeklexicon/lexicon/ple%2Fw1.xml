@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλέω</form>
+	<date>Wed Jul 27 01:51:32 EDT 2011</date>
+	<count>1048</count>
+	<per10K>2.212</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>717</count>
+		<senses>
+			<senseContainer>
+				<sense>sail</sense>
+				<count>346</count>
+				<prob>0.483</prob>
+				<loglikelihood>468.238</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>voyage</sense>
+				<count>39</count>
+				<prob>0.054</prob>
+				<loglikelihood>18.503</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>set sail</sense>
+				<count>27</count>
+				<prob>0.038</prob>
+				<loglikelihood>30.989</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>sail against</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>146</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>sailed to</trans>
+				<loglikelihood>2.11</loglikelihood>
+				<count>177</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

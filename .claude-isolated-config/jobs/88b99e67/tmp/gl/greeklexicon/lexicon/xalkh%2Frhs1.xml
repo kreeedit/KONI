@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χαλκήρης</form>
+	<date>Tue Jul 26 22:47:10 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>bronze - tipped</sense>
+				<count>11</count>
+				<prob>0.407</prob>
+				<loglikelihood>44.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bronze - shod</sense>
+				<count>4</count>
+				<prob>0.148</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

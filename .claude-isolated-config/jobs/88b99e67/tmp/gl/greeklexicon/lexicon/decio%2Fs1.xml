@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεξιός</form>
+	<date>Wed Jul 27 01:17:21 EDT 2011</date>
+	<count>679</count>
+	<per10K>1.433</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>453</count>
+		<senses>
+			<senseContainer>
+				<sense>right</sense>
+				<count>154</count>
+				<prob>0.340</prob>
+				<loglikelihood>30.474</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>right hand</sense>
+				<count>62</count>
+				<prob>0.137</prob>
+				<loglikelihood>112.189</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>right wing</sense>
+				<count>29</count>
+				<prob>0.064</prob>
+				<loglikelihood>108.495</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>κέρας</original>
+				<trans>right wing</trans>
+				<loglikelihood>32.68</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὦμος</original>
+				<trans>right shoulder</trans>
+				<loglikelihood>4.07</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

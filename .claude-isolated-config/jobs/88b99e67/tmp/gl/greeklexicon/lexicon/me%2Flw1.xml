@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέλω</form>
+	<date>Wed Jul 27 00:46:41 EDT 2011</date>
+	<count>470</count>
+	<per10K>0.992</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>517</count>
+		<senses>
+			<senseContainer>
+				<sense>care</sense>
+				<count>103</count>
+				<prob>0.199</prob>
+				<loglikelihood>55.903</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>concern</sense>
+				<count>32</count>
+				<prob>0.062</prob>
+				<loglikelihood>15.143</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>care for</sense>
+				<count>13</count>
+				<prob>0.025</prob>
+				<loglikelihood>7.849</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

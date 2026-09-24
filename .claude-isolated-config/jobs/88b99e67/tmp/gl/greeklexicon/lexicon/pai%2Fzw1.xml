@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παίζω</form>
+	<date>Tue Jul 26 23:48:15 EDT 2011</date>
+	<count>157</count>
+	<per10K>0.331</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>100</count>
+		<senses>
+			<senseContainer>
+				<sense>play</sense>
+				<count>26</count>
+				<prob>0.260</prob>
+				<loglikelihood>16.285</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.577</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>jest</sense>
+				<count>9</count>
+				<prob>0.090</prob>
+				<loglikelihood>5.310</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>joke</sense>
+				<count>8</count>
+				<prob>0.080</prob>
+				<loglikelihood>4.922</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

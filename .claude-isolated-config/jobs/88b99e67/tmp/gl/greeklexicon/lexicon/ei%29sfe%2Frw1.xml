@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἰσφέρω</form>
+	<date>Wed Jul 27 00:25:03 EDT 2011</date>
+	<count>333</count>
+	<per10K>0.703</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>390</count>
+		<senses>
+			<senseContainer>
+				<sense>contribute</sense>
+				<count>45</count>
+				<prob>0.115</prob>
+				<loglikelihood>33.582</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>introduce</sense>
+				<count>44</count>
+				<prob>0.113</prob>
+				<loglikelihood>25.959</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>contribution</sense>
+				<count>17</count>
+				<prob>0.044</prob>
+				<loglikelihood>10.219</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

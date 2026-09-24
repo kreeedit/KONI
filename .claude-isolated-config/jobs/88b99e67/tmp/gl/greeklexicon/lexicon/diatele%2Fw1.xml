@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διατελέω</form>
+	<date>Wed Jul 27 00:14:13 EDT 2011</date>
+	<count>276</count>
+	<per10K>0.583</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>361</count>
+		<senses>
+			<senseContainer>
+				<sense>continue</sense>
+				<count>74</count>
+				<prob>0.205</prob>
+				<loglikelihood>47.890</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>continual</sense>
+				<count>19</count>
+				<prob>0.053</prob>
+				<loglikelihood>5.859</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

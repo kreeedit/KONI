@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπαθής</form>
+	<date>Tue Jul 26 23:18:10 EDT 2011</date>
+	<count>86</count>
+	<per10K>0.182</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>90</count>
+		<senses>
+			<senseContainer>
+				<sense>unharmed</sense>
+				<count>14</count>
+				<prob>0.156</prob>
+				<loglikelihood>22.398</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unaffected</sense>
+				<count>5</count>
+				<prob>0.056</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

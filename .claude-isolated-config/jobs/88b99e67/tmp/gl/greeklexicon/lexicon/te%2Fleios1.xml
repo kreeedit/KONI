@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τέλειος</form>
+	<date>Wed Jul 27 00:16:33 EDT 2011</date>
+	<count>288</count>
+	<per10K>0.608</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>281</count>
+		<senses>
+			<senseContainer>
+				<sense>perfect</sense>
+				<count>89</count>
+				<prob>0.317</prob>
+				<loglikelihood>109.978</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.438</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.393</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>complete</sense>
+				<count>35</count>
+				<prob>0.125</prob>
+				<loglikelihood>11.965</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.514</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>full - grown</sense>
+				<count>8</count>
+				<prob>0.028</prob>
+				<loglikelihood>28.441</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mature</sense>
+				<count>7</count>
+				<prob>0.025</prob>
+				<loglikelihood>12.247</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>most perfect</sense>
+				<count>7</count>
+				<prob>0.025</prob>
+				<loglikelihood>11.526</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>45</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

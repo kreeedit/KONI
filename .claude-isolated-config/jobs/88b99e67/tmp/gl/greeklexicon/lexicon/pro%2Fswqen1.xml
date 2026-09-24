@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόσωθεν</form>
+	<date>Tue Jul 26 23:22:14 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>114</count>
+		<senses>
+			<senseContainer>
+				<sense>at distance</sense>
+				<count>15</count>
+				<prob>0.132</prob>
+				<loglikelihood>47.366</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>from distance</sense>
+				<count>9</count>
+				<prob>0.079</prob>
+				<loglikelihood>35.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>from afar</sense>
+				<count>8</count>
+				<prob>0.070</prob>
+				<loglikelihood>6.563</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

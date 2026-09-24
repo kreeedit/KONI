@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱστορία</form>
+	<date>Tue Jul 26 23:55:16 EDT 2011</date>
+	<count>177</count>
+	<per10K>0.374</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>302</count>
+		<senses>
+			<senseContainer>
+				<sense>history</sense>
+				<count>99</count>
+				<prob>0.328</prob>
+				<loglikelihood>108.556</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.475</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

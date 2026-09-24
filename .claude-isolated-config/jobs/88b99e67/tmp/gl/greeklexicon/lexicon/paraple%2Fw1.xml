@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παραπλέω</form>
+	<date>Tue Jul 26 23:37:07 EDT 2011</date>
+	<count>128</count>
+	<per10K>0.27</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>75</count>
+		<senses>
+			<senseContainer>
+				<sense>coasted along</sense>
+				<count>9</count>
+				<prob>0.120</prob>
+				<loglikelihood>20.249</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sailed along</sense>
+				<count>5</count>
+				<prob>0.067</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

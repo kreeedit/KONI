@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διάδημα</form>
+	<date>Tue Jul 26 22:59:05 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>diadem</sense>
+				<count>23</count>
+				<prob>0.348</prob>
+				<loglikelihood>75.569</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.652</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>diadem on</sense>
+				<count>4</count>
+				<prob>0.061</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>diadem on head</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>περιτίθημι</original>
+				<trans>put</trans>
+				<loglikelihood>4.99</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

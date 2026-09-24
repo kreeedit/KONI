@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βάλλω</form>
+	<date>Wed Jul 27 02:00:53 EDT 2011</date>
+	<count>1151</count>
+	<per10K>2.429</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>978</count>
+		<senses>
+			<senseContainer>
+				<sense>throw</sense>
+				<count>146</count>
+				<prob>0.149</prob>
+				<loglikelihood>140.014</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast</sense>
+				<count>143</count>
+				<prob>0.146</prob>
+				<loglikelihood>188.251</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>smite</sense>
+				<count>129</count>
+				<prob>0.132</prob>
+				<loglikelihood>186.255</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.969</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hit</sense>
+				<count>23</count>
+				<prob>0.024</prob>
+				<loglikelihood>15.408</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.652</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fling</sense>
+				<count>21</count>
+				<prob>0.021</prob>
+				<loglikelihood>14.192</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.810</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ὦμος</original>
+				<trans>cast shoulder</trans>
+				<loglikelihood>2.81</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

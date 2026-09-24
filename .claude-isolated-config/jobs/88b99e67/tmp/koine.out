@@ -1,0 +1,61 @@
+1. the class needs all three conjuncts
+  ok   classical-high, Koine-absent, overused in B -> archaism
+  ok   same but B only MATCHES A (not overused) -> classical, not archaism [the subject-matter case: the frequency just follows the model]
+  ok   a large overuse is still archaism, not overused [B/K is high but so is B/A]
+  ok   overused in B, but the Koine norm has it too -> overused [mannerism]
+  ok   the word never occurs in the archaizer -> 'present in B' is a conjunct too
+  ok   _classify alone labels a 1-in-A word from its rates; admission is the caller's min_a, applied before it is ever classified
+2. the topic confound, with the real counts
+  ok   σύμμαχοι (A=159 B=11 C=0): Koine-absent but NOT overused -> classical, so the literal two-conjunct rule would have called it an archaism
+  ok   ἐς (A=1804 B=4245 C=0): the Ionic/Attic preposition against Koine εἰς -> archaism, and it is the top row of the real report
+  ok   σφίσιν against Koine αὐτοῖς -> archaism
+3. the opposite direction: the Koine word B avoids
+  ok   ἐκκλησία (A=11 B=1 C=97) -> avoided
+  ok   ξύνοδος (A=5 B=0 C=42) -> avoided
+  ok   a word the model author never uses is not in the report at all, however prominent it is in the Koine norm — this asks about HIS vocabulary
+4. the comparison is a RATE
+  ok   A=30/100k and B=60/200k are the SAME rate -> not an overuse -> classical
+  ok   B=120/200k is double A's rate -> archaism
+5. koine_contrast over synthetic corpora
+  ok   the two revivals are classified archaism
+  ok   the topic word is classical
+  ok   the church word is avoided
+  ok   the mannerism is overused
+  ok   a word at parity in all three is shared
+  ok   a word under min_a is not admitted (min_a is A's, only)
+  ok   class order is fixed: an archaism ranks above an avoided row whatever the latter's score — a limit must not decide WHICH KINDS of row are shown
+  ok   the census counts every considered word, not the returned page: {'archaism': 2, 'classical': 1, 'overused': 1, 'avoided': 1, 'shared': 1}
+  ok   each row carries all three raw counts, so 'absent from Koine' is checkable
+  ok   ...and all three ratios, so the class can be re-derived by hand
+  ok   the rarity box (min_b/max_b/min_score) is NOT part of this report's params
+6. limit handling
+  ok   limit caps the returned rows
+  ok   the census is over all 400, so a truncated table can still report the mix
+7. the proper-noun filter
+  ok   an ethnic capitalized everywhere is dropped by default (it is A's subject, not its diction) — and the bycatch is reported, not silent
+  ok   n_dropped_proper == 1, got 1
+  ok   drop_proper=False shows it
+8. a non-finite threshold falls back to the default
+  ok   sanity: the case used below is an archaism
+  ok   min_ac=NaN falls back to the default instead of admitting everything
+9. marked-in-B evidence is read off B's own spellings
+  ok   B's ξυμμαχοι is flagged as the marked spelling: ['xyn']
+  ok   the Koine spelling is not flagged — the column would be noise otherwise
+  ok   with the pooling selection empty there are no rules to be marked for — the flag follows the selection the counts were built with, it is not a second opinion about the word
+10. the reference corpus and its justification are echoed
+  ok   a caller-supplied reference is echoed back as given
+  ok   with no reference passed, the DECLARED one is used and returned
+  ok   ...and it carries a resolvable URN, so the UI can name and link it
+  ok   the choice of reference is ARGUED in the declaration (genre held constant), not asserted — the UI prints this text
+11. the real corpora (cached only)
+  ok   the census covers the model author's real vocabulary: 4694
+  ok   the sharp class is a minority, not the vocabulary: 339/4694 = 7.2%
+  ok   more words are AVOIDED by the archaizer than revived — vocabulary attrition is the larger effect, which is the critique's own point
+  ok   the literal 'Koine-absent' rule over-fires: 1006 words are Koine-absent but not overused, against 339 real revivals
+  ok   the top row is the archaism the instrument should find: ἐς
+  ok   ἐς: Koine-absent and overused in B — all three conjuncts on real data
+  ok   σφίσιν: the pronoun the Koine replaced with αὐτοῖς
+  ok   ἐκκλησία: the Koine word the secular archaizer shuns (A=11 B=1 C=97)
+  ok   σύμμαχοι: the topic word the literal rule would have called an archaism
+
+all tests ok

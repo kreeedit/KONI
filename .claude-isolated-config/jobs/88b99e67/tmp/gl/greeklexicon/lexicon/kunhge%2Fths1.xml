@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κυνηγέτης</form>
+	<date>Tue Jul 26 22:44:23 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>28</count>
+		<senses>
+			<senseContainer>
+				<sense>huntsman</sense>
+				<count>15</count>
+				<prob>0.536</prob>
+				<loglikelihood>28.124</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.733</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hunter</sense>
+				<count>8</count>
+				<prob>0.286</prob>
+				<loglikelihood>5.953</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

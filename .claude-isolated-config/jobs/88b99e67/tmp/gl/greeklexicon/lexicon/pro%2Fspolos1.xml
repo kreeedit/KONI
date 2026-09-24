@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόσπολος</form>
+	<date>Tue Jul 26 23:01:13 EDT 2011</date>
+	<count>53</count>
+	<per10K>0.112</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>servant</sense>
+				<count>37</count>
+				<prob>0.597</prob>
+				<loglikelihood>7.765</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.838</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

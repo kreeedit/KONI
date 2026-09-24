@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἥρα</form>
+	<date>Wed Jul 27 00:33:41 EDT 2011</date>
+	<count>384</count>
+	<per10K>0.81</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>197</count>
+		<senses>
+			<senseContainer>
+				<sense>hera</sense>
+				<count>154</count>
+				<prob>0.782</prob>
+				<loglikelihood>239.524</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>λευκώλενος</original>
+				<trans>white-armed hera</trans>
+				<loglikelihood>56.33</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βοῶπις</original>
+				<trans>ox-eyed, queenly hera</trans>
+				<loglikelihood>31.36</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πότνια</original>
+				<trans>queenly hera</trans>
+				<loglikelihood>15.18</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐπλόκαμος</form>
+	<date>Tue Jul 26 22:48:27 EDT 2011</date>
+	<count>34</count>
+	<per10K>0.072</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>fair - tressed</sense>
+				<count>23</count>
+				<prob>0.767</prob>
+				<loglikelihood>68.257</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

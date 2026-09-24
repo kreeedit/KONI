@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τεῖχος</form>
+	<date>Wed Jul 27 02:39:52 EDT 2011</date>
+	<count>1713</count>
+	<per10K>3.615</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>1762</count>
+		<senses>
+			<senseContainer>
+				<sense>wall</sense>
+				<count>1287</count>
+				<prob>0.730</prob>
+				<loglikelihood>3569.255</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>καθαιρέω</original>
+				<trans>demolish walls</trans>
+				<loglikelihood>4.24</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>οἰκοδομέω</original>
+				<trans>built a wall</trans>
+				<loglikelihood>3.49</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>περιαιρέω</original>
+				<trans>tear down walls</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>περιβάλλω</original>
+				<trans>encompass wall</trans>
+				<loglikelihood>3.03</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>κατασκάπτω</original>
+				<trans>walls were demolished</trans>
+				<loglikelihood>2.34</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ξύλινος</original>
+				<trans>wooden wall</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μακρός</original>
+				<trans>long walls</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὕψος</form>
+	<date>Tue Jul 26 23:56:14 EDT 2011</date>
+	<count>181</count>
+	<per10K>0.382</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>226</count>
+		<senses>
+			<senseContainer>
+				<sense>height</sense>
+				<count>107</count>
+				<prob>0.473</prob>
+				<loglikelihood>142.636</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.374</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>its height</sense>
+				<count>10</count>
+				<prob>0.044</prob>
+				<loglikelihood>28.568</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>altitude</sense>
+				<count>5</count>
+				<prob>0.022</prob>
+				<loglikelihood>8.331</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

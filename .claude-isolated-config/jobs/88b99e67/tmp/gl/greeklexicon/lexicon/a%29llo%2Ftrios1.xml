@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀλλότριος</form>
+	<date>Wed Jul 27 01:11:22 EDT 2011</date>
+	<count>632</count>
+	<per10K>1.334</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>662</count>
+		<senses>
+			<senseContainer>
+				<sense>alien</sense>
+				<count>47</count>
+				<prob>0.071</prob>
+				<loglikelihood>51.321</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.489</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>belong</sense>
+				<count>46</count>
+				<prob>0.069</prob>
+				<loglikelihood>12.972</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.674</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>what belongs</sense>
+				<count>34</count>
+				<prob>0.051</prob>
+				<loglikelihood>110.058</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.618</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>foreign</sense>
+				<count>31</count>
+				<prob>0.047</prob>
+				<loglikelihood>14.203</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

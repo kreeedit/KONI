@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμπελών</form>
+	<date>Tue Jul 26 22:41:23 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>vineyard</sense>
+				<count>23</count>
+				<prob>0.885</prob>
+				<loglikelihood>55.684</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.870</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

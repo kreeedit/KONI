@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φαίδιμος</form>
+	<date>Tue Jul 26 23:23:31 EDT 2011</date>
+	<count>96</count>
+	<per10K>0.203</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>85</count>
+		<senses>
+			<senseContainer>
+				<sense>glorious</sense>
+				<count>64</count>
+				<prob>0.753</prob>
+				<loglikelihood>39.190</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.969</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἕκτωρ</original>
+				<trans>glorious hector</trans>
+				<loglikelihood>5.89</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γυῖον</original>
+				<trans>glorious limbs</trans>
+				<loglikelihood>3.05</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νύξ</form>
+	<date>Wed Jul 27 02:23:52 EDT 2011</date>
+	<count>1448</count>
+	<per10K>3.056</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1661</count>
+		<senses>
+			<senseContainer>
+				<sense>night</sense>
+				<count>1005</count>
+				<prob>0.605</prob>
+				<loglikelihood>3361.981</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>by night</sense>
+				<count>175</count>
+				<prob>0.105</prob>
+				<loglikelihood>497.503</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.326</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>μέλας</original>
+				<trans>black night</trans>
+				<loglikelihood>3.67</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

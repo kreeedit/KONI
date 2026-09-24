@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱππόδρομος</form>
+	<date>Tue Jul 26 22:43:15 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>hippodrome</sense>
+				<count>14</count>
+				<prob>0.412</prob>
+				<loglikelihood>48.999</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>race - course</sense>
+				<count>4</count>
+				<prob>0.118</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

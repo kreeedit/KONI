@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπί</form>
+	<date>Wed Jul 27 07:57:52 EDT 2011</date>
+	<count>17569</count>
+	<per10K>37.082</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>27955</count>
+		<senses>
+			<senseContainer>
+				<sense>to</sense>
+				<count>3994</count>
+				<prob>0.143</prob>
+				<loglikelihood>1737.894</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>on</sense>
+				<count>3351</count>
+				<prob>0.120</prob>
+				<loglikelihood>4700.317</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>against</sense>
+				<count>1650</count>
+				<prob>0.059</prob>
+				<loglikelihood>2230.736</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>upon</sense>
+				<count>1414</count>
+				<prob>0.051</prob>
+				<loglikelihood>2112.212</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>at</sense>
+				<count>1405</count>
+				<prob>0.050</prob>
+				<loglikelihood>759.152</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for</sense>
+				<count>1139</count>
+				<prob>0.041</prob>
+				<loglikelihood>135.717</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in</sense>
+				<count>608</count>
+				<prob>0.022</prob>
+				<loglikelihood>26.418</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>στρατεύω</original>
+				<trans>made an expedition against</trans>
+				<loglikelihood>393.04</loglikelihood>
+				<count>331</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>came to</trans>
+				<loglikelihood>189.67</loglikelihood>
+				<count>535</count>
+			</collocation>
+			<collocation>
+				<original>εἶμι</original>
+				<trans>go to</trans>
+				<loglikelihood>154.15</loglikelihood>
+				<count>348</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>led them against</trans>
+				<loglikelihood>126.62</loglikelihood>
+				<count>357</count>
+			</collocation>
+			<collocation>
+				<original>πλέω</original>
+				<trans>sail against</trans>
+				<loglikelihood>114.74</loglikelihood>
+				<count>194</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁρμάω</original>
+				<trans>set out against</trans>
+				<loglikelihood>97.61</loglikelihood>
+				<count>161</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρέπω</original>
+				<trans>turned to</trans>
+				<loglikelihood>84.11</loglikelihood>
+				<count>153</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καθίζω</original>
+				<trans>sat on</trans>
+				<loglikelihood>80.17</loglikelihood>
+				<count>76</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κεῖμαι</original>
+				<trans>situated on</trans>
+				<loglikelihood>69.64</loglikelihood>
+				<count>188</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἵστημι</original>
+				<trans>stood upon</trans>
+				<loglikelihood>64.48</loglikelihood>
+				<count>199</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χωρέω</original>
+				<trans>marched against</trans>
+				<loglikelihood>63.36</loglikelihood>
+				<count>120</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναβαίνω</original>
+				<trans>mounted on</trans>
+				<loglikelihood>57.49</loglikelihood>
+				<count>102</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent to</trans>
+				<loglikelihood>54.51</loglikelihood>
+				<count>216</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἥκω</original>
+				<trans>came to</trans>
+				<loglikelihood>47.66</loglikelihood>
+				<count>173</count>
+			</collocation>
+			<collocation>
+				<original>τάσσω</original>
+				<trans>appointed over</trans>
+				<loglikelihood>45.95</loglikelihood>
+				<count>126</count>
+			</collocation>
+			<collocation>
+				<original>ἀναβιβάζω</original>
+				<trans>mount to</trans>
+				<loglikelihood>45.40</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βαίνω</original>
+				<trans>went on</trans>
+				<loglikelihood>44.45</loglikelihood>
+				<count>99</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἰάλλω</original>
+				<trans>they put forth their upon</trans>
+				<loglikelihood>44.23</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐφαρμόζω</original>
+				<trans>null</trans>
+				<loglikelihood>41.03</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλαύνω</original>
+				<trans>marched against</trans>
+				<loglikelihood>40.93</loglikelihood>
+				<count>96</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταφεύγω</original>
+				<trans>appealed to</trans>
+				<loglikelihood>39.95</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁρμέω</original>
+				<trans>assault upon</trans>
+				<loglikelihood>39.01</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀραβέω</original>
+				<trans>null</trans>
+				<loglikelihood>37.84</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀφικνέομαι</original>
+				<trans>came to</trans>
+				<loglikelihood>37.59</loglikelihood>
+				<count>165</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>made on</trans>
+				<loglikelihood>37.57</loglikelihood>
+				<count>498</count>
+			</collocation>
+			<collocation>
+				<original>κάθημαι</original>
+				<trans>who sits on</trans>
+				<loglikelihood>37.13</loglikelihood>
+				<count>71</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>put on</trans>
+				<loglikelihood>36.70</loglikelihood>
+				<count>193</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>came to</trans>
+				<loglikelihood>36.32</loglikelihood>
+				<count>586</count>
+			</collocation>
+			<collocation>
+				<original>ἱδρύω</original>
+				<trans>situated on</trans>
+				<loglikelihood>33.41</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βαδίζω</original>
+				<trans>go to</trans>
+				<loglikelihood>32.64</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕζομαι</original>
+				<trans>sitting on</trans>
+				<loglikelihood>32.21</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φέρω</original>
+				<trans>carries on</trans>
+				<loglikelihood>31.40</loglikelihood>
+				<count>208</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀχέω</original>
+				<trans>on horseback</trans>
+				<loglikelihood>31.06</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>πορεύω</original>
+				<trans>march against</trans>
+				<loglikelihood>28.33</loglikelihood>
+				<count>92</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκπέμπω</original>
+				<trans>sent to</trans>
+				<loglikelihood>26.37</loglikelihood>
+				<count>64</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καλέω</original>
+				<trans>invited to</trans>
+				<loglikelihood>25.81</loglikelihood>
+				<count>214</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μένω</original>
+				<trans>remain at</trans>
+				<loglikelihood>23.82</loglikelihood>
+				<count>114</count>
+			</collocation>
+			<collocation>
+				<original>προάγω</original>
+				<trans>induced to</trans>
+				<loglikelihood>22.12</loglikelihood>
+				<count>55</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρακαλέω</original>
+				<trans>call upon</trans>
+				<loglikelihood>20.75</loglikelihood>
+				<count>88</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φρονέω</original>
+				<trans>pride themselves on</trans>
+				<loglikelihood>20.72</loglikelihood>
+				<count>83</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πίπτω</original>
+				<trans>fell on</trans>
+				<loglikelihood>20.59</loglikelihood>
+				<count>85</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπάνειμι</original>
+				<trans>now return to</trans>
+				<loglikelihood>20.16</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>with wings on</trans>
+				<loglikelihood>19.39</loglikelihood>
+				<count>461</count>
+			</collocation>
+			<collocation>
+				<original>ἵζω</original>
+				<trans>sit as a sentinel of the trojans, trusting in his fleetness of foot, on</trans>
+				<loglikelihood>18.44</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βάλλω</original>
+				<trans>cast on</trans>
+				<loglikelihood>18.40</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναχωρέω</original>
+				<trans>they returned to</trans>
+				<loglikelihood>18.35</loglikelihood>
+				<count>55</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καθήκω</original>
+				<trans>extends down to</trans>
+				<loglikelihood>16.82</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νεύω</original>
+				<trans>incline towards</trans>
+				<loglikelihood>16.46</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στέλλω</original>
+				<trans>sent for</trans>
+				<loglikelihood>15.81</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξορμάω</original>
+				<trans>set out against</trans>
+				<loglikelihood>15.74</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναπηδάω</original>
+				<trans>leaped upon</trans>
+				<loglikelihood>15.56</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιγράφω</original>
+				<trans>inscribed on</trans>
+				<loglikelihood>14.95</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνάγω</original>
+				<trans>set sail for</trans>
+				<loglikelihood>14.60</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταβαίνω</original>
+				<trans>went down to</trans>
+				<loglikelihood>13.03</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τείνω</original>
+				<trans>bent to</trans>
+				<loglikelihood>12.64</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>ἐξάγω</original>
+				<trans>led out his army against</trans>
+				<loglikelihood>12.25</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προτρέπω</original>
+				<trans>turn to</trans>
+				<loglikelihood>11.62</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θρῴσκω</original>
+				<trans>leapt upon</trans>
+				<loglikelihood>11.44</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σεμνύνω</original>
+				<trans>prides himself upon</trans>
+				<loglikelihood>11.14</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>καθίστημι</original>
+				<trans>appointed to</trans>
+				<loglikelihood>11.05</loglikelihood>
+				<count>98</count>
+			</collocation>
+			<collocation>
+				<original>ἐπείγω</original>
+				<trans>made haste to</trans>
+				<loglikelihood>10.85</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χέω</original>
+				<trans>poured water over</trans>
+				<loglikelihood>10.51</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συνίστημι</original>
+				<trans>together against</trans>
+				<loglikelihood>10.04</loglikelihood>
+				<count>51</count>
+			</collocation>
+			<collocation>
+				<original>φεύγω</original>
+				<trans>fled to</trans>
+				<loglikelihood>9.45</loglikelihood>
+				<count>92</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕλκω</original>
+				<trans>draw to</trans>
+				<loglikelihood>9.29</loglikelihood>
+				<count>32</count>
+			</collocation>
+			<collocation>
+				<original>κλίνω</original>
+				<trans>couch to</trans>
+				<loglikelihood>9.29</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>συμβαίνω</original>
+				<trans>happened on</trans>
+				<loglikelihood>9.15</loglikelihood>
+				<count>99</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκτείνω</original>
+				<trans>extends to</trans>
+				<loglikelihood>9.02</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γελάω</original>
+				<trans>laughing at</trans>
+				<loglikelihood>9.00</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἵημι</original>
+				<trans>rushed upon</trans>
+				<loglikelihood>8.78</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>them for</trans>
+				<loglikelihood>8.76</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>δανείζω</original>
+				<trans>borrowed on</trans>
+				<loglikelihood>8.42</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πάρειμι</original>
+				<trans>for the present</trans>
+				<loglikelihood>8.35</loglikelihood>
+				<count>103</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐφίστημι</original>
+				<trans>stood on</trans>
+				<loglikelihood>8.14</loglikelihood>
+				<count>53</count>
+			</collocation>
+			<collocation>
+				<original>προκόπτω</original>
+				<trans>deviate to</trans>
+				<loglikelihood>8.04</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπάγω</original>
+				<trans>bring against</trans>
+				<loglikelihood>7.98</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιβάλλω</original>
+				<trans>laid hands on</trans>
+				<loglikelihood>7.97</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>did for</trans>
+				<loglikelihood>7.65</loglikelihood>
+				<count>137</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιστρέφω</original>
+				<trans>turn to</trans>
+				<loglikelihood>7.55</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παροξύνω</original>
+				<trans>irritated him against</trans>
+				<loglikelihood>7.52</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκτρέχω</original>
+				<trans>sally against</trans>
+				<loglikelihood>7.17</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σπεύδω</original>
+				<trans>made haste to</trans>
+				<loglikelihood>6.99</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαπλέω</original>
+				<trans>sailed to</trans>
+				<loglikelihood>6.98</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μεταφέρω</original>
+				<trans>transferred to</trans>
+				<loglikelihood>6.93</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>ἀποπλέω</original>
+				<trans>sailed away for</trans>
+				<loglikelihood>6.91</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρασκευάζω</original>
+				<trans>prepared against</trans>
+				<loglikelihood>6.90</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναγορεύω</original>
+				<trans>proclaimed victor to</trans>
+				<loglikelihood>6.81</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιστρατεύω</original>
+				<trans>march against</trans>
+				<loglikelihood>6.75</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>δυσφορέω</original>
+				<trans>uneasy at</trans>
+				<loglikelihood>6.55</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>λαμβάνω</original>
+				<trans>take to</trans>
+				<loglikelihood>6.53</loglikelihood>
+				<count>154</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαλύω</original>
+				<trans>term on</trans>
+				<loglikelihood>6.44</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαβαίνω</original>
+				<trans>at the crossing</trans>
+				<loglikelihood>6.37</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξικνέομαι</original>
+				<trans>reach such on</trans>
+				<loglikelihood>6.30</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἀγανακτέω</original>
+				<trans>indignation at</trans>
+				<loglikelihood>6.29</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φιλοτιμέομαι</original>
+				<trans>pride themselves upon</trans>
+				<loglikelihood>6.23</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>συστρατεύω</original>
+				<trans>marched with darius against</trans>
+				<loglikelihood>6.18</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ὑπόκειμαι</original>
+				<trans>else to</trans>
+				<loglikelihood>6.06</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔπειμι</original>
+				<trans>inscribe on</trans>
+				<loglikelihood>6.01</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παραπλέω</original>
+				<trans>coasted along to</trans>
+				<loglikelihood>6.00</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναζεύγνυμι</original>
+				<trans>march on</trans>
+				<loglikelihood>5.92</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>ἀπερείδω</original>
+				<trans>rest on</trans>
+				<loglikelihood>5.80</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>κατάγω</original>
+				<trans>restored to</trans>
+				<loglikelihood>5.80</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἧμαι</original>
+				<trans>sitting on</trans>
+				<loglikelihood>5.79</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπεργάζομαι</original>
+				<trans>in relief on</trans>
+				<loglikelihood>5.70</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἴχομαι</original>
+				<trans>went to</trans>
+				<loglikelihood>5.59</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρύω</original>
+				<trans>drawn up on</trans>
+				<loglikelihood>5.56</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξαίρω</original>
+				<trans>have on</trans>
+				<loglikelihood>5.51</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>καθίημι</original>
+				<trans>sitting on</trans>
+				<loglikelihood>5.51</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατέρχομαι</original>
+				<trans>come down to</trans>
+				<loglikelihood>5.47</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατοπεδεύω</original>
+				<trans>encamped on</trans>
+				<loglikelihood>5.32</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιβαίνω</original>
+				<trans>mount on</trans>
+				<loglikelihood>5.28</loglikelihood>
+				<count>23</count>
+			</collocation>
+			<collocation>
+				<original>ἀνέρχομαι</original>
+				<trans>up to</trans>
+				<loglikelihood>5.21</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκστρατεύω</original>
+				<trans>made an expedition against</trans>
+				<loglikelihood>5.19</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φοιτάω</original>
+				<trans>go to</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>προέρχομαι</original>
+				<trans>come to</trans>
+				<loglikelihood>5.00</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μεταβαίνω</original>
+				<trans>pass on</trans>
+				<loglikelihood>4.99</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ἔξειμι</original>
+				<trans>out to</trans>
+				<loglikelihood>4.96</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποστέλλω</original>
+				<trans>sent against</trans>
+				<loglikelihood>4.95</loglikelihood>
+				<count>33</count>
+			</collocation>
+			<collocation>
+				<original>καθέζομαι</original>
+				<trans>sitting on</trans>
+				<loglikelihood>4.90</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to the sea at</trans>
+				<loglikelihood>4.80</loglikelihood>
+				<count>68</count>
+			</collocation>
+			<collocation>
+				<original>ὀρούω</original>
+				<trans>leapt upon in</trans>
+				<loglikelihood>4.70</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>διατείνω</original>
+				<trans>extend on</trans>
+				<loglikelihood>4.70</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>περάω</original>
+				<trans>at the end</trans>
+				<loglikelihood>4.63</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμμαχέω</original>
+				<trans>war against against</trans>
+				<loglikelihood>4.55</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παραπέμπω</original>
+				<trans>send on</trans>
+				<loglikelihood>4.54</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>καταπίπτω</original>
+				<trans>fell down upon</trans>
+				<loglikelihood>4.54</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>παραγίγνομαι</original>
+				<trans>came to</trans>
+				<loglikelihood>4.52</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταλείπω</original>
+				<trans>leave to</trans>
+				<loglikelihood>4.50</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>some to</trans>
+				<loglikelihood>4.37</loglikelihood>
+				<count>39</count>
+			</collocation>
+			<collocation>
+				<original>ἰθύνω</original>
+				<trans>made straight to</trans>
+				<loglikelihood>4.23</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιπλέω</original>
+				<trans>sailed to</trans>
+				<loglikelihood>4.13</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἀποχωρέω</original>
+				<trans>returned on</trans>
+				<loglikelihood>4.12</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χειροτονέω</original>
+				<trans>elected against</trans>
+				<loglikelihood>4.11</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>προπέμπω</original>
+				<trans>sent to</trans>
+				<loglikelihood>4.04</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σύ</original>
+				<trans>you on</trans>
+				<loglikelihood>4.04</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>τανύω</original>
+				<trans>taut over</trans>
+				<loglikelihood>4.02</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀνομάζω</original>
+				<trans>called to</trans>
+				<loglikelihood>3.94</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταπλέω</original>
+				<trans>sail for</trans>
+				<loglikelihood>3.89</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἀναφέρω</original>
+				<trans>refer to</trans>
+				<loglikelihood>3.86</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ἀποκλίνω</original>
+				<trans>go over</trans>
+				<loglikelihood>3.85</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἀπαίρω</original>
+				<trans>set out for</trans>
+				<loglikelihood>3.84</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>κάτειμι</original>
+				<trans>return to</trans>
+				<loglikelihood>3.80</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταφέρω</original>
+				<trans>carried down to</trans>
+				<loglikelihood>3.78</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>οἰκοδομέω</original>
+				<trans>built upon</trans>
+				<loglikelihood>3.78</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρατείνω</original>
+				<trans>disposal at</trans>
+				<loglikelihood>3.76</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διάγω</original>
+				<trans>live at</trans>
+				<loglikelihood>3.74</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>καίω</original>
+				<trans>burned on</trans>
+				<loglikelihood>3.70</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μηχανάομαι</original>
+				<trans>devise on</trans>
+				<loglikelihood>3.66</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χαίρω</original>
+				<trans>rejoiced at</trans>
+				<loglikelihood>3.60</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γράφω</original>
+				<trans>written on</trans>
+				<loglikelihood>3.58</loglikelihood>
+				<count>67</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιτίθημι</original>
+				<trans>put on</trans>
+				<loglikelihood>3.57</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνατρέχω</original>
+				<trans>runs up mount</trans>
+				<loglikelihood>3.51</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>lived on</trans>
+				<loglikelihood>3.45</loglikelihood>
+				<count>49</count>
+			</collocation>
+			<collocation>
+				<original>θύω</original>
+				<trans>sacrifice on</trans>
+				<loglikelihood>3.45</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπαντάω</original>
+				<trans>meet at</trans>
+				<loglikelihood>3.41</loglikelihood>
+				<count>23</count>
+			</collocation>
+			<collocation>
+				<original>συντίθημι</original>
+				<trans>agree against</trans>
+				<loglikelihood>3.40</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπέρχομαι</original>
+				<trans>went back to</trans>
+				<loglikelihood>3.36</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θύω</original>
+				<trans>sacrifices upon</trans>
+				<loglikelihood>3.35</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>περιπέμπω</original>
+				<trans>sent to</trans>
+				<loglikelihood>3.35</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρατάσσω</original>
+				<trans>battle against</trans>
+				<loglikelihood>3.32</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταλύω</original>
+				<trans>overthrow on</trans>
+				<loglikelihood>3.17</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>to on</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>ἀφίημι</original>
+				<trans>left here one stone on</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>42</count>
+			</collocation>
+			<collocation>
+				<original>ἄνειμι</original>
+				<trans>moses placed on</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ὡς</original>
+				<trans>that for</trans>
+				<loglikelihood>3.12</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>δίδωμι</original>
+				<trans>gave on</trans>
+				<loglikelihood>3.09</loglikelihood>
+				<count>105</count>
+			</collocation>
+			<collocation>
+				<original>ἤ</original>
+				<trans>than upon</trans>
+				<loglikelihood>3.06</loglikelihood>
+				<count>270</count>
+			</collocation>
+			<collocation>
+				<original>ἀλάομαι</original>
+				<trans>wandering over</trans>
+				<loglikelihood>3.04</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κίω</original>
+				<trans>go to</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατατίθημι</original>
+				<trans>laid on</trans>
+				<loglikelihood>2.91</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐφορμάω</original>
+				<trans>blockading to</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>κομίζω</original>
+				<trans>brought to</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>37</count>
+			</collocation>
+			<collocation>
+				<original>ὑποστρέφω</original>
+				<trans>returned back to</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατοικέω</original>
+				<trans>dwell on</trans>
+				<loglikelihood>2.85</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναπλέω</original>
+				<trans>putting out to</trans>
+				<loglikelihood>2.84</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>παραβοηθέω</original>
+				<trans>run to</trans>
+				<loglikelihood>2.84</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πάρειμι</original>
+				<trans>come attack</trans>
+				<loglikelihood>2.82</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>πρός</original>
+				<trans>with on</trans>
+				<loglikelihood>2.82</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀντέχω</original>
+				<trans>resistance for</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ῥίπτω</original>
+				<trans>threw themselves down upon</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πᾶς</original>
+				<trans>all to</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>πήγνυμι</original>
+				<trans>beam on</trans>
+				<loglikelihood>2.79</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>πέτομαι</original>
+				<trans>sped over</trans>
+				<loglikelihood>2.79</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκπλέω</original>
+				<trans>sailed for</trans>
+				<loglikelihood>2.79</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιδίδωμι</original>
+				<trans>gift on</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ἄρχω</original>
+				<trans>ruled for</trans>
+				<loglikelihood>2.69</loglikelihood>
+				<count>87</count>
+			</collocation>
+			<collocation>
+				<original>ὀργίζω</original>
+				<trans>angry at</trans>
+				<loglikelihood>2.69</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>ἄπειμι</original>
+				<trans>return to</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λυπέω</original>
+				<trans>pained at</trans>
+				<loglikelihood>2.67</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρέχω</original>
+				<trans>offer to</trans>
+				<loglikelihood>2.67</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀθροίζω</original>
+				<trans>together against</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>ἀνατίθημι</original>
+				<trans>with the consecrated plate, some of it dedicated</trans>
+				<loglikelihood>2.63</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κινέω</original>
+				<trans>moved to</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Plutarch</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπανάγω</original>
+				<trans>refer to</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐρείδω</original>
+				<trans>at</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>from the iapydes to</trans>
+				<loglikelihood>2.56</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>κρεμάννυμι</original>
+				<trans>hanging him on</trans>
+				<loglikelihood>2.54</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἀκολουθέω</original>
+				<trans>follow to</trans>
+				<loglikelihood>2.53</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>ὄρνυμι</original>
+				<trans>rushed to</trans>
+				<loglikelihood>2.51</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατασκευάζω</original>
+				<trans>built against</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἅλλομαι</original>
+				<trans>sprang upon</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βοηθέω</original>
+				<trans>help against</trans>
+				<loglikelihood>2.42</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱκνέομαι</original>
+				<trans>came to to</trans>
+				<loglikelihood>2.40</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συλλέγω</original>
+				<trans>gather against</trans>
+				<loglikelihood>2.39</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>θαυμάζω</original>
+				<trans>admired for</trans>
+				<loglikelihood>2.39</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατακείω</original>
+				<trans>lie on</trans>
+				<loglikelihood>2.38</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>word to</trans>
+				<loglikelihood>2.37</loglikelihood>
+				<count>70</count>
+			</collocation>
+			<collocation>
+				<original>τε</original>
+				<trans>and on</trans>
+				<loglikelihood>2.35</loglikelihood>
+				<count>90</count>
+			</collocation>
+			<collocation>
+				<original>τρέχω</original>
+				<trans>ran to</trans>
+				<loglikelihood>2.35</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>οἰκίζω</original>
+				<trans>founded on</trans>
+				<loglikelihood>2.35</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διανέμω</original>
+				<trans>distribute case</trans>
+				<loglikelihood>2.29</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>μάχομαι</original>
+				<trans>fight at</trans>
+				<loglikelihood>2.28</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπάγω</original>
+				<trans>led to</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξέρχομαι</original>
+				<trans>went out against</trans>
+				<loglikelihood>2.26</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιπίπτω</original>
+				<trans>fell on</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁράω</original>
+				<trans>at what he had seen</trans>
+				<loglikelihood>2.23</loglikelihood>
+				<count>78</count>
+			</collocation>
+			<collocation>
+				<original>ἀγείρω</original>
+				<trans>through against</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιμένω</original>
+				<trans>continue to</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἀλγέω</original>
+				<trans>grieve for</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>πολέω</original>
+				<trans>harvest to</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>συντρέχω</original>
+				<trans>ran together to</trans>
+				<loglikelihood>2.16</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>προκαλέω</original>
+				<trans>invite to</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁδεύω</original>
+				<trans>travel to</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>συνάγω</original>
+				<trans>gathered to</trans>
+				<loglikelihood>2.14</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγείρω</original>
+				<trans>will rise against</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐλίζομαι</original>
+				<trans>night upon</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>παραλαμβάνω</original>
+				<trans>them to</trans>
+				<loglikelihood>2.12</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φαίνω</original>
+				<trans>appears to</trans>
+				<loglikelihood>2.12</loglikelihood>
+				<count>72</count>
+			</collocation>
+			<collocation>
+				<original>μερίζω</original>
+				<trans>divided against</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐτάζω</original>
+				<trans>null</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>διώκω</original>
+				<trans>pursue to</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Emphatic particles</type>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>with wings on</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>15</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

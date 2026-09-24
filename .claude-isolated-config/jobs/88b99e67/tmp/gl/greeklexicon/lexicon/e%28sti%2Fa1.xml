@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑστία</form>
+	<date>Tue Jul 26 23:45:47 EDT 2011</date>
+	<count>151</count>
+	<per10K>0.319</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>hearth</sense>
+				<count>17</count>
+				<prob>0.405</prob>
+				<loglikelihood>9.174</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.353</relativeFreq></author>
+					<author><name>Aeschylus</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

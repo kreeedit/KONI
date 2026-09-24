@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νηλής</form>
+	<date>Tue Jul 26 23:05:24 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>46</count>
+		<senses>
+			<senseContainer>
+				<sense>pitiless</sense>
+				<count>36</count>
+				<prob>0.783</prob>
+				<loglikelihood>110.296</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pitiless one</sense>
+				<count>3</count>
+				<prob>0.065</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>χαλκός</original>
+				<trans>pitiless bronze</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

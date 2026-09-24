@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πάρειμι</form>
+	<date>Wed Jul 27 03:37:08 EDT 2011</date>
+	<count>2619</count>
+	<per10K>5.528</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1653</count>
+		<senses>
+			<senseContainer>
+				<sense>present</sense>
+				<count>286</count>
+				<prob>0.173</prob>
+				<loglikelihood>129.780</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>come</sense>
+				<count>161</count>
+				<prob>0.097</prob>
+				<loglikelihood>11.875</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.410</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

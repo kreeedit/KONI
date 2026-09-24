@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κινέω</form>
+	<date>Wed Jul 27 01:20:56 EDT 2011</date>
+	<count>718</count>
+	<per10K>1.515</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>615</count>
+		<senses>
+			<senseContainer>
+				<sense>move</sense>
+				<count>133</count>
+				<prob>0.216</prob>
+				<loglikelihood>133.884</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.331</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>motion</sense>
+				<count>48</count>
+				<prob>0.078</prob>
+				<loglikelihood>20.252</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.604</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stir</sense>
+				<count>26</count>
+				<prob>0.042</prob>
+				<loglikelihood>22.889</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>in motion</sense>
+				<count>25</count>
+				<prob>0.041</prob>
+				<loglikelihood>73.504</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.840</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>disturb</sense>
+				<count>19</count>
+				<prob>0.031</prob>
+				<loglikelihood>9.481</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.421</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

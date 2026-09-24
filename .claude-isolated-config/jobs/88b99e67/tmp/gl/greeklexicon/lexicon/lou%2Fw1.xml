@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λούω</form>
+	<date>Tue Jul 26 23:52:55 EDT 2011</date>
+	<count>170</count>
+	<per10K>0.359</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>103</count>
+		<senses>
+			<senseContainer>
+				<sense>wash</sense>
+				<count>36</count>
+				<prob>0.350</prob>
+				<loglikelihood>29.118</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bathe</sense>
+				<count>22</count>
+				<prob>0.214</prob>
+				<loglikelihood>43.019</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Homer</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

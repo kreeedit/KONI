@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἅτε</form>
+	<date>Wed Jul 27 00:39:51 EDT 2011</date>
+	<count>425</count>
+	<per10K>0.897</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>610</count>
+		<senses>
+			<senseContainer>
+				<sense>since</sense>
+				<count>71</count>
+				<prob>0.116</prob>
+				<loglikelihood>6.180</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.479</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>since they</sense>
+				<count>22</count>
+				<prob>0.036</prob>
+				<loglikelihood>52.302</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inasmuch as</sense>
+				<count>22</count>
+				<prob>0.036</prob>
+				<loglikelihood>18.593</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.455</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

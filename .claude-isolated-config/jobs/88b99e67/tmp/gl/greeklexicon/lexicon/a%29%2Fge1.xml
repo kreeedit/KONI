@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγε</form>
+	<date>Wed Jul 27 00:48:21 EDT 2011</date>
+	<count>479</count>
+	<per10K>1.011</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>433</count>
+		<senses>
+			<senseContainer>
+				<sense>come</sense>
+				<count>248</count>
+				<prob>0.573</prob>
+				<loglikelihood>29.054</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.673</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>come now</sense>
+				<count>20</count>
+				<prob>0.046</prob>
+				<loglikelihood>39.010</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.850</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

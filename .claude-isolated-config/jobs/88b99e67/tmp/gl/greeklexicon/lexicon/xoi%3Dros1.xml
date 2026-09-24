@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χοῖρος</form>
+	<date>Tue Jul 26 22:49:13 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>49</count>
+		<senses>
+			<senseContainer>
+				<sense>pig</sense>
+				<count>17</count>
+				<prob>0.347</prob>
+				<loglikelihood>19.266</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.647</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λέβης</form>
+	<date>Tue Jul 26 23:09:07 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>cauldron</sense>
+				<count>33</count>
+				<prob>0.579</prob>
+				<loglikelihood>79.198</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.606</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>basin for</sense>
+				<count>9</count>
+				<prob>0.158</prob>
+				<loglikelihood>35.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>kettle</sense>
+				<count>3</count>
+				<prob>0.053</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

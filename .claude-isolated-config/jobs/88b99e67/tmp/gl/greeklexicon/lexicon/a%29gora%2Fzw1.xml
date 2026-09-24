@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγοράζω</form>
+	<date>Tue Jul 26 23:19:13 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>94</count>
+		<senses>
+			<senseContainer>
+				<sense>buy</sense>
+				<count>34</count>
+				<prob>0.362</prob>
+				<loglikelihood>15.206</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.588</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

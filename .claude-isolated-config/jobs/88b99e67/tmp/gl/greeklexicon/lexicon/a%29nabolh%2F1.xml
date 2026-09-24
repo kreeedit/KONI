@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναβολή</form>
+	<date>Tue Jul 26 22:58:43 EDT 2011</date>
+	<count>49</count>
+	<per10K>0.103</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>postponement</sense>
+				<count>4</count>
+				<prob>0.133</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

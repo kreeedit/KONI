@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀλίγος</form>
+	<date>Wed Jul 27 02:58:47 EDT 2011</date>
+	<count>2052</count>
+	<per10K>4.331</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2495</count>
+		<senses>
+			<senseContainer>
+				<sense>few</sense>
+				<count>700</count>
+				<prob>0.281</prob>
+				<loglikelihood>1864.132</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>little</sense>
+				<count>343</count>
+				<prob>0.137</prob>
+				<loglikelihood>441.361</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>small</sense>
+				<count>175</count>
+				<prob>0.070</prob>
+				<loglikelihood>108.567</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>short</sense>
+				<count>117</count>
+				<prob>0.047</prob>
+				<loglikelihood>102.832</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>a</sense>
+				<count>96</count>
+				<prob>0.038</prob>
+				<loglikelihood>4.341</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>almost</sense>
+				<count>64</count>
+				<prob>0.026</prob>
+				<loglikelihood>47.641</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>a short time</trans>
+				<loglikelihood>7.16</loglikelihood>
+				<count>91</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὕστερος</original>
+				<trans>a little later</trans>
+				<loglikelihood>2.63</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Plutarch</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάπηλος</form>
+	<date>Tue Jul 26 22:43:43 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>dealer</sense>
+				<count>4</count>
+				<prob>0.114</prob>
+				<loglikelihood>5.818</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>huckster</sense>
+				<count>4</count>
+				<prob>0.114</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shopkeeper</sense>
+				<count>3</count>
+				<prob>0.086</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

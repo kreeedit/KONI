@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔλαιον</form>
+	<date>Tue Jul 26 23:51:16 EDT 2011</date>
+	<count>165</count>
+	<per10K>0.348</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>178</count>
+		<senses>
+			<senseContainer>
+				<sense>oil</sense>
+				<count>132</count>
+				<prob>0.742</prob>
+				<loglikelihood>435.575</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.311</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>olive oil</sense>
+				<count>18</count>
+				<prob>0.101</prob>
+				<loglikelihood>64.795</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

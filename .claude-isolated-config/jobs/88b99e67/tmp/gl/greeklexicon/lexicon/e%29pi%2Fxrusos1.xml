@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίχρυσος</form>
+	<date>Tue Jul 26 22:48:52 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>gild</sense>
+				<count>16</count>
+				<prob>0.471</prob>
+				<loglikelihood>33.032</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gilt</sense>
+				<count>11</count>
+				<prob>0.324</prob>
+				<loglikelihood>40.333</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

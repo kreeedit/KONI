@@ -315,6 +315,156 @@ main { max-width: 1140px; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
 }
 .greek-text .line .ltext { white-space: pre-wrap; }
 
+/* ---- reader toolbar (export / notes / hints) ---- */
+.reader-tools {
+  display: flex; align-items: center; gap: .4rem; flex-wrap: wrap;
+  margin: 0 0 1rem; padding-bottom: .6rem;
+  border-bottom: 1px solid var(--rule);
+}
+.tool-btn {
+  font-family: var(--font-meta); font-size: .68rem; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--text-soft);
+  background: none; border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: .22rem .5rem; cursor: pointer; transition: color .12s, border-color .12s;
+}
+.tool-btn:hover { color: var(--accent); border-color: var(--accent-soft); }
+.tool-btn.danger:hover { color: var(--accent); border-color: var(--accent); }
+.tool-hint {
+  font-family: var(--font-meta); font-size: .64rem; color: var(--text-faint);
+  letter-spacing: .04em; margin-left: auto;
+}
+.tool-hint kbd {
+  font-family: var(--font-meta); font-size: .64rem;
+  border: 1px solid var(--rule-strong); border-radius: 2px; padding: 0 .2rem;
+}
+@media (max-width: 900px) { .tool-hint { display: none; } }
+
+/* The word last looked up. A tint, not an underline: the text is the object of
+   study and must not start looking like a link. */
+.dict-active { background: var(--bg-soft); box-shadow: 0 0 0 1px var(--rule); border-radius: 2px; }
+
+/* An annotated passage. Dotted underline on hover only — the highlight is a
+   quiet marker that a note exists, not a permanent claim on the words. */
+.ann-mark {
+  border-bottom: 1px dotted var(--accent-soft); cursor: pointer;
+  background: rgba(122, 46, 46, .05);
+}
+.ann-mark:hover { background: rgba(122, 46, 46, .12); }
+
+/* ---- the drawer (dictionary + notes) ---- */
+.drawer {
+  position: fixed; top: 4.2rem; right: 1rem; bottom: 1rem;
+  width: min(26rem, calc(100vw - 2rem)); z-index: 30;
+  display: flex; flex-direction: column;
+  background: var(--bg-elev); border: 1px solid var(--rule-strong);
+  border-radius: var(--radius);
+}
+/* `display: flex` above would beat the UA stylesheet's [hidden] rule — the
+   drawer would be on screen before it is ever opened. */
+.drawer[hidden] { display: none; }
+@media (min-width: 1101px) {
+  /* On a wide screen the drawer takes its own room instead of covering the
+     text: the pane gives up exactly the drawer's width. */
+  body.drawer-open .reader-pane { padding-right: 27rem; }
+  body.drawer-open .greek-text { max-width: 44rem; }
+}
+.drawer-tabs {
+  display: flex; align-items: center; gap: .5rem;
+  padding: .5rem .7rem; border-bottom: 1px solid var(--rule);
+}
+.dtab {
+  font-family: var(--font-meta); font-size: .68rem; letter-spacing: .1em;
+  text-transform: uppercase; background: none; border: none; cursor: pointer;
+  color: var(--text-faint); padding: .1rem 0; border-bottom: 1px solid transparent;
+}
+.dtab:hover { color: var(--text); }
+.dtab.active { color: var(--accent); border-bottom-color: var(--accent); }
+.drawer-tabs .ev-close { margin-left: auto; }
+.drawer-body { overflow: auto; padding: .8rem .9rem 1.2rem; }
+.drawer-hint {
+  font-family: var(--font-meta); font-size: .7rem; line-height: 1.7;
+  color: var(--text-faint); padding: 1rem .2rem;
+}
+.dict-head { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+.dict-head b { font-size: 1.3rem; }
+.dict-head .ev-close { margin-left: auto; }
+.dict-lab {
+  font-family: var(--font-meta); font-size: .6rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--text-faint);
+}
+.dict-form { color: var(--accent); font-size: 1.05rem; margin: .2rem 0 .3rem; }
+.dict-how { font-size: .78rem; color: var(--text-faint); margin-bottom: .7rem; }
+.dict-gloss { font-size: .95rem; line-height: 1.6; margin: 0 0 .6rem; }
+.dict-gloss.dict-note { color: var(--text-soft); font-size: .85rem; }
+.dict-miss { color: var(--accent); margin: .3rem 0; }
+.dict-forms { display: flex; flex-wrap: wrap; gap: .3rem; font-size: .86rem; }
+.dict-forms span {
+  border: 1px solid var(--rule); border-radius: var(--radius); padding: 0 .3rem;
+}
+.dict-alt { margin: 0; padding-left: 1rem; font-size: .84rem; }
+.dict-occ { margin: 0; padding-left: 1rem; font-size: .82rem; }
+.dict-out { margin-top: 1rem; }
+.dict-src { margin-top: 1rem; font-size: .74rem; color: var(--text-faint); }
+.dict-src > summary { cursor: pointer; font-family: var(--font-meta); letter-spacing: .1em; text-transform: uppercase; font-size: .62rem; }
+.dict-src p { margin: .5rem 0 0; line-height: 1.5; }
+
+/* ---- notes tab ---- */
+.ann-bar { display: flex; gap: .35rem; flex-wrap: wrap; margin-bottom: .8rem; }
+.ann-group { margin-bottom: .9rem; }
+.ann-item {
+  border-left: 2px solid var(--rule); padding: .2rem 0 .5rem .6rem; margin-bottom: .5rem;
+  transition: border-color .15s;
+}
+.ann-item.flash { border-left-color: var(--accent); }
+.ann-q {
+  font-family: var(--font-greek); font-size: .92rem; line-height: 1.5; cursor: pointer;
+}
+.ann-q:hover { color: var(--accent); }
+.ann-note-body { font-size: .84rem; color: var(--text-soft); margin: .25rem 0; line-height: 1.5; }
+.ann-tags { display: flex; gap: .25rem; flex-wrap: wrap; margin: .2rem 0; }
+.ann-tag {
+  font-family: var(--font-meta); font-size: .58rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--accent);
+  border: 1px solid var(--rule); border-radius: var(--radius); padding: 0 .25rem;
+}
+.ann-acts { display: flex; gap: .4rem; align-items: baseline; }
+.ann-mini {
+  font-family: var(--font-meta); font-size: .62rem; letter-spacing: .06em;
+  text-transform: uppercase; background: none; color: var(--text-faint);
+  border: none; cursor: pointer; padding: 0;
+}
+.ann-mini:hover { color: var(--accent); }
+.ann-acts .muted { color: var(--text-faint); font-size: .64rem; margin-left: auto; }
+
+/* ---- floating annotate button + popover ---- */
+.ann-btn {
+  position: fixed; z-index: 40;
+  font-family: var(--font-meta); font-size: .66rem; letter-spacing: .08em;
+  text-transform: uppercase; cursor: pointer;
+  color: var(--bg-elev); background: var(--accent);
+  border: none; border-radius: var(--radius); padding: .25rem .5rem;
+}
+.ann-btn[hidden] { display: none; }
+.ann-pop {
+  position: fixed; z-index: 41; width: min(22rem, calc(100vw - 1rem));
+  background: var(--bg-elev); border: 1px solid var(--rule-strong);
+  border-radius: var(--radius); padding: .6rem; display: flex; flex-direction: column; gap: .4rem;
+}
+.ann-pop[hidden] { display: none; }
+.ann-quote {
+  font-size: .92rem; line-height: 1.5; color: var(--text-soft);
+  max-height: 6rem; overflow: auto;
+  border-left: 2px solid var(--rule); padding-left: .5rem;
+}
+.ann-pop textarea, .ann-pop input {
+  font-family: var(--font-ui); font-size: .85rem; color: var(--text);
+  background: var(--bg); border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: .35rem .45rem; width: 100%; resize: vertical;
+}
+.ann-pop textarea:focus, .ann-pop input:focus { outline: 1px solid var(--accent-soft); }
+.ann-actions { display: flex; align-items: center; gap: .4rem; }
+.ann-actions .muted { color: var(--accent); font-size: .7rem; }
+
 /* ---- sources panel ---- */
 .sources {
   border-top: 1px solid var(--rule);
@@ -439,6 +589,11 @@ main { max-width: 1140px; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
 .cmp-controls label.live::after {
   content: " ⟳ recompute"; font-size: .6rem; color: var(--text-faint);
 }
+/* A toggle that applies immediately, unlike the .live sliders above — so it
+   must NOT carry the "⟳ recompute" suffix that .live appends. */
+.cmp-controls label.live-toggle { color: var(--text-faint); }
+.cmp-controls label.live-toggle:hover { color: var(--accent); }
+.cmp-controls input[type=checkbox] { accent-color: var(--accent); }
 .slider-val { color: var(--accent); font-variant-numeric: tabular-nums; min-width: 2rem; }
 .cmp-pairs { display: grid; gap: 0; }
 .cmp-pair {
@@ -462,6 +617,59 @@ main { max-width: 1140px; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
   letter-spacing: .1em; text-transform: uppercase;
   color: var(--text-faint); margin-left: auto;
 }
+/* ---------- toposz clusters: formulaic duplicates folded into one row ------ */
+.cmp-cluster { border-bottom: 1px solid var(--rule-strong); }
+.cmp-cluster > details > summary { list-style: none; cursor: pointer; }
+.cmp-cluster > details > summary::-webkit-details-marker { display: none; }
+.cmp-cluster-head {
+  display: flex; gap: .9rem; align-items: baseline; flex-wrap: wrap;
+  padding: 1.1rem 0;
+}
+.cmp-cluster-head::before {
+  content: "▸"; font-family: var(--font-meta); font-size: .7rem;
+  color: var(--text-faint);
+}
+.cmp-cluster > details[open] > summary.cmp-cluster-head::before { content: "▾"; }
+.cmp-cluster-head:hover .cmp-cluster-core { color: var(--accent); }
+.cmp-cluster-count {
+  font-family: var(--font-meta); font-size: .66rem;
+  letter-spacing: .06em; font-variant-numeric: tabular-nums;
+  color: var(--accent); border: 1px solid var(--accent);
+  padding: .1rem .45rem; border-radius: var(--radius);
+}
+.cmp-cluster-core {
+  font-family: var(--font-greek); font-size: 1.05rem; color: var(--text);
+  min-width: 0; flex: 1 1 14rem;
+}
+.cmp-cluster-meta {
+  font-family: var(--font-meta); font-size: .62rem;
+  letter-spacing: .1em; text-transform: uppercase;
+  color: var(--text-faint); margin-left: auto;
+  font-variant-numeric: tabular-nums;
+}
+.cmp-cluster-refs {
+  font-family: var(--font-meta); font-size: .66rem; line-height: 1.8;
+  color: var(--text-soft); padding: 0 0 .9rem .35rem;
+}
+.cmp-cluster-refs .apparatus { color: var(--text-faint); margin-right: .4rem; }
+.cmp-ref-more { color: var(--accent); }
+.cmp-cluster-body {
+  border-left: 1px solid var(--rule);
+  margin: 0 0 1.2rem .35rem; padding-left: 1.4rem;
+}
+.cmp-cluster-body > .cmp-pair:last-child { border-bottom: none; }
+.cmp-cluster-rest > summary {
+  font-family: var(--font-meta); font-size: .64rem;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--text-faint); cursor: pointer; padding: .8rem 0;
+  list-style: none;
+}
+.cmp-cluster-rest > summary::-webkit-details-marker { display: none; }
+.cmp-cluster-rest > summary::before { content: "+ "; color: var(--accent); }
+.cmp-cluster-rest[open] > summary::before { content: "− "; }
+.cmp-cluster-rest > .cmp-pair:last-child { border-bottom: none; }
+.cmp-info .warn { color: var(--accent); }
+
 .cmp-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
 .cmp-col { min-width: 0; }
 .cmp-col-title {
@@ -570,6 +778,202 @@ main { max-width: 1140px; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
 }
 .cmp-recompute.is-dirty {
   color: var(--bridge); border-color: var(--bridge);
+}
+
+/* ---------- Archaism detector (#/archaism) ----------
+   The same apparatus voice as the compare view: hairlines, small-caps metas,
+   tabular figures. It reads as a critical apparatus, not a dashboard. */
+.picker-col { flex: 1 1 16rem; min-width: 14rem; }
+.picker-cap {
+  font-family: var(--font-meta); font-size: .68rem;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--text-faint); margin-bottom: .35rem;
+}
+.arch-controls input[type=number] {
+  font-family: var(--font-meta); font-size: .85rem; width: 3.6rem;
+  padding: .25rem .35rem; text-align: right;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background: var(--bg-elev); color: var(--text);
+}
+.arch-controls input[type=number]:focus { outline: none; border-color: var(--accent); }
+.arch-table {
+  width: 100%; border-collapse: collapse; font-size: .84rem;
+  font-variant-numeric: tabular-nums;
+}
+.arch-table th {
+  font-family: var(--font-meta); font-size: .66rem; font-weight: 400;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--text-faint);
+  text-align: left; padding: .35rem .5rem; white-space: nowrap;
+  border-bottom: 1px solid var(--rule);
+}
+.arch-table td {
+  padding: .3rem .5rem; border-bottom: 1px solid var(--rule);
+  color: var(--text-soft);
+}
+/* The word itself is the finding's subject — give it the text colour and let
+   the numbers recede. */
+.arch-table td.arch-word { color: var(--text); font-size: .95rem; }
+.arch-table .num { text-align: right; white-space: nowrap; }
+.arch-table .num.strong { color: var(--accent); }
+.arch-table .arch-where {
+  font-family: var(--font-meta); font-size: .72rem; color: var(--text-faint);
+}
+/* .muted/.warn are scoped to .cmp-info above and do not reach the table. */
+.arch-table .muted { color: var(--text-faint); }
+.arch-table tbody tr:hover { background: var(--bg-elev); }
+/* The spelling split under a pooled word. Deliberately quiet: it is a footnote
+   to a correct number, not a second finding. A/B order matches the table. */
+.arch-vsplit {
+  font-family: var(--font-meta); font-size: .68rem; line-height: 1.5;
+  color: var(--text-faint); margin-top: .1rem; white-space: normal;
+}
+.arch-vsplit .muted { color: var(--text-faint); }
+.arch-vsplit .marked { color: var(--text-soft); font-style: italic; }
+/* The proper-noun toggle and the pooling row sit above the form, not inside it:
+   they are inputs to the same request but read as a different kind of choice. */
+.arch-variants { align-items: baseline; gap: .8rem; flex-wrap: wrap; }
+.arch-variants .picker-cap { margin-bottom: 0; }
+.arch-variants .muted {
+  flex: 1 1 18rem; font-size: .76rem; line-height: 1.5;
+  color: var(--text-faint); max-width: 42rem;
+}
+/* Style-register report: the direction column is prose, not a number, so it
+   gets room to breathe and does not push the numeric columns around. */
+.arch-table .arch-where.arch-dir { white-space: normal; min-width: 12rem; }
+.arch-notes { margin-top: .9rem; }
+.arch-note {
+  font-size: .78rem; line-height: 1.6; padding: .5rem .6rem;
+  border-left: 2px solid var(--rule); margin-bottom: .4rem;
+  color: var(--text-soft);
+}
+.arch-note .muted { color: var(--text-faint); }
+.arch-note .warn { color: var(--text-soft); font-style: italic; }
+/* `.arch-lex-only` is hidden by _archSyncMode in style mode; the wrapper must
+   not collapse the control row's spacing when it is showing. */
+.arch-lex-only { display: contents; }
+.arch-koine-only { display: contents; }
+
+/* ---- three-corpus report: class badges, census, marked-in-B tags ---- */
+/* The class is the report's actual output, so it is a badge and not a colour on
+   the row: the reader sorts the table by looking at one column, and the census
+   above it is the same five words with counts, which is what makes the class
+   mix readable at a glance. */
+.arch-class {
+  display: inline-block; padding: .05rem .4rem; border-radius: 999px;
+  font-size: .72rem; letter-spacing: .02em; white-space: nowrap;
+  border: 1px solid var(--rule); color: var(--text-soft); background: transparent;
+}
+.arch-class b { font-weight: 600; }
+.arch-class-archaism { border-color: var(--accent); color: var(--accent); }
+.arch-class-classical { color: var(--text); }
+.arch-class-overused { border-style: dashed; }
+.arch-class-avoided { border-style: dotted; color: var(--text-faint); }
+.arch-class-shared { color: var(--text-faint); border-color: transparent; }
+.arch-census { margin: .6rem 0 1rem; line-height: 2.1; }
+.arch-census .picker-cap { color: var(--text-faint); }
+.arch-refnote {
+  font-size: .8rem; line-height: 1.6; padding: .5rem .6rem; margin: .5rem 0 0;
+  border-left: 2px solid var(--rule); color: var(--text-soft);
+}
+.arch-refnote .muted { color: var(--text-faint); }
+.arch-table td.arch-mark { white-space: normal; min-width: 5rem; }
+.arch-tag {
+  display: inline-block; padding: 0 .3rem; margin-right: .2rem;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  font-size: .7rem; color: var(--text-soft);
+}
+/* 13 columns: without this the rate columns wrap and the table stops being
+   scannable as a grid, which is the only way to read three rates at once. */
+.arch-table-koine { font-size: .78rem; }
+.arch-table-koine td, .arch-table-koine th { padding-left: .4rem; padding-right: .4rem; }
+.arch-table-koine .num { font-variant-numeric: tabular-nums; }
+
+/* ---- evidence panel (KWIC / parallels / n-grams) ---- */
+.arch-evidence:empty { display: none; }
+.arch-evidence {
+  margin-top: 1.2rem; padding: .9rem 1rem;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background: var(--bg-elev);
+}
+/* The word cell is the control. Underlined on hover so the affordance is
+   discoverable without a permanent underline that would read as a link out. */
+.arch-table td[data-arch-word],
+.arch-table td[data-arch-rule] { cursor: pointer; }
+.arch-table td[data-arch-word]:hover,
+.arch-table td[data-arch-rule]:hover { text-decoration: underline dotted; }
+/* The lemma row opens its own inflectional breakdown. The whole row is the
+   control because the row IS the claim — the headword, its count and its form
+   spread are one statement, and the breakdown answers all three at once. */
+.arch-table tr[data-lemma-toggle] { cursor: pointer; }
+.arch-table tr[data-lemma-toggle]:hover .arch-word { text-decoration: underline dotted; }
+.arch-table tr.lemma-forms > td { padding: .3rem .6rem .7rem; }
+.arch-table tr.lemma-forms .arch-vsplit > div { padding: .1rem 0; }
+.arch-table tr.lemma-forms .arch-vsplit b { margin-left: .4rem; }
+.ev-head {
+  display: flex; align-items: baseline; gap: .7rem; flex-wrap: wrap;
+  margin-bottom: .5rem;
+}
+.ev-head .greek { font-size: 1.05rem; }
+.ev-head .muted { color: var(--text-faint); font-size: .78rem; flex: 1 1 auto; }
+.ev-close {
+  font-family: var(--font-meta); font-size: .7rem; letter-spacing: .06em;
+  text-transform: uppercase; background: none; color: var(--text-faint);
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: .15rem .45rem; cursor: pointer;
+}
+.ev-close:hover { color: var(--text); border-color: var(--text-faint); }
+.ev-cap {
+  font-family: var(--font-meta); font-size: .68rem; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--text-faint); margin: .7rem 0 .3rem;
+}
+.ev-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.ev-kwic, .ev-parallel { list-style: none; margin: 0; padding: 0; }
+.ev-kwic li, .ev-parallel li {
+  font-size: .84rem; line-height: 1.65; padding: .2rem 0;
+  border-bottom: 1px solid var(--rule); display: flex; gap: .5rem;
+  align-items: baseline; flex-wrap: wrap;
+}
+.ev-locus {
+  font-family: var(--font-meta); font-size: .7rem; color: var(--text-faint);
+  white-space: nowrap; min-width: 4.4rem;
+}
+.ev-context { flex: 1 1 14rem; color: var(--text-soft); }
+/* The marked spelling is the evidence for the register claim; it is marked by a
+   subdued background, not a colour, so it survives a monochrome print. */
+.ev-context mark, .ev-parallel mark {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: var(--text); padding: 0 .1em; border-radius: 2px;
+}
+.ev-mini {
+  font-family: var(--font-meta); font-size: .66rem; color: var(--text-faint);
+  background: none; border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: .1rem .35rem; cursor: pointer; white-space: nowrap;
+}
+.ev-mini:hover { color: var(--text); border-color: var(--text-faint); }
+.ev-score {
+  font-family: var(--font-meta); font-size: .7rem; color: var(--accent);
+  font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+.ev-shared {
+  flex: 1 1 100%; font-size: .74rem; color: var(--text-faint);
+  padding-left: 4.9rem;
+}
+.ev-shared b { color: var(--text-soft); font-weight: 400; }
+.ev-note { font-size: .74rem; line-height: 1.6; margin-top: .6rem; }
+.ev-note .muted, .ev-note.muted { color: var(--text-faint); }
+.ev-actions {
+  display: flex; gap: .6rem; flex-wrap: wrap; align-items: baseline;
+  margin-top: .7rem;
+}
+.ev-actions input[type=number] {
+  font-family: var(--font-meta); font-size: .8rem; width: 3.2rem;
+  padding: .2rem .3rem; text-align: right;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background: var(--bg); color: var(--text);
+}
+@media (max-width: 760px) {
+  .ev-cols { grid-template-columns: 1fr; }
+  .ev-shared { padding-left: 0; }
 }
 
 /* ---- responsive ---- */

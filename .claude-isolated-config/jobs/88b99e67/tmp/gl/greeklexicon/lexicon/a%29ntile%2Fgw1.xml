@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντιλέγω</form>
+	<date>Wed Jul 27 00:08:46 EDT 2011</date>
+	<count>247</count>
+	<per10K>0.521</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>201</count>
+		<senses>
+			<senseContainer>
+				<sense>oppose</sense>
+				<count>21</count>
+				<prob>0.104</prob>
+				<loglikelihood>4.163</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>contradict</sense>
+				<count>18</count>
+				<prob>0.090</prob>
+				<loglikelihood>10.794</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>opposition</sense>
+				<count>13</count>
+				<prob>0.065</prob>
+				<loglikelihood>4.385</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gainsay</sense>
+				<count>7</count>
+				<prob>0.035</prob>
+				<loglikelihood>9.798</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄβριμος</form>
+	<date>Tue Jul 26 22:50:26 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>at length did mighty</sense>
+				<count>3</count>
+				<prob>0.073</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἔγχος</original>
+				<trans>mighty spear</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

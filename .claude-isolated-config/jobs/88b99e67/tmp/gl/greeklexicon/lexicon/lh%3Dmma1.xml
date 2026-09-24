@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λῆμμα</form>
+	<date>Tue Jul 26 23:02:25 EDT 2011</date>
+	<count>55</count>
+	<per10K>0.116</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>76</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

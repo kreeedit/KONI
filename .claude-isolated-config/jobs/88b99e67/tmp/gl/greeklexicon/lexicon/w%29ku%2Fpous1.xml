@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὠκύπους</form>
+	<date>Tue Jul 26 22:37:55 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>swift - footed</sense>
+				<count>12</count>
+				<prob>0.632</prob>
+				<loglikelihood>8.470</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

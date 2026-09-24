@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δέπας</form>
+	<date>Tue Jul 26 23:12:48 EDT 2011</date>
+	<count>74</count>
+	<per10K>0.156</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>cup</sense>
+				<count>49</count>
+				<prob>0.766</prob>
+				<loglikelihood>39.847</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.959</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀμφικύπελλος</original>
+				<trans>two-handled cup cup</trans>
+				<loglikelihood>60.00</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

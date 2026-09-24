@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐλπίς</form>
+	<date>Wed Jul 27 01:43:36 EDT 2011</date>
+	<count>961</count>
+	<per10K>2.028</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1356</count>
+		<senses>
+			<senseContainer>
+				<sense>hope</sense>
+				<count>669</count>
+				<prob>0.493</prob>
+				<loglikelihood>1522.458</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>expectation</sense>
+				<count>43</count>
+				<prob>0.032</prob>
+				<loglikelihood>41.222</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>had hopes</trans>
+				<loglikelihood>4.29</loglikelihood>
+				<count>161</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>κενός</original>
+				<trans>empty hopes</trans>
+				<loglikelihood>2.94</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

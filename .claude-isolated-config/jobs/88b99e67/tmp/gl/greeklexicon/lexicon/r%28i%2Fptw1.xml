@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥίπτω</form>
+	<date>Wed Jul 27 00:18:23 EDT 2011</date>
+	<count>297</count>
+	<per10K>0.627</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>240</count>
+		<senses>
+			<senseContainer>
+				<sense>throw</sense>
+				<count>65</count>
+				<prob>0.271</prob>
+				<loglikelihood>27.773</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast</sense>
+				<count>37</count>
+				<prob>0.154</prob>
+				<loglikelihood>12.604</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fling</sense>
+				<count>20</count>
+				<prob>0.083</prob>
+				<loglikelihood>12.895</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hurl</sense>
+				<count>16</count>
+				<prob>0.067</prob>
+				<loglikelihood>7.693</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.375</relativeFreq></author>
+					<author><name>Homer</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>toss</sense>
+				<count>8</count>
+				<prob>0.033</prob>
+				<loglikelihood>6.561</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>threw down</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>6.248</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

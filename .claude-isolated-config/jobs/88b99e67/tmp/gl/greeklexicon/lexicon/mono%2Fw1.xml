@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μονόω</form>
+	<date>Tue Jul 26 23:01:13 EDT 2011</date>
+	<count>53</count>
+	<per10K>0.112</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>left alone</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>7.111</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

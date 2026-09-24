@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόκλησις</form>
+	<date>Tue Jul 26 23:28:48 EDT 2011</date>
+	<count>106</count>
+	<per10K>0.224</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>124</count>
+		<senses>
+			<senseContainer>
+				<sense>challenge</sense>
+				<count>88</count>
+				<prob>0.710</prob>
+				<loglikelihood>125.397</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.705</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

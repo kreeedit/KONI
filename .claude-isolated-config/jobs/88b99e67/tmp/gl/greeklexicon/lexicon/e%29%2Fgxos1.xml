@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔγχος</form>
+	<date>Wed Jul 27 00:30:08 EDT 2011</date>
+	<count>361</count>
+	<per10K>0.762</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>284</count>
+		<senses>
+			<senseContainer>
+				<sense>spear</sense>
+				<count>289</count>
+				<prob>1.018</prob>
+				<loglikelihood>297.424</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.910</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀλέομαι</original>
+				<trans>looking steadily spear</trans>
+				<loglikelihood>4.66</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δολιχόσκιος</original>
+				<trans>his far-shadowing spear</trans>
+				<loglikelihood>107.99</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφίγυος</original>
+				<trans>two-edged spears</trans>
+				<loglikelihood>29.45</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄβριμος</original>
+				<trans>mighty spear</trans>
+				<loglikelihood>21.94</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀκαχμένος</original>
+				<trans>spear, tipped with</trans>
+				<loglikelihood>21.33</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀξυόεις</original>
+				<trans>sharp spear</trans>
+				<loglikelihood>17.81</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χάλκεος</original>
+				<trans>spear of bronze</trans>
+				<loglikelihood>7.61</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄλκιμος</original>
+				<trans>valorous spear</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

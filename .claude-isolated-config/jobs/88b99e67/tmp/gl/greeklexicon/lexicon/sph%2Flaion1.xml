@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σπήλαιον</form>
+	<date>Tue Jul 26 23:25:48 EDT 2011</date>
+	<count>100</count>
+	<per10K>0.211</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>cave</sense>
+				<count>70</count>
+				<prob>0.654</prob>
+				<loglikelihood>80.319</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.471</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.314</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cavern</sense>
+				<count>8</count>
+				<prob>0.075</prob>
+				<loglikelihood>8.826</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>grotto</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>4.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

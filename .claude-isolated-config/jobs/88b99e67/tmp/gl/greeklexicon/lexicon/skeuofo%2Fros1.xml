@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκευοφόρος</form>
+	<date>Tue Jul 26 22:54:39 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>50</count>
+		<senses>
+			<senseContainer>
+				<sense>baggage train</sense>
+				<count>13</count>
+				<prob>0.260</prob>
+				<loglikelihood>45.066</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.923</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>baggage</sense>
+				<count>13</count>
+				<prob>0.260</prob>
+				<loglikelihood>9.796</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>baggage - train</sense>
+				<count>6</count>
+				<prob>0.120</prob>
+				<loglikelihood>24.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

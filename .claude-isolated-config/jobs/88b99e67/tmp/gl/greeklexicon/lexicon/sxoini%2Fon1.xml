@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχοινίον</form>
+	<date>Tue Jul 26 22:35:21 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>rope</sense>
+				<count>12</count>
+				<prob>0.667</prob>
+				<loglikelihood>9.290</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

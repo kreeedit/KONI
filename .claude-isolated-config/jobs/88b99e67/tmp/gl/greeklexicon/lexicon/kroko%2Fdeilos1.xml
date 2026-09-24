@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κροκόδειλος</form>
+	<date>Tue Jul 26 22:38:17 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>crocodile</sense>
+				<count>18</count>
+				<prob>0.783</prob>
+				<loglikelihood>56.347</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.611</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐτός</form>
+	<date>Wed Jul 27 09:29:50 EDT 2011</date>
+	<count>43562</count>
+	<per10K>91.943</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>67277</count>
+		<senses>
+			<senseContainer>
+				<sense>him</sense>
+				<count>9586</count>
+				<prob>0.142</prob>
+				<loglikelihood>25785.341</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>them</sense>
+				<count>8722</count>
+				<prob>0.130</prob>
+				<loglikelihood>23341.111</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>his</sense>
+				<count>2517</count>
+				<prob>0.037</prob>
+				<loglikelihood>1604.179</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>same</sense>
+				<count>2509</count>
+				<prob>0.037</prob>
+				<loglikelihood>4951.291</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>himself</sense>
+				<count>2369</count>
+				<prob>0.035</prob>
+				<loglikelihood>5065.951</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>he</sense>
+				<count>2212</count>
+				<prob>0.033</prob>
+				<loglikelihood>1814.619</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>their</sense>
+				<count>1610</count>
+				<prob>0.024</prob>
+				<loglikelihood>723.818</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>it</sense>
+				<count>1425</count>
+				<prob>0.021</prob>
+				<loglikelihood>855.076</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>they he</trans>
+				<loglikelihood>54.31</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>τρόπος</original>
+				<trans>same way</trans>
+				<loglikelihood>32.77</loglikelihood>
+				<count>196</count>
+			</collocation>
+			<collocation>
+				<original>τε</original>
+				<trans>him and</trans>
+				<loglikelihood>32.43</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to him</trans>
+				<loglikelihood>26.32</loglikelihood>
+				<count>180</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρός</original>
+				<trans>to him</trans>
+				<loglikelihood>18.85</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σφεῖς</original>
+				<trans>their own</trans>
+				<loglikelihood>18.66</loglikelihood>
+				<count>207</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅς</original>
+				<trans>which he himself</trans>
+				<loglikelihood>18.09</loglikelihood>
+				<count>115</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πᾶς</original>
+				<trans>them all</trans>
+				<loglikelihood>17.83</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἤ</original>
+				<trans>himself or</trans>
+				<loglikelihood>17.04</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>from them</trans>
+				<loglikelihood>16.75</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>he had</trans>
+				<loglikelihood>15.31</loglikelihood>
+				<count>26</count>
+			</collocation>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>against them</trans>
+				<loglikelihood>14.38</loglikelihood>
+				<count>81</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀλλά</original>
+				<trans>them, but</trans>
+				<loglikelihood>13.64</loglikelihood>
+				<count>71</count>
+			</collocation>
+			<collocation>
+				<original>υἱός</original>
+				<trans>his son</trans>
+				<loglikelihood>12.95</loglikelihood>
+				<count>130</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατά</original>
+				<trans>against him</trans>
+				<loglikelihood>12.90</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐν</original>
+				<trans>in them</trans>
+				<loglikelihood>12.75</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πατήρ</original>
+				<trans>their father</trans>
+				<loglikelihood>10.77</loglikelihood>
+				<count>186</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φημί</original>
+				<trans>said that he</trans>
+				<loglikelihood>9.99</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ὑπό</original>
+				<trans>by him</trans>
+				<loglikelihood>8.97</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>born to him</trans>
+				<loglikelihood>8.95</loglikelihood>
+				<count>97</count>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>made him</trans>
+				<loglikelihood>8.69</loglikelihood>
+				<count>49</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διά</original>
+				<trans>through them</trans>
+				<loglikelihood>8.67</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>περί</original>
+				<trans>about them</trans>
+				<loglikelihood>8.29</loglikelihood>
+				<count>99</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>said to him</trans>
+				<loglikelihood>8.13</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μέγας</original>
+				<trans>him great</trans>
+				<loglikelihood>7.16</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>γνώμη</original>
+				<trans>same opinion</trans>
+				<loglikelihood>6.98</loglikelihood>
+				<count>80</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρότερος</original>
+				<trans>them formerly</trans>
+				<loglikelihood>6.96</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ὅστις</original>
+				<trans>who built his</trans>
+				<loglikelihood>6.44</loglikelihood>
+				<count>50</count>
+			</collocation>
+			<collocation>
+				<original>δοκέω</original>
+				<trans>it seemed to him</trans>
+				<loglikelihood>6.22</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἶπον</original>
+				<trans>said to them</trans>
+				<loglikelihood>5.83</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>τοιοῦτος</original>
+				<trans>them so</trans>
+				<loglikelihood>5.66</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἐκεῖνος</original>
+				<trans>him he</trans>
+				<loglikelihood>5.24</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>i myself</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>372</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρά</original>
+				<trans>from him</trans>
+				<loglikelihood>4.81</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>from them</trans>
+				<loglikelihood>4.79</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅσος</original>
+				<trans>would much</trans>
+				<loglikelihood>4.68</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>λαμβάνω</original>
+				<trans>took her</trans>
+				<loglikelihood>4.42</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>βασιλεύς</original>
+				<trans>king himself</trans>
+				<loglikelihood>4.32</loglikelihood>
+				<count>169</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οὔτε</original>
+				<trans>himself nor</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>καλός</original>
+				<trans>himself would</trans>
+				<loglikelihood>4.27</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἕ</original>
+				<trans>him chief</trans>
+				<loglikelihood>4.13</loglikelihood>
+				<count>242</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διδαχή</original>
+				<trans>his</trans>
+				<loglikelihood>4.02</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βούλομαι</original>
+				<trans>them desire</trans>
+				<loglikelihood>3.91</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>same time</trans>
+				<loglikelihood>3.79</loglikelihood>
+				<count>127</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἶδα</original>
+				<trans>know him</trans>
+				<loglikelihood>3.72</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>own acts</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>came himself</trans>
+				<loglikelihood>3.16</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>κακός</original>
+				<trans>them evil</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>ἀδελφός</original>
+				<trans>him his brother</trans>
+				<loglikelihood>2.91</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μετά</original>
+				<trans>with him</trans>
+				<loglikelihood>2.91</loglikelihood>
+				<count>65</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βάσις</original>
+				<trans>null</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>μόνος</original>
+				<trans>them alone</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγαθός</original>
+				<trans>them good</trans>
+				<loglikelihood>2.45</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>himself said</trans>
+				<loglikelihood>2.33</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>οὐδός</original>
+				<trans>him not</trans>
+				<loglikelihood>2.32</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>ἄρχω</original>
+				<trans>him, and began</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χώρα</original>
+				<trans>their territory</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>92</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπελεύθερος</original>
+				<trans>null</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>κεφαλή</original>
+				<trans>her head</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀκούω</original>
+				<trans>heard him</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>πλείων</original>
+				<trans>them more</trans>
+				<loglikelihood>2.14</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>δέω</original>
+				<trans>he should</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>one of them</trans>
+				<loglikelihood>2.09</loglikelihood>
+				<count>765</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

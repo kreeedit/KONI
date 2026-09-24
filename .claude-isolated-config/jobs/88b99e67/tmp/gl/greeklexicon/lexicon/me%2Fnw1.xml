@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μένω</form>
+	<date>Wed Jul 27 02:22:28 EDT 2011</date>
+	<count>1440</count>
+	<per10K>3.039</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1386</count>
+		<senses>
+			<senseContainer>
+				<sense>remain</sense>
+				<count>287</count>
+				<prob>0.207</prob>
+				<loglikelihood>300.564</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stay</sense>
+				<count>198</count>
+				<prob>0.143</prob>
+				<loglikelihood>274.204</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wait</sense>
+				<count>63</count>
+				<prob>0.045</prob>
+				<loglikelihood>36.437</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.397</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>abide</sense>
+				<count>45</count>
+				<prob>0.032</prob>
+				<loglikelihood>56.939</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.644</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>continue</sense>
+				<count>31</count>
+				<prob>0.022</prob>
+				<loglikelihood>8.340</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.710</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>ἐν</original>
+				<trans>remain in</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>119</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

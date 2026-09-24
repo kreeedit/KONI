@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρόνος</form>
+	<date>Wed Jul 27 04:15:38 EDT 2011</date>
+	<count>3394</count>
+	<per10K>7.163</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>4400</count>
+		<senses>
+			<senseContainer>
+				<sense>time</sense>
+				<count>1913</count>
+				<prob>0.435</prob>
+				<loglikelihood>3275.428</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>long</sense>
+				<count>255</count>
+				<prob>0.058</prob>
+				<loglikelihood>140.375</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>period</sense>
+				<count>133</count>
+				<prob>0.030</prob>
+				<loglikelihood>269.089</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>ἐξήκω</original>
+				<trans>has expired</trans>
+				<loglikelihood>9.02</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἐπίλοιπος</original>
+				<trans>remainder time</trans>
+				<loglikelihood>12.75</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀλίγος</original>
+				<trans>a short time</trans>
+				<loglikelihood>12.62</loglikelihood>
+				<count>91</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνώτερος</original>
+				<trans>past times</trans>
+				<loglikelihood>10.20</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τοσοῦτος</original>
+				<trans>so long</trans>
+				<loglikelihood>7.83</loglikelihood>
+				<count>76</count>
+			</collocation>
+			<collocation>
+				<original>βραχύς</original>
+				<trans>a short time</trans>
+				<loglikelihood>6.56</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μακρός</original>
+				<trans>a long time</trans>
+				<loglikelihood>4.60</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Sophocles</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πλέως</original>
+				<trans>development time</trans>
+				<loglikelihood>3.57</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>ἐκεῖνος</original>
+				<trans>that time</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>94</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συχνός</original>
+				<trans>long time</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πόσος</original>
+				<trans>how long</trans>
+				<loglikelihood>2.28</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

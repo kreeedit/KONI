@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σώτειρα</form>
+	<date>Tue Jul 26 22:41:21 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>saviour</sense>
+				<count>13</count>
+				<prob>0.500</prob>
+				<loglikelihood>10.730</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

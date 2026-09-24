@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρύκω</form>
+	<date>Tue Jul 26 23:19:46 EDT 2011</date>
+	<count>89</count>
+	<per10K>0.188</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>82</count>
+		<senses>
+			<senseContainer>
+				<sense>keep back</sense>
+				<count>3</count>
+				<prob>0.037</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

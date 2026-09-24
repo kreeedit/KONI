@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄλλος</form>
+	<date>Wed Jul 27 07:49:20 EDT 2011</date>
+	<count>16604</count>
+	<per10K>35.045</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>19456</count>
+		<senses>
+			<senseContainer>
+				<sense>other</sense>
+				<count>7553</count>
+				<prob>0.388</prob>
+				<loglikelihood>18284.855</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rest</sense>
+				<count>1736</count>
+				<prob>0.089</prob>
+				<loglikelihood>4334.013</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>another</sense>
+				<count>1550</count>
+				<prob>0.080</prob>
+				<loglikelihood>2990.505</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>else</sense>
+				<count>1161</count>
+				<prob>0.060</prob>
+				<loglikelihood>3618.464</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.313</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>τις</original>
+				<trans>any other</trans>
+				<loglikelihood>90.02</loglikelihood>
+				<count>1161</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μηδείς</original>
+				<trans>no other</trans>
+				<loglikelihood>19.13</loglikelihood>
+				<count>147</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρόπος</original>
+				<trans>another way</trans>
+				<loglikelihood>15.42</loglikelihood>
+				<count>118</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τέχνη</original>
+				<trans>other arts</trans>
+				<loglikelihood>14.50</loglikelihood>
+				<count>79</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄνθρωπος</original>
+				<trans>other men</trans>
+				<loglikelihood>13.80</loglikelihood>
+				<count>181</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολίτης</original>
+				<trans>other citizens</trans>
+				<loglikelihood>8.36</loglikelihood>
+				<count>67</count>
+			</collocation>
+			<collocation>
+				<original>ὅμιλος</original>
+				<trans>rest of the multitude</trans>
+				<loglikelihood>7.48</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ζῷον</original>
+				<trans>other animals</trans>
+				<loglikelihood>4.72</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δημιουργός</original>
+				<trans>other craftsmen</trans>
+				<loglikelihood>4.71</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>null</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἔθνος</original>
+				<trans>other nations</trans>
+				<loglikelihood>3.98</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατός</original>
+				<trans>new army</trans>
+				<loglikelihood>3.58</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αἴσθησις</original>
+				<trans>other senses</trans>
+				<loglikelihood>3.57</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>other times</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>79</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to another</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τόπος</original>
+				<trans>other places</trans>
+				<loglikelihood>3.02</loglikelihood>
+				<count>49</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χώρα</original>
+				<trans>another country</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>63</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀρετή</original>
+				<trans>other virtues</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>49</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑταῖρος</original>
+				<trans>rest of my comrades</trans>
+				<loglikelihood>2.57</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θεός</original>
+				<trans>other gods</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>120</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀριστεύς</original>
+				<trans>other princes</trans>
+				<loglikelihood>2.35</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πάρεργον</original>
+				<trans>another dominion</trans>
+				<loglikelihood>2.32</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἀρχή</original>
+				<trans>other offices</trans>
+				<loglikelihood>2.26</loglikelihood>
+				<count>67</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄττα</original>
+				<trans>other things</trans>
+				<loglikelihood>2.22</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>others we</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μυρίος</original>
+				<trans>countless other</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατία</original>
+				<trans>rest of the army</trans>
+				<loglikelihood>2.01</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

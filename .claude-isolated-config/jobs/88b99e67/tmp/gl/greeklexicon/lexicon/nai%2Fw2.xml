@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναίω</form>
+	<date>Tue Jul 26 23:46:20 EDT 2011</date>
+	<count>153</count>
+	<per10K>0.323</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>120</count>
+		<senses>
+			<senseContainer>
+				<sense>dwell</sense>
+				<count>41</count>
+				<prob>0.342</prob>
+				<loglikelihood>12.974</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.415</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dwelt in</sense>
+				<count>19</count>
+				<prob>0.158</prob>
+				<loglikelihood>45.121</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.632</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

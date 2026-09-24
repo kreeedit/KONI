@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Χείρων</form>
+	<date>Tue Jul 26 22:48:22 EDT 2011</date>
+	<count>34</count>
+	<per10K>0.072</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>cheiron</sense>
+				<count>10</count>
+				<prob>0.370</prob>
+				<loglikelihood>15.384</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>chiron</sense>
+				<count>3</count>
+				<prob>0.111</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

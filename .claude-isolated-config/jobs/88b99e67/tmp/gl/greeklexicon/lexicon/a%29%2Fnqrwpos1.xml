@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄνθρωπος</form>
+	<date>Wed Jul 27 05:43:50 EDT 2011</date>
+	<count>5952</count>
+	<per10K>12.562</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>6803</count>
+		<senses>
+			<senseContainer>
+				<sense>man</sense>
+				<count>3795</count>
+				<prob>0.558</prob>
+				<loglikelihood>3944.030</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mankind</sense>
+				<count>324</count>
+				<prob>0.048</prob>
+				<loglikelihood>1038.315</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>people</sense>
+				<count>317</count>
+				<prob>0.047</prob>
+				<loglikelihood>109.379</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>human</sense>
+				<count>264</count>
+				<prob>0.039</prob>
+				<loglikelihood>508.561</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>world</sense>
+				<count>141</count>
+				<prob>0.021</prob>
+				<loglikelihood>110.094</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>μέροψ</original>
+				<trans>mortal men</trans>
+				<loglikelihood>38.96</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πᾶς</original>
+				<trans>all men</trans>
+				<loglikelihood>36.21</loglikelihood>
+				<count>491</count>
+			</collocation>
+			<collocation>
+				<original>καταθνητός</original>
+				<trans>mortal men</trans>
+				<loglikelihood>19.60</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιχθόνιος</original>
+				<trans>earth men</trans>
+				<loglikelihood>11.00</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θνητός</original>
+				<trans>mortal men</trans>
+				<loglikelihood>9.16</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Hesiod</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πονηρός</original>
+				<trans>wicked men</trans>
+				<loglikelihood>5.88</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

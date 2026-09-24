@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσόπλευρος</form>
+	<date>Tue Jul 26 22:30:37 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>equilateral</sense>
+				<count>11</count>
+				<prob>0.407</prob>
+				<loglikelihood>37.230</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

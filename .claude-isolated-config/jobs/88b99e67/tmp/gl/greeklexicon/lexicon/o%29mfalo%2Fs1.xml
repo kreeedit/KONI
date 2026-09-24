@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀμφαλός</form>
+	<date>Tue Jul 26 22:52:36 EDT 2011</date>
+	<count>40</count>
+	<per10K>0.084</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>navel</sense>
+				<count>18</count>
+				<prob>0.783</prob>
+				<loglikelihood>44.689</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

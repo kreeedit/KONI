@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μίασμα</form>
+	<date>Tue Jul 26 23:01:31 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>pollution</sense>
+				<count>22</count>
+				<prob>0.344</prob>
+				<loglikelihood>39.508</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschylus</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>defilement</sense>
+				<count>6</count>
+				<prob>0.094</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>pollutions</sense>
+				<count>3</count>
+				<prob>0.047</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>blood - pollution</sense>
+				<count>3</count>
+				<prob>0.047</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λάω</form>
+	<date>Tue Jul 26 22:32:33 EDT 2011</date>
+	<count>14</count>
+	<per10K>0.03</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>las</sense>
+				<count>4</count>
+				<prob>0.333</prob>
+				<loglikelihood>10.667</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

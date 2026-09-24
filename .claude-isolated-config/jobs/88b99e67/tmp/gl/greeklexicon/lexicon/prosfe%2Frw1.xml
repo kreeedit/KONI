@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προσφέρω</form>
+	<date>Wed Jul 27 00:24:17 EDT 2011</date>
+	<count>328</count>
+	<per10K>0.692</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>395</count>
+		<senses>
+			<senseContainer>
+				<sense>offer</sense>
+				<count>25</count>
+				<prob>0.063</prob>
+				<loglikelihood>4.130</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.360</relativeFreq></author>
+					<author><name>NULL</name><relativeFreq>0.320</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

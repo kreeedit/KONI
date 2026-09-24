@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δικαστήριον</form>
+	<date>Wed Jul 27 01:01:22 EDT 2011</date>
+	<count>558</count>
+	<per10K>1.178</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>631</count>
+		<senses>
+			<senseContainer>
+				<sense>court</sense>
+				<count>354</count>
+				<prob>0.561</prob>
+				<loglikelihood>686.392</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.342</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>law - courts</sense>
+				<count>30</count>
+				<prob>0.048</prob>
+				<loglikelihood>119.969</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.433</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>jury - court</sense>
+				<count>23</count>
+				<prob>0.036</prob>
+				<loglikelihood>91.976</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.957</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>law courts</sense>
+				<count>21</count>
+				<prob>0.033</prob>
+				<loglikelihood>76.674</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tribunal</sense>
+				<count>20</count>
+				<prob>0.032</prob>
+				<loglikelihood>23.508</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>court - room</sense>
+				<count>18</count>
+				<prob>0.029</prob>
+				<loglikelihood>71.981</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.444</relativeFreq></author>
+					<author><name>Aeschines</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

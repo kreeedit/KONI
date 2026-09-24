@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νύκτωρ</form>
+	<date>Tue Jul 26 23:43:21 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>182</count>
+		<senses>
+			<senseContainer>
+				<sense>by night</sense>
+				<count>64</count>
+				<prob>0.352</prob>
+				<loglikelihood>66.585</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>night</sense>
+				<count>35</count>
+				<prob>0.192</prob>
+				<loglikelihood>4.070</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>at night</sense>
+				<count>18</count>
+				<prob>0.099</prob>
+				<loglikelihood>31.604</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>night time</sense>
+				<count>9</count>
+				<prob>0.049</prob>
+				<loglikelihood>12.459</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

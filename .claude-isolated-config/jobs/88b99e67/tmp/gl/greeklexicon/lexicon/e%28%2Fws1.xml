@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἕως</form>
+	<date>Wed Jul 27 01:16:38 EDT 2011</date>
+	<count>671</count>
+	<per10K>1.416</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>940</count>
+		<senses>
+			<senseContainer>
+				<sense>until</sense>
+				<count>370</count>
+				<prob>0.394</prob>
+				<loglikelihood>381.397</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>while</sense>
+				<count>97</count>
+				<prob>0.103</prob>
+				<loglikelihood>9.673</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>till</sense>
+				<count>65</count>
+				<prob>0.069</prob>
+				<loglikelihood>29.550</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.508</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>so long as</sense>
+				<count>59</count>
+				<prob>0.063</prob>
+				<loglikelihood>144.951</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.339</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>as long</sense>
+				<count>38</count>
+				<prob>0.040</prob>
+				<loglikelihood>82.455</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔμπεδος</form>
+	<date>Tue Jul 26 23:10:56 EDT 2011</date>
+	<count>70</count>
+	<per10K>0.148</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>steadfast</sense>
+				<count>7</count>
+				<prob>0.072</prob>
+				<loglikelihood>4.354</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

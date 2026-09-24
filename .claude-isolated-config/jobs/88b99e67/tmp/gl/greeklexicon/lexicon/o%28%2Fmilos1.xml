@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅμιλος</form>
+	<date>Tue Jul 26 23:48:26 EDT 2011</date>
+	<count>157</count>
+	<per10K>0.331</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>197</count>
+		<senses>
+			<senseContainer>
+				<sense>throng</sense>
+				<count>76</count>
+				<prob>0.386</prob>
+				<loglikelihood>135.091</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.961</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑπτακόσιοι</form>
+	<date>Tue Jul 26 23:17:35 EDT 2011</date>
+	<count>85</count>
+	<per10K>0.179</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>101</count>
+		<senses>
+			<senseContainer>
+				<sense>seven hundred</sense>
+				<count>50</count>
+				<prob>0.495</prob>
+				<loglikelihood>188.673</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>700</sense>
+				<count>5</count>
+				<prob>0.050</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>about seven hundred</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

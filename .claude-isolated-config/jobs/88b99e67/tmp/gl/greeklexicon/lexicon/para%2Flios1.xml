@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παράλιος</form>
+	<date>Wed Jul 27 00:13:06 EDT 2011</date>
+	<count>271</count>
+	<per10K>0.572</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>241</count>
+		<senses>
+			<senseContainer>
+				<sense>coast</sense>
+				<count>88</count>
+				<prob>0.365</prob>
+				<loglikelihood>74.612</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.852</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seaboard</sense>
+				<count>61</count>
+				<prob>0.253</prob>
+				<loglikelihood>186.028</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.984</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seacoast</sense>
+				<count>20</count>
+				<prob>0.083</prob>
+				<loglikelihood>49.992</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>maritime</sense>
+				<count>8</count>
+				<prob>0.033</prob>
+				<loglikelihood>6.397</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

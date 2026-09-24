@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σεμνός</form>
+	<date>Wed Jul 27 00:12:42 EDT 2011</date>
+	<count>268</count>
+	<per10K>0.566</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>144</count>
+		<senses>
+			<senseContainer>
+				<sense>august</sense>
+				<count>5</count>
+				<prob>0.035</prob>
+				<loglikelihood>4.761</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>most august</sense>
+				<count>3</count>
+				<prob>0.021</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>13</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκεῖος</form>
+	<date>Wed Jul 27 01:54:15 EDT 2011</date>
+	<count>1108</count>
+	<per10K>2.339</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1166</count>
+		<senses>
+			<senseContainer>
+				<sense>own</sense>
+				<count>223</count>
+				<prob>0.191</prob>
+				<loglikelihood>35.995</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>home</sense>
+				<count>63</count>
+				<prob>0.054</prob>
+				<loglikelihood>12.045</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.317</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>relative</sense>
+				<count>63</count>
+				<prob>0.054</prob>
+				<loglikelihood>41.991</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>family</sense>
+				<count>27</count>
+				<prob>0.023</prob>
+				<loglikelihood>4.636</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀξιόλογος</form>
+	<date>Tue Jul 26 23:53:42 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>181</count>
+		<senses>
+			<senseContainer>
+				<sense>notable</sense>
+				<count>20</count>
+				<prob>0.110</prob>
+				<loglikelihood>13.217</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.950</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>noteworthy</sense>
+				<count>19</count>
+				<prob>0.105</prob>
+				<loglikelihood>31.386</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.789</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>considerable</sense>
+				<count>17</count>
+				<prob>0.094</prob>
+				<loglikelihood>7.044</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.824</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>valuable</sense>
+				<count>10</count>
+				<prob>0.055</prob>
+				<loglikelihood>5.060</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>most remarkable</sense>
+				<count>3</count>
+				<prob>0.167</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

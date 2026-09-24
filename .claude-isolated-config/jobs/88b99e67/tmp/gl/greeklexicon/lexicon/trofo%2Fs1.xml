@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τροφός</form>
+	<date>Tue Jul 26 23:16:45 EDT 2011</date>
+	<count>83</count>
+	<per10K>0.175</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>111</count>
+		<senses>
+			<senseContainer>
+				<sense>nurse</sense>
+				<count>62</count>
+				<prob>0.559</prob>
+				<loglikelihood>82.658</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

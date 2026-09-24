@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θησαυρός</form>
+	<date>Tue Jul 26 23:50:10 EDT 2011</date>
+	<count>162</count>
+	<per10K>0.342</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>96</count>
+		<senses>
+			<senseContainer>
+				<sense>treasure</sense>
+				<count>39</count>
+				<prob>0.406</prob>
+				<loglikelihood>27.277</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>treasury</sense>
+				<count>36</count>
+				<prob>0.375</prob>
+				<loglikelihood>33.440</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

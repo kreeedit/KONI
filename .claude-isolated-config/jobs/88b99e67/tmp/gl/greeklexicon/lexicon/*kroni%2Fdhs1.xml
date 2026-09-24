@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Κρονίδης</form>
+	<date>Tue Jul 26 23:21:35 EDT 2011</date>
+	<count>92</count>
+	<per10K>0.194</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>son cronos</sense>
+				<count>44</count>
+				<prob>0.677</prob>
+				<loglikelihood>62.956</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>son kronos</sense>
+				<count>5</count>
+				<prob>0.077</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thou son cronos</sense>
+				<count>3</count>
+				<prob>0.046</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

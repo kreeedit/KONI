@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στόλος</form>
+	<date>Wed Jul 27 00:10:57 EDT 2011</date>
+	<count>261</count>
+	<per10K>0.551</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>370</count>
+		<senses>
+			<senseContainer>
+				<sense>fleet</sense>
+				<count>83</count>
+				<prob>0.224</prob>
+				<loglikelihood>39.208</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.566</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>expedition</sense>
+				<count>51</count>
+				<prob>0.138</prob>
+				<loglikelihood>19.638</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>armament</sense>
+				<count>18</count>
+				<prob>0.049</prob>
+				<loglikelihood>13.776</loglikelihood>
+				<authorContainer>
+					<author><name>Plutarch</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

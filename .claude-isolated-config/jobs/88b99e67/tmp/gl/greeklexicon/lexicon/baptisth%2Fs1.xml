@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βαπτιστής</form>
+	<date>Tue Jul 26 22:31:17 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>baptizer</sense>
+				<count>8</count>
+				<prob>0.800</prob>
+				<loglikelihood>23.273</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

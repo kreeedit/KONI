@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ὀρτίλοχος</form>
+	<date>Tue Jul 26 22:34:22 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>7</count>
+		<senses>
+			<senseContainer>
+				<sense>ortilochus</sense>
+				<count>5</count>
+				<prob>0.714</prob>
+				<loglikelihood>11.111</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

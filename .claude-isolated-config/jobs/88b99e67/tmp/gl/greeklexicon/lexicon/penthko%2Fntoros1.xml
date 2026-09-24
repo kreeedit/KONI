@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πεντηκόντορος</form>
+	<date>Tue Jul 26 22:46:30 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>fifty - oared ships</sense>
+				<count>7</count>
+				<prob>0.212</prob>
+				<loglikelihood>28.000</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fifty oars</sense>
+				<count>4</count>
+				<prob>0.121</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fifty - oared barks</sense>
+				<count>3</count>
+				<prob>0.091</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

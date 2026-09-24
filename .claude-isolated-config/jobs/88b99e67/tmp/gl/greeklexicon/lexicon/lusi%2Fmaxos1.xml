@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λυσίμαχος</form>
+	<date>Tue Jul 26 23:40:13 EDT 2011</date>
+	<count>136</count>
+	<per10K>0.287</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>lysimachus</sense>
+				<count>39</count>
+				<prob>0.867</prob>
+				<loglikelihood>47.530</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

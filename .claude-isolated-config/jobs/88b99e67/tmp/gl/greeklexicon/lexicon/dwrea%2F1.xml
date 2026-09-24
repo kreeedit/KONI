@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δωρεά</form>
+	<date>Wed Jul 27 00:18:38 EDT 2011</date>
+	<count>298</count>
+	<per10K>0.629</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>184</count>
+		<senses>
+			<senseContainer>
+				<sense>gift</sense>
+				<count>43</count>
+				<prob>0.234</prob>
+				<loglikelihood>9.916</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bequest</sense>
+				<count>6</count>
+				<prob>0.033</prob>
+				<loglikelihood>10.284</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>donative</sense>
+				<count>4</count>
+				<prob>0.022</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

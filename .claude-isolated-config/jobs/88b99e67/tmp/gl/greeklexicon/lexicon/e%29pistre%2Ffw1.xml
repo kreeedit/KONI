@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιστρέφω</form>
+	<date>Wed Jul 27 00:09:34 EDT 2011</date>
+	<count>252</count>
+	<per10K>0.532</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>turn</sense>
+				<count>47</count>
+				<prob>0.320</prob>
+				<loglikelihood>7.851</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>turn again</sense>
+				<count>3</count>
+				<prob>0.020</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

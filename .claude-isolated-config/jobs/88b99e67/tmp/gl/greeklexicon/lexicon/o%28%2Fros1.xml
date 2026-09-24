@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅρος</form>
+	<date>Wed Jul 27 00:35:20 EDT 2011</date>
+	<count>394</count>
+	<per10K>0.832</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>503</count>
+		<senses>
+			<senseContainer>
+				<sense>boundary</sense>
+				<count>101</count>
+				<prob>0.201</prob>
+				<loglikelihood>199.942</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.307</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wind</sense>
+				<count>35</count>
+				<prob>0.070</prob>
+				<loglikelihood>8.737</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>limit</sense>
+				<count>28</count>
+				<prob>0.056</prob>
+				<loglikelihood>18.104</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>definition</sense>
+				<count>20</count>
+				<prob>0.040</prob>
+				<loglikelihood>8.105</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.450</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bound</sense>
+				<count>20</count>
+				<prob>0.040</prob>
+				<loglikelihood>25.790</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>frontier</sense>
+				<count>12</count>
+				<prob>0.024</prob>
+				<loglikelihood>6.535</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

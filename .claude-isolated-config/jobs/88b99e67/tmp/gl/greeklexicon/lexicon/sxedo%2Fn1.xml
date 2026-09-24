@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχεδόν</form>
+	<date>Wed Jul 27 01:23:08 EDT 2011</date>
+	<count>728</count>
+	<per10K>1.537</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>743</count>
+		<senses>
+			<senseContainer>
+				<sense>almost</sense>
+				<count>128</count>
+				<prob>0.172</prob>
+				<loglikelihood>191.479</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>near</sense>
+				<count>85</count>
+				<prob>0.114</prob>
+				<loglikelihood>16.940</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.329</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>practical</sense>
+				<count>27</count>
+				<prob>0.036</prob>
+				<loglikelihood>22.927</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.630</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

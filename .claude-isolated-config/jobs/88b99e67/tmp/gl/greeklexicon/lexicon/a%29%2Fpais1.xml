@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄπαις</form>
+	<date>Tue Jul 26 23:36:36 EDT 2011</date>
+	<count>127</count>
+	<per10K>0.268</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>132</count>
+		<senses>
+			<senseContainer>
+				<sense>childless</sense>
+				<count>58</count>
+				<prob>0.439</prob>
+				<loglikelihood>147.858</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>without issue</sense>
+				<count>21</count>
+				<prob>0.159</prob>
+				<loglikelihood>76.691</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.476</relativeFreq></author>
+					<author><name>Isaeus</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>died without issue</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

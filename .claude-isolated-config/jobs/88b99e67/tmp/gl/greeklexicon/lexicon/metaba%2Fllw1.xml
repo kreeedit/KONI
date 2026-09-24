@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεταβάλλω</form>
+	<date>Wed Jul 27 00:35:27 EDT 2011</date>
+	<count>395</count>
+	<per10K>0.834</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>353</count>
+		<senses>
+			<senseContainer>
+				<sense>change</sense>
+				<count>158</count>
+				<prob>0.448</prob>
+				<loglikelihood>111.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>revolution</sense>
+				<count>13</count>
+				<prob>0.037</prob>
+				<loglikelihood>4.298</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.846</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

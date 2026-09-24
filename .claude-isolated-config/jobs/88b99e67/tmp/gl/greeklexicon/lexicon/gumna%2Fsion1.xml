@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γυμνάσιον</form>
+	<date>Tue Jul 26 23:46:52 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>138</count>
+		<senses>
+			<senseContainer>
+				<sense>gymnasium</sense>
+				<count>74</count>
+				<prob>0.536</prob>
+				<loglikelihood>240.691</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.608</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gymnasia</sense>
+				<count>14</count>
+				<prob>0.101</prob>
+				<loglikelihood>30.151</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

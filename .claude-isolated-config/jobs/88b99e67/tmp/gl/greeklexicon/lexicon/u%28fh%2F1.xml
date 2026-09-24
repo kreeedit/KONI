@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑφή</form>
+	<date>Wed Jul 27 00:08:18 EDT 2011</date>
+	<count>243</count>
+	<per10K>0.513</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>20</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

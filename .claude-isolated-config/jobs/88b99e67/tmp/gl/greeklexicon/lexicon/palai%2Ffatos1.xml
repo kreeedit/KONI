@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παλαίφατος</form>
+	<date>Tue Jul 26 22:36:52 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>uttered long ago</sense>
+				<count>3</count>
+				<prob>0.188</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

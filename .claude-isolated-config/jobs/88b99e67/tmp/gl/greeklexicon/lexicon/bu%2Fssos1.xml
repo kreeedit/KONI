@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βύσσος</form>
+	<date>Tue Jul 26 22:36:28 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>fine linen</sense>
+				<count>8</count>
+				<prob>0.381</prob>
+				<loglikelihood>14.222</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fine flax</sense>
+				<count>3</count>
+				<prob>0.143</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

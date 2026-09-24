@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόβατον</form>
+	<date>Wed Jul 27 00:02:39 EDT 2011</date>
+	<count>206</count>
+	<per10K>0.435</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>203</count>
+		<senses>
+			<senseContainer>
+				<sense>sheep</sense>
+				<count>145</count>
+				<prob>0.714</prob>
+				<loglikelihood>246.596</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cattle</sense>
+				<count>19</count>
+				<prob>0.094</prob>
+				<loglikelihood>4.973</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.421</relativeFreq></author>
+					<author><name>Epictetus</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>flock</sense>
+				<count>16</count>
+				<prob>0.079</prob>
+				<loglikelihood>5.193</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.812</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπόσπονδος</form>
+	<date>Tue Jul 26 23:15:26 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>99</count>
+		<senses>
+			<senseContainer>
+				<sense>under truce</sense>
+				<count>40</count>
+				<prob>0.404</prob>
+				<loglikelihood>156.092</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>νεκρός</original>
+				<trans>dead under truce</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

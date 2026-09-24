@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλῆθος</form>
+	<date>Wed Jul 27 02:57:41 EDT 2011</date>
+	<count>2051</count>
+	<per10K>4.329</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>2434</count>
+		<senses>
+			<senseContainer>
+				<sense>multitude</sense>
+				<count>714</count>
+				<prob>0.293</prob>
+				<loglikelihood>1631.458</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.668</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>number</sense>
+				<count>269</count>
+				<prob>0.111</prob>
+				<loglikelihood>180.313</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>people</sense>
+				<count>114</count>
+				<prob>0.047</prob>
+				<loglikelihood>14.148</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>ἀθροίζω</original>
+				<trans>assemble</trans>
+				<loglikelihood>2.33</loglikelihood>
+				<count>15</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὑμέτερος</original>
+				<trans>your people</trans>
+				<loglikelihood>3.87</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

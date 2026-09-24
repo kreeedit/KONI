@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τηρέω</form>
+	<date>Wed Jul 27 00:11:09 EDT 2011</date>
+	<count>262</count>
+	<per10K>0.553</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>290</count>
+		<senses>
+			<senseContainer>
+				<sense>keep</sense>
+				<count>50</count>
+				<prob>0.172</prob>
+				<loglikelihood>8.360</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.480</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>preserve</sense>
+				<count>26</count>
+				<prob>0.090</prob>
+				<loglikelihood>5.892</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.538</relativeFreq></author>
+					<author><name>Epictetus</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>maintain</sense>
+				<count>20</count>
+				<prob>0.069</prob>
+				<loglikelihood>4.884</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἶψα</form>
+	<date>Tue Jul 26 23:58:43 EDT 2011</date>
+	<count>189</count>
+	<per10K>0.399</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>213</count>
+		<senses>
+			<senseContainer>
+				<sense>straightway</sense>
+				<count>51</count>
+				<prob>0.239</prob>
+				<loglikelihood>36.618</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.961</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>and forthwith</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>17.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>and straightway</sense>
+				<count>5</count>
+				<prob>0.023</prob>
+				<loglikelihood>12.498</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

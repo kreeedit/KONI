@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μαῖον</form>
+	<date>Tue Jul 26 22:40:18 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>nurse</sense>
+				<count>17</count>
+				<prob>0.944</prob>
+				<loglikelihood>6.215</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

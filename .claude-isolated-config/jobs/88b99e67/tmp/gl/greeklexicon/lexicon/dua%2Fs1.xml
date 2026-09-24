@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δυάς</form>
+	<date>Tue Jul 26 23:22:21 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>2</sense>
+				<count>29</count>
+				<prob>0.299</prob>
+				<loglikelihood>42.046</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dyad</sense>
+				<count>13</count>
+				<prob>0.134</prob>
+				<loglikelihood>45.065</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>2'</sense>
+				<count>11</count>
+				<prob>0.113</prob>
+				<loglikelihood>40.332</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>duality</sense>
+				<count>3</count>
+				<prob>0.031</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

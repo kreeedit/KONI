@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρνέομαι</form>
+	<date>Tue Jul 26 23:45:52 EDT 2011</date>
+	<count>152</count>
+	<per10K>0.321</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>111</count>
+		<senses>
+			<senseContainer>
+				<sense>deny</sense>
+				<count>62</count>
+				<prob>0.559</prob>
+				<loglikelihood>41.325</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deny what</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

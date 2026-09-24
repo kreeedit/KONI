@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κῦμα</form>
+	<date>Wed Jul 27 00:07:54 EDT 2011</date>
+	<count>240</count>
+	<per10K>0.507</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>264</count>
+		<senses>
+			<senseContainer>
+				<sense>wave</sense>
+				<count>158</count>
+				<prob>0.598</prob>
+				<loglikelihood>388.495</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.627</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>billow</sense>
+				<count>9</count>
+				<prob>0.034</prob>
+				<loglikelihood>19.055</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

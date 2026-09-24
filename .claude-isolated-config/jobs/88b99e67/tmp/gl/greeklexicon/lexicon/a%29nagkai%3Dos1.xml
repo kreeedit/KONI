@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναγκαῖος</form>
+	<date>Wed Jul 27 01:25:13 EDT 2011</date>
+	<count>749</count>
+	<per10K>1.581</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>838</count>
+		<senses>
+			<senseContainer>
+				<sense>necessary</sense>
+				<count>257</count>
+				<prob>0.307</prob>
+				<loglikelihood>249.169</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>must</sense>
+				<count>89</count>
+				<prob>0.106</prob>
+				<loglikelihood>9.116</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.416</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>must necessarily</sense>
+				<count>42</count>
+				<prob>0.050</prob>
+				<loglikelihood>55.942</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.595</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>necessity</sense>
+				<count>37</count>
+				<prob>0.044</prob>
+				<loglikelihood>10.582</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inevitable</sense>
+				<count>32</count>
+				<prob>0.038</prob>
+				<loglikelihood>23.496</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>most necessary</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>4.923</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποιέω</form>
+	<date>Wed Jul 27 06:56:58 EDT 2011</date>
+	<count>8860</count>
+	<per10K>18.7</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>12919</count>
+		<senses>
+			<senseContainer>
+				<sense>do</sense>
+				<count>2395</count>
+				<prob>0.185</prob>
+				<loglikelihood>2834.457</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>make</sense>
+				<count>2211</count>
+				<prob>0.171</prob>
+				<loglikelihood>3761.039</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>περί</original>
+				<trans>do about</trans>
+				<loglikelihood>29.30</loglikelihood>
+				<count>460</count>
+			</collocation>
+			<collocation>
+				<original>πρός</original>
+				<trans>to make</trans>
+				<loglikelihood>16.59</loglikelihood>
+				<count>397</count>
+			</collocation>
+			<collocation>
+				<original>ἐν</original>
+				<trans>do in</trans>
+				<loglikelihood>15.12</loglikelihood>
+				<count>353</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>made to</trans>
+				<loglikelihood>15.05</loglikelihood>
+				<count>600</count>
+			</collocation>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>made on</trans>
+				<loglikelihood>12.84</loglikelihood>
+				<count>375</count>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>made from</trans>
+				<loglikelihood>11.88</loglikelihood>
+				<count>319</count>
+			</collocation>
+			<collocation>
+				<original>ἕνεκα</original>
+				<trans>do sake</trans>
+				<loglikelihood>11.31</loglikelihood>
+				<count>82</count>
+			</collocation>
+			<collocation>
+				<original>κατά</original>
+				<trans>act in</trans>
+				<loglikelihood>9.45</loglikelihood>
+				<count>280</count>
+			</collocation>
+			<collocation>
+				<original>ὑπέρ</original>
+				<trans>do for</trans>
+				<loglikelihood>9.25</loglikelihood>
+				<count>115</count>
+			</collocation>
+			<collocation>
+				<original>διά</original>
+				<trans>do by</trans>
+				<loglikelihood>7.92</loglikelihood>
+				<count>218</count>
+			</collocation>
+			<collocation>
+				<original>ἀντί</original>
+				<trans>made in</trans>
+				<loglikelihood>5.19</loglikelihood>
+				<count>50</count>
+			</collocation>
+			<collocation>
+				<original>μετά</original>
+				<trans>done with</trans>
+				<loglikelihood>5.03</loglikelihood>
+				<count>146</count>
+			</collocation>
+			<collocation>
+				<original>παρά</original>
+				<trans>made from</trans>
+				<loglikelihood>2.49</loglikelihood>
+				<count>108</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ὅσπερ</original>
+				<trans>as</trans>
+				<loglikelihood>7.33</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παράδειγμα</original>
+				<trans>make an example</trans>
+				<loglikelihood>5.43</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κήρυγμα</original>
+				<trans>made a proclamation</trans>
+				<loglikelihood>4.75</loglikelihood>
+				<count>11</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>πορεία</original>
+				<trans>make the journey</trans>
+				<loglikelihood>35.17</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Xenophon</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρόνοια</original>
+				<trans>made care</trans>
+				<loglikelihood>31.51</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποχώρησις</original>
+				<trans>made retreat</trans>
+				<loglikelihood>29.44</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λόγος</original>
+				<trans>made a speech</trans>
+				<loglikelihood>28.59</loglikelihood>
+				<count>291</count>
+			</collocation>
+			<collocation>
+				<original>εἰρήνη</original>
+				<trans>make peace</trans>
+				<loglikelihood>22.46</loglikelihood>
+				<count>86</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μνήμη</original>
+				<trans>made mention</trans>
+				<loglikelihood>21.31</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατηγορία</original>
+				<trans>make accusation</trans>
+				<loglikelihood>19.66</loglikelihood>
+				<count>38</count>
+			</collocation>
+			<collocation>
+				<original>μνεία</original>
+				<trans>made no mention</trans>
+				<loglikelihood>18.82</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνάστατος</original>
+				<trans>make destroy</trans>
+				<loglikelihood>18.35</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπολογία</original>
+				<trans>make defence</trans>
+				<loglikelihood>15.63</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συνθήκη</original>
+				<trans>made an agreement</trans>
+				<loglikelihood>13.00</loglikelihood>
+				<count>47</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιμέλεια</original>
+				<trans>make care</trans>
+				<loglikelihood>12.59</loglikelihood>
+				<count>40</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παραχειμασία</original>
+				<trans>null</trans>
+				<loglikelihood>11.02</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>ἐξήγησις</original>
+				<trans>carry cordiality</trans>
+				<loglikelihood>10.41</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμμαχία</original>
+				<trans>made an alliance</trans>
+				<loglikelihood>9.02</loglikelihood>
+				<count>40</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀκρόασις</original>
+				<trans>make listen</trans>
+				<loglikelihood>7.17</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐξέτασις</original>
+				<trans>make review</trans>
+				<loglikelihood>6.42</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐπίδειξις</original>
+				<trans>make demonstration</trans>
+				<loglikelihood>6.29</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἔξοδος</original>
+				<trans>null</trans>
+				<loglikelihood>4.95</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ὅς</original>
+				<trans>which makes</trans>
+				<loglikelihood>4.85</loglikelihood>
+				<count>310</count>
+			</collocation>
+			<collocation>
+				<original>πλόος</original>
+				<trans>make voyage</trans>
+				<loglikelihood>4.71</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μηδείς</original>
+				<trans>do nothing</trans>
+				<loglikelihood>4.36</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄγαλμα</original>
+				<trans>made the image</trans>
+				<loglikelihood>4.28</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιχείρησις</original>
+				<trans>pursue attack</trans>
+				<loglikelihood>4.13</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>κρίσις</original>
+				<trans>make trial</trans>
+				<loglikelihood>4.01</loglikelihood>
+				<count>25</count>
+			</collocation>
+			<collocation>
+				<original>στρατεία</original>
+				<trans>made an expedition</trans>
+				<loglikelihood>3.98</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕ</original>
+				<trans>made envoy</trans>
+				<loglikelihood>3.96</loglikelihood>
+				<count>126</count>
+			</collocation>
+			<collocation>
+				<original>τιμωρία</original>
+				<trans>make punishment</trans>
+				<loglikelihood>3.74</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑποχείριος</original>
+				<trans>make under</trans>
+				<loglikelihood>3.51</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἐκκλησία</original>
+				<trans>to assembly</trans>
+				<loglikelihood>3.22</loglikelihood>
+				<count>24</count>
+			</collocation>
+			<collocation>
+				<original>εἰκών</original>
+				<trans>made the statue</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄκυρος</original>
+				<trans>make invalidate</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>σφεῖς</original>
+				<trans>made them</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τοιόσδε</original>
+				<trans>do this</trans>
+				<loglikelihood>2.70</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ζήτησις</original>
+				<trans>make search</trans>
+				<loglikelihood>2.55</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἔργον</original>
+				<trans>do the works</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔξοδος</original>
+				<trans>make go out</trans>
+				<loglikelihood>2.24</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>διάβασις</original>
+				<trans>do cross</trans>
+				<loglikelihood>2.14</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>πόλεμος</original>
+				<trans>make war</trans>
+				<loglikelihood>2.14</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δίκαιος</original>
+				<trans>do what is just</trans>
+				<loglikelihood>2.11</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μνῆμα</original>
+				<trans>built tomb</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁμολογία</original>
+				<trans>make agreement</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>11</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

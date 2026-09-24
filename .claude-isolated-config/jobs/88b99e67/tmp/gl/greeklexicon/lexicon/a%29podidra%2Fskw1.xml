@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποδιδράσκω</form>
+	<date>Tue Jul 26 23:57:16 EDT 2011</date>
+	<count>185</count>
+	<per10K>0.39</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>136</count>
+		<senses>
+			<senseContainer>
+				<sense>ran away</sense>
+				<count>17</count>
+				<prob>0.125</prob>
+				<loglikelihood>19.590</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>run away</sense>
+				<count>15</count>
+				<prob>0.110</prob>
+				<loglikelihood>14.513</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>run away from</sense>
+				<count>7</count>
+				<prob>0.051</prob>
+				<loglikelihood>8.165</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ran away from</sense>
+				<count>6</count>
+				<prob>0.044</prob>
+				<loglikelihood>14.399</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

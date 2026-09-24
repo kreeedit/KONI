@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπαιτέω</form>
+	<date>Tue Jul 26 23:54:21 EDT 2011</date>
+	<count>173</count>
+	<per10K>0.365</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>159</count>
+		<senses>
+			<senseContainer>
+				<sense>demand</sense>
+				<count>56</count>
+				<prob>0.352</prob>
+				<loglikelihood>23.790</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

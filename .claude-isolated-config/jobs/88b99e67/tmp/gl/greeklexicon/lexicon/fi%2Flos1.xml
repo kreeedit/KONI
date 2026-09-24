@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φίλος</form>
+	<date>Wed Jul 27 05:10:56 EDT 2011</date>
+	<count>4852</count>
+	<per10K>10.241</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>5391</count>
+		<senses>
+			<senseContainer>
+				<sense>friend</sense>
+				<count>3237</count>
+				<prob>0.600</prob>
+				<loglikelihood>10264.703</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dear</sense>
+				<count>661</count>
+				<prob>0.123</prob>
+				<loglikelihood>2033.660</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.528</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἦτορ</original>
+				<trans>his heart</trans>
+				<loglikelihood>97.88</loglikelihood>
+				<count>55</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑταῖρος</original>
+				<trans>dear comrade</trans>
+				<loglikelihood>12.73</loglikelihood>
+				<count>55</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τέκος</original>
+				<trans>dear child</trans>
+				<loglikelihood>11.84</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>υἱός</original>
+				<trans>dear son</trans>
+				<loglikelihood>9.45</loglikelihood>
+				<count>82</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κῆρ</original>
+				<trans>dear heart</trans>
+				<loglikelihood>6.41</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γαῖα</original>
+				<trans>dear native land</trans>
+				<loglikelihood>6.05</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τροφός</original>
+				<trans>dear nurse</trans>
+				<loglikelihood>5.97</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄλοχος</original>
+				<trans>his dear wife</trans>
+				<loglikelihood>5.46</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνήρ</original>
+				<trans>beloved man</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>112</count>
+			</collocation>
+			<collocation>
+				<original>τοκεύς</original>
+				<trans>dear parents</trans>
+				<loglikelihood>2.34</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

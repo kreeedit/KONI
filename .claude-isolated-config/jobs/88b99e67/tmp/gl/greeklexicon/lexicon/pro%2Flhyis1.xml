@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόληψις</form>
+	<date>Tue Jul 26 23:02:35 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>preconception</sense>
+				<count>18</count>
+				<prob>0.400</prob>
+				<loglikelihood>61.713</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>general conception</sense>
+				<count>4</count>
+				<prob>0.089</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>praecognitions</sense>
+				<count>3</count>
+				<prob>0.067</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

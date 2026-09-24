@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπορέω</form>
+	<date>Wed Jul 27 00:13:09 EDT 2011</date>
+	<count>272</count>
+	<per10K>0.574</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>249</count>
+		<senses>
+			<senseContainer>
+				<sense>loss</sense>
+				<count>28</count>
+				<prob>0.112</prob>
+				<loglikelihood>8.511</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>doubt</sense>
+				<count>18</count>
+				<prob>0.072</prob>
+				<loglikelihood>5.326</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>perplexity</sense>
+				<count>9</count>
+				<prob>0.036</prob>
+				<loglikelihood>4.316</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

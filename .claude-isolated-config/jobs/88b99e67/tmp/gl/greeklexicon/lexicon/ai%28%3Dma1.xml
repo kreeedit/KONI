@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἷμα</form>
+	<date>Wed Jul 27 01:04:14 EDT 2011</date>
+	<count>581</count>
+	<per10K>1.226</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>663</count>
+		<senses>
+			<senseContainer>
+				<sense>blood</sense>
+				<count>500</count>
+				<prob>0.754</prob>
+				<loglikelihood>1498.902</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>φύρω</original>
+				<trans>befoul blood</trans>
+				<loglikelihood>6.24</loglikelihood>
+				<count>8</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>κελαινός</original>
+				<trans>black blood</trans>
+				<loglikelihood>12.79</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μέλας</original>
+				<trans>black blood</trans>
+				<loglikelihood>4.09</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

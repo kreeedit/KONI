@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεσμωτήριον</form>
+	<date>Tue Jul 26 23:30:09 EDT 2011</date>
+	<count>109</count>
+	<per10K>0.23</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>115</count>
+		<senses>
+			<senseContainer>
+				<sense>prison</sense>
+				<count>84</count>
+				<prob>0.730</prob>
+				<loglikelihood>110.240</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>jail</sense>
+				<count>12</count>
+				<prob>0.104</prob>
+				<loglikelihood>22.152</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

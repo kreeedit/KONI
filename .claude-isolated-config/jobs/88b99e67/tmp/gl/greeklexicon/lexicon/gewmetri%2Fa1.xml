@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γεωμετρία</form>
+	<date>Tue Jul 26 22:58:34 EDT 2011</date>
+	<count>49</count>
+	<per10K>0.103</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>geometry</sense>
+				<count>43</count>
+				<prob>0.741</prob>
+				<loglikelihood>123.264</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.651</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

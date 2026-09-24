@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγγράφω</form>
+	<date>Wed Jul 27 00:02:29 EDT 2011</date>
+	<count>206</count>
+	<per10K>0.435</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>178</count>
+		<senses>
+			<senseContainer>
+				<sense>write</sense>
+				<count>36</count>
+				<prob>0.202</prob>
+				<loglikelihood>4.777</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.361</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>historian</sense>
+				<count>23</count>
+				<prob>0.129</prob>
+				<loglikelihood>25.798</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.522</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>history</sense>
+				<count>21</count>
+				<prob>0.118</prob>
+				<loglikelihood>4.880</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

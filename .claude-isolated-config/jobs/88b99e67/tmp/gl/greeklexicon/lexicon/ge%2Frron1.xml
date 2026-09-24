@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γέρρον</form>
+	<date>Tue Jul 26 22:57:53 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>hurdle</sense>
+				<count>8</count>
+				<prob>0.125</prob>
+				<loglikelihood>19.691</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wicker shields</sense>
+				<count>7</count>
+				<prob>0.109</prob>
+				<loglikelihood>21.777</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wicker</sense>
+				<count>5</count>
+				<prob>0.078</prob>
+				<loglikelihood>11.111</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μίμησις</form>
+	<date>Tue Jul 26 23:20:46 EDT 2011</date>
+	<count>91</count>
+	<per10K>0.192</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>104</count>
+		<senses>
+			<senseContainer>
+				<sense>imitation</sense>
+				<count>38</count>
+				<prob>0.365</prob>
+				<loglikelihood>47.339</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.737</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>representation</sense>
+				<count>21</count>
+				<prob>0.202</prob>
+				<loglikelihood>27.559</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

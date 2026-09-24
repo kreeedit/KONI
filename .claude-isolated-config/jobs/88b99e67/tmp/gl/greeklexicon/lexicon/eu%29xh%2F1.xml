@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐχή</form>
+	<date>Wed Jul 27 00:02:50 EDT 2011</date>
+	<count>207</count>
+	<per10K>0.437</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>135</count>
+		<senses>
+			<senseContainer>
+				<sense>prayer</sense>
+				<count>82</count>
+				<prob>0.607</prob>
+				<loglikelihood>66.561</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.329</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πάτρα</form>
+	<date>Tue Jul 26 23:37:49 EDT 2011</date>
+	<count>130</count>
+	<per10K>0.274</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>112</count>
+		<senses>
+			<senseContainer>
+				<sense>fatherland</sense>
+				<count>23</count>
+				<prob>0.205</prob>
+				<loglikelihood>14.009</loglikelihood>
+				<authorContainer>
+					<author><name>Pindar</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>patrae</sense>
+				<count>19</count>
+				<prob>0.170</prob>
+				<loglikelihood>25.330</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.579</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from country</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

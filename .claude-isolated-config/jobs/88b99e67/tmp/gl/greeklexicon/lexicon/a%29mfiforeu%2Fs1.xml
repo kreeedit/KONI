@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμφιφορεύς</form>
+	<date>Tue Jul 26 22:35:16 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>jar</sense>
+				<count>9</count>
+				<prob>0.750</prob>
+				<loglikelihood>5.491</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

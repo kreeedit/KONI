@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σπουδάζω</form>
+	<date>Wed Jul 27 00:58:32 EDT 2011</date>
+	<count>537</count>
+	<per10K>1.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>331</count>
+		<senses>
+			<senseContainer>
+				<sense>serious</sense>
+				<count>20</count>
+				<prob>0.060</prob>
+				<loglikelihood>7.262</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>earnest</sense>
+				<count>20</count>
+				<prob>0.060</prob>
+				<loglikelihood>9.457</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.550</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

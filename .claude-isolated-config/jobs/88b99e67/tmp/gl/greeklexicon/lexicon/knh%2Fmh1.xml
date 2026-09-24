@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κνήμη</form>
+	<date>Tue Jul 26 22:59:25 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>46</count>
+		<senses>
+			<senseContainer>
+				<sense>leg</sense>
+				<count>25</count>
+				<prob>0.543</prob>
+				<loglikelihood>16.232</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shin</sense>
+				<count>10</count>
+				<prob>0.217</prob>
+				<loglikelihood>36.363</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shank</sense>
+				<count>3</count>
+				<prob>0.065</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

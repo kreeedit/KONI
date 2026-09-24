@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λέγος</form>
+	<date>Wed Jul 27 03:19:12 EDT 2011</date>
+	<count>2340</count>
+	<per10K>4.939</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1574</count>
+		<senses>
+			<senseContainer>
+				<sense>mean</sense>
+				<count>202</count>
+				<prob>0.128</prob>
+				<loglikelihood>81.188</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.366</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.361</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tell</sense>
+				<count>148</count>
+				<prob>0.094</prob>
+				<loglikelihood>23.022</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.804</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>say</sense>
+				<count>130</count>
+				<prob>0.083</prob>
+				<loglikelihood>8.162</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>am speaking</sense>
+				<count>78</count>
+				<prob>0.050</prob>
+				<loglikelihood>293.003</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.628</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>statement</sense>
+				<count>46</count>
+				<prob>0.029</prob>
+				<loglikelihood>12.627</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.717</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἀληθής</original>
+				<trans>i am speaking the truth</trans>
+				<loglikelihood>6.84</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Aeschines</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

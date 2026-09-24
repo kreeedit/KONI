@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρή</form>
+	<date>Wed Jul 27 03:13:45 EDT 2011</date>
+	<count>2284</count>
+	<per10K>4.821</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2638</count>
+		<senses>
+			<senseContainer>
+				<sense>must</sense>
+				<count>456</count>
+				<prob>0.173</prob>
+				<loglikelihood>240.568</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>should</sense>
+				<count>411</count>
+				<prob>0.156</prob>
+				<loglikelihood>162.516</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ought</sense>
+				<count>396</count>
+				<prob>0.150</prob>
+				<loglikelihood>355.785</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>we must</sense>
+				<count>91</count>
+				<prob>0.034</prob>
+				<loglikelihood>72.885</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>right</sense>
+				<count>60</count>
+				<prob>0.023</prob>
+				<loglikelihood>4.380</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>we ought</sense>
+				<count>55</count>
+				<prob>0.021</prob>
+				<loglikelihood>66.980</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>should do</trans>
+				<loglikelihood>6.34</loglikelihood>
+				<count>173</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σκοπέω</original>
+				<trans>we must consider</trans>
+				<loglikelihood>4.51</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νομίζω</original>
+				<trans>must we think</trans>
+				<loglikelihood>3.03</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

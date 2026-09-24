@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡμέτερος</form>
+	<date>Wed Jul 27 02:03:39 EDT 2011</date>
+	<count>1185</count>
+	<per10K>2.501</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1314</count>
+		<senses>
+			<senseContainer>
+				<sense>our</sense>
+				<count>744</count>
+				<prob>0.566</prob>
+				<loglikelihood>566.110</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>own</sense>
+				<count>94</count>
+				<prob>0.072</prob>
+				<loglikelihood>6.267</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ours</sense>
+				<count>63</count>
+				<prob>0.048</prob>
+				<loglikelihood>75.105</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>πρόγονος</original>
+				<trans>our ancestors</trans>
+				<loglikelihood>12.75</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

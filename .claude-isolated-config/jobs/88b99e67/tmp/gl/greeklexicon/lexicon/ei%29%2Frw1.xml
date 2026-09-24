@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἴρω</form>
+	<date>Tue Jul 26 23:54:05 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>eira</sense>
+				<count>12</count>
+				<prob>0.092</prob>
+				<loglikelihood>25.041</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>said above</sense>
+				<count>6</count>
+				<prob>0.046</prob>
+				<loglikelihood>23.999</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>already stated</sense>
+				<count>4</count>
+				<prob>0.031</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ei)/rein</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

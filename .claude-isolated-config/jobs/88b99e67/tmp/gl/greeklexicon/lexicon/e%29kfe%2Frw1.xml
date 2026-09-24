@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκφέρω</form>
+	<date>Wed Jul 27 00:16:23 EDT 2011</date>
+	<count>287</count>
+	<per10K>0.606</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>338</count>
+		<senses>
+			<senseContainer>
+				<sense>publish</sense>
+				<count>9</count>
+				<prob>0.027</prob>
+				<loglikelihood>5.995</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

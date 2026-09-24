@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Μάγος</form>
+	<date>Tue Jul 26 23:32:55 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>127</count>
+		<senses>
+			<senseContainer>
+				<sense>magi</sense>
+				<count>45</count>
+				<prob>0.354</prob>
+				<loglikelihood>152.822</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>magus</sense>
+				<count>28</count>
+				<prob>0.220</prob>
+				<loglikelihood>89.595</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>magician</sense>
+				<count>10</count>
+				<prob>0.079</prob>
+				<loglikelihood>28.569</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mago</sense>
+				<count>8</count>
+				<prob>0.063</prob>
+				<loglikelihood>9.480</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

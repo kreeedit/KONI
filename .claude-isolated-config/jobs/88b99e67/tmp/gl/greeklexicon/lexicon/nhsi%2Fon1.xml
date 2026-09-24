@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νησίον</form>
+	<date>Tue Jul 26 22:55:26 EDT 2011</date>
+	<count>44</count>
+	<per10K>0.093</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>isle</sense>
+				<count>12</count>
+				<prob>0.400</prob>
+				<loglikelihood>7.024</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>small islands</sense>
+				<count>3</count>
+				<prob>0.100</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

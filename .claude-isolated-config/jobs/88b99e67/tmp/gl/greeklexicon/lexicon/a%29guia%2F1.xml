@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγυιά</form>
+	<date>Tue Jul 26 22:54:34 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>street</sense>
+				<count>12</count>
+				<prob>0.308</prob>
+				<loglikelihood>5.937</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>σκιάω</original>
+				<trans>set and all the ways</trans>
+				<loglikelihood>28.44</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

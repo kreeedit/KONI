@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δέλτα</form>
+	<date>Tue Jul 26 22:45:59 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>irreg</pos>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>delta</sense>
+				<count>31</count>
+				<prob>0.886</prob>
+				<loglikelihood>101.157</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.452</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δέμας</form>
+	<date>Tue Jul 26 23:37:38 EDT 2011</date>
+	<count>129</count>
+	<per10K>0.272</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>175</count>
+		<senses>
+			<senseContainer>
+				<sense>in form</sense>
+				<count>19</count>
+				<prob>0.109</prob>
+				<loglikelihood>72.195</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>like unto</sense>
+				<count>4</count>
+				<prob>0.023</prob>
+				<loglikelihood>3.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

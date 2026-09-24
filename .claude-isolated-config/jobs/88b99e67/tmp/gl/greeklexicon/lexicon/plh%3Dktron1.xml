@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλῆκτρον</form>
+	<date>Tue Jul 26 22:30:59 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>plectrum</sense>
+				<count>4</count>
+				<prob>0.267</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

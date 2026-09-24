@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκοδόμος</form>
+	<date>Tue Jul 26 22:45:45 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>builder</sense>
+				<count>20</count>
+				<prob>0.513</prob>
+				<loglikelihood>29.629</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.450</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

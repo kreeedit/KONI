@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μηκέτι</form>
+	<date>Wed Jul 27 00:12:47 EDT 2011</date>
+	<count>269</count>
+	<per10K>0.568</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>324</count>
+		<senses>
+			<senseContainer>
+				<sense>no longer</sense>
+				<count>86</count>
+				<prob>0.265</prob>
+				<loglikelihood>63.444</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no more</sense>
+				<count>27</count>
+				<prob>0.083</prob>
+				<loglikelihood>21.427</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>any longer</sense>
+				<count>11</count>
+				<prob>0.034</prob>
+				<loglikelihood>6.199</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no further</sense>
+				<count>10</count>
+				<prob>0.031</prob>
+				<loglikelihood>15.379</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

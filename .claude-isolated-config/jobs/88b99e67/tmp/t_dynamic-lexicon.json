@@ -1,0 +1,1497 @@
+{
+  "sha": "945b03db7ff358217a18540a7d7efef9d7339b66",
+  "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/945b03db7ff358217a18540a7d7efef9d7339b66",
+  "tree": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6695073d20eb8c9490fb687f7c3f98b6b082a960",
+      "size": 4267,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/6695073d20eb8c9490fb687f7c3f98b6b082a960"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "455a9b79c9d776d40b08d0d7e0a72717560193e9",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/455a9b79c9d776d40b08d0d7e0a72717560193e9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7bd3ab2769e0c619dd3d7f4016f6389cb7537de6",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/7bd3ab2769e0c619dd3d7f4016f6389cb7537de6"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c17b66e4d371efe786bea918561b4e635198a604",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/c17b66e4d371efe786bea918561b4e635198a604"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0001-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0b0f18f712d4d01f9bb50e5fbd6172b1a636ccd",
+      "size": 9761910,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d0b0f18f712d4d01f9bb50e5fbd6172b1a636ccd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0003-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4966235d0f581c4e9ceb8b60e3f4886fe795c78",
+      "size": 2140844,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/b4966235d0f581c4e9ceb8b60e3f4886fe795c78"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0003-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f008b240bfa95cb726eb7e0f90bcb5ba8cc581e1",
+      "size": 2112444,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f008b240bfa95cb726eb7e0f90bcb5ba8cc581e1"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0005-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40995309740779fd25b126fba925936114c6eabb",
+      "size": 1348677,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/40995309740779fd25b126fba925936114c6eabb"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0007-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53a6793437f84a2188574fa53ac1aa5141af1294",
+      "size": 1426303,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/53a6793437f84a2188574fa53ac1aa5141af1294"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0009-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf9910e531ff015fabcad2051a2e6e35efb1ca6c",
+      "size": 1465361,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/bf9910e531ff015fabcad2051a2e6e35efb1ca6c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0011-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4de328036fb55362c3d1af347bcd0ae6d5a57163",
+      "size": 1274836,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/4de328036fb55362c3d1af347bcd0ae6d5a57163"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0013-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "001f2176e42750e58baeec64344788bca8be3996",
+      "size": 1318546,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/001f2176e42750e58baeec64344788bca8be3996"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0015-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e81eb0150ad955ded5f321ca1ed608ed952b5a72",
+      "size": 1233510,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e81eb0150ad955ded5f321ca1ed608ed952b5a72"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0017-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "606516f3d2d35ae7f510a613ebeaece19d60d525",
+      "size": 3486884,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/606516f3d2d35ae7f510a613ebeaece19d60d525"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0019-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc86debe63c5a6e39bc254a49e3e436c1a68c787",
+      "size": 3626823,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/bc86debe63c5a6e39bc254a49e3e436c1a68c787"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0023-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb1a91fbc03a6a9ce31d460f25051d3765711fa9",
+      "size": 1691496,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/fb1a91fbc03a6a9ce31d460f25051d3765711fa9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0025-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bec50694b8170d5d3349100f7e9fc2f2d9f2f79c",
+      "size": 2537803,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/bec50694b8170d5d3349100f7e9fc2f2d9f2f79c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0027-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2867bd59d9f1fbcabdba538c20d0dde9a5c934e7",
+      "size": 2397611,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2867bd59d9f1fbcabdba538c20d0dde9a5c934e7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0029-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02ebe2b84b7299559cfa1c631a770e26956e0b51",
+      "size": 1789300,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/02ebe2b84b7299559cfa1c631a770e26956e0b51"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0031-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba628c805f5b26e8fe57a185a8529ed196aeea48",
+      "size": 2189826,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/ba628c805f5b26e8fe57a185a8529ed196aeea48"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0033-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d799c90a30fabea0bf35846fd30ea33cc2fff4",
+      "size": 2058586,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c4d799c90a30fabea0bf35846fd30ea33cc2fff4"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0035-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fbb892dde606b03723fb764cd42fb6719f8143a",
+      "size": 1823394,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/4fbb892dde606b03723fb764cd42fb6719f8143a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0037-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2671df03481daf6e60bdd65cd2a44b15bb2f5b",
+      "size": 1875673,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3b2671df03481daf6e60bdd65cd2a44b15bb2f5b"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0039-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1daf883b404dc147447212b05432bffd6aeda915",
+      "size": 1858062,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/1daf883b404dc147447212b05432bffd6aeda915"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0041-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a732c7e686ebf2c90d098adc81a2d966f80488d4",
+      "size": 1716690,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a732c7e686ebf2c90d098adc81a2d966f80488d4"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0043-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8e771966b73af5d70656d8900f2ca7e3b6850b9",
+      "size": 2276275,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e8e771966b73af5d70656d8900f2ca7e3b6850b9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0045-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a41398bb002807bca99045e7e260976658ad526",
+      "size": 3475461,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7a41398bb002807bca99045e7e260976658ad526"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0047-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36b4dcc5fd5938a4077d20eb8c2f120cca1829a8",
+      "size": 1615642,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/36b4dcc5fd5938a4077d20eb8c2f120cca1829a8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0049-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cf2336fb9afd36b064d55918a706f294f546a7f",
+      "size": 5776054,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7cf2336fb9afd36b064d55918a706f294f546a7f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0051-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8e49a754f5705eae3a8ae899a9127395a8c9cf1",
+      "size": 12587290,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d8e49a754f5705eae3a8ae899a9127395a8c9cf1"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0053-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff8fc72ebb6c408c37f4c230658bc9de5ace737e",
+      "size": 12922599,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/ff8fc72ebb6c408c37f4c230658bc9de5ace737e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0055-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2f4f6b0e3ecb50bd020c8377aeaa965346debfd",
+      "size": 1994668,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/b2f4f6b0e3ecb50bd020c8377aeaa965346debfd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0057-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3453e5fb361a30dc9748dd0e8f36749e0074472",
+      "size": 14276157,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d3453e5fb361a30dc9748dd0e8f36749e0074472"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0059-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00f739284ba549db94fd00878f89282b0f9786e3",
+      "size": 9523856,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/00f739284ba549db94fd00878f89282b0f9786e3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0061-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a49c677ec8be81a94a2aef19d6028c1fd8dd50be",
+      "size": 294238,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a49c677ec8be81a94a2aef19d6028c1fd8dd50be"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0065-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97739c7dc32191f3c0077f69f74183213bb2828b",
+      "size": 419591,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/97739c7dc32191f3c0077f69f74183213bb2828b"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0067-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "041899cab257be55a3108de938e11b01a02767f5",
+      "size": 2162802,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/041899cab257be55a3108de938e11b01a02767f5"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0069-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4ebb5de72eb5f8b8fcb563417afdbb7586420a6",
+      "size": 6052539,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f4ebb5de72eb5f8b8fcb563417afdbb7586420a6"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0071-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbfc809275ec2994b6fc597b05917a298a1eb11f",
+      "size": 14935802,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/cbfc809275ec2994b6fc597b05917a298a1eb11f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0073-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "331052594d50599b1bc8b6fdbf5f7ae8d1f60a94",
+      "size": 15757030,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/331052594d50599b1bc8b6fdbf5f7ae8d1f60a94"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0075-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "202a5be480aaeeaaba8e39127b9646ae5207f760",
+      "size": 6519803,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/202a5be480aaeeaaba8e39127b9646ae5207f760"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0077-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc1bb15e4c21e1f8542294206f65f259cb7fd1cd",
+      "size": 9139987,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/dc1bb15e4c21e1f8542294206f65f259cb7fd1cd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0079-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "469c65afc0fc23154a207d7ff3fbdb63c6a46531",
+      "size": 8770696,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/469c65afc0fc23154a207d7ff3fbdb63c6a46531"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0081-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a816b5947fea7b3446b88c32a5b40293c4495ec7",
+      "size": 2002166,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a816b5947fea7b3446b88c32a5b40293c4495ec7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0087-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72f2b598d635049d9c3be9694c14c880b21a12ef",
+      "size": 1642654,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/72f2b598d635049d9c3be9694c14c880b21a12ef"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0089-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06245cbfc92d1c59298a2043793cd7142190a241",
+      "size": 1836025,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/06245cbfc92d1c59298a2043793cd7142190a241"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0091-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5a0360889e2c3a7869852375526aa926d3b7bf2",
+      "size": 1851235,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f5a0360889e2c3a7869852375526aa926d3b7bf2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0093-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18c0c95d56f532b68ec01a833ce6d5af53692c34",
+      "size": 1046589,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/18c0c95d56f532b68ec01a833ce6d5af53692c34"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0095-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15029217a2ef92a6374fb99a139efc211215cde0",
+      "size": 1947717,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/15029217a2ef92a6374fb99a139efc211215cde0"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0097-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2c7051443e17331ab29bad73b2e78d6db10ca3",
+      "size": 1766866,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3b2c7051443e17331ab29bad73b2e78d6db10ca3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0099-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89655245b91ce221f86a77d38bc3a54672941a6b",
+      "size": 2470782,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/89655245b91ce221f86a77d38bc3a54672941a6b"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0101-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20a09cf23c64ebcbb3958a3fc8312dd0797ddff4",
+      "size": 1966861,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/20a09cf23c64ebcbb3958a3fc8312dd0797ddff4"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0103-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c669801418726dd8bb562ff737bc7fe6bf516a8",
+      "size": 1570492,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/0c669801418726dd8bb562ff737bc7fe6bf516a8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0105-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e4c89593eeb4abac013f7a0a996fc559732bdf8",
+      "size": 2055453,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/8e4c89593eeb4abac013f7a0a996fc559732bdf8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0107-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb16ac3cd61104154a03d28cb4572f7b60974eab",
+      "size": 2290563,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/eb16ac3cd61104154a03d28cb4572f7b60974eab"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0109-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cfd0e3c95d35ee2b7afaf1548f150fbe101f40e",
+      "size": 2300373,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2cfd0e3c95d35ee2b7afaf1548f150fbe101f40e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0111-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0887ef09573bb44f032b7a9d3b59c3065d266b31",
+      "size": 2047082,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/0887ef09573bb44f032b7a9d3b59c3065d266b31"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0113-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6c2523e1dafaec0baa96da75835970b41becbeb",
+      "size": 2008393,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f6c2523e1dafaec0baa96da75835970b41becbeb"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0115-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d84919b0b419fdfdcc00c3c2a555b9d70f1fad4",
+      "size": 2509280,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5d84919b0b419fdfdcc00c3c2a555b9d70f1fad4"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0117-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55e3d94cdb418719eb6315b8b0e3460ea188780d",
+      "size": 2408175,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/55e3d94cdb418719eb6315b8b0e3460ea188780d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0119-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5a9d31dd9ab82ff97c1034f343fbdb221e39668",
+      "size": 1382325,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f5a9d31dd9ab82ff97c1034f343fbdb221e39668"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0119-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1d6ef731ff6bfdecc6a86334a874a8b90735a1b",
+      "size": 1194352,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d1d6ef731ff6bfdecc6a86334a874a8b90735a1b"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0121-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be97d077e12fc80c88dade1edac796d6cdd9cb2d",
+      "size": 1696521,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/be97d077e12fc80c88dade1edac796d6cdd9cb2d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0123-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d89f8892c613451d4461d76253e6917939cde7eb",
+      "size": 1778520,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d89f8892c613451d4461d76253e6917939cde7eb"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0125-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f69811236cc73dfd222277ade59adb32af32cf8",
+      "size": 38078431,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7f69811236cc73dfd222277ade59adb32af32cf8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0127-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acc0b66694a1fdc1aa70f89c4744580a1c0a14d8",
+      "size": 689744,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/acc0b66694a1fdc1aa70f89c4744580a1c0a14d8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0129-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c438b6a0e71adc39f323962076058533a9ca6ef2",
+      "size": 1534935,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c438b6a0e71adc39f323962076058533a9ca6ef2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0131-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ea768c94989fc282c34bebc983c66b8fc702240",
+      "size": 1320822,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5ea768c94989fc282c34bebc983c66b8fc702240"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0133-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ee0547a8ae937a28740899f28af77a02d2c24c9",
+      "size": 27163312,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3ee0547a8ae937a28740899f28af77a02d2c24c9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0133-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbddc4e4eb54560a06e11e089168631308aab84e",
+      "size": 14356958,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/cbddc4e4eb54560a06e11e089168631308aab84e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0135-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fa6f071db4ee3c0ed477ef5d3516831d549ba29",
+      "size": 21118286,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/8fa6f071db4ee3c0ed477ef5d3516831d549ba29"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0135-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72be42c11887ec04fed81c1c213811c671ee598a",
+      "size": 15275763,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/72be42c11887ec04fed81c1c213811c671ee598a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0139-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5d5534aa7a5315fa4cde6ea6f3c44a9811415a1",
+      "size": 2259258,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a5d5534aa7a5315fa4cde6ea6f3c44a9811415a1"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0141-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68de2b51666b11da0264b3cb1d187de75df1e00d",
+      "size": 7548868,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/68de2b51666b11da0264b3cb1d187de75df1e00d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0143-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83672ac71c0e1ecdc836cc1fac456e65231622d1",
+      "size": 24607906,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/83672ac71c0e1ecdc836cc1fac456e65231622d1"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0145-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16260933e6bb303801061db5dd2161dff02262fe",
+      "size": 61205371,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/16260933e6bb303801061db5dd2161dff02262fe"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0147-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15e7cace46e4bbd6f37166b11f50d3aa677392e2",
+      "size": 28067979,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/15e7cace46e4bbd6f37166b11f50d3aa677392e2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0149-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55c8c366ee12b72775299a34e4891d0ebc7c71a1",
+      "size": 3315883,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/55c8c366ee12b72775299a34e4891d0ebc7c71a1"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0151-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b77dfc52d603214e53a07a696232c57b3fa5e6f",
+      "size": 2209844,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/6b77dfc52d603214e53a07a696232c57b3fa5e6f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0153-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45dd0d37f6c06dde0273297c78c585721a294e6d",
+      "size": 12572918,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/45dd0d37f6c06dde0273297c78c585721a294e6d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0155-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fec134ce93c5794534ce7629748d7cbdfb38204",
+      "size": 25857117,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2fec134ce93c5794534ce7629748d7cbdfb38204"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0157-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a52c59c7ba2132c457eb3c1180c18e6c0b7784b",
+      "size": 637753,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5a52c59c7ba2132c457eb3c1180c18e6c0b7784b"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0159-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795ca15289779e9e838237b5ed0091bbcc79b1cd",
+      "size": 44982987,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/795ca15289779e9e838237b5ed0091bbcc79b1cd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0161-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d96b77785c6d2dbfd6672e063434f14a5d7bbdf7",
+      "size": 5192285,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d96b77785c6d2dbfd6672e063434f14a5d7bbdf7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0163-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5baf7af271d55c618a3dad6dba4d3833c7611ccf",
+      "size": 3566216,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5baf7af271d55c618a3dad6dba4d3833c7611ccf"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0165-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d736e8ee80a2ce308530c30dc5247be8c4b8cd83",
+      "size": 22760654,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d736e8ee80a2ce308530c30dc5247be8c4b8cd83"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0167-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9df386db99f97d8ec3c8f9d4e3ada9053cff1fb",
+      "size": 21187758,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e9df386db99f97d8ec3c8f9d4e3ada9053cff1fb"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0169-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21953458667a9fcc7cfaeb7c07c1a773b016f63e",
+      "size": 8842247,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/21953458667a9fcc7cfaeb7c07c1a773b016f63e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0171-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47e6289da5b2b22a5f9c9e577c53130868839e46",
+      "size": 17135387,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/47e6289da5b2b22a5f9c9e577c53130868839e46"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0173-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cb7c84ce00542e33486683dc97694edb061f713",
+      "size": 14756421,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3cb7c84ce00542e33486683dc97694edb061f713"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0175-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55ca03ce171f76f1bee2df7cc7efe2b9ceae228f",
+      "size": 10664594,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/55ca03ce171f76f1bee2df7cc7efe2b9ceae228f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0177-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae82c122bcb2edf4903d9f68bffd5af3158ced8a",
+      "size": 15318352,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/ae82c122bcb2edf4903d9f68bffd5af3158ced8a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0179-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06dd6927c8c8fee90f3f4359b1dab84dab9167a7",
+      "size": 13554098,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/06dd6927c8c8fee90f3f4359b1dab84dab9167a7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0181-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3421c87454660c5d05580a4ac01d42ea3ee94678",
+      "size": 16362341,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3421c87454660c5d05580a4ac01d42ea3ee94678"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0181-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "928598345b0e0b57e10c95bf5f87175e445a9c26",
+      "size": 6891351,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/928598345b0e0b57e10c95bf5f87175e445a9c26"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0183-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "537ea4db4451c45a7f0f6401a2d90c3e89f2d341",
+      "size": 1989900,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/537ea4db4451c45a7f0f6401a2d90c3e89f2d341"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0185-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3db3fe3027a177905eed15ecc032a7ea14977f3",
+      "size": 1820547,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e3db3fe3027a177905eed15ecc032a7ea14977f3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0187-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96cb2c9cc82ef79b3d0b20a85bc656ac95829f4d",
+      "size": 2101296,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/96cb2c9cc82ef79b3d0b20a85bc656ac95829f4d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0189-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6d62ed5506739c4726a504b32ec7a612cc62c07",
+      "size": 2483268,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/b6d62ed5506739c4726a504b32ec7a612cc62c07"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0191-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c7698f6ab284d2ee5d97c08547c43b875109ae",
+      "size": 2216495,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/09c7698f6ab284d2ee5d97c08547c43b875109ae"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0193-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f607348784ee3054e35d38cce6d8ecc6944de99d",
+      "size": 2155067,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f607348784ee3054e35d38cce6d8ecc6944de99d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0193-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a21f7c3468e38b2471d6df68dd9959cf8602689a",
+      "size": 1946658,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a21f7c3468e38b2471d6df68dd9959cf8602689a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0195-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "897e14c5412b0ce50e7a6cac83756c45ddb16137",
+      "size": 1804190,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/897e14c5412b0ce50e7a6cac83756c45ddb16137"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0195-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2045c61300aa93d16c6c213279bacb5f1b1cbc",
+      "size": 1601855,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3b2045c61300aa93d16c6c213279bacb5f1b1cbc"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0197-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a05cd564b8b490ca6e82fd5b245f6328bddf62b3",
+      "size": 31807502,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a05cd564b8b490ca6e82fd5b245f6328bddf62b3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0197-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1425fdd05aa1d04581b7de31224dd1f682194cf6",
+      "size": 17668691,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/1425fdd05aa1d04581b7de31224dd1f682194cf6"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0199-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "388756b54c9adfc807b4dbbef30339830be371da",
+      "size": 28844971,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/388756b54c9adfc807b4dbbef30339830be371da"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0199-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ad5c9c67986b2c07d7c302d70033d8b02c5d79d",
+      "size": 7859403,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/6ad5c9c67986b2c07d7c302d70033d8b02c5d79d"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0201-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75242de5bda6e38168d18f1ce7a763f89576a0f3",
+      "size": 13705342,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/75242de5bda6e38168d18f1ce7a763f89576a0f3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0203-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a26c60c3ea7b520573823efe11d2dc265bf0e2c",
+      "size": 18486481,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2a26c60c3ea7b520573823efe11d2dc265bf0e2c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0205-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "542d86123162f7b233211c91cf226c45d6ec2d9c",
+      "size": 15647693,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/542d86123162f7b233211c91cf226c45d6ec2d9c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0207-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29720b053aa44de32e928b60496596f208403e13",
+      "size": 7569758,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/29720b053aa44de32e928b60496596f208403e13"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0209-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3276f4ddeaa8baf740f482b1210ca30ddfc84a0",
+      "size": 9434309,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c3276f4ddeaa8baf740f482b1210ca30ddfc84a0"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0211-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04c96900d5914623f4ce36e93d882e2315e3b814",
+      "size": 6431189,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/04c96900d5914623f4ce36e93d882e2315e3b814"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0213-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5c5f31206602e936c4040be643d2e870ef710b2",
+      "size": 1312099,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c5c5f31206602e936c4040be643d2e870ef710b2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0215-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68dbeec49ce4c05639dd97c821b8daa3080d6e75",
+      "size": 4589096,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/68dbeec49ce4c05639dd97c821b8daa3080d6e75"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0220-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "915cbc53e8671aa89414b21028bc40c6e4cbff25",
+      "size": 388358,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/915cbc53e8671aa89414b21028bc40c6e4cbff25"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0229-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18fe7470b9bfeab5072a7ef05a4eb924822c8868",
+      "size": 21672123,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/18fe7470b9bfeab5072a7ef05a4eb924822c8868"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0231-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64ff3a4ac33f7fa9fbe5dd2ec7233e071a98e8e9",
+      "size": 23698812,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/64ff3a4ac33f7fa9fbe5dd2ec7233e071a98e8e9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0233-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab6c69aff779855d0607d2cab9f2708011c68af5",
+      "size": 32074702,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/ab6c69aff779855d0607d2cab9f2708011c68af5"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0235-0.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63cfbcb02b0603e8b17932570a1d0a6664140041",
+      "size": 18784908,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/63cfbcb02b0603e8b17932570a1d0a6664140041"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/greekParallelText/Perseus-text-1999.01.0235-1.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c350a964a2b2ed4fd142e569868b6193f8bdba3f",
+      "size": 19800416,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c350a964a2b2ed4fd142e569868b6193f8bdba3f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4a32192d5ea287d5aeebf7630ae5ef0338d23176",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/4a32192d5ea287d5aeebf7630ae5ef0338d23176"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0002.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3b515a89d716e7b3f43f76b0c550cbc53177121",
+      "size": 11192058,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a3b515a89d716e7b3f43f76b0c550cbc53177121"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0003.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bc67b0e7ae26862a64656fb418d601a0a1e804e",
+      "size": 2810640,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/8bc67b0e7ae26862a64656fb418d601a0a1e804e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0007.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cd5bc51d81aff6367981e54cb4eaf36f11417eb",
+      "size": 1965711,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2cd5bc51d81aff6367981e54cb4eaf36f11417eb"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0008.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d803082e58933f8a67ae597dc6d96e438b2efcbd",
+      "size": 28525821,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d803082e58933f8a67ae597dc6d96e438b2efcbd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0009.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8164c904625a6fc06cd4968dca35af93863724c7",
+      "size": 26495637,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/8164c904625a6fc06cd4968dca35af93863724c7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0010.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "600b13119d4b16c0c9b63abb4da5cde0c2398eea",
+      "size": 17089969,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/600b13119d4b16c0c9b63abb4da5cde0c2398eea"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0011.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "402aaf55113513ff99f4934e0553a934439597e0",
+      "size": 18119539,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/402aaf55113513ff99f4934e0553a934439597e0"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0012.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "792dbe11458692a953d64eb90f7a90f800689185",
+      "size": 34868050,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/792dbe11458692a953d64eb90f7a90f800689185"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0013.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97583e88e391aa891568808bc39ebc832c5c6136",
+      "size": 16087402,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/97583e88e391aa891568808bc39ebc832c5c6136"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0014.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fd8678233746cfd7d6ae938e70ee129928260dd",
+      "size": 14877226,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7fd8678233746cfd7d6ae938e70ee129928260dd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0015.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "520d3b3769ffdb16168c6da9faf2a8e932584ff2",
+      "size": 7588762,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/520d3b3769ffdb16168c6da9faf2a8e932584ff2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0017.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "402dd8aa28996a9a82fe149c72921438d8921a43",
+      "size": 4094370,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/402dd8aa28996a9a82fe149c72921438d8921a43"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0024.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6706f56c0fb7186eb936ca62547559cf1394d437",
+      "size": 2612095,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/6706f56c0fb7186eb936ca62547559cf1394d437"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0029.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "024e76e0f0cd2ce96e817b597ce55958336c0a9a",
+      "size": 14107367,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/024e76e0f0cd2ce96e817b597ce55958336c0a9a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0030.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5db09285e0fc71080248da3470c4701d60b2a89f",
+      "size": 2410958,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5db09285e0fc71080248da3470c4701d60b2a89f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0031.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f0e3456235d784623502b23d39d735c14b51756",
+      "size": 2072522,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/2f0e3456235d784623502b23d39d735c14b51756"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0032.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9334e5ebc9eca6d0b2919d9aeccde38f126bffd",
+      "size": 1489783,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e9334e5ebc9eca6d0b2919d9aeccde38f126bffd"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0033.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ea7b694063d6709d8f7c2227d5526486912f7dc",
+      "size": 2445883,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/9ea7b694063d6709d8f7c2227d5526486912f7dc"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0034.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2ad3b1fdaa3322e6ade261080f9e37e731b3f60",
+      "size": 2063309,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c2ad3b1fdaa3322e6ade261080f9e37e731b3f60"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0035.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c1f546abea7d575fd32c4307075eafcd127c8e2",
+      "size": 1847735,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/1c1f546abea7d575fd32c4307075eafcd127c8e2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0036.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfccb4c7d6c6e1a09860f698c895e445b58c36cf",
+      "size": 1027038,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/cfccb4c7d6c6e1a09860f698c895e445b58c36cf"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0037.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c03f7e1f33eb7bbe96fe93ab4d630cd328a8c6c",
+      "size": 1618512,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/9c03f7e1f33eb7bbe96fe93ab4d630cd328a8c6c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0038.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c6ef69abe7fd67e4fb03880d59467c45114113e",
+      "size": 1666740,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7c6ef69abe7fd67e4fb03880d59467c45114113e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0039.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61f53f2a04095f8242aa1d9a0f8ca53bd02afa42",
+      "size": 2328071,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/61f53f2a04095f8242aa1d9a0f8ca53bd02afa42"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0040.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8a62dbaf695812ae077d38d0562265767c68323",
+      "size": 2225984,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a8a62dbaf695812ae077d38d0562265767c68323"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0041.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6a3d141eb2566efa6be598033e1baac468cdda8",
+      "size": 3069301,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/c6a3d141eb2566efa6be598033e1baac468cdda8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0042.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a80b02c6f61052ac36cdee53c571a6f9817c87e7",
+      "size": 2440412,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a80b02c6f61052ac36cdee53c571a6f9817c87e7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0043.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f432e71ac99ea35a9bd75cc91e314262ce7ec1b6",
+      "size": 2043799,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/f432e71ac99ea35a9bd75cc91e314262ce7ec1b6"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0044.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba60a19dd613cb1726eb3ea9c4d70bb9681cec8c",
+      "size": 1428198,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/ba60a19dd613cb1726eb3ea9c4d70bb9681cec8c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0045.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a0cdc03829db442678f279c665742aa0d843f5c",
+      "size": 2813301,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3a0cdc03829db442678f279c665742aa0d843f5c"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0046.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fa1905ddd812821485c9b4992fe9e1533500937",
+      "size": 2952832,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/9fa1905ddd812821485c9b4992fe9e1533500937"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0047.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "098b0921b51a92e97b467f910cfde3cc743945aa",
+      "size": 1623970,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/098b0921b51a92e97b467f910cfde3cc743945aa"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0048.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9404ed6be2c042e3a7e2990466f619a408705e3",
+      "size": 2470290,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/d9404ed6be2c042e3a7e2990466f619a408705e3"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0049.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "932704a9f0d752494329abaeb1670e157eee7dd6",
+      "size": 2117655,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/932704a9f0d752494329abaeb1670e157eee7dd6"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0055.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20ffc54e8e5148d9698eded40b6d9ea1049aa996",
+      "size": 13761365,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/20ffc54e8e5148d9698eded40b6d9ea1049aa996"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0059.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eea64fc7eee31b5b9a57afef349bc4b5e25f64f7",
+      "size": 2767221,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/eea64fc7eee31b5b9a57afef349bc4b5e25f64f7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0060.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2f15fd98375d0789ad2b81cc99b1bd43e064be2",
+      "size": 104204792,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e2f15fd98375d0789ad2b81cc99b1bd43e064be2"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0061.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20a3c8ea1ab7fddc9177c32d55d0fd9532059f59",
+      "size": 17329357,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/20a3c8ea1ab7fddc9177c32d55d0fd9532059f59"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0062.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb15d3e89f5bbf265ce9c211f5c5baeb3c6bc6e8",
+      "size": 3623369,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/cb15d3e89f5bbf265ce9c211f5c5baeb3c6bc6e8"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0064.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57d3051a49bb357578e64924c604da6ad9cb83e7",
+      "size": 681210,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/57d3051a49bb357578e64924c604da6ad9cb83e7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0066.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da19794adb93367d9579433fef692f9d9e2ad664",
+      "size": 956332,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/da19794adb93367d9579433fef692f9d9e2ad664"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0068.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84ac62896ab09c7881d52dae78c95193d4014a2a",
+      "size": 6683489,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/84ac62896ab09c7881d52dae78c95193d4014a2a"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0070.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "332900e9d596d421df4b3161becf28f97f710ed7",
+      "size": 55734,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/332900e9d596d421df4b3161becf28f97f710ed7"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0072.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0add91917de3a2dd4cf180c557c0a07d383e488",
+      "size": 12270363,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a0add91917de3a2dd4cf180c557c0a07d383e488"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0075.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "982ee0f56b8f37d893d0792210900f767b61556f",
+      "size": 3897852,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/982ee0f56b8f37d893d0792210900f767b61556f"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0077.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e0cccd88b8c80473fa5a61e050f7a0952d68e55",
+      "size": 22639230,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/5e0cccd88b8c80473fa5a61e050f7a0952d68e55"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0079.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7df55338b0486eed87cd9369822c30b05bd5db99",
+      "size": 13564299,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/7df55338b0486eed87cd9369822c30b05bd5db99"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0084.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e5d0cbb2d52fd655980d5355aea8a8dae72e876",
+      "size": 5037655,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/6e5d0cbb2d52fd655980d5355aea8a8dae72e876"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0086.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05f73c3c306d03690e80f2ef0d21348a61f62909",
+      "size": 2202486,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/05f73c3c306d03690e80f2ef0d21348a61f62909"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0087.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23e17a7dc03c211790ef2a1bb32248c2184541bc",
+      "size": 2263901,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/23e17a7dc03c211790ef2a1bb32248c2184541bc"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0088.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0e6858b1de650b415626ae305a0621edfd66bc4",
+      "size": 2455568,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/a0e6858b1de650b415626ae305a0621edfd66bc4"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0089.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ea17608d669561eff813f7dab986d50a7489ba5",
+      "size": 2396639,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/3ea17608d669561eff813f7dab986d50a7489ba5"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0090.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46c2d43545046ed00201e781ab814e46cf93fa95",
+      "size": 1845935,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/46c2d43545046ed00201e781ab814e46cf93fa95"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0091.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "026a736083a50d0f5c665610c8df8cd014e5a7b9",
+      "size": 2345378,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/026a736083a50d0f5c665610c8df8cd014e5a7b9"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0118.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "059876e926b97badf1756b9c31f967f50b56030e",
+      "size": 1762919,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/059876e926b97badf1756b9c31f967f50b56030e"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0127.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0de95cca87905fabd736a6c4e711af3d585993fa",
+      "size": 564324,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/0de95cca87905fabd736a6c4e711af3d585993fa"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0130.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66660eeef2ab54c7787c34a0db842886d19f8494",
+      "size": 9871240,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/66660eeef2ab54c7787c34a0db842886d19f8494"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0133.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86dae03d13dd2a8508af2170e5e6eb3a684c26ec",
+      "size": 9502489,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/86dae03d13dd2a8508af2170e5e6eb3a684c26ec"
+    },
+    {
+      "path": "data/auto-aligned-parallel-txts/latinParallelText/Perseus-text-1999.02.0138.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adde121be03f87a66770f7f02e23154c612e1ad0",
+      "size": 69639683,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/adde121be03f87a66770f7f02e23154c612e1ad0"
+    },
+    {
+      "path": "data/autoaligned-tagged-parsed-source",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca563c306b6a62830d0b4887b2d47da0f37f7e1d",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/ca563c306b6a62830d0b4887b2d47da0f37f7e1d"
+    },
+    {
+      "path": "data/autoaligned-tagged-parsed-source/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ff444b006225a200232c89e54000c95cf49c3ae",
+      "size": 189,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/0ff444b006225a200232c89e54000c95cf49c3ae"
+    },
+    {
+      "path": "data/dynamic-lex-entries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bef94dc349217ade576b47246b381520a301b895",
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/trees/bef94dc349217ade576b47246b381520a301b895"
+    },
+    {
+      "path": "data/dynamic-lex-entries/greeklexicon.tar.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31553992ff71bd59232ee012d22dc11c9af42465",
+      "size": 1024425,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/31553992ff71bd59232ee012d22dc11c9af42465"
+    },
+    {
+      "path": "data/dynamic-lex-entries/latinlexicon.tar.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e035c7c878f2856d41a5d88c4ae3a56ed84b480f",
+      "size": 726209,
+      "url": "https://api.github.com/repos/PerseusDL/dynamic-lexicon/git/blobs/e035c7c878f2856d41a5d88c4ae3a56ed84b480f"
+    }
+  ],
+  "truncated": false
+}

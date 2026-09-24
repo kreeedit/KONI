@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνοίγνυμι</form>
+	<date>Wed Jul 27 00:22:27 EDT 2011</date>
+	<count>315</count>
+	<per10K>0.665</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>222</count>
+		<senses>
+			<senseContainer>
+				<sense>open</sense>
+				<count>169</count>
+				<prob>0.761</prob>
+				<loglikelihood>141.003</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>πύλη</original>
+				<trans>open the gates</trans>
+				<loglikelihood>3.55</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θύρα</original>
+				<trans>open the door</trans>
+				<loglikelihood>2.07</loglikelihood>
+				<count>16</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

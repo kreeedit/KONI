@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μηχάνημα</form>
+	<date>Tue Jul 26 23:23:42 EDT 2011</date>
+	<count>96</count>
+	<per10K>0.203</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>engine</sense>
+				<count>35</count>
+				<prob>0.269</prob>
+				<loglikelihood>35.501</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.429</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.371</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>machine</sense>
+				<count>24</count>
+				<prob>0.185</prob>
+				<loglikelihood>47.016</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.583</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.417</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

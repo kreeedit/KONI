@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐήθης</form>
+	<date>Tue Jul 26 23:13:11 EDT 2011</date>
+	<count>75</count>
+	<per10K>0.158</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>silly</sense>
+				<count>15</count>
+				<prob>0.161</prob>
+				<loglikelihood>21.949</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>simple - minded</sense>
+				<count>5</count>
+				<prob>0.054</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>9</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

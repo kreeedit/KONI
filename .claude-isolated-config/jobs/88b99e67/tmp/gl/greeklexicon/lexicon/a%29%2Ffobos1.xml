@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄφοβος</form>
+	<date>Tue Jul 26 23:17:07 EDT 2011</date>
+	<count>84</count>
+	<per10K>0.177</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>fearless</sense>
+				<count>17</count>
+				<prob>0.395</prob>
+				<loglikelihood>22.230</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.412</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>5</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

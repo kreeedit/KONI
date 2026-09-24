@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στέλλω</form>
+	<date>Tue Jul 26 23:53:32 EDT 2011</date>
+	<count>171</count>
+	<per10K>0.361</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>150</count>
+		<senses>
+			<senseContainer>
+				<sense>sent forth</sense>
+				<count>8</count>
+				<prob>0.053</prob>
+				<loglikelihood>9.844</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

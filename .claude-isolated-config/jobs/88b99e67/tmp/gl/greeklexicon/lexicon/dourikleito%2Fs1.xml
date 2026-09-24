@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δουρικλειτός</form>
+	<date>Tue Jul 26 22:42:59 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>famed for spear</sense>
+				<count>11</count>
+				<prob>0.579</prob>
+				<loglikelihood>44.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>famous spearman</sense>
+				<count>3</count>
+				<prob>0.158</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

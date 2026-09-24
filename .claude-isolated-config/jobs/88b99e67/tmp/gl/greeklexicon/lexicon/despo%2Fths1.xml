@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεσπότης</form>
+	<date>Wed Jul 27 01:14:25 EDT 2011</date>
+	<count>651</count>
+	<per10K>1.374</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>621</count>
+		<senses>
+			<senseContainer>
+				<sense>master</sense>
+				<count>373</count>
+				<prob>0.601</prob>
+				<loglikelihood>503.361</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lord</sense>
+				<count>73</count>
+				<prob>0.118</prob>
+				<loglikelihood>21.591</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

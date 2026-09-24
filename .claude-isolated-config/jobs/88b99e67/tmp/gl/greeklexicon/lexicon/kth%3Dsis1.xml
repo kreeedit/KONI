@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κτῆσις</form>
+	<date>Wed Jul 27 00:12:59 EDT 2011</date>
+	<count>271</count>
+	<per10K>0.572</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>302</count>
+		<senses>
+			<senseContainer>
+				<sense>possession</sense>
+				<count>75</count>
+				<prob>0.248</prob>
+				<loglikelihood>30.331</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>property</sense>
+				<count>66</count>
+				<prob>0.219</prob>
+				<loglikelihood>19.680</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.530</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>acquisition</sense>
+				<count>28</count>
+				<prob>0.093</prob>
+				<loglikelihood>40.714</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σεισμός</form>
+	<date>Tue Jul 26 23:34:39 EDT 2011</date>
+	<count>122</count>
+	<per10K>0.257</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>69</count>
+		<senses>
+			<senseContainer>
+				<sense>earthquake</sense>
+				<count>53</count>
+				<prob>0.768</prob>
+				<loglikelihood>94.416</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

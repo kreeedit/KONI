@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περιγίγνομαι</form>
+	<date>Wed Jul 27 00:03:02 EDT 2011</date>
+	<count>208</count>
+	<per10K>0.439</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>191</count>
+		<senses>
+			<senseContainer>
+				<sense>survive</sense>
+				<count>12</count>
+				<prob>0.063</prob>
+				<loglikelihood>5.233</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>prevailed over</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>6.399</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

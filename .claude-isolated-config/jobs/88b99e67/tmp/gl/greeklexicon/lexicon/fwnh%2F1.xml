@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φωνή</form>
+	<date>Wed Jul 27 01:02:17 EDT 2011</date>
+	<count>565</count>
+	<per10K>1.193</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>661</count>
+		<senses>
+			<senseContainer>
+				<sense>voice</sense>
+				<count>280</count>
+				<prob>0.424</prob>
+				<loglikelihood>577.286</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sound</sense>
+				<count>54</count>
+				<prob>0.082</prob>
+				<loglikelihood>32.891</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.315</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>language</sense>
+				<count>22</count>
+				<prob>0.033</prob>
+				<loglikelihood>8.357</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

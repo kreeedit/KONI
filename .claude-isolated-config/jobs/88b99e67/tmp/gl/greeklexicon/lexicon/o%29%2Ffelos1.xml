@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄφελος</form>
+	<date>Tue Jul 26 23:49:01 EDT 2011</date>
+	<count>159</count>
+	<per10K>0.336</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>153</count>
+		<senses>
+			<senseContainer>
+				<sense>use</sense>
+				<count>52</count>
+				<prob>0.340</prob>
+				<loglikelihood>8.553</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.442</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

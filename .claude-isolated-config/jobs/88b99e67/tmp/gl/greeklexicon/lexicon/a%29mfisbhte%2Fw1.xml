@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμφισβητέω</form>
+	<date>Wed Jul 27 00:45:34 EDT 2011</date>
+	<count>460</count>
+	<per10K>0.971</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>328</count>
+		<senses>
+			<senseContainer>
+				<sense>dispute</sense>
+				<count>76</count>
+				<prob>0.232</prob>
+				<loglikelihood>72.846</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>claim</sense>
+				<count>68</count>
+				<prob>0.207</prob>
+				<loglikelihood>22.829</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.544</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lay claim</sense>
+				<count>11</count>
+				<prob>0.034</prob>
+				<loglikelihood>23.042</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

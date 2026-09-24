@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποθνήσκω</form>
+	<date>Wed Jul 27 02:35:15 EDT 2011</date>
+	<count>1656</count>
+	<per10K>3.495</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1333</count>
+		<senses>
+			<senseContainer>
+				<sense>die</sense>
+				<count>492</count>
+				<prob>0.369</prob>
+				<loglikelihood>537.316</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>death</sense>
+				<count>236</count>
+				<prob>0.177</prob>
+				<loglikelihood>72.346</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kill</sense>
+				<count>180</count>
+				<prob>0.135</prob>
+				<loglikelihood>69.563</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>slay</sense>
+				<count>60</count>
+				<prob>0.045</prob>
+				<loglikelihood>11.898</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead</sense>
+				<count>53</count>
+				<prob>0.040</prob>
+				<loglikelihood>7.501</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>ὑπό</original>
+				<trans>killed by</trans>
+				<loglikelihood>2.39</loglikelihood>
+				<count>92</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

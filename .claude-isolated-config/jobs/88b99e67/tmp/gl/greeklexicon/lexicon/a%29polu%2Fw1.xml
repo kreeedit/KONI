@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπολύω</form>
+	<date>Wed Jul 27 00:38:33 EDT 2011</date>
+	<count>416</count>
+	<per10K>0.878</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>427</count>
+		<senses>
+			<senseContainer>
+				<sense>release</sense>
+				<count>46</count>
+				<prob>0.108</prob>
+				<loglikelihood>28.467</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dismiss</sense>
+				<count>36</count>
+				<prob>0.084</prob>
+				<loglikelihood>22.129</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.694</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>acquit</sense>
+				<count>26</count>
+				<prob>0.061</prob>
+				<loglikelihood>14.598</loglikelihood>
+				<authorContainer>
+					<author><name>Antiphon</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

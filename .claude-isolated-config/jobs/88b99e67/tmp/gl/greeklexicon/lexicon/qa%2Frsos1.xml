@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάρσος</form>
+	<date>Tue Jul 26 23:24:54 EDT 2011</date>
+	<count>99</count>
+	<per10K>0.209</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>117</count>
+		<senses>
+			<senseContainer>
+				<sense>courage</sense>
+				<count>35</count>
+				<prob>0.299</prob>
+				<loglikelihood>7.158</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

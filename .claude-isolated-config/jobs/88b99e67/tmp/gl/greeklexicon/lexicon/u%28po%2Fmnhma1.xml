@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπόμνημα</form>
+	<date>Tue Jul 26 23:26:02 EDT 2011</date>
+	<count>101</count>
+	<per10K>0.213</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>142</count>
+		<senses>
+			<senseContainer>
+				<sense>memorial</sense>
+				<count>23</count>
+				<prob>0.162</prob>
+				<loglikelihood>18.395</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reminder</sense>
+				<count>7</count>
+				<prob>0.049</prob>
+				<loglikelihood>9.798</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>memoranda</sense>
+				<count>6</count>
+				<prob>0.042</prob>
+				<loglikelihood>20.570</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commentary</sense>
+				<count>4</count>
+				<prob>0.028</prob>
+				<loglikelihood>4.922</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as memorials</sense>
+				<count>3</count>
+				<prob>0.021</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

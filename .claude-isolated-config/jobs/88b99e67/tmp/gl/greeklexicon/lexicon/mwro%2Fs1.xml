@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μωρός</form>
+	<date>Tue Jul 26 23:28:39 EDT 2011</date>
+	<count>106</count>
+	<per10K>0.224</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>68</count>
+		<senses>
+			<senseContainer>
+				<sense>fool</sense>
+				<count>28</count>
+				<prob>0.412</prob>
+				<loglikelihood>17.816</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>foolish</sense>
+				<count>18</count>
+				<prob>0.265</prob>
+				<loglikelihood>4.677</loglikelihood>
+				<authorContainer>
+					<author><name>Sophocles</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>foolish man</sense>
+				<count>3</count>
+				<prob>0.044</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

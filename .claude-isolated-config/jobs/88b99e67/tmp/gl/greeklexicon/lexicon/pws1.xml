@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πως</form>
+	<date>Wed Jul 27 04:54:08 EDT 2011</date>
+	<count>4436</count>
+	<per10K>9.363</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>826</count>
+		<senses>
+			<senseContainer>
+				<sense>way</sense>
+				<count>53</count>
+				<prob>0.064</prob>
+				<loglikelihood>4.395</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.358</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>somehow</sense>
+				<count>41</count>
+				<prob>0.050</prob>
+				<loglikelihood>78.130</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.317</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hap</sense>
+				<count>22</count>
+				<prob>0.027</prob>
+				<loglikelihood>17.255</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.864</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

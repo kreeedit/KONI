@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρετμόν</form>
+	<date>Tue Jul 26 23:04:42 EDT 2011</date>
+	<count>59</count>
+	<per10K>0.125</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>oar</sense>
+				<count>42</count>
+				<prob>0.724</prob>
+				<loglikelihood>55.997</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.810</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

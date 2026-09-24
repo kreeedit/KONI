@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνάθημα</form>
+	<date>Wed Jul 27 00:23:32 EDT 2011</date>
+	<count>321</count>
+	<per10K>0.678</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>334</count>
+		<senses>
+			<senseContainer>
+				<sense>offering</sense>
+				<count>82</count>
+				<prob>0.246</prob>
+				<loglikelihood>151.914</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.537</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dedicate</sense>
+				<count>39</count>
+				<prob>0.117</prob>
+				<loglikelihood>16.602</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.538</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>votive offerings</sense>
+				<count>29</count>
+				<prob>0.087</prob>
+				<loglikelihood>108.500</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.483</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dedicated by</sense>
+				<count>22</count>
+				<prob>0.066</prob>
+				<loglikelihood>32.802</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>donation</sense>
+				<count>10</count>
+				<prob>0.030</prob>
+				<loglikelihood>15.994</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>votive offering</sense>
+				<count>10</count>
+				<prob>0.030</prob>
+				<loglikelihood>33.328</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>votive</sense>
+				<count>9</count>
+				<prob>0.027</prob>
+				<loglikelihood>12.457</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dedication</sense>
+				<count>8</count>
+				<prob>0.024</prob>
+				<loglikelihood>10.662</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

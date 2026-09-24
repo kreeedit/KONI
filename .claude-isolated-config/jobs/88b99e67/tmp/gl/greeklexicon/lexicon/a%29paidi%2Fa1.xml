@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπαιδία</form>
+	<date>Tue Jul 26 22:38:22 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>24</count>
+		<senses>
+			<senseContainer>
+				<sense>childlessness</sense>
+				<count>8</count>
+				<prob>0.333</prob>
+				<loglikelihood>17.066</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

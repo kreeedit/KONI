@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέγαρον</form>
+	<date>Wed Jul 27 01:03:04 EDT 2011</date>
+	<count>569</count>
+	<per10K>1.201</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>503</count>
+		<senses>
+			<senseContainer>
+				<sense>hall</sense>
+				<count>276</count>
+				<prob>0.549</prob>
+				<loglikelihood>737.612</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.935</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>megara</sense>
+				<count>112</count>
+				<prob>0.223</prob>
+				<loglikelihood>255.915</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>room</sense>
+				<count>26</count>
+				<prob>0.052</prob>
+				<loglikelihood>15.791</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>διέκ</original>
+				<trans>went forth through the hall</trans>
+				<loglikelihood>14.72</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>σκιόεις</original>
+				<trans>shadowy halls</trans>
+				<loglikelihood>10.88</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐσταθής</original>
+				<trans>well-built hall</trans>
+				<loglikelihood>8.82</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

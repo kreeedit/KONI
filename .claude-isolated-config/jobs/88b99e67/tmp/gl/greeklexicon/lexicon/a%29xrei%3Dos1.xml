@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀχρεῖος</form>
+	<date>Tue Jul 26 23:02:53 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>useless</sense>
+				<count>31</count>
+				<prob>0.403</prob>
+				<loglikelihood>19.121</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

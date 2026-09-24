@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παραγίγνομαι</form>
+	<date>Wed Jul 27 01:23:57 EDT 2011</date>
+	<count>734</count>
+	<per10K>1.549</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>511</count>
+		<senses>
+			<senseContainer>
+				<sense>come</sense>
+				<count>132</count>
+				<prob>0.258</prob>
+				<loglikelihood>8.169</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.515</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

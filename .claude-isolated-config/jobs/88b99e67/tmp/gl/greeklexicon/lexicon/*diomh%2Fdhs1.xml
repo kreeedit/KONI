@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Διομήδης</form>
+	<date>Tue Jul 26 23:54:54 EDT 2011</date>
+	<count>176</count>
+	<per10K>0.371</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>100</count>
+		<senses>
+			<senseContainer>
+				<sense>diomedes</sense>
+				<count>101</count>
+				<prob>1.010</prob>
+				<loglikelihood>215.886</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.832</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>κρατερός</original>
+				<trans>mighty diomedes</trans>
+				<loglikelihood>7.37</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱππόδαμος</original>
+				<trans>horse-taming diomedes</trans>
+				<loglikelihood>4.74</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Τυδείδης</original>
+				<trans>diomedes, son of tydeus</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

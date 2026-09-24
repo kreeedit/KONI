@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόλις</form>
+	<date>Wed Jul 27 07:28:14 EDT 2011</date>
+	<count>12912</count>
+	<per10K>27.252</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>12147</count>
+		<senses>
+			<senseContainer>
+				<sense>city</sense>
+				<count>6916</count>
+				<prob>0.569</prob>
+				<loglikelihood>19819.886</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>state</sense>
+				<count>1770</count>
+				<prob>0.146</prob>
+				<loglikelihood>4069.740</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>town</sense>
+				<count>479</count>
+				<prob>0.039</prob>
+				<loglikelihood>958.498</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>athens</sense>
+				<count>319</count>
+				<prob>0.026</prob>
+				<loglikelihood>174.508</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.345</relativeFreq></author>
+					<author><name>Isocrates</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to the city</trans>
+				<loglikelihood>21.41</loglikelihood>
+				<count>678</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἰκίζω</original>
+				<trans>founded a city</trans>
+				<loglikelihood>16.83</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξαλαπάζω</original>
+				<trans>sacked the city</trans>
+				<loglikelihood>15.84</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κτίζω</original>
+				<trans>founded a city</trans>
+				<loglikelihood>15.83</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέρθω</original>
+				<trans>sacked the city</trans>
+				<loglikelihood>15.29</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>from the city</trans>
+				<loglikelihood>12.98</loglikelihood>
+				<count>327</count>
+			</collocation>
+			<collocation>
+				<original>αἱρέω</original>
+				<trans>take the city</trans>
+				<loglikelihood>10.87</loglikelihood>
+				<count>98</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>inhabited city</trans>
+				<loglikelihood>10.18</loglikelihood>
+				<count>71</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διοικέω</original>
+				<trans>governed the city</trans>
+				<loglikelihood>8.58</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παραδίδωμι</original>
+				<trans>surrendered their city</trans>
+				<loglikelihood>7.99</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκλείπω</original>
+				<trans>leave the city</trans>
+				<loglikelihood>6.94</loglikelihood>
+				<count>29</count>
+			</collocation>
+			<collocation>
+				<original>κατασκάπτω</original>
+				<trans>razed city</trans>
+				<loglikelihood>5.02</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἔξω</original>
+				<trans>out of the city</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολιορκέω</original>
+				<trans>besieged city</trans>
+				<loglikelihood>4.98</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατέχω</original>
+				<trans>possession city</trans>
+				<loglikelihood>4.24</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγχειρίζω</original>
+				<trans>surrender city</trans>
+				<loglikelihood>4.12</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαρπάζω</original>
+				<trans>sacked the city</trans>
+				<loglikelihood>3.82</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀχυρόω</original>
+				<trans>fortify city</trans>
+				<loglikelihood>3.18</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πρός</original>
+				<trans>to the city</trans>
+				<loglikelihood>3.12</loglikelihood>
+				<count>208</count>
+			</collocation>
+			<collocation>
+				<original>ἐμπίμπρημι</original>
+				<trans>burnt the city</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προδίδωμι</original>
+				<trans>betray the city</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>from the city</trans>
+				<loglikelihood>2.88</loglikelihood>
+				<count>113</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταλαμβάνω</original>
+				<trans>found the city</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπέχω</original>
+				<trans>distant from the city</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τειχίζω</original>
+				<trans>fortify city</trans>
+				<loglikelihood>2.26</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>βλάπτω</original>
+				<trans>harm the city</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>22</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>εὐρυάγυια</original>
+				<trans>broad-wayed city</trans>
+				<loglikelihood>21.17</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅλος</original>
+				<trans>whole city</trans>
+				<loglikelihood>18.30</loglikelihood>
+				<count>96</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μέγας</original>
+				<trans>great city</trans>
+				<loglikelihood>10.52</loglikelihood>
+				<count>190</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἡμέτερος</original>
+				<trans>our city</trans>
+				<loglikelihood>10.43</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πρίαμος</original>
+				<trans>city of priam</trans>
+				<loglikelihood>8.08</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁμώνυμος</original>
+				<trans>city of the same name</trans>
+				<loglikelihood>5.85</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σύμπας</original>
+				<trans>whole state</trans>
+				<loglikelihood>4.20</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καινός</original>
+				<trans>a new state</trans>
+				<loglikelihood>3.31</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ὀχυρός</original>
+				<trans>strongest cities</trans>
+				<loglikelihood>2.66</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ὑμέτερος</original>
+				<trans>your city</trans>
+				<loglikelihood>2.32</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>δημοκρατέομαι</original>
+				<trans>democratic city</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἑαυτοῦ</original>
+				<trans>own cities</trans>
+				<loglikelihood>2.24</loglikelihood>
+				<count>94</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑξήκοντα</original>
+				<trans>sixty city</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἷς</original>
+				<trans>single city</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>72</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

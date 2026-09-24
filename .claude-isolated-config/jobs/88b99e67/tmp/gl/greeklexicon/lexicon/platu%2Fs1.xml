@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλατύς</form>
+	<date>Tue Jul 26 23:19:08 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>92</count>
+		<senses>
+			<senseContainer>
+				<sense>broad</sense>
+				<count>33</count>
+				<prob>0.359</prob>
+				<loglikelihood>22.922</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

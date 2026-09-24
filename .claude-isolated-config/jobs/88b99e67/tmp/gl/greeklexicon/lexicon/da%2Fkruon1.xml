@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δάκρυον</form>
+	<date>Wed Jul 27 00:37:44 EDT 2011</date>
+	<count>410</count>
+	<per10K>0.865</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>343</count>
+		<senses>
+			<senseContainer>
+				<sense>tear</sense>
+				<count>231</count>
+				<prob>0.673</prob>
+				<loglikelihood>431.984</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.385</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>weep</sense>
+				<count>24</count>
+				<prob>0.070</prob>
+				<loglikelihood>8.747</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>χέω</original>
+				<trans>shedding hot tears</trans>
+				<loglikelihood>39.09</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἴβω</original>
+				<trans>let fall tears</trans>
+				<loglikelihood>37.22</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λείβω</original>
+				<trans>there tears</trans>
+				<loglikelihood>14.75</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>θαλερός</original>
+				<trans>big tears</trans>
+				<loglikelihood>23.80</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

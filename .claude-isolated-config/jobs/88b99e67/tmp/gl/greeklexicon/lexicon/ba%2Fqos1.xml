@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βάθος</form>
+	<date>Tue Jul 26 23:46:00 EDT 2011</date>
+	<count>152</count>
+	<per10K>0.321</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>209</count>
+		<senses>
+			<senseContainer>
+				<sense>depth</sense>
+				<count>73</count>
+				<prob>0.349</prob>
+				<loglikelihood>163.948</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deep</sense>
+				<count>33</count>
+				<prob>0.158</prob>
+				<loglikelihood>12.435</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>solid</sense>
+				<count>9</count>
+				<prob>0.043</prob>
+				<loglikelihood>4.435</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>its depth</sense>
+				<count>7</count>
+				<prob>0.033</prob>
+				<loglikelihood>27.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

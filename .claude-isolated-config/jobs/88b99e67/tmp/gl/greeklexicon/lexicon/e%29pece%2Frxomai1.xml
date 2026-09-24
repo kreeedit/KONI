@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπεξέρχομαι</form>
+	<date>Tue Jul 26 23:33:20 EDT 2011</date>
+	<count>117</count>
+	<per10K>0.247</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>110</count>
+		<senses>
+			<senseContainer>
+				<sense>proceed against</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>3.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

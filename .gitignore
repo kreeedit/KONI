@@ -47,6 +47,14 @@ Thumbs.db
 data/*
 !data/.gitkeep
 
+# The LSJ build (271M of Beta Code slices + 31M of index) is fetched and built,
+# not committed — but its README is: it carries the CC BY-SA 4.0 attribution
+# and the build instructions, and a share-alike corpus whose provenance is not
+# in the repository is a licence problem, not an omission.
+!data/lexicon/
+data/lexicon/*
+!data/lexicon/README.md
+
 # --- Generated analysis outputs (Flame batch / reports) ---
 text_comparisons_*.html
 similarity_heatmap.html

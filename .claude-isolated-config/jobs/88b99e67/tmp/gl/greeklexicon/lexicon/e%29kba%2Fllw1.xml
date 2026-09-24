@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκβάλλω</form>
+	<date>Wed Jul 27 01:05:27 EDT 2011</date>
+	<count>592</count>
+	<per10K>1.249</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>530</count>
+		<senses>
+			<senseContainer>
+				<sense>expel</sense>
+				<count>67</count>
+				<prob>0.126</prob>
+				<loglikelihood>83.460</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast</sense>
+				<count>50</count>
+				<prob>0.094</prob>
+				<loglikelihood>22.999</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.320</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast out</sense>
+				<count>37</count>
+				<prob>0.070</prob>
+				<loglikelihood>99.532</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.405</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>banish</sense>
+				<count>32</count>
+				<prob>0.060</prob>
+				<loglikelihood>17.477</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>eject</sense>
+				<count>25</count>
+				<prob>0.047</prob>
+				<loglikelihood>40.962</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>drove out</sense>
+				<count>13</count>
+				<prob>0.025</prob>
+				<loglikelihood>24.131</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>δαιμόνιος</original>
+				<trans>cast out demons</trans>
+				<loglikelihood>2.91</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

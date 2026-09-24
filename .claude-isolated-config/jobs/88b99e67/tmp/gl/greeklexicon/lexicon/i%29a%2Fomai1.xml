@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰάομαι</form>
+	<date>Tue Jul 26 23:27:57 EDT 2011</date>
+	<count>105</count>
+	<per10K>0.222</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>heal</sense>
+				<count>30</count>
+				<prob>0.323</prob>
+				<loglikelihood>34.282</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cure</sense>
+				<count>27</count>
+				<prob>0.290</prob>
+				<loglikelihood>17.251</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.407</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>would heal</sense>
+				<count>3</count>
+				<prob>0.032</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βάσις</form>
+	<date>Tue Jul 26 23:00:29 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>136</count>
+		<senses>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>βάζω</original>
+				<trans>null</trans>
+				<loglikelihood>6.54</loglikelihood>
+				<count>12</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

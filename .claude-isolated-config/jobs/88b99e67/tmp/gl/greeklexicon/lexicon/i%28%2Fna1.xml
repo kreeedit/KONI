@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἵνα</form>
+	<date>Wed Jul 27 04:17:53 EDT 2011</date>
+	<count>3551</count>
+	<per10K>7.495</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>4153</count>
+		<senses>
+			<senseContainer>
+				<sense>may</sense>
+				<count>763</count>
+				<prob>0.184</prob>
+				<loglikelihood>678.846</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>order</sense>
+				<count>487</count>
+				<prob>0.117</prob>
+				<loglikelihood>423.162</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>to</sense>
+				<count>418</count>
+				<prob>0.101</prob>
+				<loglikelihood>18.215</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>that</sense>
+				<count>364</count>
+				<prob>0.088</prob>
+				<loglikelihood>20.780</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>might</sense>
+				<count>335</count>
+				<prob>0.081</prob>
+				<loglikelihood>191.076</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>so</sense>
+				<count>318</count>
+				<prob>0.077</prob>
+				<loglikelihood>36.680</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>where</sense>
+				<count>123</count>
+				<prob>0.030</prob>
+				<loglikelihood>18.463</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.358</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>we may</sense>
+				<count>86</count>
+				<prob>0.021</prob>
+				<loglikelihood>168.455</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

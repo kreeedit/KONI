@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐργασία</form>
+	<date>Tue Jul 26 23:32:51 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>171</count>
+		<senses>
+			<senseContainer>
+				<sense>occupation</sense>
+				<count>10</count>
+				<prob>0.058</prob>
+				<loglikelihood>4.595</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>workmanship</sense>
+				<count>8</count>
+				<prob>0.047</prob>
+				<loglikelihood>5.816</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>industry</sense>
+				<count>6</count>
+				<prob>0.035</prob>
+				<loglikelihood>5.537</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

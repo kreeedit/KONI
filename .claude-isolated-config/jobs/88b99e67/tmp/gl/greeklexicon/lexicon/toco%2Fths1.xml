@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τοξότης</form>
+	<date>Wed Jul 27 00:00:29 EDT 2011</date>
+	<count>197</count>
+	<per10K>0.416</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>215</count>
+		<senses>
+			<senseContainer>
+				<sense>archer</sense>
+				<count>124</count>
+				<prob>0.577</prob>
+				<loglikelihood>384.368</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bowman</sense>
+				<count>55</count>
+				<prob>0.256</prob>
+				<loglikelihood>208.603</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.782</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

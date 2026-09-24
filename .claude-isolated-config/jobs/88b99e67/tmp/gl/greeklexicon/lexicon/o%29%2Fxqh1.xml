@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄχθη</form>
+	<date>Tue Jul 26 22:58:26 EDT 2011</date>
+	<count>49</count>
+	<per10K>0.103</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>bank</sense>
+				<count>37</count>
+				<prob>0.661</prob>
+				<loglikelihood>23.300</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bluff</sense>
+				<count>3</count>
+				<prob>0.054</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

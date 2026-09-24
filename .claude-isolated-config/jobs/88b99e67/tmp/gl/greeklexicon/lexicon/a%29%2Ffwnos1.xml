@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄφωνος</form>
+	<date>Tue Jul 26 22:45:27 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>mute</sense>
+				<count>8</count>
+				<prob>0.205</prob>
+				<loglikelihood>9.846</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>voiceless</sense>
+				<count>3</count>
+				<prob>0.077</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

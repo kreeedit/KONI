@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑβδομήκοντα</form>
+	<date>Wed Jul 27 00:09:00 EDT 2011</date>
+	<count>248</count>
+	<per10K>0.523</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>268</count>
+		<senses>
+			<senseContainer>
+				<sense>seventy</sense>
+				<count>159</count>
+				<prob>0.593</prob>
+				<loglikelihood>574.518</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>seventy -</sense>
+				<count>44</count>
+				<prob>0.164</prob>
+				<loglikelihood>158.023</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>seventy stadia</sense>
+				<count>7</count>
+				<prob>0.026</prob>
+				<loglikelihood>27.997</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

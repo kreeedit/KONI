@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διατίθημι</form>
+	<date>Wed Jul 27 00:22:09 EDT 2011</date>
+	<count>315</count>
+	<per10K>0.665</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>354</count>
+		<senses>
+			<senseContainer>
+				<sense>dispose</sense>
+				<count>39</count>
+				<prob>0.110</prob>
+				<loglikelihood>26.202</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

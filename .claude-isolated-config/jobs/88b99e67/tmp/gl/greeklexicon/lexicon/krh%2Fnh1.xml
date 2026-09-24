@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κρήνη</form>
+	<date>Tue Jul 26 23:54:29 EDT 2011</date>
+	<count>174</count>
+	<per10K>0.367</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>197</count>
+		<senses>
+			<senseContainer>
+				<sense>spring</sense>
+				<count>79</count>
+				<prob>0.401</prob>
+				<loglikelihood>47.259</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fountain</sense>
+				<count>54</count>
+				<prob>0.274</prob>
+				<loglikelihood>92.556</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

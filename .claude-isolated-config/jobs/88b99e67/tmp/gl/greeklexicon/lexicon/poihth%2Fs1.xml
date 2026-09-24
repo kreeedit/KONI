@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποιητής</form>
+	<date>Wed Jul 27 01:25:35 EDT 2011</date>
+	<count>751</count>
+	<per10K>1.585</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>126</count>
+		<senses>
+			<senseContainer>
+				<sense>poet</sense>
+				<count>97</count>
+				<prob>0.770</prob>
+				<loglikelihood>56.244</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.443</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

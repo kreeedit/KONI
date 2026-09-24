@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πνέω</form>
+	<date>Tue Jul 26 23:32:32 EDT 2011</date>
+	<count>115</count>
+	<per10K>0.243</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>breathe</sense>
+				<count>11</count>
+				<prob>0.193</prob>
+				<loglikelihood>10.297</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

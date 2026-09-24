@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναγκάζω</form>
+	<date>Wed Jul 27 01:53:07 EDT 2011</date>
+	<count>1068</count>
+	<per10K>2.254</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>980</count>
+		<senses>
+			<senseContainer>
+				<sense>compel</sense>
+				<count>355</count>
+				<prob>0.362</prob>
+				<loglikelihood>846.746</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>force</sense>
+				<count>219</count>
+				<prob>0.223</prob>
+				<loglikelihood>112.263</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>oblige</sense>
+				<count>43</count>
+				<prob>0.044</prob>
+				<loglikelihood>35.660</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.326</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

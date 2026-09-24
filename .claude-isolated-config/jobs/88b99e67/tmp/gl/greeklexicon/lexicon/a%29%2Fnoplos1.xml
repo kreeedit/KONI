@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄνοπλος</form>
+	<date>Tue Jul 26 22:52:20 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>unarmed</sense>
+				<count>17</count>
+				<prob>0.395</prob>
+				<loglikelihood>22.230</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.471</relativeFreq></author>
+					<author><name>Appian</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>without arms</sense>
+				<count>3</count>
+				<prob>0.070</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

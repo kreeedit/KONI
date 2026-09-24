@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κότος</form>
+	<date>Tue Jul 26 22:50:07 EDT 2011</date>
+	<count>36</count>
+	<per10K>0.076</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>wrath</sense>
+				<count>17</count>
+				<prob>0.486</prob>
+				<loglikelihood>4.070</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschylus</name><relativeFreq>0.824</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

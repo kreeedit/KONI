@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναγορεύω</form>
+	<date>Tue Jul 26 22:57:59 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>52</count>
+		<senses>
+			<senseContainer>
+				<sense>proclaim</sense>
+				<count>21</count>
+				<prob>0.404</prob>
+				<loglikelihood>8.562</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>proclaimed victor</sense>
+				<count>7</count>
+				<prob>0.135</prob>
+				<loglikelihood>21.777</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

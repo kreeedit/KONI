@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρέσκω</form>
+	<date>Wed Jul 27 00:17:17 EDT 2011</date>
+	<count>293</count>
+	<per10K>0.618</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>283</count>
+		<senses>
+			<senseContainer>
+				<sense>please</sense>
+				<count>47</count>
+				<prob>0.166</prob>
+				<loglikelihood>10.171</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.319</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>satisfy</sense>
+				<count>15</count>
+				<prob>0.053</prob>
+				<loglikelihood>4.218</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>well pleased</sense>
+				<count>6</count>
+				<prob>0.021</prob>
+				<loglikelihood>14.397</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

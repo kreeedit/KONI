@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θούριος</form>
+	<date>Tue Jul 26 23:14:07 EDT 2011</date>
+	<count>77</count>
+	<per10K>0.163</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>thurii</sense>
+				<count>12</count>
+				<prob>0.324</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

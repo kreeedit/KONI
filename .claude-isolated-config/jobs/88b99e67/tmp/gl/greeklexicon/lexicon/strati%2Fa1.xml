@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στρατία</form>
+	<date>Wed Jul 27 02:07:06 EDT 2011</date>
+	<count>1252</count>
+	<per10K>2.642</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>780</count>
+		<senses>
+			<senseContainer>
+				<sense>army</sense>
+				<count>482</count>
+				<prob>0.618</prob>
+				<loglikelihood>283.663</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>force</sense>
+				<count>48</count>
+				<prob>0.062</prob>
+				<loglikelihood>5.347</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>troop</sense>
+				<count>22</count>
+				<prob>0.028</prob>
+				<loglikelihood>3.939</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.409</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γαῖα</form>
+	<date>Wed Jul 27 01:12:37 EDT 2011</date>
+	<count>637</count>
+	<per10K>1.344</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>728</count>
+		<senses>
+			<senseContainer>
+				<sense>earth</sense>
+				<count>260</count>
+				<prob>0.357</prob>
+				<loglikelihood>175.322</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.431</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>land</sense>
+				<count>242</count>
+				<prob>0.332</prob>
+				<loglikelihood>79.107</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.674</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἱκνέομαι</original>
+				<trans>come to land</trans>
+				<loglikelihood>4.65</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πατρίς</original>
+				<trans>native land</trans>
+				<loglikelihood>27.41</loglikelihood>
+				<count>91</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπείρων</original>
+				<trans>boundless earth</trans>
+				<loglikelihood>9.86</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέλωρος</original>
+				<trans>huge earth</trans>
+				<loglikelihood>7.53</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Hesiod</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπολείπω</form>
+	<date>Wed Jul 27 01:02:28 EDT 2011</date>
+	<count>565</count>
+	<per10K>1.193</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>449</count>
+		<senses>
+			<senseContainer>
+				<sense>leave</sense>
+				<count>46</count>
+				<prob>0.102</prob>
+				<loglikelihood>6.979</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>abandon</sense>
+				<count>14</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.345</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>left off</sense>
+				<count>9</count>
+				<prob>0.020</prob>
+				<loglikelihood>10.118</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

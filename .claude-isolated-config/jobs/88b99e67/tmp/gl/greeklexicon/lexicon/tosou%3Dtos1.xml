@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τοσοῦτος</form>
+	<date>Wed Jul 27 03:17:26 EDT 2011</date>
+	<count>2287</count>
+	<per10K>4.827</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2758</count>
+		<senses>
+			<senseContainer>
+				<sense>so</sense>
+				<count>403</count>
+				<prob>0.146</prob>
+				<loglikelihood>60.580</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>such</sense>
+				<count>292</count>
+				<prob>0.106</prob>
+				<loglikelihood>54.823</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>so many</sense>
+				<count>135</count>
+				<prob>0.049</prob>
+				<loglikelihood>363.887</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>so great</sense>
+				<count>123</count>
+				<prob>0.045</prob>
+				<loglikelihood>275.769</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>so much</sense>
+				<count>104</count>
+				<prob>0.038</prob>
+				<loglikelihood>159.171</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>much</sense>
+				<count>85</count>
+				<prob>0.031</prob>
+				<loglikelihood>14.839</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>so far</sense>
+				<count>80</count>
+				<prob>0.029</prob>
+				<loglikelihood>149.341</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.325</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>so long</trans>
+				<loglikelihood>4.91</loglikelihood>
+				<count>76</count>
+			</collocation>
+			<collocation>
+				<original>χρῆμα</original>
+				<trans>so large a sum</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λίνον</form>
+	<date>Tue Jul 26 23:03:47 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>flax</sense>
+				<count>19</count>
+				<prob>0.292</prob>
+				<loglikelihood>60.165</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>linus</sense>
+				<count>14</count>
+				<prob>0.215</prob>
+				<loglikelihood>37.332</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>linen</sense>
+				<count>8</count>
+				<prob>0.123</prob>
+				<loglikelihood>4.740</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thread</sense>
+				<count>6</count>
+				<prob>0.092</prob>
+				<loglikelihood>4.114</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πυρός</form>
+	<date>Tue Jul 26 23:00:08 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>wheat</sense>
+				<count>39</count>
+				<prob>0.591</prob>
+				<loglikelihood>77.010</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>trough</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,49 @@
+cluster_pairs — basics
+  ok   empty input yields nothing
+  ok   empty input stats zeroed
+  ok   all distinct -> no clusters
+  ok   all distinct -> all singletons
+  ok   pair_cluster all -1
+
+cluster_pairs — exact duplication
+  ok   two clusters found  [4, 2]
+  ok   sizes 4 then 2
+  ok   members sane
+  ok   no lev work needed
+  ok   cores collapsed 6 -> 2
+
+cluster_pairs — min_size
+  ok   min_size=3 keeps only the 4-group
+  ok   min_size=5 keeps nothing
+
+cluster_pairs — threshold semantics
+  ok   threshold=1.0 does not merge a 1-char difference
+  ok   threshold=0.85 merges it
+
+cluster_pairs — transitivity (union-find, not greedy pairs)
+  ok   A~B~C collapses to one cluster of 3
+
+cluster_pairs — the max_lev cap is reported, not hidden
+  ok   truncated flag set when cap hit
+  ok   not truncated with a generous cap
+
+cluster_pairs — cluster ids and ordering
+  ok   ids are 0..k-1
+  ok   sorted by size desc
+  ok   no singletons left
+  ok   pair_cluster set for members only
+
+compare() — cluster members index the RETURNED pair order
+  ok   compare() exposes clusters
+  ok   compare() exposes cluster_stats
+  ok   remapped members are in range of the sorted pairs array
+  ok   pairs are chain_len sorted
+  ok   every pair carries core_text
+
+compare_iter() — cluster event ordering
+  ok   exactly one clusters event
+  ok   exactly one done event
+  ok   clusters precedes done
+  ok   phase event precedes clusters
+
+RESULT: 0 failure(s)

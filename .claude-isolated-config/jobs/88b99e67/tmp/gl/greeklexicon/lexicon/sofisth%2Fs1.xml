@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σοφιστής</form>
+	<date>Wed Jul 27 00:03:42 EDT 2011</date>
+	<count>211</count>
+	<per10K>0.445</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>141</count>
+		<senses>
+			<senseContainer>
+				<sense>sophist</sense>
+				<count>94</count>
+				<prob>0.667</prob>
+				<loglikelihood>194.183</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.585</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>professor</sense>
+				<count>9</count>
+				<prob>0.064</prob>
+				<loglikelihood>20.248</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐν</form>
+	<date>Wed Jul 27 08:14:59 EDT 2011</date>
+	<count>23604</count>
+	<per10K>49.819</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>22574</count>
+		<senses>
+			<senseContainer>
+				<sense>in</sense>
+				<count>21496</count>
+				<prob>0.952</prob>
+				<loglikelihood>63209.114</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>among</sense>
+				<count>962</count>
+				<prob>0.043</prob>
+				<loglikelihood>1619.095</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>κεῖμαι</original>
+				<trans>lying in</trans>
+				<loglikelihood>98.96</loglikelihood>
+				<count>220</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἵστημι</original>
+				<trans>stand in</trans>
+				<loglikelihood>46.81</loglikelihood>
+				<count>169</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>happened in</trans>
+				<loglikelihood>43.33</loglikelihood>
+				<count>602</count>
+			</collocation>
+			<collocation>
+				<original>μένω</original>
+				<trans>remain in</trans>
+				<loglikelihood>42.70</loglikelihood>
+				<count>147</count>
+			</collocation>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>placed in</trans>
+				<loglikelihood>40.49</loglikelihood>
+				<count>198</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>had in</trans>
+				<loglikelihood>36.69</loglikelihood>
+				<count>559</count>
+			</collocation>
+			<collocation>
+				<original>γράφω</original>
+				<trans>written in</trans>
+				<loglikelihood>29.55</loglikelihood>
+				<count>158</count>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>live in</trans>
+				<loglikelihood>29.19</loglikelihood>
+				<count>121</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πίπτω</original>
+				<trans>fell in</trans>
+				<loglikelihood>28.23</loglikelihood>
+				<count>97</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θάπτω</original>
+				<trans>buried in</trans>
+				<loglikelihood>27.37</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>do in</trans>
+				<loglikelihood>25.24</loglikelihood>
+				<count>407</count>
+			</collocation>
+			<collocation>
+				<original>κατοικέω</original>
+				<trans>dwelt in</trans>
+				<loglikelihood>24.21</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐνειμί</original>
+				<trans>there in</trans>
+				<loglikelihood>22.22</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἧμαι</original>
+				<trans>sit in</trans>
+				<loglikelihood>20.34</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διάγω</original>
+				<trans>lived in</trans>
+				<loglikelihood>18.85</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὑρίσκω</original>
+				<trans>found in</trans>
+				<loglikelihood>18.83</loglikelihood>
+				<count>116</count>
+			</collocation>
+			<collocation>
+				<original>ἐγγίγνομαι</original>
+				<trans>arises in</trans>
+				<loglikelihood>18.62</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διατρίβω</original>
+				<trans>abode in</trans>
+				<loglikelihood>18.25</loglikelihood>
+				<count>46</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κάθημαι</original>
+				<trans>seated in</trans>
+				<loglikelihood>18.18</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱδρύω</original>
+				<trans>situated in</trans>
+				<loglikelihood>16.98</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ναίω</original>
+				<trans>dwelt in</trans>
+				<loglikelihood>15.62</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δυναστεύω</original>
+				<trans>in power</trans>
+				<loglikelihood>14.06</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>μίγνυμι</original>
+				<trans>joined in</trans>
+				<loglikelihood>13.95</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πήγνυμι</original>
+				<trans>fixed in</trans>
+				<loglikelihood>13.53</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>περιπατέω</original>
+				<trans>walks in</trans>
+				<loglikelihood>13.50</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνάκειμαι</original>
+				<trans>dedicated in</trans>
+				<loglikelihood>13.06</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θυμός</original>
+				<trans>heart in</trans>
+				<loglikelihood>12.35</loglikelihood>
+				<count>72</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταλείπω</original>
+				<trans>left in</trans>
+				<loglikelihood>11.79</loglikelihood>
+				<count>71</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συγγράφω</original>
+				<trans>in his history</trans>
+				<loglikelihood>11.60</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λείπω</original>
+				<trans>left in</trans>
+				<loglikelihood>11.56</loglikelihood>
+				<count>65</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρέφω</original>
+				<trans>brought up in</trans>
+				<loglikelihood>11.36</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δηλόω</original>
+				<trans>set forth in</trans>
+				<loglikelihood>10.58</loglikelihood>
+				<count>64</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>said in</trans>
+				<loglikelihood>9.46</loglikelihood>
+				<count>113</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φαίνω</original>
+				<trans>seen in</trans>
+				<loglikelihood>9.32</loglikelihood>
+				<count>119</count>
+			</collocation>
+			<collocation>
+				<original>καθίστημι</original>
+				<trans>established in</trans>
+				<loglikelihood>8.99</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βάλλω</original>
+				<trans>put in</trans>
+				<loglikelihood>8.77</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ναίω</original>
+				<trans>dwells in</trans>
+				<loglikelihood>8.65</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποθνήσκω</original>
+				<trans>died in</trans>
+				<loglikelihood>8.29</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χειμάζω</original>
+				<trans>winter in</trans>
+				<loglikelihood>8.19</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ὁράω</original>
+				<trans>seen in</trans>
+				<loglikelihood>7.82</loglikelihood>
+				<count>117</count>
+			</collocation>
+			<collocation>
+				<original>σκηνόω</original>
+				<trans>quartered in</trans>
+				<loglikelihood>7.70</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>said in</trans>
+				<loglikelihood>7.28</loglikelihood>
+				<count>223</count>
+			</collocation>
+			<collocation>
+				<original>πρωτεύω</original>
+				<trans>excel in</trans>
+				<loglikelihood>7.03</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>Νέμειος</original>
+				<trans>in nemea</trans>
+				<loglikelihood>7.02</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>αὐλίζομαι</original>
+				<trans>bivouac in</trans>
+				<loglikelihood>6.75</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>κατασκευάζω</original>
+				<trans>built in</trans>
+				<loglikelihood>6.46</loglikelihood>
+				<count>41</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄρχω</original>
+				<trans>rulers in</trans>
+				<loglikelihood>6.44</loglikelihood>
+				<count>113</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρύπτω</original>
+				<trans>hidden in</trans>
+				<loglikelihood>6.29</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔνειμι</original>
+				<trans>there in</trans>
+				<loglikelihood>6.26</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἤ</original>
+				<trans>than in</trans>
+				<loglikelihood>6.21</loglikelihood>
+				<count>300</count>
+			</collocation>
+			<collocation>
+				<original>ἐνίημι</original>
+				<trans>exist in</trans>
+				<loglikelihood>6.06</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναστρέφω</original>
+				<trans>about in</trans>
+				<loglikelihood>5.66</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατοπεδεύω</original>
+				<trans>encamped in</trans>
+				<loglikelihood>5.52</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καλέω</original>
+				<trans>called  in</trans>
+				<loglikelihood>5.45</loglikelihood>
+				<count>109</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δείκνυμι</original>
+				<trans>seen in</trans>
+				<loglikelihood>5.41</loglikelihood>
+				<count>47</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πάρειμι</original>
+				<trans>present in</trans>
+				<loglikelihood>5.26</loglikelihood>
+				<count>82</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁρμίζω</original>
+				<trans>anchor in</trans>
+				<loglikelihood>4.36</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>τυγχάνω</original>
+				<trans>happened in</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>77</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to in</trans>
+				<loglikelihood>4.28</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίκτω</original>
+				<trans>bore in</trans>
+				<loglikelihood>4.27</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐδοκιμέω</original>
+				<trans>reputation in</trans>
+				<loglikelihood>4.23</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>ὑπάρχω</original>
+				<trans>of in</trans>
+				<loglikelihood>4.22</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>in action</trans>
+				<loglikelihood>4.12</loglikelihood>
+				<count>103</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ξενίζω</original>
+				<trans>entertained in</trans>
+				<loglikelihood>3.93</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατορύσσω</original>
+				<trans>buried in</trans>
+				<loglikelihood>3.91</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>βαπτίζω</original>
+				<trans>baptize in</trans>
+				<loglikelihood>3.84</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναφαίνω</original>
+				<trans>appeared in</trans>
+				<loglikelihood>3.70</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>conveying in</trans>
+				<loglikelihood>3.65</loglikelihood>
+				<count>74</count>
+			</collocation>
+			<collocation>
+				<original>λαλέω</original>
+				<trans>speak to them in</trans>
+				<loglikelihood>3.60</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τελευτάω</original>
+				<trans>died in</trans>
+				<loglikelihood>3.55</loglikelihood>
+				<count>46</count>
+			</collocation>
+			<collocation>
+				<original>πολιορκέω</original>
+				<trans>besieged in</trans>
+				<loglikelihood>3.53</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαφθείρω</original>
+				<trans>slain in</trans>
+				<loglikelihood>3.42</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>how is it in</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>κατοικίζω</original>
+				<trans>settled in</trans>
+				<loglikelihood>3.30</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ναιετάω</original>
+				<trans>dwell in</trans>
+				<loglikelihood>3.26</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἐμφύω</original>
+				<trans>root in</trans>
+				<loglikelihood>3.26</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>λαμβάνω</original>
+				<trans>took in</trans>
+				<loglikelihood>3.24</loglikelihood>
+				<count>113</count>
+			</collocation>
+			<collocation>
+				<original>φέρω</original>
+				<trans>carry in</trans>
+				<loglikelihood>3.13</loglikelihood>
+				<count>78</count>
+			</collocation>
+			<collocation>
+				<original>πέλω</original>
+				<trans>cometh in</trans>
+				<loglikelihood>3.11</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅς</original>
+				<trans>some in</trans>
+				<loglikelihood>3.09</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>φύω</original>
+				<trans>grows in</trans>
+				<loglikelihood>3.09</loglikelihood>
+				<count>48</count>
+			</collocation>
+			<collocation>
+				<original>λάμπω</original>
+				<trans>shines in</trans>
+				<loglikelihood>3.04</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ναυμαχέω</original>
+				<trans>fight in</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τάσσω</original>
+				<trans>post in</trans>
+				<loglikelihood>2.96</loglikelihood>
+				<count>36</count>
+			</collocation>
+			<collocation>
+				<original>κτίζω</original>
+				<trans>found a city in</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>οἰκοδομέω</original>
+				<trans>built in</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κιχάνω</original>
+				<trans>i in</trans>
+				<loglikelihood>2.79</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαμένω</original>
+				<trans>continued in</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>διαφέρω</original>
+				<trans>excel in</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>στασιάζω</original>
+				<trans>strife in</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>φθίω</original>
+				<trans>perish in</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νικάω</original>
+				<trans>victory in</trans>
+				<loglikelihood>2.67</loglikelihood>
+				<count>48</count>
+			</collocation>
+			<collocation>
+				<original>εἶδον</original>
+				<trans>saw in</trans>
+				<loglikelihood>2.67</loglikelihood>
+				<count>64</count>
+			</collocation>
+			<collocation>
+				<original>βασιλεύω</original>
+				<trans>king in</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατέχω</original>
+				<trans>keep in</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>32</count>
+			</collocation>
+			<collocation>
+				<original>αἱρέω</original>
+				<trans>captured in</trans>
+				<loglikelihood>2.55</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σύ</original>
+				<trans>you in</trans>
+				<loglikelihood>2.51</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>κοιμάω</original>
+				<trans>sleep in</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>ζητέω</original>
+				<trans>sought among</trans>
+				<loglikelihood>2.47</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γηράσκω</original>
+				<trans>old age in</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>κατακείω</original>
+				<trans>lie in</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>οἰκίζω</original>
+				<trans>founded in</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαιτάω</original>
+				<trans>live in</trans>
+				<loglikelihood>2.41</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>παρέχω</original>
+				<trans>showed in</trans>
+				<loglikelihood>2.41</loglikelihood>
+				<count>52</count>
+			</collocation>
+			<collocation>
+				<original>ἀναγράφω</original>
+				<trans>written in</trans>
+				<loglikelihood>2.32</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σχολή</original>
+				<trans>in the school</trans>
+				<loglikelihood>2.30</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρατέω</original>
+				<trans>victory in</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>εὕδω</original>
+				<trans>sleep in</trans>
+				<loglikelihood>2.24</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κινέω</original>
+				<trans>move in</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμβαίνω</original>
+				<trans>happens in</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κτάομαι</original>
+				<trans>possess in</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μίμνω</original>
+				<trans>abide in</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>stow in</trans>
+				<loglikelihood>2.16</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρέφω</original>
+				<trans>turns round in</trans>
+				<loglikelihood>2.16</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἰσχύω</original>
+				<trans>binding among</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>comes in</trans>
+				<loglikelihood>2.14</loglikelihood>
+				<count>79</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τιμάω</original>
+				<trans>honored in</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>32</count>
+			</collocation>
+			<collocation>
+				<original>μάχομαι</original>
+				<trans>fighting in</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑπολείπω</original>
+				<trans>left in</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>δαίνυμι</original>
+				<trans>feast in</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δέω</original>
+				<trans>bound in</trans>
+				<loglikelihood>2.01</loglikelihood>
+				<count>75</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

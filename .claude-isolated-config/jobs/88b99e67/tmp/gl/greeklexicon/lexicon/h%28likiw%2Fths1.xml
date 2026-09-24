@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡλικιώτης</form>
+	<date>Tue Jul 26 22:59:12 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>own age</sense>
+				<count>9</count>
+				<prob>0.158</prob>
+				<loglikelihood>26.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

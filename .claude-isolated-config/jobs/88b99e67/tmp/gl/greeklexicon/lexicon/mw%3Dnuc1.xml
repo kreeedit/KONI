@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μῶνυξ</form>
+	<date>Tue Jul 26 22:52:00 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>single - hooved</sense>
+				<count>25</count>
+				<prob>0.694</prob>
+				<loglikelihood>99.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>thy single - hooved</sense>
+				<count>3</count>
+				<prob>0.083</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

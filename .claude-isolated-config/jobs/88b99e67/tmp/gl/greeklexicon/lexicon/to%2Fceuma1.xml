@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τόξευμα</form>
+	<date>Tue Jul 26 22:58:16 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>arrow</sense>
+				<count>36</count>
+				<prob>0.621</prob>
+				<loglikelihood>18.645</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

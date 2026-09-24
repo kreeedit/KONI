@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Σαλαμίς</form>
+	<date>Wed Jul 27 00:04:23 EDT 2011</date>
+	<count>218</count>
+	<per10K>0.46</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>salamis</sense>
+				<count>55</count>
+				<prob>0.821</prob>
+				<loglikelihood>62.367</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>at salamis</sense>
+				<count>5</count>
+				<prob>0.075</prob>
+				<loglikelihood>7.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

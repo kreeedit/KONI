@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λειτουργέω</form>
+	<date>Tue Jul 26 23:30:30 EDT 2011</date>
+	<count>111</count>
+	<per10K>0.234</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>public services</sense>
+				<count>22</count>
+				<prob>0.232</prob>
+				<loglikelihood>34.568</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>public service</sense>
+				<count>8</count>
+				<prob>0.084</prob>
+				<loglikelihood>11.635</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>λειτουργία</original>
+				<trans>public services</trans>
+				<loglikelihood>3.48</loglikelihood>
+				<count>11</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φιλόστοργος</form>
+	<date>Tue Jul 26 22:50:54 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>affectionate</sense>
+				<count>9</count>
+				<prob>0.290</prob>
+				<loglikelihood>17.052</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>natural affection</sense>
+				<count>3</count>
+				<prob>0.097</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

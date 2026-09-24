@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καρπόω</form>
+	<date>Wed Jul 27 00:07:17 EDT 2011</date>
+	<count>237</count>
+	<per10K>0.5</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>reap</sense>
+				<count>16</count>
+				<prob>0.165</prob>
+				<loglikelihood>10.554</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

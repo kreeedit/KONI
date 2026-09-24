@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μνάομαι</form>
+	<date>Tue Jul 26 22:57:04 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>woo</sense>
+				<count>10</count>
+				<prob>0.294</prob>
+				<loglikelihood>9.302</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

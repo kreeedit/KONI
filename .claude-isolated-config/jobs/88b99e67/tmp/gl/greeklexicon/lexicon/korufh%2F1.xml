@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κορυφή</form>
+	<date>Tue Jul 26 23:51:58 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>196</count>
+		<senses>
+			<senseContainer>
+				<sense>peak</sense>
+				<count>45</count>
+				<prob>0.230</prob>
+				<loglikelihood>119.104</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.511</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>top</sense>
+				<count>27</count>
+				<prob>0.138</prob>
+				<loglikelihood>15.754</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>summit</sense>
+				<count>22</count>
+				<prob>0.112</prob>
+				<loglikelihood>27.650</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.409</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

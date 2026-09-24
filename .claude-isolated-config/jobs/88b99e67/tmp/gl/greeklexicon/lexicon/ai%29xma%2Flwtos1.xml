@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἰχμάλωτος</form>
+	<date>Wed Jul 27 00:31:27 EDT 2011</date>
+	<count>370</count>
+	<per10K>0.781</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>462</count>
+		<senses>
+			<senseContainer>
+				<sense>prisoner</sense>
+				<count>138</count>
+				<prob>0.299</prob>
+				<loglikelihood>259.010</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.413</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>captive</sense>
+				<count>132</count>
+				<prob>0.286</prob>
+				<loglikelihood>341.559</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.523</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

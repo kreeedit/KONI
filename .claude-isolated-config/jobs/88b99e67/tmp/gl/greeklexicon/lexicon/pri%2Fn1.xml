@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρίν</form>
+	<date>Wed Jul 27 02:40:35 EDT 2011</date>
+	<count>1732</count>
+	<per10K>3.656</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>794</count>
+		<senses>
+			<senseContainer>
+				<sense>before</sense>
+				<count>393</count>
+				<prob>0.495</prob>
+				<loglikelihood>143.444</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>until</sense>
+				<count>190</count>
+				<prob>0.239</prob>
+				<loglikelihood>100.473</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>till</sense>
+				<count>42</count>
+				<prob>0.053</prob>
+				<loglikelihood>12.324</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ere</sense>
+				<count>24</count>
+				<prob>0.030</prob>
+				<loglikelihood>23.721</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

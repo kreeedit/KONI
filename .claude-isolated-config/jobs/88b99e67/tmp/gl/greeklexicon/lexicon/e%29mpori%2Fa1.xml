@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμπορία</form>
+	<date>Tue Jul 26 23:03:25 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>trade</sense>
+				<count>20</count>
+				<prob>0.308</prob>
+				<loglikelihood>12.119</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commerce</sense>
+				<count>12</count>
+				<prob>0.185</prob>
+				<loglikelihood>21.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>merchandise</sense>
+				<count>5</count>
+				<prob>0.077</prob>
+				<loglikelihood>4.761</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

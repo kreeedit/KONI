@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίκουρος</form>
+	<date>Tue Jul 26 23:51:29 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>154</count>
+		<senses>
+			<senseContainer>
+				<sense>ally</sense>
+				<count>50</count>
+				<prob>0.325</prob>
+				<loglikelihood>6.379</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.640</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mercenary</sense>
+				<count>15</count>
+				<prob>0.097</prob>
+				<loglikelihood>4.014</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>helper</sense>
+				<count>13</count>
+				<prob>0.084</prob>
+				<loglikelihood>9.518</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.846</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>auxiliary</sense>
+				<count>12</count>
+				<prob>0.078</prob>
+				<loglikelihood>7.288</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

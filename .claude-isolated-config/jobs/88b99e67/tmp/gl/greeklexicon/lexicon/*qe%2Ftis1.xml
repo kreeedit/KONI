@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Θέτις</form>
+	<date>Tue Jul 26 23:32:06 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>86</count>
+		<senses>
+			<senseContainer>
+				<sense>thetis</sense>
+				<count>67</count>
+				<prob>0.779</prob>
+				<loglikelihood>169.390</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.507</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀργυρόπεζα</original>
+				<trans>silver-footed thetis</trans>
+				<loglikelihood>45.06</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

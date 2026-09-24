@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπουσία</form>
+	<date>Tue Jul 26 22:37:51 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>absence</sense>
+				<count>15</count>
+				<prob>0.577</prob>
+				<loglikelihood>8.910</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

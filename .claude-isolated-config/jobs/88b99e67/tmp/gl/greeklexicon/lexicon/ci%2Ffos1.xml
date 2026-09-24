@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ξίφος</form>
+	<date>Wed Jul 27 00:26:46 EDT 2011</date>
+	<count>342</count>
+	<per10K>0.722</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>354</count>
+		<senses>
+			<senseContainer>
+				<sense>sword</sense>
+				<count>292</count>
+				<prob>0.825</prob>
+				<loglikelihood>530.311</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>σπάω</original>
+				<trans>he drew his sword</trans>
+				<loglikelihood>4.35</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρύω</original>
+				<trans>drew his silver-studded sword</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀργυρόηλος</original>
+				<trans>silver-studded sword</trans>
+				<loglikelihood>17.05</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀξύς</original>
+				<trans>sharp sword</trans>
+				<loglikelihood>2.16</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

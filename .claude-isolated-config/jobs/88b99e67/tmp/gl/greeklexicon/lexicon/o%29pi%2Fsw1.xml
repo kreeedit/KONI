@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀπίσω</form>
+	<date>Wed Jul 27 00:15:49 EDT 2011</date>
+	<count>285</count>
+	<per10K>0.602</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>362</count>
+		<senses>
+			<senseContainer>
+				<sense>back</sense>
+				<count>80</count>
+				<prob>0.221</prob>
+				<loglikelihood>24.643</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>behind</sense>
+				<count>20</count>
+				<prob>0.055</prob>
+				<loglikelihood>3.988</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

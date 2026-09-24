@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπικίνδυνος</form>
+	<date>Tue Jul 26 22:57:20 EDT 2011</date>
+	<count>47</count>
+	<per10K>0.099</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>dangerous</sense>
+				<count>12</count>
+				<prob>0.235</prob>
+				<loglikelihood>5.591</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hazardous</sense>
+				<count>5</count>
+				<prob>0.098</prob>
+				<loglikelihood>5.263</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

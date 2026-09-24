@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντίγραφος</form>
+	<date>Tue Jul 26 23:01:33 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>copy</sense>
+				<count>45</count>
+				<prob>0.882</prob>
+				<loglikelihood>73.634</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.400</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

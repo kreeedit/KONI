@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βίοτος</form>
+	<date>Tue Jul 26 23:35:20 EDT 2011</date>
+	<count>123</count>
+	<per10K>0.26</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>133</count>
+		<senses>
+			<senseContainer>
+				<sense>life</sense>
+				<count>61</count>
+				<prob>0.459</prob>
+				<loglikelihood>5.779</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.459</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>livelihood</sense>
+				<count>18</count>
+				<prob>0.135</prob>
+				<loglikelihood>17.750</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγανακτέω</form>
+	<date>Wed Jul 27 00:25:27 EDT 2011</date>
+	<count>335</count>
+	<per10K>0.707</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>253</count>
+		<senses>
+			<senseContainer>
+				<sense>indignant</sense>
+				<count>27</count>
+				<prob>0.107</prob>
+				<loglikelihood>38.869</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>indignation</sense>
+				<count>24</count>
+				<prob>0.095</prob>
+				<loglikelihood>15.990</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vex</sense>
+				<count>14</count>
+				<prob>0.055</prob>
+				<loglikelihood>7.321</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>indignation at</sense>
+				<count>12</count>
+				<prob>0.047</prob>
+				<loglikelihood>25.038</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

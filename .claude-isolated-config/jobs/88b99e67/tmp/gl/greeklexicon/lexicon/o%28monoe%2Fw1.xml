@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁμονοέω</form>
+	<date>Tue Jul 26 23:14:55 EDT 2011</date>
+	<count>79</count>
+	<per10K>0.167</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>one mind</sense>
+				<count>9</count>
+				<prob>0.134</prob>
+				<loglikelihood>23.142</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>concord</sense>
+				<count>8</count>
+				<prob>0.119</prob>
+				<loglikelihood>4.654</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

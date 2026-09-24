@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φάτνη</form>
+	<date>Tue Jul 26 22:48:47 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>manger</sense>
+				<count>10</count>
+				<prob>0.270</prob>
+				<loglikelihood>28.571</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stall</sense>
+				<count>9</count>
+				<prob>0.243</prob>
+				<loglikelihood>17.052</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>feeding trough</sense>
+				<count>5</count>
+				<prob>0.135</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

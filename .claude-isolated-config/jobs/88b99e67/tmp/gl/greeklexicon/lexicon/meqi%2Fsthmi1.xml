@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεθίστημι</form>
+	<date>Wed Jul 27 00:04:00 EDT 2011</date>
+	<count>213</count>
+	<per10K>0.45</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>202</count>
+		<senses>
+			<senseContainer>
+				<sense>change</sense>
+				<count>34</count>
+				<prob>0.168</prob>
+				<loglikelihood>5.179</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

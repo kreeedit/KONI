@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρημία</form>
+	<date>Tue Jul 26 23:49:31 EDT 2011</date>
+	<count>161</count>
+	<per10K>0.34</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>190</count>
+		<senses>
+			<senseContainer>
+				<sense>desert</sense>
+				<count>39</count>
+				<prob>0.205</prob>
+				<loglikelihood>11.425</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>solitude</sense>
+				<count>20</count>
+				<prob>0.105</prob>
+				<loglikelihood>47.053</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wilderness</sense>
+				<count>13</count>
+				<prob>0.068</prob>
+				<loglikelihood>9.937</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.923</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>desolation</sense>
+				<count>7</count>
+				<prob>0.037</prob>
+				<loglikelihood>6.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>isolation</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>4.922</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

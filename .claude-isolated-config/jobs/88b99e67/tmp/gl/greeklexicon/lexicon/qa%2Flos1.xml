@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάλος</form>
+	<date>Tue Jul 26 22:30:54 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>13</count>
+		<senses>
+			<senseContainer>
+				<sense>scion</sense>
+				<count>5</count>
+				<prob>0.385</prob>
+				<loglikelihood>4.545</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

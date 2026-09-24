@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀνομαστός</form>
+	<date>Tue Jul 26 23:03:23 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>most renowned</sense>
+				<count>7</count>
+				<prob>0.156</prob>
+				<loglikelihood>28.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>2</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

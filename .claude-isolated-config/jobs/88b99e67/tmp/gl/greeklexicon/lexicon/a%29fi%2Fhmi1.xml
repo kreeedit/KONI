@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφίημι</form>
+	<date>Wed Jul 27 02:13:03 EDT 2011</date>
+	<count>1322</count>
+	<per10K>2.79</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1083</count>
+		<senses>
+			<senseContainer>
+				<sense>let</sense>
+				<count>116</count>
+				<prob>0.107</prob>
+				<loglikelihood>28.384</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>release</sense>
+				<count>79</count>
+				<prob>0.073</prob>
+				<loglikelihood>83.915</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.456</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>leave</sense>
+				<count>52</count>
+				<prob>0.048</prob>
+				<loglikelihood>8.868</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forgive</sense>
+				<count>42</count>
+				<prob>0.039</prob>
+				<loglikelihood>53.787</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.786</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>acquit</sense>
+				<count>41</count>
+				<prob>0.038</prob>
+				<loglikelihood>36.272</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.512</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dismiss</sense>
+				<count>39</count>
+				<prob>0.036</prob>
+				<loglikelihood>25.930</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>allow</sense>
+				<count>29</count>
+				<prob>0.027</prob>
+				<loglikelihood>3.878</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>let go</sense>
+				<count>26</count>
+				<prob>0.024</prob>
+				<loglikelihood>34.181</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>αὐτόνομος</original>
+				<trans>raise independent</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>9</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

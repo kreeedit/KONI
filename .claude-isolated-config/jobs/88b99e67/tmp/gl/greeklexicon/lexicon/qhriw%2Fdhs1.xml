@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θηριώδης</form>
+	<date>Tue Jul 26 23:07:32 EDT 2011</date>
+	<count>64</count>
+	<per10K>0.135</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>68</count>
+		<senses>
+			<senseContainer>
+				<sense>bestial</sense>
+				<count>15</count>
+				<prob>0.221</prob>
+				<loglikelihood>47.367</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brutish</sense>
+				<count>5</count>
+				<prob>0.074</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>8</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

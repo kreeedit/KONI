@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐεργεσία</form>
+	<date>Tue Jul 26 23:57:29 EDT 2011</date>
+	<count>185</count>
+	<per10K>0.39</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>231</count>
+		<senses>
+			<senseContainer>
+				<sense>benefit</sense>
+				<count>29</count>
+				<prob>0.126</prob>
+				<loglikelihood>5.710</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.552</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>benefaction</sense>
+				<count>26</count>
+				<prob>0.113</prob>
+				<loglikelihood>77.248</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.654</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>service</sense>
+				<count>25</count>
+				<prob>0.108</prob>
+				<loglikelihood>4.109</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kindness</sense>
+				<count>25</count>
+				<prob>0.108</prob>
+				<loglikelihood>12.429</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>beneficence</sense>
+				<count>5</count>
+				<prob>0.022</prob>
+				<loglikelihood>9.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

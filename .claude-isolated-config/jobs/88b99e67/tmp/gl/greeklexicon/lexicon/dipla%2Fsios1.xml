@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διπλάσιος</form>
+	<date>Tue Jul 26 23:56:36 EDT 2011</date>
+	<count>182</count>
+	<per10K>0.384</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>213</count>
+		<senses>
+			<senseContainer>
+				<sense>double</sense>
+				<count>100</count>
+				<prob>0.469</prob>
+				<loglikelihood>129.005</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.430</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>twice</sense>
+				<count>24</count>
+				<prob>0.113</prob>
+				<loglikelihood>9.552</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>twice as much</sense>
+				<count>7</count>
+				<prob>0.033</prob>
+				<loglikelihood>19.598</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>twice as many</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>14.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>twice as</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>17.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

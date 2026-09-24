@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παραλαμβάνω</form>
+	<date>Wed Jul 27 01:20:47 EDT 2011</date>
+	<count>717</count>
+	<per10K>1.513</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>492</count>
+		<senses>
+			<senseContainer>
+				<sense>take</sense>
+				<count>93</count>
+				<prob>0.189</prob>
+				<loglikelihood>6.996</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>take over</sense>
+				<count>19</count>
+				<prob>0.039</prob>
+				<loglikelihood>36.085</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.842</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inherit</sense>
+				<count>14</count>
+				<prob>0.028</prob>
+				<loglikelihood>7.181</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>took over</sense>
+				<count>14</count>
+				<prob>0.028</prob>
+				<loglikelihood>34.075</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>took possession</sense>
+				<count>12</count>
+				<prob>0.024</prob>
+				<loglikelihood>8.103</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

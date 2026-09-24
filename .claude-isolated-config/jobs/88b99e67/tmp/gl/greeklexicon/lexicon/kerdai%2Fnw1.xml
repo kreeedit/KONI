@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κερδαίνω</form>
+	<date>Wed Jul 27 00:03:13 EDT 2011</date>
+	<count>208</count>
+	<per10K>0.439</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>169</count>
+		<senses>
+			<senseContainer>
+				<sense>gain</sense>
+				<count>50</count>
+				<prob>0.296</prob>
+				<loglikelihood>14.335</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>profit</sense>
+				<count>17</count>
+				<prob>0.101</prob>
+				<loglikelihood>4.425</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>make gain</sense>
+				<count>14</count>
+				<prob>0.083</prob>
+				<loglikelihood>55.996</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gain by</sense>
+				<count>5</count>
+				<prob>0.030</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>making gain</sense>
+				<count>4</count>
+				<prob>0.024</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>profit by</sense>
+				<count>4</count>
+				<prob>0.024</prob>
+				<loglikelihood>4.922</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

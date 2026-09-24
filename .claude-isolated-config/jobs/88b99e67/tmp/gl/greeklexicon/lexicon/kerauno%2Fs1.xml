@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κεραυνός</form>
+	<date>Tue Jul 26 23:28:40 EDT 2011</date>
+	<count>106</count>
+	<per10K>0.224</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>73</count>
+		<senses>
+			<senseContainer>
+				<sense>thunderbolt</sense>
+				<count>37</count>
+				<prob>0.507</prob>
+				<loglikelihood>63.671</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thunder - bolt</sense>
+				<count>3</count>
+				<prob>0.041</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

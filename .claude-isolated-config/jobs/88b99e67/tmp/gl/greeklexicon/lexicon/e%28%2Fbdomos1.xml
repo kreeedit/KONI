@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἕβδομος</form>
+	<date>Tue Jul 26 23:43:26 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>165</count>
+		<senses>
+			<senseContainer>
+				<sense>seventh</sense>
+				<count>104</count>
+				<prob>0.630</prob>
+				<loglikelihood>363.543</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.471</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seventh day</sense>
+				<count>8</count>
+				<prob>0.048</prob>
+				<loglikelihood>18.284</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seventeenth</sense>
+				<count>5</count>
+				<prob>0.030</prob>
+				<loglikelihood>8.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χῶρος</form>
+	<date>Wed Jul 27 00:04:03 EDT 2011</date>
+	<count>213</count>
+	<per10K>0.45</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>275</count>
+		<senses>
+			<senseContainer>
+				<sense>place</sense>
+				<count>107</count>
+				<prob>0.389</prob>
+				<loglikelihood>15.735</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.439</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

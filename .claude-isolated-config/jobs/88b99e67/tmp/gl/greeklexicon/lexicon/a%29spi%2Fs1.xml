@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀσπίς</form>
+	<date>Wed Jul 27 00:44:04 EDT 2011</date>
+	<count>453</count>
+	<per10K>0.956</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>490</count>
+		<senses>
+			<senseContainer>
+				<sense>shield</sense>
+				<count>379</count>
+				<prob>0.773</prob>
+				<loglikelihood>970.355</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>buckler</sense>
+				<count>27</count>
+				<prob>0.055</prob>
+				<loglikelihood>69.407</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.630</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὀμφαλόεις</original>
+				<trans>bossed shield</trans>
+				<loglikelihood>45.06</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

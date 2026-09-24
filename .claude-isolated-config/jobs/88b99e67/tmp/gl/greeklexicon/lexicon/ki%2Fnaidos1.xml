@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κίναιδος</form>
+	<date>Tue Jul 26 22:34:07 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>catamites</sense>
+				<count>4</count>
+				<prob>0.267</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>debauchee</sense>
+				<count>4</count>
+				<prob>0.267</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

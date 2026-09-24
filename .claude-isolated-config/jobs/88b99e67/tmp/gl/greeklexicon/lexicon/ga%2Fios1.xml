@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γάιος</form>
+	<date>Wed Jul 27 00:19:22 EDT 2011</date>
+	<count>303</count>
+	<per10K>0.64</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>254</count>
+		<senses>
+			<senseContainer>
+				<sense>caius</sense>
+				<count>89</count>
+				<prob>0.350</prob>
+				<loglikelihood>169.402</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.978</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gaius</sense>
+				<count>62</count>
+				<prob>0.244</prob>
+				<loglikelihood>155.290</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.790</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

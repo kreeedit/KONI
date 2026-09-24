@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄλλυμι</form>
+	<date>Wed Jul 27 00:58:14 EDT 2011</date>
+	<count>536</count>
+	<per10K>1.131</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>449</count>
+		<senses>
+			<senseContainer>
+				<sense>perish</sense>
+				<count>100</count>
+				<prob>0.223</prob>
+				<loglikelihood>61.566</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.570</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>destroy</sense>
+				<count>50</count>
+				<prob>0.111</prob>
+				<loglikelihood>8.468</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lose</sense>
+				<count>48</count>
+				<prob>0.107</prob>
+				<loglikelihood>9.759</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ruin</sense>
+				<count>27</count>
+				<prob>0.060</prob>
+				<loglikelihood>5.051</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

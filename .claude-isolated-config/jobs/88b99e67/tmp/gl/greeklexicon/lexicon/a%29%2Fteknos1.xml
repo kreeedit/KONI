@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄτεκνος</form>
+	<date>Tue Jul 26 22:55:05 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>childless</sense>
+				<count>21</count>
+				<prob>0.538</prob>
+				<loglikelihood>19.384</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.524</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

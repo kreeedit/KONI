@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκδίδωμι</form>
+	<date>Wed Jul 27 00:25:32 EDT 2011</date>
+	<count>335</count>
+	<per10K>0.707</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>315</count>
+		<senses>
+			<senseContainer>
+				<sense>marriage</sense>
+				<count>38</count>
+				<prob>0.121</prob>
+				<loglikelihood>10.061</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.395</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>empty</sense>
+				<count>31</count>
+				<prob>0.098</prob>
+				<loglikelihood>16.770</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.645</relativeFreq></author>
+					<author><name>Herodotus</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>surrender</sense>
+				<count>24</count>
+				<prob>0.076</prob>
+				<loglikelihood>7.325</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προεῖπον</form>
+	<date>Wed Jul 27 00:17:14 EDT 2011</date>
+	<count>292</count>
+	<per10K>0.616</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>304</count>
+		<senses>
+			<senseContainer>
+				<sense>foretell</sense>
+				<count>36</count>
+				<prob>0.118</prob>
+				<loglikelihood>39.860</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

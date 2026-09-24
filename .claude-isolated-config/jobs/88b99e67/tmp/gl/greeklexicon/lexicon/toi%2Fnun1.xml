@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τοίνυν</form>
+	<date>Wed Jul 27 03:00:41 EDT 2011</date>
+	<count>2054</count>
+	<per10K>4.335</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>2634</count>
+		<senses>
+			<senseContainer>
+				<sense>then</sense>
+				<count>773</count>
+				<prob>0.293</prob>
+				<loglikelihood>175.149</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.433</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>now</sense>
+				<count>357</count>
+				<prob>0.136</prob>
+				<loglikelihood>40.915</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.465</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>therefore</sense>
+				<count>235</count>
+				<prob>0.089</prob>
+				<loglikelihood>68.058</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>well</sense>
+				<count>98</count>
+				<prob>0.037</prob>
+				<loglikelihood>10.938</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

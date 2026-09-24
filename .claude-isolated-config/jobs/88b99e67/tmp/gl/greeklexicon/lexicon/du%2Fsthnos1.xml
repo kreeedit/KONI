@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δύστηνος</form>
+	<date>Wed Jul 27 00:00:23 EDT 2011</date>
+	<count>196</count>
+	<per10K>0.414</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>196</count>
+		<senses>
+			<senseContainer>
+				<sense>unhappy</sense>
+				<count>26</count>
+				<prob>0.133</prob>
+				<loglikelihood>10.392</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wretched</sense>
+				<count>21</count>
+				<prob>0.107</prob>
+				<loglikelihood>6.778</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.381</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unhappy man</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>6.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

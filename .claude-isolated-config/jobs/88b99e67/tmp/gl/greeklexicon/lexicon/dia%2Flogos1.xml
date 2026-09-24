@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διάλογος</form>
+	<date>Tue Jul 26 22:33:44 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>dialogue</sense>
+				<count>4</count>
+				<prob>0.250</prob>
+				<loglikelihood>4.571</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

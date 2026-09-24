@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πτολίπορθος</form>
+	<date>Tue Jul 26 22:39:42 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>sacker cities</sense>
+				<count>14</count>
+				<prob>0.737</prob>
+				<loglikelihood>56.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sacker</sense>
+				<count>4</count>
+				<prob>0.211</prob>
+				<loglikelihood>5.818</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

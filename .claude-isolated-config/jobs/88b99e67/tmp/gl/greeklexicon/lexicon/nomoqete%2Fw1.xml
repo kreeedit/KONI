@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νομοθετέω</form>
+	<date>Wed Jul 27 00:06:20 EDT 2011</date>
+	<count>229</count>
+	<per10K>0.483</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>206</count>
+		<senses>
+			<senseContainer>
+				<sense>legislate</sense>
+				<count>38</count>
+				<prob>0.184</prob>
+				<loglikelihood>96.255</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.605</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>legislation</sense>
+				<count>13</count>
+				<prob>0.063</prob>
+				<loglikelihood>6.559</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>enact</sense>
+				<count>13</count>
+				<prob>0.063</prob>
+				<loglikelihood>4.093</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>by law</sense>
+				<count>5</count>
+				<prob>0.024</prob>
+				<loglikelihood>14.284</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

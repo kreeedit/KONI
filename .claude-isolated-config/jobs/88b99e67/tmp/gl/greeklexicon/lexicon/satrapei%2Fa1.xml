@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σατραπεία</form>
+	<date>Tue Jul 26 22:40:48 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>satrapies</sense>
+				<count>6</count>
+				<prob>0.194</prob>
+				<loglikelihood>18.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>satrapy</sense>
+				<count>3</count>
+				<prob>0.097</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

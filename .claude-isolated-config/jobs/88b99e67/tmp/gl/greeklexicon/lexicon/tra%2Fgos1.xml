@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τράγος</form>
+	<date>Tue Jul 26 22:40:15 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>- goat</sense>
+				<count>5</count>
+				<prob>0.333</prob>
+				<loglikelihood>7.692</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

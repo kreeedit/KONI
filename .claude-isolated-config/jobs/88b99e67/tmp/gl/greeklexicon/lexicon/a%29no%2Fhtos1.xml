@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνόητος</form>
+	<date>Tue Jul 26 23:51:32 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>166</count>
+		<senses>
+			<senseContainer>
+				<sense>foolish</sense>
+				<count>38</count>
+				<prob>0.229</prob>
+				<loglikelihood>20.843</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.395</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fool</sense>
+				<count>20</count>
+				<prob>0.120</prob>
+				<loglikelihood>9.086</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.550</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>senseless</sense>
+				<count>16</count>
+				<prob>0.096</prob>
+				<loglikelihood>17.961</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thoughtless</sense>
+				<count>5</count>
+				<prob>0.030</prob>
+				<loglikelihood>4.761</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

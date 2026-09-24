@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναυτικός</form>
+	<date>Wed Jul 27 00:39:03 EDT 2011</date>
+	<count>419</count>
+	<per10K>0.884</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>253</count>
+		<senses>
+			<senseContainer>
+				<sense>fleet</sense>
+				<count>92</count>
+				<prob>0.364</prob>
+				<loglikelihood>48.196</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>naval</sense>
+				<count>26</count>
+				<prob>0.103</prob>
+				<loglikelihood>22.337</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>navy</sense>
+				<count>16</count>
+				<prob>0.063</prob>
+				<loglikelihood>13.122</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

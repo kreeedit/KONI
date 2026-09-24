@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πορίζω</form>
+	<date>Wed Jul 27 00:04:15 EDT 2011</date>
+	<count>216</count>
+	<per10K>0.456</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>221</count>
+		<senses>
+			<senseContainer>
+				<sense>provide</sense>
+				<count>25</count>
+				<prob>0.113</prob>
+				<loglikelihood>14.036</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>procure</sense>
+				<count>19</count>
+				<prob>0.086</prob>
+				<loglikelihood>8.198</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

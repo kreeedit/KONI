@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γηγενής</form>
+	<date>Tue Jul 26 22:46:25 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>earth - born</sense>
+				<count>8</count>
+				<prob>0.190</prob>
+				<loglikelihood>23.272</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

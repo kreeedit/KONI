@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τάσσω</form>
+	<date>Wed Jul 27 01:40:20 EDT 2011</date>
+	<count>914</count>
+	<per10K>1.929</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>621</count>
+		<senses>
+			<senseContainer>
+				<sense>post</sense>
+				<count>32</count>
+				<prob>0.052</prob>
+				<loglikelihood>17.472</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.344</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>appoint</sense>
+				<count>29</count>
+				<prob>0.047</prob>
+				<loglikelihood>5.414</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>station</sense>
+				<count>20</count>
+				<prob>0.032</prob>
+				<loglikelihood>7.028</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assign</sense>
+				<count>18</count>
+				<prob>0.029</prob>
+				<loglikelihood>4.594</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ordain</sense>
+				<count>16</count>
+				<prob>0.026</prob>
+				<loglikelihood>5.208</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

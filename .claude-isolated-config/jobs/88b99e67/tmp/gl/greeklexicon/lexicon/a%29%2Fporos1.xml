@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄπορος</form>
+	<date>Wed Jul 27 00:05:46 EDT 2011</date>
+	<count>225</count>
+	<per10K>0.475</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>274</count>
+		<senses>
+			<senseContainer>
+				<sense>poor</sense>
+				<count>61</count>
+				<prob>0.223</prob>
+				<loglikelihood>31.244</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.689</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>needy</sense>
+				<count>11</count>
+				<prob>0.040</prob>
+				<loglikelihood>11.519</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>impassable</sense>
+				<count>7</count>
+				<prob>0.026</prob>
+				<loglikelihood>8.163</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>impracticable</sense>
+				<count>6</count>
+				<prob>0.022</prob>
+				<loglikelihood>7.197</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>11</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

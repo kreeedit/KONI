@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νεῦρον</form>
+	<date>Tue Jul 26 22:59:34 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>sinew</sense>
+				<count>34</count>
+				<prob>0.576</prob>
+				<loglikelihood>85.627</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.618</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nerve</sense>
+				<count>4</count>
+				<prob>0.068</prob>
+				<loglikelihood>8.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

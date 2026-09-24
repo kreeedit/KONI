@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρέος</form>
+	<date>Tue Jul 26 23:11:38 EDT 2011</date>
+	<count>72</count>
+	<per10K>0.152</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>149</count>
+		<senses>
+			<senseContainer>
+				<sense>debt</sense>
+				<count>47</count>
+				<prob>0.315</prob>
+				<loglikelihood>41.867</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

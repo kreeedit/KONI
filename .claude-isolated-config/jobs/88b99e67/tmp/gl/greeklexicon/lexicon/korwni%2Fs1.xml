@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κορωνίς</form>
+	<date>Tue Jul 26 22:46:59 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>beaked</sense>
+				<count>14</count>
+				<prob>0.609</prob>
+				<loglikelihood>49.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>beaked ships</sense>
+				<count>3</count>
+				<prob>0.130</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

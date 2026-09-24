@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μισθόφορος</form>
+	<date>Tue Jul 26 23:04:44 EDT 2011</date>
+	<count>59</count>
+	<per10K>0.125</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>mercenary soldiers</sense>
+				<count>6</count>
+				<prob>0.046</prob>
+				<loglikelihood>23.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

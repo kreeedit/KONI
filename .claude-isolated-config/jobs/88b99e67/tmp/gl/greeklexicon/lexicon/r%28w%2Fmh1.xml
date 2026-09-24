@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥώμη</form>
+	<date>Wed Jul 27 01:35:11 EDT 2011</date>
+	<count>858</count>
+	<per10K>1.811</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>198</count>
+		<senses>
+			<senseContainer>
+				<sense>strength</sense>
+				<count>74</count>
+				<prob>0.374</prob>
+				<loglikelihood>31.771</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>vigor</sense>
+				<count>10</count>
+				<prob>0.051</prob>
+				<loglikelihood>12.497</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τράπεζα</form>
+	<date>Wed Jul 27 00:18:02 EDT 2011</date>
+	<count>296</count>
+	<per10K>0.625</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>323</count>
+		<senses>
+			<senseContainer>
+				<sense>table</sense>
+				<count>190</count>
+				<prob>0.588</prob>
+				<loglikelihood>568.431</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bank</sense>
+				<count>65</count>
+				<prob>0.201</prob>
+				<loglikelihood>71.883</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.862</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

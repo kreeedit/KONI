@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιμελέομαι</form>
+	<date>Wed Jul 27 01:12:09 EDT 2011</date>
+	<count>636</count>
+	<per10K>1.342</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>580</count>
+		<senses>
+			<senseContainer>
+				<sense>take care</sense>
+				<count>56</count>
+				<prob>0.097</prob>
+				<loglikelihood>77.861</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.339</relativeFreq></author>
+					<author><name>Xenophon</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>care</sense>
+				<count>54</count>
+				<prob>0.093</prob>
+				<loglikelihood>15.337</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.352</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>care for</sense>
+				<count>28</count>
+				<prob>0.048</prob>
+				<loglikelihood>36.438</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>attend</sense>
+				<count>20</count>
+				<prob>0.034</prob>
+				<loglikelihood>6.111</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.550</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>took care</sense>
+				<count>16</count>
+				<prob>0.028</prob>
+				<loglikelihood>25.585</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>look after</sense>
+				<count>15</count>
+				<prob>0.026</prob>
+				<loglikelihood>35.986</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>supervise</sense>
+				<count>14</count>
+				<prob>0.024</prob>
+				<loglikelihood>22.386</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

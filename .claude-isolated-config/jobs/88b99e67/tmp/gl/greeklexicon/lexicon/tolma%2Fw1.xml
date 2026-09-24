@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τολμάω</form>
+	<date>Wed Jul 27 01:40:57 EDT 2011</date>
+	<count>918</count>
+	<per10K>1.938</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>888</count>
+		<senses>
+			<senseContainer>
+				<sense>dare</sense>
+				<count>193</count>
+				<prob>0.217</prob>
+				<loglikelihood>451.245</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>venture</sense>
+				<count>99</count>
+				<prob>0.111</prob>
+				<loglikelihood>161.860</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>courage</sense>
+				<count>42</count>
+				<prob>0.047</prob>
+				<loglikelihood>10.254</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>audacity</sense>
+				<count>28</count>
+				<prob>0.032</prob>
+				<loglikelihood>33.320</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>effrontery</sense>
+				<count>24</count>
+				<prob>0.027</prob>
+				<loglikelihood>44.272</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bold</sense>
+				<count>22</count>
+				<prob>0.025</prob>
+				<loglikelihood>6.253</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

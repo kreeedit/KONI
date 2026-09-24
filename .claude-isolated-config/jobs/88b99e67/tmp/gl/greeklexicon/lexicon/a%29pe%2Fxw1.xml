@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπέχω</form>
+	<date>Wed Jul 27 01:15:21 EDT 2011</date>
+	<count>660</count>
+	<per10K>1.393</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>598</count>
+		<senses>
+			<senseContainer>
+				<sense>abstain from</sense>
+				<count>48</count>
+				<prob>0.080</prob>
+				<loglikelihood>158.850</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>distant from</sense>
+				<count>37</count>
+				<prob>0.062</prob>
+				<loglikelihood>36.470</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.568</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>refrain from</sense>
+				<count>29</count>
+				<prob>0.048</prob>
+				<loglikelihood>80.067</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>abstain</sense>
+				<count>22</count>
+				<prob>0.037</prob>
+				<loglikelihood>31.716</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>distant</sense>
+				<count>16</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.683</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>refrain</sense>
+				<count>15</count>
+				<prob>0.025</prob>
+				<loglikelihood>9.875</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>abstained from</sense>
+				<count>13</count>
+				<prob>0.022</prob>
+				<loglikelihood>45.054</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>στάδιος</original>
+				<trans>stades distant from</trans>
+				<loglikelihood>7.40</loglikelihood>
+				<count>52</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

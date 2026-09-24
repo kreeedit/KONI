@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λέων</form>
+	<date>Wed Jul 27 00:26:40 EDT 2011</date>
+	<count>341</count>
+	<per10K>0.72</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>330</count>
+		<senses>
+			<senseContainer>
+				<sense>lion</sense>
+				<count>263</count>
+				<prob>0.797</prob>
+				<loglikelihood>950.688</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>leon</sense>
+				<count>39</count>
+				<prob>0.118</prob>
+				<loglikelihood>152.080</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>like lion</sense>
+				<count>9</count>
+				<prob>0.027</prob>
+				<loglikelihood>35.995</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

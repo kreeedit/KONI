@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑποψία</form>
+	<date>Tue Jul 26 23:42:40 EDT 2011</date>
+	<count>142</count>
+	<per10K>0.3</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>171</count>
+		<senses>
+			<senseContainer>
+				<sense>suspicion</sense>
+				<count>83</count>
+				<prob>0.485</prob>
+				<loglikelihood>122.453</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.325</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>suspect</sense>
+				<count>17</count>
+				<prob>0.099</prob>
+				<loglikelihood>4.374</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

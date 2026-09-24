@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ὀδυσσεύς</form>
+	<date>Wed Jul 27 02:12:08 EDT 2011</date>
+	<count>1312</count>
+	<per10K>2.769</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>908</count>
+		<senses>
+			<senseContainer>
+				<sense>odysseus</sense>
+				<count>1121</count>
+				<prob>1.235</prob>
+				<loglikelihood>3626.012</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>πρόσφημι</original>
+				<trans>him</trans>
+				<loglikelihood>75.39</loglikelihood>
+				<count>68</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γηθέω</original>
+				<trans>glad</trans>
+				<loglikelihood>2.24</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πολύμητις</original>
+				<trans>odysseus of many wiles</trans>
+				<loglikelihood>332.58</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολύτλας</original>
+				<trans>much-enduring goodly odysseus</trans>
+				<loglikelihood>160.03</loglikelihood>
+				<count>41</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῖος</original>
+				<trans>goodly odysseus</trans>
+				<loglikelihood>91.90</loglikelihood>
+				<count>104</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολυμήχανος</original>
+				<trans>odysseus of many devices</trans>
+				<loglikelihood>81.35</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ταλασίφρων</original>
+				<trans>odysseus of the steadfast heart</trans>
+				<loglikelihood>39.74</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Λαερτιάδης</original>
+				<trans>odysseus, son of laertes</trans>
+				<loglikelihood>25.58</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διογενής</original>
+				<trans>zeus-born son of la ï¿½ rtes, odysseus</trans>
+				<loglikelihood>15.49</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πτολίπορθος</original>
+				<trans>odysseus, the sacker of cities</trans>
+				<loglikelihood>13.46</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀντίθεος</original>
+				<trans>godlike odysseus</trans>
+				<loglikelihood>5.95</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θεῖος</original>
+				<trans>divine odysseus</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μεγαλήτωρ</original>
+				<trans>great-hearted odysseus</trans>
+				<loglikelihood>3.31</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δαίφρων</original>
+				<trans>null</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμύμων</original>
+				<trans>noble odysseus</trans>
+				<loglikelihood>2.44</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

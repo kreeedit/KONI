@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατακρίνω</form>
+	<date>Tue Jul 26 23:06:48 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>condemn</sense>
+				<count>33</count>
+				<prob>0.600</prob>
+				<loglikelihood>12.810</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.364</relativeFreq></author>
+					<author><name>NULL</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

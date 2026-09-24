@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποβαίνω</form>
+	<date>Wed Jul 27 00:22:23 EDT 2011</date>
+	<count>315</count>
+	<per10K>0.665</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>266</count>
+		<senses>
+			<senseContainer>
+				<sense>disembark</sense>
+				<count>15</count>
+				<prob>0.056</prob>
+				<loglikelihood>12.493</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>turn out</sense>
+				<count>8</count>
+				<prob>0.030</prob>
+				<loglikelihood>7.311</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

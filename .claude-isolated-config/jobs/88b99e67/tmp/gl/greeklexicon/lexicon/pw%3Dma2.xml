@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πῶμα</form>
+	<date>Tue Jul 26 23:09:52 EDT 2011</date>
+	<count>68</count>
+	<per10K>0.144</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>60</count>
+		<senses>
+			<senseContainer>
+				<sense>drink</sense>
+				<count>32</count>
+				<prob>0.533</prob>
+				<loglikelihood>6.194</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lid</sense>
+				<count>9</count>
+				<prob>0.150</prob>
+				<loglikelihood>17.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>potion</sense>
+				<count>9</count>
+				<prob>0.150</prob>
+				<loglikelihood>8.099</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

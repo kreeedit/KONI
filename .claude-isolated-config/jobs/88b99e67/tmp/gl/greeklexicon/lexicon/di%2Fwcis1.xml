@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δίωξις</form>
+	<date>Tue Jul 26 23:01:53 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>pursuit</sense>
+				<count>40</count>
+				<prob>0.645</prob>
+				<loglikelihood>17.975</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

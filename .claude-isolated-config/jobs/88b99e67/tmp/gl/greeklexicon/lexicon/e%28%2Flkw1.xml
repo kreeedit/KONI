@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἕλκω</form>
+	<date>Wed Jul 27 00:18:35 EDT 2011</date>
+	<count>297</count>
+	<per10K>0.627</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>248</count>
+		<senses>
+			<senseContainer>
+				<sense>drag</sense>
+				<count>60</count>
+				<prob>0.242</prob>
+				<loglikelihood>66.645</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>draw</sense>
+				<count>40</count>
+				<prob>0.161</prob>
+				<loglikelihood>12.633</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pull</sense>
+				<count>18</count>
+				<prob>0.073</prob>
+				<loglikelihood>15.063</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

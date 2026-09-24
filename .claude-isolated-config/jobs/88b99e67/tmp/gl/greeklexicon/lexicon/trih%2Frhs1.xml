@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τριήρης</form>
+	<date>Wed Jul 27 00:51:48 EDT 2011</date>
+	<count>502</count>
+	<per10K>1.06</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>545</count>
+		<senses>
+			<senseContainer>
+				<sense>trireme</sense>
+				<count>274</count>
+				<prob>0.503</prob>
+				<loglikelihood>1017.791</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>galley</sense>
+				<count>61</count>
+				<prob>0.112</prob>
+				<loglikelihood>159.990</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.557</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>warship</sense>
+				<count>28</count>
+				<prob>0.051</prob>
+				<loglikelihood>63.975</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>war - galleys</sense>
+				<count>17</count>
+				<prob>0.031</prob>
+				<loglikelihood>48.151</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

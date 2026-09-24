@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πέντε</form>
+	<date>Wed Jul 27 01:28:50 EDT 2011</date>
+	<count>787</count>
+	<per10K>1.661</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>938</count>
+		<senses>
+			<senseContainer>
+				<sense>five</sense>
+				<count>688</count>
+				<prob>0.733</prob>
+				<loglikelihood>2392.959</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fifteen</sense>
+				<count>28</count>
+				<prob>0.030</prob>
+				<loglikelihood>19.931</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.607</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fifty</sense>
+				<count>23</count>
+				<prob>0.025</prob>
+				<loglikelihood>4.291</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.478</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

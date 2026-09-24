@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεσόγεως</form>
+	<date>Tue Jul 26 23:32:23 EDT 2011</date>
+	<count>115</count>
+	<per10K>0.243</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>79</count>
+		<senses>
+			<senseContainer>
+				<sense>interior</sense>
+				<count>42</count>
+				<prob>0.532</prob>
+				<loglikelihood>53.450</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inland</sense>
+				<count>20</count>
+				<prob>0.253</prob>
+				<loglikelihood>18.602</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.650</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>interior</sense>
+				<count>34</count>
+				<prob>0.872</prob>
+				<loglikelihood>35.029</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.971</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,7 +1,7 @@
 {
   "proto": 1,
-  "supervisorPid": 4155964,
-  "updatedAt": 1789982891909,
+  "supervisorPid": 1802030,
+  "updatedAt": 1790192653333,
   "workers": {
     "88b99e67": {
       "pid": 4155981,
@@ -80,72 +80,6 @@
       "rvAuth": "75a06ae2a5885a728be0ebc2f2155d6f",
       "ptyAuth": "18cfe9dd430260b0f8cfb23bb124da59",
       "replPid": 4156000,
-      "replProcStart": "181724009"
-    },
-    "110bdbfa": {
-      "pid": 4155982,
-      "procStart": "181724003",
-      "sessionId": "110bdbfa-60af-485c-bf09-48f2deaedb68",
-      "rendezvousSock": "/tmp/cc-daemon-1000/05abaebc/rv/110bdbfa.sock",
-      "ptySock": "/tmp/cc-daemon-1000/05abaebc/pty/110bdbfa.sock",
-      "cliVersion": "2.1.278",
-      "startedAt": 1789982891366,
-      "attempt": 1,
-      "cwd": "/home/tamask/github/KONI",
-      "dispatch": {
-        "proto": 1,
-        "short": "110bdbfa",
-        "nonce": "bd5fcfab",
-        "sessionId": "110bdbfa-60af-485c-bf09-48f2deaedb68",
-        "createdAt": 1789982891203,
-        "source": "spare",
-        "cwd": "/home/tamask/github/KONI",
-        "launch": {
-          "mode": "prompt",
-          "args": [
-            "--session-id",
-            "110bdbfa-60af-485c-bf09-48f2deaedb68",
-            "--agent",
-            "claude",
-            "--inherit-permission-mode",
-            "auto"
-          ],
-          "restoresTranscript": false
-        },
-        "env": {
-          "CLAUDE_CONFIG_DIR": "/home/tamask/github/KONI/.claude-isolated-config",
-          "ANTHROPIC_MODEL": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "ANTHROPIC_DEFAULT_HAIKU_MODEL": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "CLAUDE_CODE_SUBAGENT_MODEL": "deepseek-ai/DeepSeek-V4.1-Flash"
-        },
-        "isolation": "none",
-        "respawnFlags": [
-          "--agent",
-          "claude",
-          "--inherit-permission-mode",
-          "auto"
-        ],
-        "agent": "claude",
-        "seed": {
-          "intent": ""
-        },
-        "cols": 236,
-        "rows": 57
-      },
-      "decModes": [
-        1000,
-        1002,
-        1003,
-        1006,
-        2004,
-        2031,
-        1004
-      ],
-      "rvAuth": "f8eedef6156a9d9f1e68fdb184d42625",
-      "ptyAuth": "6d9162001cb9eba686034ff96ecd1d95",
-      "replPid": 4155998,
       "replProcStart": "181724009"
     }
   }

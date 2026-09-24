@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στεφανόω</form>
+	<date>Wed Jul 27 00:19:11 EDT 2011</date>
+	<count>302</count>
+	<per10K>0.637</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>184</count>
+		<senses>
+			<senseContainer>
+				<sense>crown</sense>
+				<count>118</count>
+				<prob>0.641</prob>
+				<loglikelihood>105.261</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>decorate</sense>
+				<count>8</count>
+				<prob>0.043</prob>
+				<loglikelihood>11.128</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

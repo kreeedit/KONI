@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδικία</form>
+	<date>Wed Jul 27 00:21:03 EDT 2011</date>
+	<count>311</count>
+	<per10K>0.656</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>381</count>
+		<senses>
+			<senseContainer>
+				<sense>injustice</sense>
+				<count>180</count>
+				<prob>0.472</prob>
+				<loglikelihood>343.678</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>iniquity</sense>
+				<count>12</count>
+				<prob>0.031</prob>
+				<loglikelihood>9.923</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unrighteousness</sense>
+				<count>8</count>
+				<prob>0.021</prob>
+				<loglikelihood>14.217</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

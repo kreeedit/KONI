@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὖρος</form>
+	<date>Tue Jul 26 22:46:21 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>fair wind</sense>
+				<count>7</count>
+				<prob>0.269</prob>
+				<loglikelihood>15.077</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>warder</sense>
+				<count>5</count>
+				<prob>0.192</prob>
+				<loglikelihood>8.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

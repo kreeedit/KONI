@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόσος</form>
+	<date>Wed Jul 27 00:25:56 EDT 2011</date>
+	<count>336</count>
+	<per10K>0.709</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>356</count>
+		<senses>
+			<senseContainer>
+				<sense>how many</sense>
+				<count>101</count>
+				<prob>0.284</prob>
+				<loglikelihood>241.392</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>how much</sense>
+				<count>54</count>
+				<prob>0.152</prob>
+				<loglikelihood>95.577</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>how great</sense>
+				<count>9</count>
+				<prob>0.025</prob>
+				<loglikelihood>14.082</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

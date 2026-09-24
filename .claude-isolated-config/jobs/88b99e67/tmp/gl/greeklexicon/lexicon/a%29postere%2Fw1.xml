@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποστερέω</form>
+	<date>Wed Jul 27 00:32:19 EDT 2011</date>
+	<count>375</count>
+	<per10K>0.791</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>325</count>
+		<senses>
+			<senseContainer>
+				<sense>rob</sense>
+				<count>68</count>
+				<prob>0.209</prob>
+				<loglikelihood>57.767</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.588</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>deprive</sense>
+				<count>34</count>
+				<prob>0.105</prob>
+				<loglikelihood>29.435</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>defraud</sense>
+				<count>31</count>
+				<prob>0.095</prob>
+				<loglikelihood>63.000</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.516</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

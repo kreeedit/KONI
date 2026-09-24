@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίθετος</form>
+	<date>Tue Jul 26 22:44:47 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>epithet</sense>
+				<count>13</count>
+				<prob>0.433</prob>
+				<loglikelihood>18.777</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

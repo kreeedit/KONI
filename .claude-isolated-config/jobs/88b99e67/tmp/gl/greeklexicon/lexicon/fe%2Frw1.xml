@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φέρω</form>
+	<date>Wed Jul 27 03:53:18 EDT 2011</date>
+	<count>2819</count>
+	<per10K>5.95</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2988</count>
+		<senses>
+			<senseContainer>
+				<sense>bring</sense>
+				<count>428</count>
+				<prob>0.143</prob>
+				<loglikelihood>206.045</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bear</sense>
+				<count>315</count>
+				<prob>0.105</prob>
+				<loglikelihood>529.821</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>carry</sense>
+				<count>227</count>
+				<prob>0.076</prob>
+				<loglikelihood>177.355</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>come</sense>
+				<count>154</count>
+				<prob>0.052</prob>
+				<loglikelihood>10.508</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.351</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>εἰς</original>
+				<trans>carried to</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>232</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>θύελλα</original>
+				<trans>out</trans>
+				<loglikelihood>4.05</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἄρουρα</original>
+				<trans>grain, bears</trans>
+				<loglikelihood>2.23</loglikelihood>
+				<count>8</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ψῆφος</original>
+				<trans>cast his vote</trans>
+				<loglikelihood>55.08</loglikelihood>
+				<count>81</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καρπός</original>
+				<trans>bear fruit</trans>
+				<loglikelihood>9.02</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄχθος</original>
+				<trans>bear burden</trans>
+				<loglikelihood>3.81</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>δῶρον</original>
+				<trans>bring gifts</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

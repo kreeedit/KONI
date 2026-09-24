@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολυτελής</form>
+	<date>Tue Jul 26 23:36:25 EDT 2011</date>
+	<count>126</count>
+	<per10K>0.266</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>137</count>
+		<senses>
+			<senseContainer>
+				<sense>costly</sense>
+				<count>26</count>
+				<prob>0.190</prob>
+				<loglikelihood>64.376</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>expensive</sense>
+				<count>7</count>
+				<prob>0.051</prob>
+				<loglikelihood>21.776</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>most costly</sense>
+				<count>6</count>
+				<prob>0.044</prob>
+				<loglikelihood>17.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>28</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

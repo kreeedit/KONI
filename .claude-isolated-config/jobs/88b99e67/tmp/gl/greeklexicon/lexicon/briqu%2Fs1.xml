@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βριθύς</form>
+	<date>Tue Jul 26 22:29:55 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>9</count>
+		<senses>
+			<senseContainer>
+				<sense>heavy and huge</sense>
+				<count>5</count>
+				<prob>0.556</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

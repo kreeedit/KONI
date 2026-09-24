@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μουσικός</form>
+	<date>Wed Jul 27 00:26:06 EDT 2011</date>
+	<count>338</count>
+	<per10K>0.713</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>203</count>
+		<senses>
+			<senseContainer>
+				<sense>music</sense>
+				<count>104</count>
+				<prob>0.512</prob>
+				<loglikelihood>162.620</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.567</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>musician</sense>
+				<count>27</count>
+				<prob>0.133</prob>
+				<loglikelihood>48.591</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.519</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>musical</sense>
+				<count>21</count>
+				<prob>0.103</prob>
+				<loglikelihood>40.084</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.476</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cultured</sense>
+				<count>6</count>
+				<prob>0.030</prob>
+				<loglikelihood>4.643</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>8</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

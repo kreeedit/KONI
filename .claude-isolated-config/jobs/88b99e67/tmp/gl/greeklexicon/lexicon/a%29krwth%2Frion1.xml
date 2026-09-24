@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκρωτήριον</form>
+	<date>Tue Jul 26 22:59:07 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>promontory</sense>
+				<count>17</count>
+				<prob>0.298</prob>
+				<loglikelihood>7.971</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

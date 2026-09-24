@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περιμένω</form>
+	<date>Tue Jul 26 23:55:13 EDT 2011</date>
+	<count>177</count>
+	<per10K>0.374</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>160</count>
+		<senses>
+			<senseContainer>
+				<sense>wait</sense>
+				<count>45</count>
+				<prob>0.281</prob>
+				<loglikelihood>18.653</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wait for</sense>
+				<count>25</count>
+				<prob>0.156</prob>
+				<loglikelihood>39.676</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>waited for</sense>
+				<count>8</count>
+				<prob>0.050</prob>
+				<loglikelihood>7.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>waiting for</sense>
+				<count>6</count>
+				<prob>0.038</prob>
+				<loglikelihood>4.964</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

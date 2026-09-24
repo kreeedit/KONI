@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίορκος</form>
+	<date>Tue Jul 26 22:37:01 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>29</count>
+		<senses>
+			<senseContainer>
+				<sense>perjurer</sense>
+				<count>5</count>
+				<prob>0.172</prob>
+				<loglikelihood>11.111</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>perjure</sense>
+				<count>4</count>
+				<prob>0.138</prob>
+				<loglikelihood>4.571</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forswear</sense>
+				<count>3</count>
+				<prob>0.103</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φυλή</form>
+	<date>Wed Jul 27 00:55:17 EDT 2011</date>
+	<count>513</count>
+	<per10K>1.083</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>tribe</sense>
+				<count>80</count>
+				<prob>0.615</prob>
+				<loglikelihood>31.988</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>phyle</sense>
+				<count>30</count>
+				<prob>0.231</prob>
+				<loglikelihood>89.994</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at phyle</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νομεύς</form>
+	<date>Tue Jul 26 23:09:25 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>78</count>
+		<senses>
+			<senseContainer>
+				<sense>herdsman</sense>
+				<count>21</count>
+				<prob>0.269</prob>
+				<loglikelihood>21.251</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.429</relativeFreq></author>
+					<author><name>Homer</name><relativeFreq>0.381</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>apportioner</sense>
+				<count>4</count>
+				<prob>0.051</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

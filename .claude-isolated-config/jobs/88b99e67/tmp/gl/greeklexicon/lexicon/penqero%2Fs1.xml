@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πενθερός</form>
+	<date>Tue Jul 26 22:48:54 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>father -</sense>
+				<count>9</count>
+				<prob>0.474</prob>
+				<loglikelihood>13.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

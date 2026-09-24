@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὕφορμος</form>
+	<date>Tue Jul 26 22:45:35 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>mooring - place</sense>
+				<count>7</count>
+				<prob>0.259</prob>
+				<loglikelihood>24.500</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>anchoring - place</sense>
+				<count>3</count>
+				<prob>0.111</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολεμικός</form>
+	<date>Wed Jul 27 00:14:45 EDT 2011</date>
+	<count>278</count>
+	<per10K>0.587</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>217</count>
+		<senses>
+			<senseContainer>
+				<sense>military</sense>
+				<count>20</count>
+				<prob>0.092</prob>
+				<loglikelihood>8.833</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>warfare</sense>
+				<count>13</count>
+				<prob>0.060</prob>
+				<loglikelihood>7.187</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>warlike</sense>
+				<count>10</count>
+				<prob>0.046</prob>
+				<loglikelihood>4.078</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>15</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

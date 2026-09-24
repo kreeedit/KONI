@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναυάγιον</form>
+	<date>Tue Jul 26 22:56:47 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>24</count>
+		<senses>
+			<senseContainer>
+				<sense>wreck</sense>
+				<count>13</count>
+				<prob>0.542</prob>
+				<loglikelihood>10.089</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

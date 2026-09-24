@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πονηρία</form>
+	<date>Wed Jul 27 00:07:58 EDT 2011</date>
+	<count>241</count>
+	<per10K>0.509</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>292</count>
+		<senses>
+			<senseContainer>
+				<sense>wickedness</sense>
+				<count>73</count>
+				<prob>0.250</prob>
+				<loglikelihood>114.571</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.301</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>villainy</sense>
+				<count>25</count>
+				<prob>0.086</prob>
+				<loglikelihood>40.311</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.480</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>depravity</sense>
+				<count>21</count>
+				<prob>0.072</prob>
+				<loglikelihood>48.990</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vice</sense>
+				<count>18</count>
+				<prob>0.062</prob>
+				<loglikelihood>7.660</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>badness</sense>
+				<count>12</count>
+				<prob>0.041</prob>
+				<loglikelihood>8.994</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rascality</sense>
+				<count>12</count>
+				<prob>0.041</prob>
+				<loglikelihood>33.877</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>baseness</sense>
+				<count>9</count>
+				<prob>0.031</prob>
+				<loglikelihood>5.887</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἕρκος</form>
+	<date>Tue Jul 26 23:06:31 EDT 2011</date>
+	<count>62</count>
+	<per10K>0.131</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>79</count>
+		<senses>
+			<senseContainer>
+				<sense>barrier</sense>
+				<count>12</count>
+				<prob>0.152</prob>
+				<loglikelihood>23.039</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bulwark</sense>
+				<count>8</count>
+				<prob>0.101</prob>
+				<loglikelihood>7.313</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fence</sense>
+				<count>7</count>
+				<prob>0.089</prob>
+				<loglikelihood>5.599</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὀδών</original>
+				<trans>barrier of thy teeth</trans>
+				<loglikelihood>3.28</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

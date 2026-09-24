@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄναξ</form>
+	<date>Wed Jul 27 01:16:28 EDT 2011</date>
+	<count>670</count>
+	<per10K>1.414</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>678</count>
+		<senses>
+			<senseContainer>
+				<sense>king</sense>
+				<count>263</count>
+				<prob>0.388</prob>
+				<loglikelihood>48.035</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.525</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lord</sense>
+				<count>231</count>
+				<prob>0.341</prob>
+				<loglikelihood>216.695</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.381</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>prince</sense>
+				<count>59</count>
+				<prob>0.087</prob>
+				<loglikelihood>60.475</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.508</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>master</sense>
+				<count>46</count>
+				<prob>0.068</prob>
+				<loglikelihood>7.609</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.870</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

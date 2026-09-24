@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νῦν</form>
+	<date>Wed Jul 27 06:29:46 EDT 2011</date>
+	<count>7937</count>
+	<per10K>16.752</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>9372</count>
+		<senses>
+			<senseContainer>
+				<sense>now</sense>
+				<count>4662</count>
+				<prob>0.497</prob>
+				<loglikelihood>7172.505</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>present</sense>
+				<count>680</count>
+				<prob>0.073</prob>
+				<loglikelihood>727.438</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>then</sense>
+				<count>196</count>
+				<prob>0.021</prob>
+				<loglikelihood>8.581</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

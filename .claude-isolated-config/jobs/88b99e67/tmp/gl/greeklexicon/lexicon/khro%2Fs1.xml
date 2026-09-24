@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κηρός</form>
+	<date>Tue Jul 26 22:45:39 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>wax</sense>
+				<count>23</count>
+				<prob>0.697</prob>
+				<loglikelihood>25.190</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

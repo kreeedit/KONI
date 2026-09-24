@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τέμνω</form>
+	<date>Wed Jul 27 00:16:41 EDT 2011</date>
+	<count>289</count>
+	<per10K>0.61</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>281</count>
+		<senses>
+			<senseContainer>
+				<sense>cut</sense>
+				<count>72</count>
+				<prob>0.256</prob>
+				<loglikelihood>65.590</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>διάμετρος</original>
+				<trans>null</trans>
+				<loglikelihood>5.89</loglikelihood>
+				<count>9</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

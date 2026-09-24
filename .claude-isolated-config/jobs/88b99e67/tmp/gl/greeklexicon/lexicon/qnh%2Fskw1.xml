@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θνήσκω</form>
+	<date>Wed Jul 27 02:40:20 EDT 2011</date>
+	<count>1724</count>
+	<per10K>3.639</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>949</count>
+		<senses>
+			<senseContainer>
+				<sense>die</sense>
+				<count>379</count>
+				<prob>0.399</prob>
+				<loglikelihood>318.894</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>death</sense>
+				<count>180</count>
+				<prob>0.190</prob>
+				<loglikelihood>42.106</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.383</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead</sense>
+				<count>155</count>
+				<prob>0.163</prob>
+				<loglikelihood>64.925</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>slay</sense>
+				<count>37</count>
+				<prob>0.039</prob>
+				<loglikelihood>4.517</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

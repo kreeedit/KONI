@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πανταχῆ</form>
+	<date>Tue Jul 26 23:14:30 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>100</count>
+		<senses>
+			<senseContainer>
+				<sense>everywhere</sense>
+				<count>16</count>
+				<prob>0.160</prob>
+				<loglikelihood>4.673</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>every way</sense>
+				<count>6</count>
+				<prob>0.060</prob>
+				<loglikelihood>4.499</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in all directions</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in every way</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

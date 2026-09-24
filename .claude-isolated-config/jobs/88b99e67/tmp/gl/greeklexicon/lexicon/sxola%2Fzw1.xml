@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχολάζω</form>
+	<date>Tue Jul 26 23:25:57 EDT 2011</date>
+	<count>100</count>
+	<per10K>0.211</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>111</count>
+		<senses>
+			<senseContainer>
+				<sense>leisure</sense>
+				<count>27</count>
+				<prob>0.243</prob>
+				<loglikelihood>16.658</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at leisure</sense>
+				<count>14</count>
+				<prob>0.126</prob>
+				<loglikelihood>31.358</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄπισθεν</form>
+	<date>Wed Jul 27 00:16:20 EDT 2011</date>
+	<count>287</count>
+	<per10K>0.606</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>336</count>
+		<senses>
+			<senseContainer>
+				<sense>behind</sense>
+				<count>157</count>
+				<prob>0.467</prob>
+				<loglikelihood>246.422</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rear</sense>
+				<count>58</count>
+				<prob>0.173</prob>
+				<loglikelihood>36.937</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.569</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from behind</sense>
+				<count>12</count>
+				<prob>0.036</prob>
+				<loglikelihood>41.136</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

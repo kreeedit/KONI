@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀτυχέω</form>
+	<date>Tue Jul 26 23:42:38 EDT 2011</date>
+	<count>142</count>
+	<per10K>0.3</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>unfortunate</sense>
+				<count>19</count>
+				<prob>0.196</prob>
+				<loglikelihood>9.497</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.421</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

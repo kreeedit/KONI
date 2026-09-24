@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δικτάτωρ</form>
+	<date>Tue Jul 26 22:47:00 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>dictator</sense>
+				<count>20</count>
+				<prob>0.513</prob>
+				<loglikelihood>44.443</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.850</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dictator for life</sense>
+				<count>3</count>
+				<prob>0.077</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dictatorship</sense>
+				<count>3</count>
+				<prob>0.077</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

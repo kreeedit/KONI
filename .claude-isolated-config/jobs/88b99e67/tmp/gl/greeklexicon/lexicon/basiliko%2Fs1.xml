@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βασιλικός</form>
+	<date>Wed Jul 27 00:29:47 EDT 2011</date>
+	<count>359</count>
+	<per10K>0.758</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>257</count>
+		<senses>
+			<senseContainer>
+				<sense>royal</sense>
+				<count>79</count>
+				<prob>0.307</prob>
+				<loglikelihood>74.490</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.418</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>kingly</sense>
+				<count>22</count>
+				<prob>0.086</prob>
+				<loglikelihood>37.952</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.773</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>22</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

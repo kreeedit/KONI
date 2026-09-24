@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡλικία</form>
+	<date>Wed Jul 27 01:03:54 EDT 2011</date>
+	<count>578</count>
+	<per10K>1.22</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>714</count>
+		<senses>
+			<senseContainer>
+				<sense>age</sense>
+				<count>297</count>
+				<prob>0.416</prob>
+				<loglikelihood>568.807</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>youth</sense>
+				<count>52</count>
+				<prob>0.073</prob>
+				<loglikelihood>18.057</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>military age</sense>
+				<count>17</count>
+				<prob>0.024</prob>
+				<loglikelihood>67.980</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.471</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

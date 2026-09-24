@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σπονδή</form>
+	<date>Wed Jul 27 00:40:34 EDT 2011</date>
+	<count>430</count>
+	<per10K>0.908</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>227</count>
+		<senses>
+			<senseContainer>
+				<sense>truce</sense>
+				<count>56</count>
+				<prob>0.247</prob>
+				<loglikelihood>65.315</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.482</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>treaty</sense>
+				<count>43</count>
+				<prob>0.189</prob>
+				<loglikelihood>21.361</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.721</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>libation</sense>
+				<count>28</count>
+				<prob>0.123</prob>
+				<loglikelihood>25.907</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>armistice</sense>
+				<count>8</count>
+				<prob>0.035</prob>
+				<loglikelihood>6.241</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

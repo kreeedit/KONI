@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κῆρ</form>
+	<date>Tue Jul 26 23:38:40 EDT 2011</date>
+	<count>132</count>
+	<per10K>0.279</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>120</count>
+		<senses>
+			<senseContainer>
+				<sense>heart</sense>
+				<count>84</count>
+				<prob>0.700</prob>
+				<loglikelihood>19.781</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at heart</sense>
+				<count>7</count>
+				<prob>0.058</prob>
+				<loglikelihood>5.296</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀχεύω</original>
+				<trans>sore heart</trans>
+				<loglikelihood>6.61</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

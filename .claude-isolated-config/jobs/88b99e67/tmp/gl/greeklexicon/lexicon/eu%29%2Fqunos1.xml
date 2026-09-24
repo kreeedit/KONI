@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὔθυνος</form>
+	<date>Tue Jul 26 22:50:43 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>24</count>
+		<senses>
+			<senseContainer>
+				<sense>euthynus</sense>
+				<count>15</count>
+				<prob>0.625</prob>
+				<loglikelihood>36.000</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.933</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

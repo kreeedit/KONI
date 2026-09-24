@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμπίμπρημι</form>
+	<date>Wed Jul 27 00:16:51 EDT 2011</date>
+	<count>290</count>
+	<per10K>0.612</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>254</count>
+		<senses>
+			<senseContainer>
+				<sense>burnt</sense>
+				<count>70</count>
+				<prob>0.276</prob>
+				<loglikelihood>101.529</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.486</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>burn</sense>
+				<count>63</count>
+				<prob>0.248</prob>
+				<loglikelihood>52.896</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.397</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>set fire</sense>
+				<count>26</count>
+				<prob>0.102</prob>
+				<loglikelihood>45.056</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>on fire</sense>
+				<count>13</count>
+				<prob>0.051</prob>
+				<loglikelihood>28.161</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>set on fire</sense>
+				<count>7</count>
+				<prob>0.028</prob>
+				<loglikelihood>13.064</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

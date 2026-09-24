@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρωτεύς</form>
+	<date>Tue Jul 26 22:52:59 EDT 2011</date>
+	<count>40</count>
+	<per10K>0.084</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>14</count>
+		<senses>
+			<senseContainer>
+				<sense>proteus</sense>
+				<count>13</count>
+				<prob>0.929</prob>
+				<loglikelihood>19.314</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

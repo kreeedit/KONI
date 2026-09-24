@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἴολος</form>
+	<date>Tue Jul 26 22:55:08 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>46</count>
+		<senses>
+			<senseContainer>
+				<sense>aeolus</sense>
+				<count>30</count>
+				<prob>0.652</prob>
+				<loglikelihood>89.998</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

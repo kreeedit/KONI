@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποθέω</form>
+	<date>Tue Jul 26 23:54:31 EDT 2011</date>
+	<count>174</count>
+	<per10K>0.367</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>103</count>
+		<senses>
+			<senseContainer>
+				<sense>long for</sense>
+				<count>3</count>
+				<prob>0.029</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>yearned for</sense>
+				<count>3</count>
+				<prob>0.029</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>yearn for</sense>
+				<count>3</count>
+				<prob>0.029</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

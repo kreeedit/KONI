@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκιάω</form>
+	<date>Tue Jul 26 22:30:15 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>9</count>
+		<senses>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ἀγυιά</original>
+				<trans>set and all the ways</trans>
+				<loglikelihood>6.56</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

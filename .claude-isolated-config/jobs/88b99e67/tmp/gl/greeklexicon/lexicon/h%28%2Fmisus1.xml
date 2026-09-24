@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἥμισυς</form>
+	<date>Wed Jul 27 00:31:47 EDT 2011</date>
+	<count>371</count>
+	<per10K>0.783</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>403</count>
+		<senses>
+			<senseContainer>
+				<sense>half</sense>
+				<count>217</count>
+				<prob>0.538</prob>
+				<loglikelihood>575.904</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>one half</sense>
+				<count>29</count>
+				<prob>0.072</prob>
+				<loglikelihood>105.106</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>other half</sense>
+				<count>17</count>
+				<prob>0.042</prob>
+				<loglikelihood>64.211</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>one - half</sense>
+				<count>15</count>
+				<prob>0.037</prob>
+				<loglikelihood>44.990</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀτειρής</form>
+	<date>Tue Jul 26 22:35:54 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>stubborn</sense>
+				<count>6</count>
+				<prob>0.375</prob>
+				<loglikelihood>4.500</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄπειμι</form>
+	<date>Wed Jul 27 00:07:31 EDT 2011</date>
+	<count>239</count>
+	<per10K>0.504</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>159</count>
+		<senses>
+			<senseContainer>
+				<sense>absent</sense>
+				<count>25</count>
+				<prob>0.157</prob>
+				<loglikelihood>24.994</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>absence</sense>
+				<count>11</count>
+				<prob>0.069</prob>
+				<loglikelihood>4.789</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

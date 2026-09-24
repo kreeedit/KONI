@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁμολογία</form>
+	<date>Tue Jul 26 23:51:55 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>214</count>
+		<senses>
+			<senseContainer>
+				<sense>agreement</sense>
+				<count>68</count>
+				<prob>0.318</prob>
+				<loglikelihood>34.943</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.397</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>admission</sense>
+				<count>12</count>
+				<prob>0.056</prob>
+				<loglikelihood>8.466</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

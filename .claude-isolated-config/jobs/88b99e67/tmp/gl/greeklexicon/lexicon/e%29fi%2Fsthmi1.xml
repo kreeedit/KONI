@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐφίστημι</form>
+	<date>Wed Jul 27 01:26:04 EDT 2011</date>
+	<count>759</count>
+	<per10K>1.602</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>624</count>
+		<senses>
+			<senseContainer>
+				<sense>stand</sense>
+				<count>48</count>
+				<prob>0.077</prob>
+				<loglikelihood>7.372</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>knowledge</sense>
+				<count>39</count>
+				<prob>0.062</prob>
+				<loglikelihood>5.321</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.436</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aware</sense>
+				<count>19</count>
+				<prob>0.030</prob>
+				<loglikelihood>5.119</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.474</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>we know</sense>
+				<count>16</count>
+				<prob>0.026</prob>
+				<loglikelihood>9.209</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.438</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

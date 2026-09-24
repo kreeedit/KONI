@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παιδίον</form>
+	<date>Wed Jul 27 00:41:11 EDT 2011</date>
+	<count>436</count>
+	<per10K>0.92</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>442</count>
+		<senses>
+			<senseContainer>
+				<sense>child</sense>
+				<count>332</count>
+				<prob>0.751</prob>
+				<loglikelihood>124.710</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.328</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>little child</sense>
+				<count>13</count>
+				<prob>0.029</prob>
+				<loglikelihood>48.276</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>little children</sense>
+				<count>10</count>
+				<prob>0.023</prob>
+				<loglikelihood>24.993</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

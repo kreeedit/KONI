@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τάφρος</form>
+	<date>Tue Jul 26 23:59:15 EDT 2011</date>
+	<count>192</count>
+	<per10K>0.405</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>245</count>
+		<senses>
+			<senseContainer>
+				<sense>trench</sense>
+				<count>90</count>
+				<prob>0.367</prob>
+				<loglikelihood>238.205</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.311</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ditch</sense>
+				<count>71</count>
+				<prob>0.290</prob>
+				<loglikelihood>212.228</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.352</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὀρύσσω</original>
+				<trans>dug a deep ditch</trans>
+				<loglikelihood>4.66</loglikelihood>
+				<count>13</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

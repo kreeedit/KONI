@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δρόμος</form>
+	<date>Wed Jul 27 00:25:19 EDT 2011</date>
+	<count>334</count>
+	<per10K>0.705</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>419</count>
+		<senses>
+			<senseContainer>
+				<sense>course</sense>
+				<count>66</count>
+				<prob>0.158</prob>
+				<loglikelihood>17.277</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>race</sense>
+				<count>53</count>
+				<prob>0.126</prob>
+				<loglikelihood>20.101</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.585</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>run</sense>
+				<count>44</count>
+				<prob>0.105</prob>
+				<loglikelihood>15.066</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.432</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>race - course</sense>
+				<count>9</count>
+				<prob>0.021</prob>
+				<loglikelihood>20.244</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δαίτης</form>
+	<date>Tue Jul 26 23:19:29 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>68</count>
+		<senses>
+			<senseContainer>
+				<sense>feast</sense>
+				<count>48</count>
+				<prob>0.706</prob>
+				<loglikelihood>21.379</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>prepare feast</sense>
+				<count>3</count>
+				<prob>0.044</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>banquet for</sense>
+				<count>3</count>
+				<prob>0.044</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>δαίνυμι</original>
+				<trans>feasted feast</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

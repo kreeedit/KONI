@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταγιγνώσκω</form>
+	<date>Wed Jul 27 00:15:42 EDT 2011</date>
+	<count>284</count>
+	<per10K>0.599</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>238</count>
+		<senses>
+			<senseContainer>
+				<sense>condemn</sense>
+				<count>68</count>
+				<prob>0.286</prob>
+				<loglikelihood>54.377</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>impute</sense>
+				<count>6</count>
+				<prob>0.025</prob>
+				<loglikelihood>5.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>had condemned</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>θάνατος</original>
+				<trans>condemned to death</trans>
+				<loglikelihood>2.66</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιθυμητικός</form>
+	<date>Tue Jul 26 22:43:42 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>appetitive</sense>
+				<count>7</count>
+				<prob>0.438</prob>
+				<loglikelihood>21.778</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>appetitive part</sense>
+				<count>4</count>
+				<prob>0.250</prob>
+				<loglikelihood>9.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

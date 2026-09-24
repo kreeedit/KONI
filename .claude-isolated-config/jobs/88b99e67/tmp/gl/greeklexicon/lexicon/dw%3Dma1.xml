@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δῶμα</form>
+	<date>Wed Jul 27 01:13:44 EDT 2011</date>
+	<count>643</count>
+	<per10K>1.357</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>582</count>
+		<senses>
+			<senseContainer>
+				<sense>house</sense>
+				<count>343</count>
+				<prob>0.589</prob>
+				<loglikelihood>153.703</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.627</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>palace</sense>
+				<count>63</count>
+				<prob>0.108</prob>
+				<loglikelihood>46.093</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.683</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>home</sense>
+				<count>62</count>
+				<prob>0.107</prob>
+				<loglikelihood>11.725</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.435</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hall</sense>
+				<count>45</count>
+				<prob>0.077</prob>
+				<loglikelihood>19.570</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.756</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ναίω</original>
+				<trans>dwelt house</trans>
+				<loglikelihood>4.46</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱκνέομαι</original>
+				<trans>come to thy house</trans>
+				<loglikelihood>3.65</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὑψερεφής</original>
+				<trans>high-roofed house</trans>
+				<loglikelihood>34.56</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ὀλύμπιος</original>
+				<trans>house of olympus</trans>
+				<loglikelihood>15.20</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Hesiod</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κλυτός</original>
+				<trans>glorious palace</trans>
+				<loglikelihood>5.23</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κίρκη</original>
+				<trans>circe house</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀργίζω</form>
+	<date>Wed Jul 27 00:32:06 EDT 2011</date>
+	<count>373</count>
+	<per10K>0.787</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>225</count>
+		<senses>
+			<senseContainer>
+				<sense>angry</sense>
+				<count>77</count>
+				<prob>0.342</prob>
+				<loglikelihood>53.390</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>anger</sense>
+				<count>31</count>
+				<prob>0.138</prob>
+				<loglikelihood>6.406</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.355</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>incense</sense>
+				<count>9</count>
+				<prob>0.040</prob>
+				<loglikelihood>4.098</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

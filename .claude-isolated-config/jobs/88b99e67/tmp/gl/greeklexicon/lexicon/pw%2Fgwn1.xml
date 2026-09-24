@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πώγων</form>
+	<date>Tue Jul 26 22:42:56 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>beard</sense>
+				<count>17</count>
+				<prob>0.654</prob>
+				<loglikelihood>16.753</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

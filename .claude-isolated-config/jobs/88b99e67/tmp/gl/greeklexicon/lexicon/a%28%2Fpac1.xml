@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἅπαξ</form>
+	<date>Wed Jul 27 00:06:34 EDT 2011</date>
+	<count>231</count>
+	<per10K>0.488</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>262</count>
+		<senses>
+			<senseContainer>
+				<sense>once</sense>
+				<count>120</count>
+				<prob>0.458</prob>
+				<loglikelihood>46.373</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have once</sense>
+				<count>12</count>
+				<prob>0.046</prob>
+				<loglikelihood>44.303</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>has once</sense>
+				<count>6</count>
+				<prob>0.023</prob>
+				<loglikelihood>17.997</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>once only</sense>
+				<count>6</count>
+				<prob>0.023</prob>
+				<loglikelihood>23.997</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>had once</sense>
+				<count>6</count>
+				<prob>0.023</prob>
+				<loglikelihood>23.997</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

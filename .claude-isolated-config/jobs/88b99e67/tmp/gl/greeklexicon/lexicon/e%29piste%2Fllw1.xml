@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιστέλλω</form>
+	<date>Wed Jul 27 00:09:47 EDT 2011</date>
+	<count>253</count>
+	<per10K>0.534</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>220</count>
+		<senses>
+			<senseContainer>
+				<sense>write</sense>
+				<count>41</count>
+				<prob>0.186</prob>
+				<loglikelihood>6.195</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.659</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent word</sense>
+				<count>6</count>
+				<prob>0.027</prob>
+				<loglikelihood>5.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σέβομαι</form>
+	<date>Tue Jul 26 23:21:53 EDT 2011</date>
+	<count>93</count>
+	<per10K>0.196</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>83</count>
+		<senses>
+			<senseContainer>
+				<sense>worship</sense>
+				<count>29</count>
+				<prob>0.349</prob>
+				<loglikelihood>9.862</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.414</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

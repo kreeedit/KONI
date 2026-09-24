@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄρθιος</form>
+	<date>Tue Jul 26 23:05:07 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>80</count>
+		<senses>
+			<senseContainer>
+				<sense>steep</sense>
+				<count>15</count>
+				<prob>0.188</prob>
+				<loglikelihood>10.111</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>column</sense>
+				<count>11</count>
+				<prob>0.138</prob>
+				<loglikelihood>7.561</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>up hill</sense>
+				<count>5</count>
+				<prob>0.062</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

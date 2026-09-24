@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλέος</form>
+	<date>Tue Jul 26 23:56:44 EDT 2011</date>
+	<count>183</count>
+	<per10K>0.386</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>186</count>
+		<senses>
+			<senseContainer>
+				<sense>fame</sense>
+				<count>53</count>
+				<prob>0.285</prob>
+				<loglikelihood>56.448</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.396</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>glory</sense>
+				<count>36</count>
+				<prob>0.194</prob>
+				<loglikelihood>11.138</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>renown</sense>
+				<count>11</count>
+				<prob>0.059</prob>
+				<loglikelihood>5.691</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kleos</sense>
+				<count>10</count>
+				<prob>0.054</prob>
+				<loglikelihood>24.997</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἐσθλός</original>
+				<trans>ponos renown</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

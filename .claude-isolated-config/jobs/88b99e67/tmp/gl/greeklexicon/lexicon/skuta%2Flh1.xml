@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκυτάλη</form>
+	<date>Tue Jul 26 22:39:59 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>scytale</sense>
+				<count>5</count>
+				<prob>0.217</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

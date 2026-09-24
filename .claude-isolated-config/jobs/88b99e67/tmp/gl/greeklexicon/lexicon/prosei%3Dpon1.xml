@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προσεῖπον</form>
+	<date>Wed Jul 27 00:31:44 EDT 2011</date>
+	<count>371</count>
+	<per10K>0.783</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>354</count>
+		<senses>
+			<senseContainer>
+				<sense>answer</sense>
+				<count>73</count>
+				<prob>0.206</prob>
+				<loglikelihood>11.293</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.959</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spake</sense>
+				<count>31</count>
+				<prob>0.088</prob>
+				<loglikelihood>7.263</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.968</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>flash</sense>
+				<count>9</count>
+				<prob>0.025</prob>
+				<loglikelihood>4.558</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spake unto</sense>
+				<count>9</count>
+				<prob>0.025</prob>
+				<loglikelihood>12.456</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>Πηνελόπεια</original>
+				<trans>penelope answered her</trans>
+				<loglikelihood>15.60</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Εὐρύκλεια</original>
+				<trans>eurycleia answered him</trans>
+				<loglikelihood>9.84</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>μιν</original>
+				<trans>spake him</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

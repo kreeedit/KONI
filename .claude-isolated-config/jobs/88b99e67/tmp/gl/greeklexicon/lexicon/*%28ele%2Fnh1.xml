@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἑλένη</form>
+	<date>Wed Jul 27 00:26:17 EDT 2011</date>
+	<count>338</count>
+	<per10K>0.713</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>317</count>
+		<senses>
+			<senseContainer>
+				<sense>helen</sense>
+				<count>263</count>
+				<prob>0.830</prob>
+				<loglikelihood>872.713</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>helena</sense>
+				<count>16</count>
+				<prob>0.050</prob>
+				<loglikelihood>56.881</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>helene</sense>
+				<count>7</count>
+				<prob>0.022</prob>
+				<loglikelihood>24.496</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>εὔκομος</original>
+				<trans>fair-haired helen</trans>
+				<loglikelihood>11.76</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

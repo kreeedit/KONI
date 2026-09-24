@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολίτης</form>
+	<date>Wed Jul 27 02:30:36 EDT 2011</date>
+	<count>1553</count>
+	<per10K>3.278</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1717</count>
+		<senses>
+			<senseContainer>
+				<sense>citizen</sense>
+				<count>1107</count>
+				<prob>0.645</prob>
+				<loglikelihood>2905.178</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow - citizens</sense>
+				<count>98</count>
+				<prob>0.057</prob>
+				<loglikelihood>345.814</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow citizens</sense>
+				<count>35</count>
+				<prob>0.020</prob>
+				<loglikelihood>125.541</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

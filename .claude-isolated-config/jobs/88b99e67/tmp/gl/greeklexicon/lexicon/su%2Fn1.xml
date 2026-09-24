@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύν</form>
+	<date>Wed Jul 27 03:18:12 EDT 2011</date>
+	<count>2323</count>
+	<per10K>4.903</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>3050</count>
+		<senses>
+			<senseContainer>
+				<sense>with</sense>
+				<count>1639</count>
+				<prob>0.537</prob>
+				<loglikelihood>921.428</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>together</sense>
+				<count>72</count>
+				<prob>0.024</prob>
+				<loglikelihood>20.247</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>came with</trans>
+				<loglikelihood>3.62</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἅλλομαι</original>
+				<trans>null</trans>
+				<loglikelihood>3.62</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

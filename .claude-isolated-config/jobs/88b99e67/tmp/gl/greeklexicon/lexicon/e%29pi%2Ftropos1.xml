@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίτροπος</form>
+	<date>Tue Jul 26 23:54:48 EDT 2011</date>
+	<count>175</count>
+	<per10K>0.369</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>192</count>
+		<senses>
+			<senseContainer>
+				<sense>guardian</sense>
+				<count>71</count>
+				<prob>0.370</prob>
+				<loglikelihood>63.994</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.394</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>procurator</sense>
+				<count>26</count>
+				<prob>0.135</prob>
+				<loglikelihood>57.524</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.962</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bailiff</sense>
+				<count>12</count>
+				<prob>0.062</prob>
+				<loglikelihood>38.396</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>steward</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>3.918</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>trustee</sense>
+				<count>6</count>
+				<prob>0.031</prob>
+				<loglikelihood>14.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>vicegerent</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

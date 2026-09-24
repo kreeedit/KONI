@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκοπέω</form>
+	<date>Wed Jul 27 01:56:45 EDT 2011</date>
+	<count>1123</count>
+	<per10K>2.37</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1009</count>
+		<senses>
+			<senseContainer>
+				<sense>consider</sense>
+				<count>248</count>
+				<prob>0.246</prob>
+				<loglikelihood>146.330</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.460</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>examine</sense>
+				<count>54</count>
+				<prob>0.054</prob>
+				<loglikelihood>35.363</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>look</sense>
+				<count>48</count>
+				<prob>0.048</prob>
+				<loglikelihood>8.127</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

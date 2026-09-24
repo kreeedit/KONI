@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄβατος</form>
+	<date>Tue Jul 26 22:57:03 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>impassable</sense>
+				<count>7</count>
+				<prob>0.123</prob>
+				<loglikelihood>8.166</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>inaccessible</sense>
+				<count>6</count>
+				<prob>0.105</prob>
+				<loglikelihood>7.578</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

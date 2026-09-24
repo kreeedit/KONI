@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρήσιμος</form>
+	<date>Wed Jul 27 01:11:49 EDT 2011</date>
+	<count>633</count>
+	<per10K>1.336</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>725</count>
+		<senses>
+			<senseContainer>
+				<sense>useful</sense>
+				<count>226</count>
+				<prob>0.312</prob>
+				<loglikelihood>526.323</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>utility</sense>
+				<count>31</count>
+				<prob>0.043</prob>
+				<loglikelihood>68.606</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.968</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>service</sense>
+				<count>26</count>
+				<prob>0.036</prob>
+				<loglikelihood>4.423</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>serviceable</sense>
+				<count>23</count>
+				<prob>0.032</prob>
+				<loglikelihood>45.972</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>most useful</sense>
+				<count>15</count>
+				<prob>0.021</prob>
+				<loglikelihood>44.982</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>useful for</sense>
+				<count>15</count>
+				<prob>0.021</prob>
+				<loglikelihood>52.923</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

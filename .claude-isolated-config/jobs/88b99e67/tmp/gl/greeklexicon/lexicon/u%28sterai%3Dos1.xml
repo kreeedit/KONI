@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑστεραῖος</form>
+	<date>Wed Jul 27 00:07:06 EDT 2011</date>
+	<count>235</count>
+	<per10K>0.496</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>245</count>
+		<senses>
+			<senseContainer>
+				<sense>next day</sense>
+				<count>105</count>
+				<prob>0.429</prob>
+				<loglikelihood>240.949</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.371</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>following day</sense>
+				<count>59</count>
+				<prob>0.241</prob>
+				<loglikelihood>158.206</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.729</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>day after</sense>
+				<count>9</count>
+				<prob>0.037</prob>
+				<loglikelihood>14.724</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>morrow</sense>
+				<count>8</count>
+				<prob>0.033</prob>
+				<loglikelihood>5.221</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄκανθα</form>
+	<date>Tue Jul 26 22:39:52 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>thorn</sense>
+				<count>12</count>
+				<prob>0.308</prob>
+				<loglikelihood>22.153</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>backbone</sense>
+				<count>3</count>
+				<prob>0.077</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προφητεύω</form>
+	<date>Tue Jul 26 23:09:17 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>47</count>
+		<senses>
+			<senseContainer>
+				<sense>prophesy</sense>
+				<count>23</count>
+				<prob>0.489</prob>
+				<loglikelihood>21.813</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.783</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

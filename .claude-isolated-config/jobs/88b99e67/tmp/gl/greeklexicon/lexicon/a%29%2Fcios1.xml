@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄξιος</form>
+	<date>Wed Jul 27 03:06:21 EDT 2011</date>
+	<count>2129</count>
+	<per10K>4.494</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2019</count>
+		<senses>
+			<senseContainer>
+				<sense>worthy</sense>
+				<count>368</count>
+				<prob>0.182</prob>
+				<loglikelihood>871.156</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>worth</sense>
+				<count>222</count>
+				<prob>0.110</prob>
+				<loglikelihood>546.885</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deserve</sense>
+				<count>183</count>
+				<prob>0.091</prob>
+				<loglikelihood>328.535</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>value</sense>
+				<count>54</count>
+				<prob>0.027</prob>
+				<loglikelihood>46.104</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>θέα</original>
+				<trans>worth seeing</trans>
+				<loglikelihood>14.34</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

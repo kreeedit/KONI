@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέτοικος</form>
+	<date>Tue Jul 26 23:26:06 EDT 2011</date>
+	<count>101</count>
+	<per10K>0.213</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>117</count>
+		<senses>
+			<senseContainer>
+				<sense>resident aliens</sense>
+				<count>33</count>
+				<prob>0.282</prob>
+				<loglikelihood>131.994</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alien</sense>
+				<count>18</count>
+				<prob>0.154</prob>
+				<loglikelihood>7.532</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>resident</sense>
+				<count>13</count>
+				<prob>0.111</prob>
+				<loglikelihood>19.312</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>resident alien</sense>
+				<count>13</count>
+				<prob>0.111</prob>
+				<loglikelihood>45.064</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>metic</sense>
+				<count>4</count>
+				<prob>0.034</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>metics</sense>
+				<count>4</count>
+				<prob>0.034</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

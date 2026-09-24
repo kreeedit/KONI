@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τόπος</form>
+	<date>Wed Jul 27 02:24:08 EDT 2011</date>
+	<count>1456</count>
+	<per10K>3.073</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>2142</count>
+		<senses>
+			<senseContainer>
+				<sense>place</sense>
+				<count>676</count>
+				<prob>0.316</prob>
+				<loglikelihood>627.602</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>region</sense>
+				<count>187</count>
+				<prob>0.087</prob>
+				<loglikelihood>357.093</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.471</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>district</sense>
+				<count>53</count>
+				<prob>0.025</prob>
+				<loglikelihood>53.062</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.377</relativeFreq></author>
+					<author><name>Polybius</name><relativeFreq>0.302</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὑπερδέξιος</original>
+				<trans>above of</trans>
+				<loglikelihood>8.92</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>εὔκαιρος</original>
+				<trans>mettle of</trans>
+				<loglikelihood>3.92</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἐπίπεδος</original>
+				<trans>king</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>9</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στένω</form>
+	<date>Tue Jul 26 23:43:42 EDT 2011</date>
+	<count>144</count>
+	<per10K>0.304</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>104</count>
+		<senses>
+			<senseContainer>
+				<sense>groan</sense>
+				<count>34</count>
+				<prob>0.327</prob>
+				<loglikelihood>21.013</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschylus</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mourn</sense>
+				<count>12</count>
+				<prob>0.115</prob>
+				<loglikelihood>4.681</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

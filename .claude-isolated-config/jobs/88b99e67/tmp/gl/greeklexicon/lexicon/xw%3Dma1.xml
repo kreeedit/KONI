@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χῶμα</form>
+	<date>Tue Jul 26 23:56:49 EDT 2011</date>
+	<count>183</count>
+	<per10K>0.386</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>207</count>
+		<senses>
+			<senseContainer>
+				<sense>bank</sense>
+				<count>57</count>
+				<prob>0.275</prob>
+				<loglikelihood>55.285</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.912</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mound</sense>
+				<count>47</count>
+				<prob>0.227</prob>
+				<loglikelihood>105.176</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.340</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dyke</sense>
+				<count>6</count>
+				<prob>0.029</prob>
+				<loglikelihood>11.075</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mole</sense>
+				<count>5</count>
+				<prob>0.024</prob>
+				<loglikelihood>8.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>raise banks</sense>
+				<count>5</count>
+				<prob>0.024</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

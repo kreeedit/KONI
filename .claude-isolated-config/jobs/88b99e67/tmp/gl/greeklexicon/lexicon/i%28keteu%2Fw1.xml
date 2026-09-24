@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱκετεύω</form>
+	<date>Wed Jul 27 00:10:44 EDT 2011</date>
+	<count>259</count>
+	<per10K>0.547</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>230</count>
+		<senses>
+			<senseContainer>
+				<sense>besought</sense>
+				<count>41</count>
+				<prob>0.178</prob>
+				<loglikelihood>54.211</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.585</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>beg</sense>
+				<count>25</count>
+				<prob>0.109</prob>
+				<loglikelihood>5.103</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>entreat</sense>
+				<count>21</count>
+				<prob>0.091</prob>
+				<loglikelihood>10.015</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.524</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>beseech</sense>
+				<count>17</count>
+				<prob>0.074</prob>
+				<loglikelihood>11.217</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>implore</sense>
+				<count>16</count>
+				<prob>0.070</prob>
+				<loglikelihood>11.005</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>supplicate</sense>
+				<count>6</count>
+				<prob>0.026</prob>
+				<loglikelihood>4.798</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

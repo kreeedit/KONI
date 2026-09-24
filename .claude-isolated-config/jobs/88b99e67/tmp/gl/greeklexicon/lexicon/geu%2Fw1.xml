@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γεύω</form>
+	<date>Tue Jul 26 23:38:19 EDT 2011</date>
+	<count>131</count>
+	<per10K>0.276</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>101</count>
+		<senses>
+			<senseContainer>
+				<sense>taste</sense>
+				<count>54</count>
+				<prob>0.535</prob>
+				<loglikelihood>81.560</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>way taste</sense>
+				<count>3</count>
+				<prob>0.030</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

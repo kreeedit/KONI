@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναός</form>
+	<date>Wed Jul 27 02:00:13 EDT 2011</date>
+	<count>1140</count>
+	<per10K>2.406</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>683</count>
+		<senses>
+			<senseContainer>
+				<sense>temple</sense>
+				<count>511</count>
+				<prob>0.748</prob>
+				<loglikelihood>469.696</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.497</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shrine</sense>
+				<count>26</count>
+				<prob>0.038</prob>
+				<loglikelihood>14.666</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.654</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

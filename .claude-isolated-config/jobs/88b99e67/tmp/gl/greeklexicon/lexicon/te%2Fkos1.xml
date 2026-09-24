@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τέκος</form>
+	<date>Tue Jul 26 23:25:38 EDT 2011</date>
+	<count>100</count>
+	<per10K>0.211</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>100</count>
+		<senses>
+			<senseContainer>
+				<sense>thou child</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

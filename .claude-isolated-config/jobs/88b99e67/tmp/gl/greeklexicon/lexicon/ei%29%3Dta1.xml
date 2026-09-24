@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἶτα</form>
+	<date>Wed Jul 27 02:34:11 EDT 2011</date>
+	<count>1613</count>
+	<per10K>3.404</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>1618</count>
+		<senses>
+			<senseContainer>
+				<sense>then</sense>
+				<count>762</count>
+				<prob>0.471</prob>
+				<loglikelihood>171.453</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.361</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>and then</sense>
+				<count>215</count>
+				<prob>0.133</prob>
+				<loglikelihood>405.825</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.349</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>next</sense>
+				<count>46</count>
+				<prob>0.028</prob>
+				<loglikelihood>7.308</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

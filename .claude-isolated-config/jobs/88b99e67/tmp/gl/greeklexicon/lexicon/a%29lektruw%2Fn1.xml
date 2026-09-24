@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀλεκτρυών</form>
+	<date>Tue Jul 26 22:56:40 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>40</count>
+		<senses>
+			<senseContainer>
+				<sense>cock</sense>
+				<count>32</count>
+				<prob>0.800</prob>
+				<loglikelihood>83.591</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.344</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alektryon</sense>
+				<count>3</count>
+				<prob>0.075</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δάιος</form>
+	<date>Tue Jul 26 23:03:05 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>82</count>
+		<senses>
+			<senseContainer>
+				<sense>foemen</sense>
+				<count>14</count>
+				<prob>0.171</prob>
+				<loglikelihood>24.498</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

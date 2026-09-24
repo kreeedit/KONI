@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑποχωρέω</form>
+	<date>Tue Jul 26 23:40:45 EDT 2011</date>
+	<count>137</count>
+	<per10K>0.289</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>146</count>
+		<senses>
+			<senseContainer>
+				<sense>retreat</sense>
+				<count>22</count>
+				<prob>0.151</prob>
+				<loglikelihood>7.739</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.455</relativeFreq></author>
+					<author><name>Thucydides</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>retired before</sense>
+				<count>3</count>
+				<prob>0.021</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

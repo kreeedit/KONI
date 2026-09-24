@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καιρός</form>
+	<date>Wed Jul 27 02:14:52 EDT 2011</date>
+	<count>1341</count>
+	<per10K>2.83</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>994</count>
+		<senses>
+			<senseContainer>
+				<sense>time</sense>
+				<count>111</count>
+				<prob>0.112</prob>
+				<loglikelihood>10.890</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>opportunity</sense>
+				<count>62</count>
+				<prob>0.062</prob>
+				<loglikelihood>51.845</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>occasion</sense>
+				<count>52</count>
+				<prob>0.052</prob>
+				<loglikelihood>19.652</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.346</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>crisis</sense>
+				<count>35</count>
+				<prob>0.035</prob>
+				<loglikelihood>62.763</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.314</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὅς</original>
+				<trans>null</trans>
+				<loglikelihood>5.27</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

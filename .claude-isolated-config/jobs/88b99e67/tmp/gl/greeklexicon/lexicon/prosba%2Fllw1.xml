@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προσβάλλω</form>
+	<date>Wed Jul 27 00:05:13 EDT 2011</date>
+	<count>223</count>
+	<per10K>0.471</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>178</count>
+		<senses>
+			<senseContainer>
+				<sense>assault</sense>
+				<count>19</count>
+				<prob>0.107</prob>
+				<loglikelihood>8.293</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.368</relativeFreq></author>
+					<author><name>Thucydides</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

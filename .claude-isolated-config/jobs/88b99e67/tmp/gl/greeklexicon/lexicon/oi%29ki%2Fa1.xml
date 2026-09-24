@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκία</form>
+	<date>Wed Jul 27 02:01:57 EDT 2011</date>
+	<count>1165</count>
+	<per10K>2.459</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1305</count>
+		<senses>
+			<senseContainer>
+				<sense>house</sense>
+				<count>849</count>
+				<prob>0.651</prob>
+				<loglikelihood>941.886</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>household</sense>
+				<count>66</count>
+				<prob>0.051</prob>
+				<loglikelihood>86.116</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.530</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>family</sense>
+				<count>61</count>
+				<prob>0.047</prob>
+				<loglikelihood>23.798</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.361</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>home</sense>
+				<count>56</count>
+				<prob>0.043</prob>
+				<loglikelihood>9.492</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

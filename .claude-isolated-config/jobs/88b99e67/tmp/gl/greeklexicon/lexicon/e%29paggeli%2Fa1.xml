@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπαγγελία</form>
+	<date>Tue Jul 26 23:15:34 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>131</count>
+		<senses>
+			<senseContainer>
+				<sense>promise</sense>
+				<count>36</count>
+				<prob>0.275</prob>
+				<loglikelihood>6.814</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

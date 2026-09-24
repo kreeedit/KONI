@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μηνύω</form>
+	<date>Wed Jul 27 00:06:38 EDT 2011</date>
+	<count>232</count>
+	<per10K>0.49</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>233</count>
+		<senses>
+			<senseContainer>
+				<sense>inform</sense>
+				<count>29</count>
+				<prob>0.124</prob>
+				<loglikelihood>7.617</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.448</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>information</sense>
+				<count>18</count>
+				<prob>0.077</prob>
+				<loglikelihood>9.250</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκρόπολις</form>
+	<date>Wed Jul 27 00:28:39 EDT 2011</date>
+	<count>354</count>
+	<per10K>0.747</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>371</count>
+		<senses>
+			<senseContainer>
+				<sense>acropolis</sense>
+				<count>221</count>
+				<prob>0.596</prob>
+				<loglikelihood>769.052</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>citadel</sense>
+				<count>101</count>
+				<prob>0.272</prob>
+				<loglikelihood>140.649</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.356</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πέραιος</form>
+	<date>Tue Jul 26 23:14:27 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>70</count>
+		<senses>
+			<senseContainer>
+				<sense>perea</sense>
+				<count>15</count>
+				<prob>0.214</prob>
+				<loglikelihood>42.856</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>peraea</sense>
+				<count>8</count>
+				<prob>0.114</prob>
+				<loglikelihood>18.285</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>opposite mainland</sense>
+				<count>4</count>
+				<prob>0.057</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>opposite shore</sense>
+				<count>4</count>
+				<prob>0.057</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>country on</sense>
+				<count>4</count>
+				<prob>0.057</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

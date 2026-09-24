@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάσσων</form>
+	<date>Tue Jul 26 23:33:35 EDT 2011</date>
+	<count>118</count>
+	<per10K>0.249</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>167</count>
+		<senses>
+			<senseContainer>
+				<sense>more quickly</sense>
+				<count>26</count>
+				<prob>0.156</prob>
+				<loglikelihood>96.565</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.346</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sooner than</sense>
+				<count>5</count>
+				<prob>0.030</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

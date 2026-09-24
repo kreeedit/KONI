@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περισσός</form>
+	<date>Tue Jul 26 23:57:43 EDT 2011</date>
+	<count>186</count>
+	<per10K>0.393</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>127</count>
+		<senses>
+			<senseContainer>
+				<sense>odd</sense>
+				<count>33</count>
+				<prob>0.260</prob>
+				<loglikelihood>65.009</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.697</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>odd number</sense>
+				<count>3</count>
+				<prob>0.024</prob>
+				<loglikelihood>5.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>33</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

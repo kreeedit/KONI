@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποδέχομαι</form>
+	<date>Wed Jul 27 00:07:52 EDT 2011</date>
+	<count>240</count>
+	<per10K>0.507</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>250</count>
+		<senses>
+			<senseContainer>
+				<sense>accept</sense>
+				<count>62</count>
+				<prob>0.248</prob>
+				<loglikelihood>24.777</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.452</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

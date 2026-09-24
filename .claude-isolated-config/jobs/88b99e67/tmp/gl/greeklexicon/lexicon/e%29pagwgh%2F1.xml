@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπαγωγή</form>
+	<date>Tue Jul 26 22:55:50 EDT 2011</date>
+	<count>44</count>
+	<per10K>0.093</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>induction</sense>
+				<count>15</count>
+				<prob>0.441</prob>
+				<loglikelihood>40.908</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

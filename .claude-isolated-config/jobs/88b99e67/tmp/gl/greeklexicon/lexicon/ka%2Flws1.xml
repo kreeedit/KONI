@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάλως</form>
+	<date>Tue Jul 26 22:45:18 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>rope</sense>
+				<count>10</count>
+				<prob>0.238</prob>
+				<loglikelihood>6.451</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>calos</sense>
+				<count>3</count>
+				<prob>0.071</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

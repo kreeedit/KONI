@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἶβις</form>
+	<date>Tue Jul 26 22:29:53 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>11</count>
+		<senses>
+			<senseContainer>
+				<sense>ibis</sense>
+				<count>9</count>
+				<prob>0.818</prob>
+				<loglikelihood>27.000</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

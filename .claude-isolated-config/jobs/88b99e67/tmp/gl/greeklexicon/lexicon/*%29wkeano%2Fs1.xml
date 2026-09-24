@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ὠκεανός</form>
+	<date>Tue Jul 26 23:43:04 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>129</count>
+		<senses>
+			<senseContainer>
+				<sense>ocean</sense>
+				<count>71</count>
+				<prob>0.550</prob>
+				<loglikelihood>149.352</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>oceanus</sense>
+				<count>29</count>
+				<prob>0.225</prob>
+				<loglikelihood>90.913</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.759</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>okeanos</sense>
+				<count>5</count>
+				<prob>0.039</prob>
+				<loglikelihood>6.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

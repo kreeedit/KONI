@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποδημία</form>
+	<date>Tue Jul 26 23:03:27 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>absence</sense>
+				<count>11</count>
+				<prob>0.143</prob>
+				<loglikelihood>4.791</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

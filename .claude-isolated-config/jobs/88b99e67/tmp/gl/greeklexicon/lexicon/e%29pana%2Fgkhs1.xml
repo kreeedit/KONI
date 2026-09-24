@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπανάγκης</form>
+	<date>Tue Jul 26 22:47:26 EDT 2011</date>
+	<count>33</count>
+	<per10K>0.07</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>compulsory</sense>
+				<count>11</count>
+				<prob>0.297</prob>
+				<loglikelihood>15.612</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

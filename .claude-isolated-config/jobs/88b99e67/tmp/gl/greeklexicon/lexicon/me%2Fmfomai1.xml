@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέμφομαι</form>
+	<date>Wed Jul 27 00:14:42 EDT 2011</date>
+	<count>277</count>
+	<per10K>0.585</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>221</count>
+		<senses>
+			<senseContainer>
+				<sense>blame</sense>
+				<count>59</count>
+				<prob>0.267</prob>
+				<loglikelihood>25.577</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.305</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fault</sense>
+				<count>20</count>
+				<prob>0.090</prob>
+				<loglikelihood>7.612</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>complain</sense>
+				<count>17</count>
+				<prob>0.077</prob>
+				<loglikelihood>7.858</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>find fault</sense>
+				<count>14</count>
+				<prob>0.063</prob>
+				<loglikelihood>17.038</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

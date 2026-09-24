@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δρυμός</form>
+	<date>Tue Jul 26 23:00:47 EDT 2011</date>
+	<count>53</count>
+	<per10K>0.112</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>forest</sense>
+				<count>9</count>
+				<prob>0.231</prob>
+				<loglikelihood>4.378</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

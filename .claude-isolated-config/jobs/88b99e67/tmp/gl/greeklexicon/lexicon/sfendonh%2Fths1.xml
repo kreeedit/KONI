@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σφενδονήτης</form>
+	<date>Tue Jul 26 22:58:12 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>slinger</sense>
+				<count>28</count>
+				<prob>0.667</prob>
+				<loglikelihood>62.719</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.393</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

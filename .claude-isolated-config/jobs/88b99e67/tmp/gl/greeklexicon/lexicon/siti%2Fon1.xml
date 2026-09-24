@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σιτίον</form>
+	<date>Tue Jul 26 23:32:37 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>103</count>
+		<senses>
+			<senseContainer>
+				<sense>food</sense>
+				<count>47</count>
+				<prob>0.456</prob>
+				<loglikelihood>14.647</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.383</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>food for</sense>
+				<count>4</count>
+				<prob>0.039</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>provisions for</sense>
+				<count>4</count>
+				<prob>0.039</prob>
+				<loglikelihood>4.266</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

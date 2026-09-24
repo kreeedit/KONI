@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νῆσος</form>
+	<date>Wed Jul 27 01:51:48 EDT 2011</date>
+	<count>1050</count>
+	<per10K>2.216</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1164</count>
+		<senses>
+			<senseContainer>
+				<sense>island</sense>
+				<count>859</count>
+				<prob>0.738</prob>
+				<loglikelihood>2820.659</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>isle</sense>
+				<count>56</count>
+				<prob>0.048</prob>
+				<loglikelihood>152.868</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.554</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>μάκαρ</original>
+				<trans>isles of the blest</trans>
+				<loglikelihood>3.82</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

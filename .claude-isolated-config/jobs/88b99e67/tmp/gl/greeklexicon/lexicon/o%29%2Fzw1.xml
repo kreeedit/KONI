@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄζω</form>
+	<date>Tue Jul 26 22:51:47 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>odor</sense>
+				<count>4</count>
+				<prob>0.114</prob>
+				<loglikelihood>6.400</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stink</sense>
+				<count>3</count>
+				<prob>0.086</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

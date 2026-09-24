@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀντίλοχος</form>
+	<date>Tue Jul 26 23:30:28 EDT 2011</date>
+	<count>110</count>
+	<per10K>0.232</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>antilochus</sense>
+				<count>49</count>
+				<prob>0.891</prob>
+				<loglikelihood>131.559</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.796</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>antilokhos</sense>
+				<count>11</count>
+				<prob>0.200</prob>
+				<loglikelihood>12.409</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

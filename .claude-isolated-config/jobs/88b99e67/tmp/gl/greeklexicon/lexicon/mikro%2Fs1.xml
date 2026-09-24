@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μικρός</form>
+	<date>Wed Jul 27 03:01:40 EDT 2011</date>
+	<count>2072</count>
+	<per10K>4.373</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1205</count>
+		<senses>
+			<senseContainer>
+				<sense>small</sense>
+				<count>347</count>
+				<prob>0.288</prob>
+				<loglikelihood>429.044</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.447</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>little</sense>
+				<count>181</count>
+				<prob>0.150</prob>
+				<loglikelihood>122.937</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.387</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>slight</sense>
+				<count>65</count>
+				<prob>0.054</prob>
+				<loglikelihood>70.288</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.431</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>short</sense>
+				<count>27</count>
+				<prob>0.022</prob>
+				<loglikelihood>5.448</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

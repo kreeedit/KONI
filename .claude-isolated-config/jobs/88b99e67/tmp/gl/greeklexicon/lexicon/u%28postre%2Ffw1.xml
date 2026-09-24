@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑποστρέφω</form>
+	<date>Wed Jul 27 00:00:24 EDT 2011</date>
+	<count>196</count>
+	<per10K>0.414</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>151</count>
+		<senses>
+			<senseContainer>
+				<sense>return</sense>
+				<count>67</count>
+				<prob>0.444</prob>
+				<loglikelihood>10.451</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.687</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>then returned</sense>
+				<count>5</count>
+				<prob>0.033</prob>
+				<loglikelihood>8.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>so returned</sense>
+				<count>4</count>
+				<prob>0.026</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

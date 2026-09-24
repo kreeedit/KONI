@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνόσιος</form>
+	<date>Wed Jul 27 00:04:04 EDT 2011</date>
+	<count>214</count>
+	<per10K>0.452</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>242</count>
+		<senses>
+			<senseContainer>
+				<sense>unholy</sense>
+				<count>47</count>
+				<prob>0.194</prob>
+				<loglikelihood>133.861</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.511</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>impious</sense>
+				<count>33</count>
+				<prob>0.136</prob>
+				<loglikelihood>27.384</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>most impious</sense>
+				<count>8</count>
+				<prob>0.033</prob>
+				<loglikelihood>19.689</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>profane</sense>
+				<count>8</count>
+				<prob>0.033</prob>
+				<loglikelihood>7.526</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unholiness</sense>
+				<count>7</count>
+				<prob>0.029</prob>
+				<loglikelihood>27.997</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>most unholy</sense>
+				<count>7</count>
+				<prob>0.029</prob>
+				<loglikelihood>24.497</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>8</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

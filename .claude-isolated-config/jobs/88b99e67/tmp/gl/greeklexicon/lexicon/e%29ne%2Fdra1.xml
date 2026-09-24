@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐνέδρα</form>
+	<date>Tue Jul 26 23:35:35 EDT 2011</date>
+	<count>123</count>
+	<per10K>0.26</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>ambush</sense>
+				<count>31</count>
+				<prob>0.223</prob>
+				<loglikelihood>33.420</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.516</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ambuscade</sense>
+				<count>11</count>
+				<prob>0.079</prob>
+				<loglikelihood>18.613</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

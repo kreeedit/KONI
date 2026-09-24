@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κομάω</form>
+	<date>Tue Jul 26 23:24:52 EDT 2011</date>
+	<count>98</count>
+	<per10K>0.207</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>47</count>
+		<senses>
+			<senseContainer>
+				<sense>hair long</sense>
+				<count>3</count>
+				<prob>0.064</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

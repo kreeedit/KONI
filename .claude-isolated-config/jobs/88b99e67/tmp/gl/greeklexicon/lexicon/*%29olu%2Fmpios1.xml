@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ὀλύμπιος</form>
+	<date>Wed Jul 27 00:03:34 EDT 2011</date>
+	<count>210</count>
+	<per10K>0.443</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>136</count>
+		<senses>
+			<senseContainer>
+				<sense>olympian</sense>
+				<count>53</count>
+				<prob>0.390</prob>
+				<loglikelihood>92.089</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.509</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>olympic games</sense>
+				<count>13</count>
+				<prob>0.096</prob>
+				<loglikelihood>23.308</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>olympic</sense>
+				<count>13</count>
+				<prob>0.096</prob>
+				<loglikelihood>8.664</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>olympian zeus</sense>
+				<count>10</count>
+				<prob>0.074</prob>
+				<loglikelihood>39.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dwellings on olympus</sense>
+				<count>7</count>
+				<prob>0.051</prob>
+				<loglikelihood>27.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>δῶμα</original>
+				<trans>house of olympus</trans>
+				<loglikelihood>2.44</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Hesiod</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

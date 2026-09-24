@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τοῖχος</form>
+	<date>Tue Jul 26 23:31:48 EDT 2011</date>
+	<count>113</count>
+	<per10K>0.239</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>137</count>
+		<senses>
+			<senseContainer>
+				<sense>wall</sense>
+				<count>96</count>
+				<prob>0.701</prob>
+				<loglikelihood>19.858</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

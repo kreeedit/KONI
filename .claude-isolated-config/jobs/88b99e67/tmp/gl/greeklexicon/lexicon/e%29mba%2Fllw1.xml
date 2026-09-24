@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμβάλλω</form>
+	<date>Wed Jul 27 00:52:22 EDT 2011</date>
+	<count>502</count>
+	<per10K>1.06</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>558</count>
+		<senses>
+			<senseContainer>
+				<sense>invade</sense>
+				<count>49</count>
+				<prob>0.088</prob>
+				<loglikelihood>31.138</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.490</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>throw</sense>
+				<count>29</count>
+				<prob>0.052</prob>
+				<loglikelihood>5.506</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>empty</sense>
+				<count>17</count>
+				<prob>0.030</prob>
+				<loglikelihood>5.032</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>εἰς</original>
+				<trans>empties into</trans>
+				<loglikelihood>4.32</loglikelihood>
+				<count>248</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

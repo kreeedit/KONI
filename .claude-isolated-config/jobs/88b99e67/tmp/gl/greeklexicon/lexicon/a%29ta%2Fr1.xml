@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀτάρ</form>
+	<date>Wed Jul 27 02:25:57 EDT 2011</date>
+	<count>1471</count>
+	<per10K>3.105</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>1277</count>
+		<senses>
+			<senseContainer>
+				<sense>but</sense>
+				<count>661</count>
+				<prob>0.518</prob>
+				<loglikelihood>41.347</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.809</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

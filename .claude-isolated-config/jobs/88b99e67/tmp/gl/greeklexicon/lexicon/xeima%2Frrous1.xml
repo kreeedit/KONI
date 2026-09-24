@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χειμάρρους</form>
+	<date>Tue Jul 26 23:04:40 EDT 2011</date>
+	<count>59</count>
+	<per10K>0.125</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>torrent</sense>
+				<count>19</count>
+				<prob>0.302</prob>
+				<loglikelihood>30.082</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.421</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brook</sense>
+				<count>13</count>
+				<prob>0.206</prob>
+				<loglikelihood>39.763</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.846</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>winter torrent</sense>
+				<count>4</count>
+				<prob>0.063</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>winter torrents</sense>
+				<count>3</count>
+				<prob>0.048</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

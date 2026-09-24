@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἰλίπους</form>
+	<date>Tue Jul 26 22:33:48 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>17</count>
+		<senses>
+			<senseContainer>
+				<sense>shambling gait</sense>
+				<count>9</count>
+				<prob>0.529</prob>
+				<loglikelihood>36.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shamble</sense>
+				<count>4</count>
+				<prob>0.235</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

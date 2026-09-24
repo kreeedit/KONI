@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατέχω</form>
+	<date>Wed Jul 27 01:33:10 EDT 2011</date>
+	<count>842</count>
+	<per10K>1.777</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>848</count>
+		<senses>
+			<senseContainer>
+				<sense>hold</sense>
+				<count>55</count>
+				<prob>0.065</prob>
+				<loglikelihood>7.343</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>occupy</sense>
+				<count>42</count>
+				<prob>0.050</prob>
+				<loglikelihood>18.858</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>possession</sense>
+				<count>32</count>
+				<prob>0.038</prob>
+				<loglikelihood>5.483</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>restrain</sense>
+				<count>32</count>
+				<prob>0.038</prob>
+				<loglikelihood>34.088</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>took possession</sense>
+				<count>28</count>
+				<prob>0.033</prob>
+				<loglikelihood>44.130</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>retain</sense>
+				<count>28</count>
+				<prob>0.033</prob>
+				<loglikelihood>21.738</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.679</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>detain</sense>
+				<count>17</count>
+				<prob>0.020</prob>
+				<loglikelihood>25.665</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

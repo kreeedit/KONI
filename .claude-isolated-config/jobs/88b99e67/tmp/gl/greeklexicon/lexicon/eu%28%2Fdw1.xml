@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὕδω</form>
+	<date>Tue Jul 26 23:39:28 EDT 2011</date>
+	<count>135</count>
+	<per10K>0.285</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>sleep</sense>
+				<count>57</count>
+				<prob>0.588</prob>
+				<loglikelihood>21.762</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.561</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>slumber</sense>
+				<count>11</count>
+				<prob>0.113</prob>
+				<loglikelihood>10.296</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχέτλιος</form>
+	<date>Tue Jul 26 23:34:58 EDT 2011</date>
+	<count>122</count>
+	<per10K>0.257</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>136</count>
+		<senses>
+			<senseContainer>
+				<sense>cruel</sense>
+				<count>28</count>
+				<prob>0.206</prob>
+				<loglikelihood>19.116</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rash man</sense>
+				<count>3</count>
+				<prob>0.022</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

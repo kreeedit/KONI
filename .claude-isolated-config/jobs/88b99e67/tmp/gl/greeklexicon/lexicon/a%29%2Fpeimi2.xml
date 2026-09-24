@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄπειμι</form>
+	<date>Wed Jul 27 01:18:15 EDT 2011</date>
+	<count>686</count>
+	<per10K>1.448</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>547</count>
+		<senses>
+			<senseContainer>
+				<sense>go</sense>
+				<count>100</count>
+				<prob>0.183</prob>
+				<loglikelihood>8.344</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>depart</sense>
+				<count>60</count>
+				<prob>0.110</prob>
+				<loglikelihood>55.546</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.367</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>go away</sense>
+				<count>32</count>
+				<prob>0.059</prob>
+				<loglikelihood>34.980</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.375</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.344</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>went away</sense>
+				<count>22</count>
+				<prob>0.040</prob>
+				<loglikelihood>13.332</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.409</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

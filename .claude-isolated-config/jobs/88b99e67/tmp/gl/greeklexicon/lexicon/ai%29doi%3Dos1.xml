@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἰδοῖος</form>
+	<date>Tue Jul 26 23:34:00 EDT 2011</date>
+	<count>119</count>
+	<per10K>0.251</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>99</count>
+		<senses>
+			<senseContainer>
+				<sense>honored</sense>
+				<count>19</count>
+				<prob>0.192</prob>
+				<loglikelihood>4.942</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.684</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>upper servant</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>genitals</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>7.110</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>privy parts</sense>
+				<count>4</count>
+				<prob>0.040</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

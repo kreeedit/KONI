@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξοστρακίζω</form>
+	<date>Tue Jul 26 22:41:05 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>ostracize</sense>
+				<count>12</count>
+				<prob>0.750</prob>
+				<loglikelihood>22.154</loglikelihood>
+				<authorContainer>
+					<author><name>Plutarch</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ostracised</sense>
+				<count>3</count>
+				<prob>0.188</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

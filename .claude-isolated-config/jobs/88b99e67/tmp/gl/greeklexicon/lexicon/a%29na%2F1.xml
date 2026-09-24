@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνά</form>
+	<date>Wed Jul 27 00:56:26 EDT 2011</date>
+	<count>522</count>
+	<per10K>1.102</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>1356</count>
+		<senses>
+			<senseContainer>
+				<sense>throughout</sense>
+				<count>81</count>
+				<prob>0.060</prob>
+				<loglikelihood>71.722</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.432</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>through</sense>
+				<count>60</count>
+				<prob>0.044</prob>
+				<loglikelihood>5.876</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.517</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>σκεδάννυμι</original>
+				<trans>dispersed all over</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>7</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

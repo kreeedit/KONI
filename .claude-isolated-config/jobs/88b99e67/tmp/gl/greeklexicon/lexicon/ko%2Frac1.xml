@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κόραξ</form>
+	<date>Tue Jul 26 23:15:23 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>83</count>
+		<senses>
+			<senseContainer>
+				<sense>crow</sense>
+				<count>38</count>
+				<prob>0.458</prob>
+				<loglikelihood>87.511</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.447</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>raven</sense>
+				<count>10</count>
+				<prob>0.120</prob>
+				<loglikelihood>33.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>corax</sense>
+				<count>8</count>
+				<prob>0.096</prob>
+				<loglikelihood>28.443</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>crows ,"</sense>
+				<count>3</count>
+				<prob>0.036</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>get gone</sense>
+				<count>3</count>
+				<prob>0.036</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

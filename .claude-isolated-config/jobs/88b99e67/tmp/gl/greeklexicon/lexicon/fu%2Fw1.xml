@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φύω</form>
+	<date>Wed Jul 27 02:32:33 EDT 2011</date>
+	<count>1579</count>
+	<per10K>3.333</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1496</count>
+		<senses>
+			<senseContainer>
+				<sense>natural</sense>
+				<count>306</count>
+				<prob>0.205</prob>
+				<loglikelihood>394.812</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>by nature</sense>
+				<count>261</count>
+				<prob>0.174</prob>
+				<loglikelihood>962.239</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.318</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.314</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nature</sense>
+				<count>101</count>
+				<prob>0.068</prob>
+				<loglikelihood>25.161</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>grow</sense>
+				<count>89</count>
+				<prob>0.059</prob>
+				<loglikelihood>64.842</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.393</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>born</sense>
+				<count>68</count>
+				<prob>0.045</prob>
+				<loglikelihood>26.794</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.382</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐγώ</form>
+	<date>Wed Jul 27 09:21:44 EDT 2011</date>
+	<count>40919</count>
+	<per10K>86.365</per10K>
+	<posContainer>
+		<pos>pron</pos>
+		<count>36722</count>
+		<senses>
+			<senseContainer>
+				<sense>i</sense>
+				<count>11031</count>
+				<prob>0.300</prob>
+				<loglikelihood>29310.864</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>me</sense>
+				<count>10359</count>
+				<prob>0.282</prob>
+				<loglikelihood>34994.297</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>my</sense>
+				<count>3673</count>
+				<prob>0.100</prob>
+				<loglikelihood>6482.128</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>us</sense>
+				<count>2511</count>
+				<prob>0.068</prob>
+				<loglikelihood>4914.006</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>we</sense>
+				<count>2305</count>
+				<prob>0.063</prob>
+				<loglikelihood>3114.988</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>our</sense>
+				<count>1250</count>
+				<prob>0.034</prob>
+				<loglikelihood>1526.021</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>am</sense>
+				<count>808</count>
+				<prob>0.022</prob>
+				<loglikelihood>1331.148</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

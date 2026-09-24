@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσόθεος</form>
+	<date>Tue Jul 26 22:45:49 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>godlike</sense>
+				<count>17</count>
+				<prob>0.548</prob>
+				<loglikelihood>7.135</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.824</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>φώς</original>
+				<trans>a godlike man</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

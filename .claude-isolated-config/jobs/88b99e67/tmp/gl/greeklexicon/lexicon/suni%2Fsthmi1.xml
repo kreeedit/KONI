@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνίστημι</form>
+	<date>Wed Jul 27 00:58:58 EDT 2011</date>
+	<count>538</count>
+	<per10K>1.136</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>515</count>
+		<senses>
+			<senseContainer>
+				<sense>construct</sense>
+				<count>20</count>
+				<prob>0.039</prob>
+				<loglikelihood>14.936</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.600</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>introduce</sense>
+				<count>18</count>
+				<prob>0.035</prob>
+				<loglikelihood>4.334</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νόστος</form>
+	<date>Tue Jul 26 23:44:56 EDT 2011</date>
+	<count>148</count>
+	<per10K>0.312</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>152</count>
+		<senses>
+			<senseContainer>
+				<sense>return</sense>
+				<count>80</count>
+				<prob>0.526</prob>
+				<loglikelihood>14.903</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.575</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nostos</sense>
+				<count>7</count>
+				<prob>0.046</prob>
+				<loglikelihood>10.887</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>homecoming</sense>
+				<count>5</count>
+				<prob>0.033</prob>
+				<loglikelihood>9.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

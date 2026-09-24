@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Θησεύς</form>
+	<date>Wed Jul 27 00:29:36 EDT 2011</date>
+	<count>358</count>
+	<per10K>0.756</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>159</count>
+		<senses>
+			<senseContainer>
+				<sense>theseus</sense>
+				<count>138</count>
+				<prob>0.868</prob>
+				<loglikelihood>220.779</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.478</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

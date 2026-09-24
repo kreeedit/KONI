@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παιανίζω</form>
+	<date>Tue Jul 26 22:43:57 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>paean</sense>
+				<count>8</count>
+				<prob>0.533</prob>
+				<loglikelihood>4.339</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

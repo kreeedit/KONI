@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λιμήν</form>
+	<date>Wed Jul 27 01:05:19 EDT 2011</date>
+	<count>588</count>
+	<per10K>1.241</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>624</count>
+		<senses>
+			<senseContainer>
+				<sense>harbor</sense>
+				<count>300</count>
+				<prob>0.481</prob>
+				<loglikelihood>1121.255</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>harbors</sense>
+				<count>86</count>
+				<prob>0.138</prob>
+				<loglikelihood>314.639</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.314</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>harbour</sense>
+				<count>80</count>
+				<prob>0.128</prob>
+				<loglikelihood>185.428</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.438</relativeFreq></author>
+					<author><name>Thucydides</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>port</sense>
+				<count>23</count>
+				<prob>0.037</prob>
+				<loglikelihood>18.702</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>haven</sense>
+				<count>19</count>
+				<prob>0.030</prob>
+				<loglikelihood>32.069</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.526</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

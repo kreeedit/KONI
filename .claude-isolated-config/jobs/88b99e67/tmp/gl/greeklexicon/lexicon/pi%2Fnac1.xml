@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πίναξ</form>
+	<date>Tue Jul 26 22:53:07 EDT 2011</date>
+	<count>40</count>
+	<per10K>0.084</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>48</count>
+		<senses>
+			<senseContainer>
+				<sense>tablet</sense>
+				<count>11</count>
+				<prob>0.229</prob>
+				<loglikelihood>5.318</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>platter</sense>
+				<count>9</count>
+				<prob>0.188</prob>
+				<loglikelihood>23.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

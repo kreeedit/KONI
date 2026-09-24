@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπόγονος</form>
+	<date>Tue Jul 26 23:41:08 EDT 2011</date>
+	<count>138</count>
+	<per10K>0.291</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>153</count>
+		<senses>
+			<senseContainer>
+				<sense>descendant</sense>
+				<count>98</count>
+				<prob>0.641</prob>
+				<loglikelihood>157.425</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>posterity</sense>
+				<count>11</count>
+				<prob>0.072</prob>
+				<loglikelihood>4.438</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

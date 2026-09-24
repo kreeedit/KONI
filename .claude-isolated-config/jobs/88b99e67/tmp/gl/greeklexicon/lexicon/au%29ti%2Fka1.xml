@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐτίκα</form>
+	<date>Wed Jul 27 01:35:48 EDT 2011</date>
+	<count>861</count>
+	<per10K>1.817</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>1067</count>
+		<senses>
+			<senseContainer>
+				<sense>forthwith</sense>
+				<count>112</count>
+				<prob>0.105</prob>
+				<loglikelihood>220.848</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.661</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>straightway</sense>
+				<count>111</count>
+				<prob>0.104</prob>
+				<loglikelihood>173.346</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.712</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at once</sense>
+				<count>95</count>
+				<prob>0.089</prob>
+				<loglikelihood>49.975</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.347</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>present</sense>
+				<count>73</count>
+				<prob>0.068</prob>
+				<loglikelihood>8.376</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>soon</sense>
+				<count>61</count>
+				<prob>0.057</prob>
+				<loglikelihood>19.299</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>moment</sense>
+				<count>26</count>
+				<prob>0.024</prob>
+				<loglikelihood>6.454</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

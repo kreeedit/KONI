@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λουτρόν</form>
+	<date>Tue Jul 26 23:22:53 EDT 2011</date>
+	<count>95</count>
+	<per10K>0.201</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>72</count>
+		<senses>
+			<senseContainer>
+				<sense>bath</sense>
+				<count>36</count>
+				<prob>0.500</prob>
+				<loglikelihood>36.504</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

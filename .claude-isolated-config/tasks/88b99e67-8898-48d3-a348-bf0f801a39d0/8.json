@@ -1,0 +1,9 @@
+{
+  "id": "8",
+  "subject": "KWIC + párhuzamos locus + n-gram frazeológia",
+  "description": "#5: KWIC kattintásra (a WHERE IN B hivatkozás helyben nyissa ki a mondatot és környezetét), párhuzamos locus-keresés (Thuküdidész leginkább hasonló mondatai a meglévő Flame/TF-IDF motorral), és 2-/3-gram frazeológia. Új végpontok + UI panel + tesztek.",
+  "activeForm": "Building KWIC and parallel loci",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

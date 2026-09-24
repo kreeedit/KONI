@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μετά</form>
+	<date>Wed Jul 27 06:32:20 EDT 2011</date>
+	<count>8108</count>
+	<per10K>17.113</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>10813</count>
+		<senses>
+			<senseContainer>
+				<sense>with</sense>
+				<count>3092</count>
+				<prob>0.286</prob>
+				<loglikelihood>3253.007</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>after</sense>
+				<count>2174</count>
+				<prob>0.201</prob>
+				<loglikelihood>3795.961</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>next</sense>
+				<count>317</count>
+				<prob>0.029</prob>
+				<loglikelihood>347.222</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.426</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>came with</trans>
+				<loglikelihood>14.62</loglikelihood>
+				<count>152</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναζεύγνυμι</original>
+				<trans>he with</trans>
+				<loglikelihood>13.32</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατεύω</original>
+				<trans>served with</trans>
+				<loglikelihood>9.53</loglikelihood>
+				<count>53</count>
+			</collocation>
+			<collocation>
+				<original>ἐξαποστέλλω</original>
+				<trans>larisa with</trans>
+				<loglikelihood>7.19</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βουλεύω</original>
+				<trans>took counsel with</trans>
+				<loglikelihood>5.68</loglikelihood>
+				<count>50</count>
+			</collocation>
+			<collocation>
+				<original>ἐκπέμπω</original>
+				<trans>sent with</trans>
+				<loglikelihood>5.50</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βαίνω</original>
+				<trans>went his way after</trans>
+				<loglikelihood>4.86</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>became after</trans>
+				<loglikelihood>4.56</loglikelihood>
+				<count>212</count>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>done with</trans>
+				<loglikelihood>4.54</loglikelihood>
+				<count>177</count>
+			</collocation>
+			<collocation>
+				<original>ἥκω</original>
+				<trans>came with</trans>
+				<loglikelihood>3.94</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>did on their upward march with</trans>
+				<loglikelihood>3.91</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προάγω</original>
+				<trans>after i am raised up, i will go before</trans>
+				<loglikelihood>3.90</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent with</trans>
+				<loglikelihood>3.78</loglikelihood>
+				<count>59</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κοινῇ</original>
+				<trans>in common with</trans>
+				<loglikelihood>3.41</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξορμάω</original>
+				<trans>out with</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐπέρχομαι</original>
+				<trans>came with</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἶμι</original>
+				<trans>came with</trans>
+				<loglikelihood>3.04</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕπομαι</original>
+				<trans>followed with</trans>
+				<loglikelihood>2.94</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰσέρχομαι</original>
+				<trans>entered after</trans>
+				<loglikelihood>2.93</loglikelihood>
+				<count>26</count>
+			</collocation>
+			<collocation>
+				<original>βασιλεύω</original>
+				<trans>after him reigned</trans>
+				<loglikelihood>2.88</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑπαντάω</original>
+				<trans>met him with</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναβαίνω</original>
+				<trans>went up with</trans>
+				<loglikelihood>2.51</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>have the poor with</trans>
+				<loglikelihood>2.49</loglikelihood>
+				<count>169</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μάχομαι</original>
+				<trans>fight amid</trans>
+				<loglikelihood>2.44</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναχωρέω</original>
+				<trans>withdraw with</trans>
+				<loglikelihood>2.41</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>καταπλέω</original>
+				<trans>sail with</trans>
+				<loglikelihood>2.26</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>dwell with</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑποχωρέω</original>
+				<trans>retreat with</trans>
+				<loglikelihood>2.07</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>led with</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνίστημι</original>
+				<trans>rise again after</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰσβάλλω</original>
+				<trans>invaded with</trans>
+				<loglikelihood>2.04</loglikelihood>
+				<count>12</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

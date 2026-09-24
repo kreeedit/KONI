@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐντός</form>
+	<date>Wed Jul 27 00:48:39 EDT 2011</date>
+	<count>480</count>
+	<per10K>1.013</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>311</count>
+		<senses>
+			<senseContainer>
+				<sense>within</sense>
+				<count>102</count>
+				<prob>0.328</prob>
+				<loglikelihood>38.668</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>inside</sense>
+				<count>34</count>
+				<prob>0.109</prob>
+				<loglikelihood>16.208</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>inner</sense>
+				<count>9</count>
+				<prob>0.029</prob>
+				<loglikelihood>5.395</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

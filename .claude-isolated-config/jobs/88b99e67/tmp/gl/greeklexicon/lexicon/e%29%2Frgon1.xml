@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔργον</form>
+	<date>Wed Jul 27 04:19:25 EDT 2011</date>
+	<count>3553</count>
+	<per10K>7.499</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>4405</count>
+		<senses>
+			<senseContainer>
+				<sense>work</sense>
+				<count>813</count>
+				<prob>0.185</prob>
+				<loglikelihood>1998.969</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deed</sense>
+				<count>550</count>
+				<prob>0.125</prob>
+				<loglikelihood>1283.401</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>action</sense>
+				<count>230</count>
+				<prob>0.052</prob>
+				<loglikelihood>194.082</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>task</sense>
+				<count>201</count>
+				<prob>0.046</prob>
+				<loglikelihood>480.940</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>act</sense>
+				<count>167</count>
+				<prob>0.038</prob>
+				<loglikelihood>91.440</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>business</sense>
+				<count>110</count>
+				<prob>0.025</prob>
+				<loglikelihood>94.657</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.309</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fact</sense>
+				<count>89</count>
+				<prob>0.020</prob>
+				<loglikelihood>28.152</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>μήδομαι</original>
+				<trans>devised deed</trans>
+				<loglikelihood>15.29</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐργάζομαι</original>
+				<trans>work the works</trans>
+				<loglikelihood>8.54</loglikelihood>
+				<count>50</count>
+			</collocation>
+			<collocation>
+				<original>τελέω</original>
+				<trans>deeds of requital to pass</trans>
+				<loglikelihood>3.45</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ῥέζω</original>
+				<trans>wrought a monstrous deed</trans>
+				<loglikelihood>2.73</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιδείκνυμι</original>
+				<trans>shown deeds</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>25</count>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>done work</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποτελέω</original>
+				<trans>perform work</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκτελέω</original>
+				<trans>perform task</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>7</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πολεμήιος</original>
+				<trans>war deeds</trans>
+				<loglikelihood>20.18</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀεικής</original>
+				<trans>unseemly deeds</trans>
+				<loglikelihood>6.61</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνόσιος</original>
+				<trans>most unholy deed</trans>
+				<loglikelihood>3.98</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>μέγας</original>
+				<trans>mighty deed</trans>
+				<loglikelihood>3.28</loglikelihood>
+				<count>101</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σχέτλιος</original>
+				<trans>cruel deeds</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καλός</original>
+				<trans>noble deeds</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

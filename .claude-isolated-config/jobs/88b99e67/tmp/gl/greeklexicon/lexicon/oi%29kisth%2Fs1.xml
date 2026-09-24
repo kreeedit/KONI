@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκιστής</form>
+	<date>Tue Jul 26 23:35:30 EDT 2011</date>
+	<count>123</count>
+	<per10K>0.26</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>founder</sense>
+				<count>29</count>
+				<prob>0.674</prob>
+				<loglikelihood>27.348</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.552</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>its founder</sense>
+				<count>6</count>
+				<prob>0.140</prob>
+				<loglikelihood>12.000</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

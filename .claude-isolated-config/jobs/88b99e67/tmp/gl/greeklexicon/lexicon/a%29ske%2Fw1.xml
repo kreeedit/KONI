@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀσκέω</form>
+	<date>Wed Jul 27 00:04:11 EDT 2011</date>
+	<count>215</count>
+	<per10K>0.454</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>179</count>
+		<senses>
+			<senseContainer>
+				<sense>practise</sense>
+				<count>23</count>
+				<prob>0.128</prob>
+				<loglikelihood>14.007</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.478</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>train</sense>
+				<count>17</count>
+				<prob>0.095</prob>
+				<loglikelihood>5.372</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

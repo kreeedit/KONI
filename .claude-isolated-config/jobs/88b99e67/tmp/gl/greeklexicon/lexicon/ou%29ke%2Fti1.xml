@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὐκέτι</form>
+	<date>Wed Jul 27 01:44:18 EDT 2011</date>
+	<count>966</count>
+	<per10K>2.039</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>1127</count>
+		<senses>
+			<senseContainer>
+				<sense>no longer</sense>
+				<count>348</count>
+				<prob>0.309</prob>
+				<loglikelihood>1038.959</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no more</sense>
+				<count>82</count>
+				<prob>0.073</prob>
+				<loglikelihood>197.614</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cease</sense>
+				<count>25</count>
+				<prob>0.022</prob>
+				<loglikelihood>6.638</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

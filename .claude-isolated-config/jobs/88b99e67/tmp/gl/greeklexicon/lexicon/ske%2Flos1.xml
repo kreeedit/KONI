@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκέλος</form>
+	<date>Tue Jul 26 23:34:35 EDT 2011</date>
+	<count>121</count>
+	<per10K>0.255</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>leg</sense>
+				<count>88</count>
+				<prob>0.677</prob>
+				<loglikelihood>201.130</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

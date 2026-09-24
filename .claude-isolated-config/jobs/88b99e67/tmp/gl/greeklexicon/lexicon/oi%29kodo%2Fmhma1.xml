@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκοδόμημα</form>
+	<date>Tue Jul 26 23:11:24 EDT 2011</date>
+	<count>71</count>
+	<per10K>0.15</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>78</count>
+		<senses>
+			<senseContainer>
+				<sense>building</sense>
+				<count>24</count>
+				<prob>0.308</prob>
+				<loglikelihood>31.997</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>edifice</sense>
+				<count>5</count>
+				<prob>0.064</prob>
+				<loglikelihood>4.166</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

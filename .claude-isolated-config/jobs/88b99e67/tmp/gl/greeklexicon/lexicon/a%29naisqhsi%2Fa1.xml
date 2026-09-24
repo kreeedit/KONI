@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναισθησία</form>
+	<date>Tue Jul 26 22:36:57 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>insensibility</sense>
+				<count>4</count>
+				<prob>0.182</prob>
+				<loglikelihood>10.667</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>callous</sense>
+				<count>3</count>
+				<prob>0.136</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>insensitiveness</sense>
+				<count>3</count>
+				<prob>0.136</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγκαλέω</form>
+	<date>Tue Jul 26 23:45:08 EDT 2011</date>
+	<count>149</count>
+	<per10K>0.314</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>84</count>
+		<senses>
+			<senseContainer>
+				<sense>called together</sense>
+				<count>13</count>
+				<prob>0.155</prob>
+				<loglikelihood>16.486</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

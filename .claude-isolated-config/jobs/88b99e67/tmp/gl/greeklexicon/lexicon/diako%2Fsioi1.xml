@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διακόσιοι</form>
+	<date>Wed Jul 27 00:26:43 EDT 2011</date>
+	<count>342</count>
+	<per10K>0.722</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>429</count>
+		<senses>
+			<senseContainer>
+				<sense>two hundred</sense>
+				<count>242</count>
+				<prob>0.564</prob>
+				<loglikelihood>936.898</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hundred</sense>
+				<count>35</count>
+				<prob>0.082</prob>
+				<loglikelihood>6.829</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>200</sense>
+				<count>10</count>
+				<prob>0.023</prob>
+				<loglikelihood>22.215</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>τάλαντον</original>
+				<trans>two hundred talents</trans>
+				<loglikelihood>5.36</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

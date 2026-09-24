@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λέχος</form>
+	<date>Wed Jul 27 00:02:16 EDT 2011</date>
+	<count>204</count>
+	<per10K>0.431</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>222</count>
+		<senses>
+			<senseContainer>
+				<sense>bed</sense>
+				<count>83</count>
+				<prob>0.374</prob>
+				<loglikelihood>67.847</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.494</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>couch</sense>
+				<count>17</count>
+				<prob>0.077</prob>
+				<loglikelihood>7.752</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bier</sense>
+				<count>16</count>
+				<prob>0.072</prob>
+				<loglikelihood>37.920</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>στορέννυμι</original>
+				<trans>null</trans>
+				<loglikelihood>14.22</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

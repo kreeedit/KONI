@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πάντῃ</form>
+	<date>Tue Jul 26 23:57:11 EDT 2011</date>
+	<count>184</count>
+	<per10K>0.388</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>241</count>
+		<senses>
+			<senseContainer>
+				<sense>everywhere</sense>
+				<count>33</count>
+				<prob>0.137</prob>
+				<loglikelihood>19.878</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.394</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>every way</sense>
+				<count>12</count>
+				<prob>0.050</prob>
+				<loglikelihood>17.995</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>all ways</sense>
+				<count>11</count>
+				<prob>0.046</prob>
+				<loglikelihood>32.262</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>every side</sense>
+				<count>6</count>
+				<prob>0.025</prob>
+				<loglikelihood>9.598</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

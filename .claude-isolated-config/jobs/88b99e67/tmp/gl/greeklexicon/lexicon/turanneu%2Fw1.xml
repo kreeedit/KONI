@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τυραννεύω</form>
+	<date>Tue Jul 26 23:58:49 EDT 2011</date>
+	<count>190</count>
+	<per10K>0.401</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>123</count>
+		<senses>
+			<senseContainer>
+				<sense>tyrant</sense>
+				<count>33</count>
+				<prob>0.268</prob>
+				<loglikelihood>7.365</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>became tyrant</sense>
+				<count>5</count>
+				<prob>0.041</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ruled by tyrants</sense>
+				<count>3</count>
+				<prob>0.024</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

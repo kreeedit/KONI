@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κηρύσσω</form>
+	<date>Wed Jul 27 00:05:04 EDT 2011</date>
+	<count>223</count>
+	<per10K>0.471</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>206</count>
+		<senses>
+			<senseContainer>
+				<sense>proclaim</sense>
+				<count>46</count>
+				<prob>0.223</prob>
+				<loglikelihood>41.073</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>proclamation</sense>
+				<count>31</count>
+				<prob>0.150</prob>
+				<loglikelihood>29.334</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>preach</sense>
+				<count>17</count>
+				<prob>0.083</prob>
+				<loglikelihood>19.261</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.941</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>made proclamation</sense>
+				<count>11</count>
+				<prob>0.053</prob>
+				<loglikelihood>23.044</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.636</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>make proclamation</sense>
+				<count>5</count>
+				<prob>0.024</prob>
+				<loglikelihood>11.109</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

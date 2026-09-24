@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νομάς</form>
+	<date>Tue Jul 26 23:47:14 EDT 2011</date>
+	<count>156</count>
+	<per10K>0.329</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>211</count>
+		<senses>
+			<senseContainer>
+				<sense>nomad</sense>
+				<count>58</count>
+				<prob>0.275</prob>
+				<loglikelihood>224.249</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Herodotus</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>numidians</sense>
+				<count>29</count>
+				<prob>0.137</prob>
+				<loglikelihood>78.223</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.931</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>numidian</sense>
+				<count>12</count>
+				<prob>0.057</prob>
+				<loglikelihood>27.424</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nomadic</sense>
+				<count>8</count>
+				<prob>0.038</prob>
+				<loglikelihood>23.270</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

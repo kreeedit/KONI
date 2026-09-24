@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφοβία</form>
+	<date>Tue Jul 26 22:32:06 EDT 2011</date>
+	<count>14</count>
+	<per10K>0.03</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>11</count>
+		<senses>
+			<senseContainer>
+				<sense>fearlessness</sense>
+				<count>4</count>
+				<prob>0.364</prob>
+				<loglikelihood>10.667</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑποζύγιον</form>
+	<date>Tue Jul 26 23:29:27 EDT 2011</date>
+	<count>108</count>
+	<per10K>0.228</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>160</count>
+		<senses>
+			<senseContainer>
+				<sense>burden</sense>
+				<count>30</count>
+				<prob>0.188</prob>
+				<loglikelihood>24.482</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.433</relativeFreq></author>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>baggage animals</sense>
+				<count>12</count>
+				<prob>0.075</prob>
+				<loglikelihood>47.997</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pack animals</sense>
+				<count>9</count>
+				<prob>0.056</prob>
+				<loglikelihood>32.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>pack - animals</sense>
+				<count>4</count>
+				<prob>0.025</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

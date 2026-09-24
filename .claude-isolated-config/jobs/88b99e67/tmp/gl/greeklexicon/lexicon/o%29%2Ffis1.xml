@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄφις</form>
+	<date>Tue Jul 26 23:24:00 EDT 2011</date>
+	<count>97</count>
+	<per10K>0.205</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>125</count>
+		<senses>
+			<senseContainer>
+				<sense>serpent</sense>
+				<count>49</count>
+				<prob>0.392</prob>
+				<loglikelihood>78.073</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>snake</sense>
+				<count>41</count>
+				<prob>0.328</prob>
+				<loglikelihood>103.439</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.341</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

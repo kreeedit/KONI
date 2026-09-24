@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀθυμία</form>
+	<date>Tue Jul 26 23:05:04 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>71</count>
+		<senses>
+			<senseContainer>
+				<sense>despondency</sense>
+				<count>10</count>
+				<prob>0.141</prob>
+				<loglikelihood>24.999</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>discouragement</sense>
+				<count>8</count>
+				<prob>0.113</prob>
+				<loglikelihood>21.332</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>discourage</sense>
+				<count>6</count>
+				<prob>0.085</prob>
+				<loglikelihood>4.363</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

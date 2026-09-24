@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μόλις</form>
+	<date>Wed Jul 27 00:07:38 EDT 2011</date>
+	<count>240</count>
+	<per10K>0.507</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>331</count>
+		<senses>
+			<senseContainer>
+				<sense>difficulty</sense>
+				<count>82</count>
+				<prob>0.248</prob>
+				<loglikelihood>59.464</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.305</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>scarce</sense>
+				<count>15</count>
+				<prob>0.045</prob>
+				<loglikelihood>16.973</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reluctant</sense>
+				<count>7</count>
+				<prob>0.021</prob>
+				<loglikelihood>4.257</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

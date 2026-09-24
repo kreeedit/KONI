@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σέλινον</form>
+	<date>Tue Jul 26 22:30:35 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>parsley</sense>
+				<count>6</count>
+				<prob>0.316</prob>
+				<loglikelihood>24.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wild celery</sense>
+				<count>3</count>
+				<prob>0.158</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

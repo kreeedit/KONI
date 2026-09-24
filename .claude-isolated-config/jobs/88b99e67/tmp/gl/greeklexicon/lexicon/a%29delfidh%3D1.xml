@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδελφιδῆ</form>
+	<date>Tue Jul 26 22:38:40 EDT 2011</date>
+	<count>22</count>
+	<per10K>0.046</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>niece</sense>
+				<count>17</count>
+				<prob>0.739</prob>
+				<loglikelihood>60.842</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

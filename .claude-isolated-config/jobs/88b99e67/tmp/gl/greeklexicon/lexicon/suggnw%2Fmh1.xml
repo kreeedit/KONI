@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγγνώμη</form>
+	<date>Wed Jul 27 00:18:41 EDT 2011</date>
+	<count>298</count>
+	<per10K>0.629</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>360</count>
+		<senses>
+			<senseContainer>
+				<sense>pardon</sense>
+				<count>97</count>
+				<prob>0.269</prob>
+				<loglikelihood>242.762</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>indulgence</sense>
+				<count>33</count>
+				<prob>0.092</prob>
+				<loglikelihood>58.061</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forgive</sense>
+				<count>28</count>
+				<prob>0.078</prob>
+				<loglikelihood>23.923</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forgiveness</sense>
+				<count>13</count>
+				<prob>0.036</prob>
+				<loglikelihood>29.384</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pardon for</sense>
+				<count>11</count>
+				<prob>0.031</prob>
+				<loglikelihood>43.993</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

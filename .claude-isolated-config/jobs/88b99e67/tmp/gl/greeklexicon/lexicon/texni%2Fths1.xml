@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τεχνίτης</form>
+	<date>Tue Jul 26 23:29:19 EDT 2011</date>
+	<count>108</count>
+	<per10K>0.228</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>105</count>
+		<senses>
+			<senseContainer>
+				<sense>artist</sense>
+				<count>28</count>
+				<prob>0.267</prob>
+				<loglikelihood>45.445</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>craftsman</sense>
+				<count>16</count>
+				<prob>0.152</prob>
+				<loglikelihood>8.675</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>artisan</sense>
+				<count>16</count>
+				<prob>0.152</prob>
+				<loglikelihood>17.653</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>artificer</sense>
+				<count>10</count>
+				<prob>0.095</prob>
+				<loglikelihood>15.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>workman</sense>
+				<count>9</count>
+				<prob>0.086</prob>
+				<loglikelihood>6.478</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διάφορος</form>
+	<date>Wed Jul 27 00:09:52 EDT 2011</date>
+	<count>253</count>
+	<per10K>0.534</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>320</count>
+		<senses>
+			<senseContainer>
+				<sense>different</sense>
+				<count>42</count>
+				<prob>0.131</prob>
+				<loglikelihood>8.722</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at variance</sense>
+				<count>23</count>
+				<prob>0.072</prob>
+				<loglikelihood>66.113</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>different from</sense>
+				<count>15</count>
+				<prob>0.047</prob>
+				<loglikelihood>13.838</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

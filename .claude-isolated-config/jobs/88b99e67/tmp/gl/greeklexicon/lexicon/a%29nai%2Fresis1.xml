@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναίρεσις</form>
+	<date>Tue Jul 26 23:24:40 EDT 2011</date>
+	<count>98</count>
+	<per10K>0.207</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>106</count>
+		<senses>
+			<senseContainer>
+				<sense>recovery</sense>
+				<count>7</count>
+				<prob>0.066</prob>
+				<loglikelihood>3.919</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

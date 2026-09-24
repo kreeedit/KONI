@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μάχομαι</form>
+	<date>Wed Jul 27 02:13:40 EDT 2011</date>
+	<count>1329</count>
+	<per10K>2.805</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>854</count>
+		<senses>
+			<senseContainer>
+				<sense>fight</sense>
+				<count>454</count>
+				<prob>0.532</prob>
+				<loglikelihood>494.099</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.385</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>battle</sense>
+				<count>84</count>
+				<prob>0.098</prob>
+				<loglikelihood>14.449</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fight against</sense>
+				<count>28</count>
+				<prob>0.033</prob>
+				<loglikelihood>52.227</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.393</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

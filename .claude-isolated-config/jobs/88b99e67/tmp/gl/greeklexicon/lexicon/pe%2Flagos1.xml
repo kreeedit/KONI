@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πέλαγος</form>
+	<date>Wed Jul 27 00:14:40 EDT 2011</date>
+	<count>277</count>
+	<per10K>0.585</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>371</count>
+		<senses>
+			<senseContainer>
+				<sense>sea</sense>
+				<count>193</count>
+				<prob>0.520</prob>
+				<loglikelihood>50.111</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>open sea</sense>
+				<count>22</count>
+				<prob>0.059</prob>
+				<loglikelihood>58.653</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

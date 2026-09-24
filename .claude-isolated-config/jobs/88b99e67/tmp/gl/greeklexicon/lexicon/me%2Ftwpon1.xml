@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέτωπον</form>
+	<date>Tue Jul 26 23:36:00 EDT 2011</date>
+	<count>124</count>
+	<per10K>0.262</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>160</count>
+		<senses>
+			<senseContainer>
+				<sense>front</sense>
+				<count>44</count>
+				<prob>0.275</prob>
+				<loglikelihood>15.571</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>forehead</sense>
+				<count>39</count>
+				<prob>0.244</prob>
+				<loglikelihood>119.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>front line</sense>
+				<count>4</count>
+				<prob>0.025</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

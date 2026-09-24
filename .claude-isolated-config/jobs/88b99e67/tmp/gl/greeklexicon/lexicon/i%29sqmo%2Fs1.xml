@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσθμός</form>
+	<date>Wed Jul 27 00:22:05 EDT 2011</date>
+	<count>314</count>
+	<per10K>0.663</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>isthmus</sense>
+				<count>84</count>
+				<prob>0.903</prob>
+				<loglikelihood>95.344</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

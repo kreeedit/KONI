@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκοπός</form>
+	<date>Tue Jul 26 23:48:33 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>192</count>
+		<senses>
+			<senseContainer>
+				<sense>aim</sense>
+				<count>22</count>
+				<prob>0.115</prob>
+				<loglikelihood>8.753</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.682</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mark</sense>
+				<count>20</count>
+				<prob>0.104</prob>
+				<loglikelihood>8.459</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>watchman</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>9.798</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scout</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>4.664</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>target</sense>
+				<count>5</count>
+				<prob>0.026</prob>
+				<loglikelihood>5.554</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>watcher</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>5.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

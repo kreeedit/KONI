@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναυαρχία</form>
+	<date>Tue Jul 26 22:37:30 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>as admiral</sense>
+				<count>5</count>
+				<prob>0.227</prob>
+				<loglikelihood>8.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

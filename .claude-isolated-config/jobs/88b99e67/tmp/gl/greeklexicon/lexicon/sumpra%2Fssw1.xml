@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συμπράσσω</form>
+	<date>Tue Jul 26 23:36:49 EDT 2011</date>
+	<count>127</count>
+	<per10K>0.268</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>137</count>
+		<senses>
+			<senseContainer>
+				<sense>cooperate</sense>
+				<count>15</count>
+				<prob>0.109</prob>
+				<loglikelihood>31.031</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>co</sense>
+				<count>10</count>
+				<prob>0.073</prob>
+				<loglikelihood>15.382</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>co ï¿½</sense>
+				<count>5</count>
+				<prob>0.036</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

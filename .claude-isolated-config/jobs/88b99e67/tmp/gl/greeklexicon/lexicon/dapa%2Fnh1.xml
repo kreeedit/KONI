@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δαπάνη</form>
+	<date>Tue Jul 26 23:51:47 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>expense</sense>
+				<count>52</count>
+				<prob>0.354</prob>
+				<loglikelihood>51.250</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>outlay</sense>
+				<count>7</count>
+				<prob>0.048</prob>
+				<loglikelihood>9.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χόω</form>
+	<date>Tue Jul 26 23:31:44 EDT 2011</date>
+	<count>113</count>
+	<per10K>0.239</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>84</count>
+		<senses>
+			<senseContainer>
+				<sense>barrow</sense>
+				<count>6</count>
+				<prob>0.071</prob>
+				<loglikelihood>4.499</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>silt</sense>
+				<count>4</count>
+				<prob>0.048</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

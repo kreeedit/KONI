@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θαυμαστός</form>
+	<date>Wed Jul 27 00:38:49 EDT 2011</date>
+	<count>417</count>
+	<per10K>0.88</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>163</count>
+		<senses>
+			<senseContainer>
+				<sense>wonder</sense>
+				<count>22</count>
+				<prob>0.135</prob>
+				<loglikelihood>5.826</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.591</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wonderful</sense>
+				<count>14</count>
+				<prob>0.086</prob>
+				<loglikelihood>6.219</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>marvelous</sense>
+				<count>5</count>
+				<prob>0.031</prob>
+				<loglikelihood>8.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>20</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

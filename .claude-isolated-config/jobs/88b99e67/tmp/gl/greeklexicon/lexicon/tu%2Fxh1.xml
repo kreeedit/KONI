@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τύχη</form>
+	<date>Wed Jul 27 01:58:02 EDT 2011</date>
+	<count>1126</count>
+	<per10K>2.377</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1097</count>
+		<senses>
+			<senseContainer>
+				<sense>fortune</sense>
+				<count>451</count>
+				<prob>0.411</prob>
+				<loglikelihood>928.108</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>chance</sense>
+				<count>92</count>
+				<prob>0.084</prob>
+				<loglikelihood>74.739</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fate</sense>
+				<count>80</count>
+				<prob>0.073</prob>
+				<loglikelihood>37.013</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>good fortune</sense>
+				<count>40</count>
+				<prob>0.036</prob>
+				<loglikelihood>30.116</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>misfortune</sense>
+				<count>35</count>
+				<prob>0.032</prob>
+				<loglikelihood>6.789</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.343</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>luck</sense>
+				<count>26</count>
+				<prob>0.024</prob>
+				<loglikelihood>31.033</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

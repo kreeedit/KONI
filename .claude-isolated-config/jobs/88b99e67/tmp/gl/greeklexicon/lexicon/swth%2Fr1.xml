@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σωτήρ</form>
+	<date>Tue Jul 26 23:45:53 EDT 2011</date>
+	<count>152</count>
+	<per10K>0.321</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>150</count>
+		<senses>
+			<senseContainer>
+				<sense>savior</sense>
+				<count>35</count>
+				<prob>0.233</prob>
+				<loglikelihood>77.770</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>saviour</sense>
+				<count>29</count>
+				<prob>0.193</prob>
+				<loglikelihood>53.390</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.414</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>deliverer</sense>
+				<count>11</count>
+				<prob>0.073</prob>
+				<loglikelihood>17.923</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>saviors</sense>
+				<count>9</count>
+				<prob>0.060</prob>
+				<loglikelihood>29.452</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>soter</sense>
+				<count>7</count>
+				<prob>0.047</prob>
+				<loglikelihood>16.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

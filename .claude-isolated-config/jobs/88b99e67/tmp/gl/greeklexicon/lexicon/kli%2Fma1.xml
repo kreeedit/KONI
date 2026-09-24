@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλίμα</form>
+	<date>Tue Jul 26 22:44:52 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>54</count>
+		<senses>
+			<senseContainer>
+				<sense>climata</sense>
+				<count>4</count>
+				<prob>0.074</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>climata ,"</sense>
+				<count>3</count>
+				<prob>0.056</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>βόρειος</original>
+				<trans>north side</trans>
+				<loglikelihood>4.21</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

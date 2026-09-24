@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἰτία</form>
+	<date>Tue Jul 26 23:41:55 EDT 2011</date>
+	<count>139</count>
+	<per10K>0.293</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>149</count>
+		<senses>
+			<senseContainer>
+				<sense>accusation</sense>
+				<count>20</count>
+				<prob>0.134</prob>
+				<loglikelihood>5.241</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

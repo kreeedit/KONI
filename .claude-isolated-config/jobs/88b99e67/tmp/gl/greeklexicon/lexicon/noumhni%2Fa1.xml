@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νουμηνία</form>
+	<date>Tue Jul 26 22:52:03 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>calends</sense>
+				<count>5</count>
+				<prob>0.111</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>new moon</sense>
+				<count>4</count>
+				<prob>0.089</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>first day</sense>
+				<count>4</count>
+				<prob>0.089</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

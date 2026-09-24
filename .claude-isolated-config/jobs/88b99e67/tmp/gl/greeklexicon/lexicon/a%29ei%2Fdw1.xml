@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀείδω</form>
+	<date>Wed Jul 27 00:28:57 EDT 2011</date>
+	<count>354</count>
+	<per10K>0.747</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>354</count>
+		<senses>
+			<senseContainer>
+				<sense>sing</sense>
+				<count>177</count>
+				<prob>0.500</prob>
+				<loglikelihood>387.896</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>chant</sense>
+				<count>15</count>
+				<prob>0.042</prob>
+				<loglikelihood>14.507</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ἀοιδός</original>
+				<trans>minstrel sang</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ὕμνος</original>
+				<trans>sing hymn</trans>
+				<loglikelihood>2.40</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

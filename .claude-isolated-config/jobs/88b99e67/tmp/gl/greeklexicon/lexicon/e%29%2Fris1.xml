@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔρις</form>
+	<date>Wed Jul 27 00:03:39 EDT 2011</date>
+	<count>211</count>
+	<per10K>0.445</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>256</count>
+		<senses>
+			<senseContainer>
+				<sense>strife</sense>
+				<count>104</count>
+				<prob>0.406</prob>
+				<loglikelihood>195.729</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rivalry</sense>
+				<count>8</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.336</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

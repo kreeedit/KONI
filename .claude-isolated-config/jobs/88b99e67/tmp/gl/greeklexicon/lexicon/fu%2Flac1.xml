@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φύλαξ</form>
+	<date>Wed Jul 27 00:37:54 EDT 2011</date>
+	<count>412</count>
+	<per10K>0.87</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>473</count>
+		<senses>
+			<senseContainer>
+				<sense>guardian</sense>
+				<count>139</count>
+				<prob>0.294</prob>
+				<loglikelihood>245.251</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.597</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>guard</sense>
+				<count>127</count>
+				<prob>0.268</prob>
+				<loglikelihood>79.268</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sentinel</sense>
+				<count>17</count>
+				<prob>0.036</prob>
+				<loglikelihood>32.098</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

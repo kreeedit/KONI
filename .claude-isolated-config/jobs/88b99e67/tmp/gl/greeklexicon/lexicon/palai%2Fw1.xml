@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παλαίω</form>
+	<date>Tue Jul 26 23:06:19 EDT 2011</date>
+	<count>62</count>
+	<per10K>0.131</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>wrestle</sense>
+				<count>34</count>
+				<prob>0.756</prob>
+				<loglikelihood>31.888</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

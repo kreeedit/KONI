@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἴδη</form>
+	<date>Tue Jul 26 23:16:04 EDT 2011</date>
+	<count>82</count>
+	<per10K>0.173</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>70</count>
+		<senses>
+			<senseContainer>
+				<sense>ida</sense>
+				<count>62</count>
+				<prob>0.886</prob>
+				<loglikelihood>117.370</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.484</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>7</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

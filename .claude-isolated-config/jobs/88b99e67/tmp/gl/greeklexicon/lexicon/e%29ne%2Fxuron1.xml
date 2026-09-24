@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐνέχυρον</form>
+	<date>Tue Jul 26 22:51:28 EDT 2011</date>
+	<count>38</count>
+	<per10K>0.08</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>pawn</sense>
+				<count>4</count>
+				<prob>0.108</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as security</sense>
+				<count>3</count>
+				<prob>0.081</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

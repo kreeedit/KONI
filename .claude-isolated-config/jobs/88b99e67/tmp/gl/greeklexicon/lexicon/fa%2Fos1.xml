@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φάος</form>
+	<date>Wed Jul 27 00:40:10 EDT 2011</date>
+	<count>426</count>
+	<per10K>0.899</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>481</count>
+		<senses>
+			<senseContainer>
+				<sense>light</sense>
+				<count>317</count>
+				<prob>0.659</prob>
+				<loglikelihood>545.222</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>daylight</sense>
+				<count>12</count>
+				<prob>0.025</prob>
+				<loglikelihood>9.281</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἥλιος</original>
+				<trans>light of the sun</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παιδεία</form>
+	<date>Wed Jul 27 00:24:27 EDT 2011</date>
+	<count>328</count>
+	<per10K>0.692</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>382</count>
+		<senses>
+			<senseContainer>
+				<sense>education</sense>
+				<count>217</count>
+				<prob>0.568</prob>
+				<loglikelihood>581.245</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.479</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>culture</sense>
+				<count>11</count>
+				<prob>0.029</prob>
+				<loglikelihood>20.160</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

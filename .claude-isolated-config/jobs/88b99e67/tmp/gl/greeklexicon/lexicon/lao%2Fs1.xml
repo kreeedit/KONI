@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λαός</form>
+	<date>Wed Jul 27 01:35:39 EDT 2011</date>
+	<count>861</count>
+	<per10K>1.817</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>915</count>
+		<senses>
+			<senseContainer>
+				<sense>people</sense>
+				<count>499</count>
+				<prob>0.545</prob>
+				<loglikelihood>279.216</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.405</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>host</sense>
+				<count>177</count>
+				<prob>0.193</prob>
+				<loglikelihood>284.562</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>folk</sense>
+				<count>43</count>
+				<prob>0.047</prob>
+				<loglikelihood>71.741</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.744</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀγείρω</original>
+				<trans>gather host</trans>
+				<loglikelihood>2.72</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Ἀχαία</original>
+				<trans>host of the achaeans</trans>
+				<loglikelihood>5.36</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

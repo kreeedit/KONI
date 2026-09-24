@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δρόσος</form>
+	<date>Tue Jul 26 22:41:56 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>dew</sense>
+				<count>10</count>
+				<prob>0.278</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

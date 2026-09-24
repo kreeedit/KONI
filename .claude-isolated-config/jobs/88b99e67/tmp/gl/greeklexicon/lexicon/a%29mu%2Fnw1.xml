@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμύνω</form>
+	<date>Wed Jul 27 01:31:21 EDT 2011</date>
+	<count>819</count>
+	<per10K>1.729</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>672</count>
+		<senses>
+			<senseContainer>
+				<sense>defend</sense>
+				<count>68</count>
+				<prob>0.101</prob>
+				<loglikelihood>64.598</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>help</sense>
+				<count>33</count>
+				<prob>0.049</prob>
+				<loglikelihood>6.195</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aid</sense>
+				<count>27</count>
+				<prob>0.040</prob>
+				<loglikelihood>5.688</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>defend themselves</sense>
+				<count>26</count>
+				<prob>0.039</prob>
+				<loglikelihood>65.922</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>defence</sense>
+				<count>22</count>
+				<prob>0.033</prob>
+				<loglikelihood>5.057</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>repel</sense>
+				<count>21</count>
+				<prob>0.031</prob>
+				<loglikelihood>24.477</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ward off</sense>
+				<count>18</count>
+				<prob>0.027</prob>
+				<loglikelihood>32.380</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>avenge</sense>
+				<count>16</count>
+				<prob>0.024</prob>
+				<loglikelihood>5.458</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vengeance</sense>
+				<count>14</count>
+				<prob>0.021</prob>
+				<loglikelihood>4.978</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπελεύθερος</form>
+	<date>Tue Jul 26 22:59:47 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>freedman</sense>
+				<count>21</count>
+				<prob>0.323</prob>
+				<loglikelihood>41.021</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.619</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>freed - men</sense>
+				<count>12</count>
+				<prob>0.185</prob>
+				<loglikelihood>38.399</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>freed - man</sense>
+				<count>6</count>
+				<prob>0.092</prob>
+				<loglikelihood>23.999</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡδύς</form>
+	<date>Wed Jul 27 02:16:18 EDT 2011</date>
+	<count>1372</count>
+	<per10K>2.896</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1227</count>
+		<senses>
+			<senseContainer>
+				<sense>pleasant</sense>
+				<count>359</count>
+				<prob>0.293</prob>
+				<loglikelihood>1198.258</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sweet</sense>
+				<count>122</count>
+				<prob>0.099</prob>
+				<loglikelihood>174.866</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>pleasure</sense>
+				<count>107</count>
+				<prob>0.087</prob>
+				<loglikelihood>29.468</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.542</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>agreeable</sense>
+				<count>34</count>
+				<prob>0.028</prob>
+				<loglikelihood>36.629</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.471</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>μέθυ</original>
+				<trans>sweet wine</trans>
+				<loglikelihood>10.78</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>271</count>
+		<senses>
+			<senseContainer>
+				<sense>glad</sense>
+				<count>87</count>
+				<prob>0.321</prob>
+				<loglikelihood>66.654</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>should like</sense>
+				<count>15</count>
+				<prob>0.055</prob>
+				<loglikelihood>20.448</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

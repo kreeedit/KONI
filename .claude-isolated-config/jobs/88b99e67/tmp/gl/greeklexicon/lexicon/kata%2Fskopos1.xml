@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατάσκοπος</form>
+	<date>Tue Jul 26 23:32:07 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>116</count>
+		<senses>
+			<senseContainer>
+				<sense>spy</sense>
+				<count>58</count>
+				<prob>0.500</prob>
+				<loglikelihood>122.319</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scout</sense>
+				<count>16</count>
+				<prob>0.138</prob>
+				<loglikelihood>24.378</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spy out</sense>
+				<count>4</count>
+				<prob>0.034</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>spy upon</sense>
+				<count>3</count>
+				<prob>0.026</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

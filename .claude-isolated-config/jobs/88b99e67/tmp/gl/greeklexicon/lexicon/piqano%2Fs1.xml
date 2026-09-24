@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πιθανός</form>
+	<date>Tue Jul 26 23:48:29 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>plausible</sense>
+				<count>6</count>
+				<prob>0.056</prob>
+				<loglikelihood>3.891</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more plausible</sense>
+				<count>5</count>
+				<prob>0.047</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more convincing than</sense>
+				<count>5</count>
+				<prob>0.047</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more probable</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more credible</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more convincing</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>5.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>11</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

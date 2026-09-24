@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νέμω</form>
+	<date>Wed Jul 27 00:47:07 EDT 2011</date>
+	<count>472</count>
+	<per10K>0.996</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>511</count>
+		<senses>
+			<senseContainer>
+				<sense>inhabit</sense>
+				<count>22</count>
+				<prob>0.043</prob>
+				<loglikelihood>6.500</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>distribute</sense>
+				<count>16</count>
+				<prob>0.031</prob>
+				<loglikelihood>6.347</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

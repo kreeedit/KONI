@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μηρός</form>
+	<date>Tue Jul 26 23:33:42 EDT 2011</date>
+	<count>119</count>
+	<per10K>0.251</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>87</count>
+		<senses>
+			<senseContainer>
+				<sense>thigh</sense>
+				<count>61</count>
+				<prob>0.701</prob>
+				<loglikelihood>127.208</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.377</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

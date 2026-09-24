@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σχῆμα</form>
+	<date>Wed Jul 27 00:33:16 EDT 2011</date>
+	<count>381</count>
+	<per10K>0.804</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>524</count>
+		<senses>
+			<senseContainer>
+				<sense>shape</sense>
+				<count>72</count>
+				<prob>0.137</prob>
+				<loglikelihood>144.948</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.361</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>figure</sense>
+				<count>58</count>
+				<prob>0.111</prob>
+				<loglikelihood>77.732</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.638</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>form</sense>
+				<count>49</count>
+				<prob>0.094</prob>
+				<loglikelihood>10.872</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.408</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>posture</sense>
+				<count>19</count>
+				<prob>0.036</prob>
+				<loglikelihood>43.741</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.632</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>attitude</sense>
+				<count>14</count>
+				<prob>0.027</prob>
+				<loglikelihood>9.321</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>τετράγωνος</original>
+				<trans>square shape</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

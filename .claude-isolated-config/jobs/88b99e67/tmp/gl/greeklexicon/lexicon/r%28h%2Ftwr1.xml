@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥήτωρ</form>
+	<date>Wed Jul 27 00:24:33 EDT 2011</date>
+	<count>328</count>
+	<per10K>0.692</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>324</count>
+		<senses>
+			<senseContainer>
+				<sense>orator</sense>
+				<count>205</count>
+				<prob>0.633</prob>
+				<loglikelihood>641.526</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rhetorician</sense>
+				<count>22</count>
+				<prob>0.068</prob>
+				<loglikelihood>42.075</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>politician</sense>
+				<count>18</count>
+				<prob>0.056</prob>
+				<loglikelihood>17.990</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

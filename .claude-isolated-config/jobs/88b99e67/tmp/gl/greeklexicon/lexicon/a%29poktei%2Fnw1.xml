@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποκτείνω</form>
+	<date>Wed Jul 27 02:14:15 EDT 2011</date>
+	<count>1338</count>
+	<per10K>2.824</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1139</count>
+		<senses>
+			<senseContainer>
+				<sense>kill</sense>
+				<count>425</count>
+				<prob>0.373</prob>
+				<loglikelihood>389.244</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>death</sense>
+				<count>170</count>
+				<prob>0.149</prob>
+				<loglikelihood>37.488</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>slay</sense>
+				<count>100</count>
+				<prob>0.088</prob>
+				<loglikelihood>33.233</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.310</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>murder</sense>
+				<count>23</count>
+				<prob>0.020</prob>
+				<loglikelihood>4.105</loglikelihood>
+				<authorContainer>
+					<author><name>Antiphon</name><relativeFreq>0.565</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἄκριτος</original>
+				<trans>death untried</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>8</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

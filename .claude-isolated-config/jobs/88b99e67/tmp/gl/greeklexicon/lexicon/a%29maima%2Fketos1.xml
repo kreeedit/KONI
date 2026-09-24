@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμαιμάκετος</form>
+	<date>Tue Jul 26 22:30:32 EDT 2011</date>
+	<count>12</count>
+	<per10K>0.025</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>14</count>
+		<senses>
+			<senseContainer>
+				<sense>irresistible</sense>
+				<count>6</count>
+				<prob>0.429</prob>
+				<loglikelihood>3.892</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σημεῖον</form>
+	<date>Wed Jul 27 01:06:55 EDT 2011</date>
+	<count>606</count>
+	<per10K>1.279</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>720</count>
+		<senses>
+			<senseContainer>
+				<sense>sign</sense>
+				<count>183</count>
+				<prob>0.254</prob>
+				<loglikelihood>394.956</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.339</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>proof</sense>
+				<count>58</count>
+				<prob>0.081</prob>
+				<loglikelihood>23.253</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.379</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>signal</sense>
+				<count>34</count>
+				<prob>0.047</prob>
+				<loglikelihood>24.555</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>standard</sense>
+				<count>30</count>
+				<prob>0.042</prob>
+				<loglikelihood>37.464</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.933</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mark</sense>
+				<count>21</count>
+				<prob>0.029</prob>
+				<loglikelihood>9.308</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>indication</sense>
+				<count>18</count>
+				<prob>0.025</prob>
+				<loglikelihood>21.944</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>evidence</sense>
+				<count>18</count>
+				<prob>0.025</prob>
+				<loglikelihood>4.054</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

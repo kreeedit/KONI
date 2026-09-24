@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λόφος</form>
+	<date>Wed Jul 27 00:24:46 EDT 2011</date>
+	<count>329</count>
+	<per10K>0.694</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>396</count>
+		<senses>
+			<senseContainer>
+				<sense>hill</sense>
+				<count>215</count>
+				<prob>0.543</prob>
+				<loglikelihood>450.871</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>crest</sense>
+				<count>17</count>
+				<prob>0.043</prob>
+				<loglikelihood>29.630</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>plume</sense>
+				<count>8</count>
+				<prob>0.020</prob>
+				<loglikelihood>9.841</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

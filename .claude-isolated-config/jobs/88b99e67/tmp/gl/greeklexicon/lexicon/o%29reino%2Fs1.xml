@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀρεινός</form>
+	<date>Tue Jul 26 23:39:59 EDT 2011</date>
+	<count>136</count>
+	<per10K>0.287</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>mountainous country</sense>
+				<count>16</count>
+				<prob>0.239</prob>
+				<loglikelihood>42.665</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.938</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mountainous</sense>
+				<count>13</count>
+				<prob>0.194</prob>
+				<loglikelihood>14.082</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mountaineer</sense>
+				<count>5</count>
+				<prob>0.075</prob>
+				<loglikelihood>7.692</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mountainous district</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mountainous part</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

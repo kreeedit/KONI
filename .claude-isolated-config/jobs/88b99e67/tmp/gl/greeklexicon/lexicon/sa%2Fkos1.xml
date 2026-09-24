@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σάκος</form>
+	<date>Tue Jul 26 23:37:47 EDT 2011</date>
+	<count>130</count>
+	<per10K>0.274</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>128</count>
+		<senses>
+			<senseContainer>
+				<sense>shield</sense>
+				<count>106</count>
+				<prob>0.828</prob>
+				<loglikelihood>75.905</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.783</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

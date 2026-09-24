@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαλεκτικός</form>
+	<date>Tue Jul 26 23:00:09 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>32</count>
+		<senses>
+			<senseContainer>
+				<sense>dialectic</sense>
+				<count>15</count>
+				<prob>0.469</prob>
+				<loglikelihood>19.148</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dialectician</sense>
+				<count>6</count>
+				<prob>0.188</prob>
+				<loglikelihood>9.600</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>1</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

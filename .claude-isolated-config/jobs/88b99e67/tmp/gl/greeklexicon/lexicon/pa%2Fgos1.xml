@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πάγος</form>
+	<date>Tue Jul 26 23:35:46 EDT 2011</date>
+	<count>124</count>
+	<per10K>0.262</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>157</count>
+		<senses>
+			<senseContainer>
+				<sense>areopagus</sense>
+				<count>84</count>
+				<prob>0.535</prob>
+				<loglikelihood>258.919</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>areiopagus</sense>
+				<count>12</count>
+				<prob>0.076</prob>
+				<loglikelihood>47.997</loglikelihood>
+				<authorContainer>
+					<author><name>Plutarch</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπηρεσία</form>
+	<date>Tue Jul 26 23:05:39 EDT 2011</date>
+	<count>61</count>
+	<per10K>0.129</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>71</count>
+		<senses>
+			<senseContainer>
+				<sense>rower</sense>
+				<count>10</count>
+				<prob>0.141</prob>
+				<loglikelihood>9.755</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>for service</sense>
+				<count>3</count>
+				<prob>0.042</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

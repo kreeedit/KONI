@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόπας</form>
+	<date>Tue Jul 26 22:42:19 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>livelong</sense>
+				<count>5</count>
+				<prob>0.192</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

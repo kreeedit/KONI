@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θώραξ</form>
+	<date>Tue Jul 26 23:45:46 EDT 2011</date>
+	<count>151</count>
+	<per10K>0.319</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>173</count>
+		<senses>
+			<senseContainer>
+				<sense>corselet</sense>
+				<count>47</count>
+				<prob>0.272</prob>
+				<loglikelihood>176.708</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.638</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>breastplate</sense>
+				<count>40</count>
+				<prob>0.231</prob>
+				<loglikelihood>130.602</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>breastplates</sense>
+				<count>21</count>
+				<prob>0.121</prob>
+				<loglikelihood>60.822</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>thorax</sense>
+				<count>10</count>
+				<prob>0.058</prob>
+				<loglikelihood>39.997</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐνδύω</original>
+				<trans>put on breastplate</trans>
+				<loglikelihood>2.28</loglikelihood>
+				<count>9</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τέσσαρες</form>
+	<date>Wed Jul 27 01:33:02 EDT 2011</date>
+	<count>840</count>
+	<per10K>1.773</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>957</count>
+		<senses>
+			<senseContainer>
+				<sense>four</sense>
+				<count>741</count>
+				<prob>0.774</prob>
+				<loglikelihood>2553.131</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forty</sense>
+				<count>29</count>
+				<prob>0.030</prob>
+				<loglikelihood>7.963</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.414</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

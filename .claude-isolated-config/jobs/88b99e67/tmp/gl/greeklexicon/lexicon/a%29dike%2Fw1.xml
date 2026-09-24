@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδικέω</form>
+	<date>Wed Jul 27 03:00:55 EDT 2011</date>
+	<count>2069</count>
+	<per10K>4.367</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1451</count>
+		<senses>
+			<senseContainer>
+				<sense>wrong</sense>
+				<count>386</count>
+				<prob>0.266</prob>
+				<loglikelihood>473.690</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.311</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>guilty</sense>
+				<count>63</count>
+				<prob>0.043</prob>
+				<loglikelihood>53.484</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>injustice</sense>
+				<count>58</count>
+				<prob>0.040</prob>
+				<loglikelihood>35.553</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unjust</sense>
+				<count>41</count>
+				<prob>0.028</prob>
+				<loglikelihood>9.189</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.488</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>injury</sense>
+				<count>38</count>
+				<prob>0.026</prob>
+				<loglikelihood>19.825</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>injure</sense>
+				<count>32</count>
+				<prob>0.022</prob>
+				<loglikelihood>25.051</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>harm</sense>
+				<count>32</count>
+				<prob>0.022</prob>
+				<loglikelihood>7.134</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>μηδείς</original>
+				<trans>no wrong</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

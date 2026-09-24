@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάνατος</form>
+	<date>Wed Jul 27 02:23:21 EDT 2011</date>
+	<count>1442</count>
+	<per10K>3.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1533</count>
+		<senses>
+			<senseContainer>
+				<sense>death</sense>
+				<count>1229</count>
+				<prob>0.802</prob>
+				<loglikelihood>1973.172</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ζημιόω</original>
+				<trans>punished with death</trans>
+				<loglikelihood>40.74</loglikelihood>
+				<count>55</count>
+			</collocation>
+			<collocation>
+				<original>καταγιγνώσκω</original>
+				<trans>condemned to death</trans>
+				<loglikelihood>15.57</loglikelihood>
+				<count>36</count>
+			</collocation>
+			<collocation>
+				<original>καταψηφίζομαι</original>
+				<trans>condemn death</trans>
+				<loglikelihood>4.00</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>τανηλεγής</original>
+				<trans>grievous death</trans>
+				<loglikelihood>31.98</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

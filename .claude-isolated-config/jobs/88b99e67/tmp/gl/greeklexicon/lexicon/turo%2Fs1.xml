@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τυρός</form>
+	<date>Tue Jul 26 22:59:45 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>cheese</sense>
+				<count>22</count>
+				<prob>0.815</prob>
+				<loglikelihood>43.022</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

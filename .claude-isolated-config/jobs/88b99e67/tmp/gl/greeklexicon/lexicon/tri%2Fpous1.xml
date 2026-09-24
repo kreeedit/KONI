@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τρίπους</form>
+	<date>Tue Jul 26 23:43:15 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>144</count>
+		<senses>
+			<senseContainer>
+				<sense>tripod</sense>
+				<count>104</count>
+				<prob>0.722</prob>
+				<loglikelihood>360.517</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cauldron</sense>
+				<count>12</count>
+				<prob>0.083</prob>
+				<loglikelihood>10.470</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

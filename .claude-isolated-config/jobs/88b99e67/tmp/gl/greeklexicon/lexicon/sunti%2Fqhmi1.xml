@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συντίθημι</form>
+	<date>Wed Jul 27 00:35:08 EDT 2011</date>
+	<count>393</count>
+	<per10K>0.829</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>320</count>
+		<senses>
+			<senseContainer>
+				<sense>agree</sense>
+				<count>43</count>
+				<prob>0.134</prob>
+				<loglikelihood>6.751</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

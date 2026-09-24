@@ -1,0 +1,18 @@
+
+self 0003.001: pairs=3966 clusters=81
+  ok   no cluster is a set of all-distinct cores (size>2)
+  ok   every member is near the cluster's best core (ratio >= 0.5)
+  ok   members sorted ascending in every cluster
+  ok   members[0] is the highest-chain member of the cluster
+  ok   no pair in two clusters
+  ok   clustered + singletons == all pairs
+
+procopius x thucydides: pairs=852 clusters=82
+  ok   no cluster is a set of all-distinct cores (size>2)
+  ok   every member is near the cluster's best core (ratio >= 0.5)
+  ok   members sorted ascending in every cluster
+  ok   members[0] is the highest-chain member of the cluster
+  ok   no pair in two clusters
+  ok   clustered + singletons == all pairs
+
+RESULT: 0 failure(s)

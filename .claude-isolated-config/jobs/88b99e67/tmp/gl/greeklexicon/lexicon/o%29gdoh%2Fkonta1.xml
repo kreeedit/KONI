@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀγδοήκοντα</form>
+	<date>Wed Jul 27 00:00:17 EDT 2011</date>
+	<count>196</count>
+	<per10K>0.414</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>220</count>
+		<senses>
+			<senseContainer>
+				<sense>eighty</sense>
+				<count>139</count>
+				<prob>0.632</prob>
+				<loglikelihood>454.576</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>eighty -</sense>
+				<count>17</count>
+				<prob>0.077</prob>
+				<loglikelihood>64.216</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fourscore</sense>
+				<count>8</count>
+				<prob>0.036</prob>
+				<loglikelihood>19.689</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eighty stadia</sense>
+				<count>5</count>
+				<prob>0.023</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

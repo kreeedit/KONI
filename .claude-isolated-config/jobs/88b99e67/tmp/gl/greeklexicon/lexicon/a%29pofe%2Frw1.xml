@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποφέρω</form>
+	<date>Tue Jul 26 23:46:14 EDT 2011</date>
+	<count>152</count>
+	<per10K>0.321</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>167</count>
+		<senses>
+			<senseContainer>
+				<sense>carry off</sense>
+				<count>8</count>
+				<prob>0.048</prob>
+				<loglikelihood>10.664</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγορά</form>
+	<date>Wed Jul 27 01:27:21 EDT 2011</date>
+	<count>768</count>
+	<per10K>1.621</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>443</count>
+		<senses>
+			<senseContainer>
+				<sense>market - place</sense>
+				<count>99</count>
+				<prob>0.223</prob>
+				<loglikelihood>170.386</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.354</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>market</sense>
+				<count>70</count>
+				<prob>0.158</prob>
+				<loglikelihood>95.097</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assembly</sense>
+				<count>39</count>
+				<prob>0.088</prob>
+				<loglikelihood>8.161</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.769</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>marketplace</sense>
+				<count>30</count>
+				<prob>0.068</prob>
+				<loglikelihood>57.121</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forum</sense>
+				<count>26</count>
+				<prob>0.059</prob>
+				<loglikelihood>35.560</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.962</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>agora</sense>
+				<count>12</count>
+				<prob>0.027</prob>
+				<loglikelihood>19.191</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

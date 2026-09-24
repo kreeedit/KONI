@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Μοῦσα</form>
+	<date>Wed Jul 27 00:16:56 EDT 2011</date>
+	<count>290</count>
+	<per10K>0.612</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>251</count>
+		<senses>
+			<senseContainer>
+				<sense>muse</sense>
+				<count>160</count>
+				<prob>0.637</prob>
+				<loglikelihood>411.199</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>music</sense>
+				<count>21</count>
+				<prob>0.084</prob>
+				<loglikelihood>6.623</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.571</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

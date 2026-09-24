@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἴγειρος</form>
+	<date>Tue Jul 26 22:36:38 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>poplar</sense>
+				<count>8</count>
+				<prob>0.400</prob>
+				<loglikelihood>15.059</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀριθμός</form>
+	<date>Wed Jul 27 01:38:33 EDT 2011</date>
+	<count>893</count>
+	<per10K>1.885</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>473</count>
+		<senses>
+			<senseContainer>
+				<sense>number</sense>
+				<count>244</count>
+				<prob>0.516</prob>
+				<loglikelihood>149.068</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.434</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>in number</sense>
+				<count>33</count>
+				<prob>0.070</prob>
+				<loglikelihood>43.535</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.424</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

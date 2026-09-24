@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡνίοχος</form>
+	<date>Tue Jul 26 23:34:38 EDT 2011</date>
+	<count>122</count>
+	<per10K>0.257</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>96</count>
+		<senses>
+			<senseContainer>
+				<sense>charioteer</sense>
+				<count>73</count>
+				<prob>0.760</prob>
+				<loglikelihood>173.293</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.329</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>driver</sense>
+				<count>16</count>
+				<prob>0.167</prob>
+				<loglikelihood>16.785</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

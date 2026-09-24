@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κιθαρίζω</form>
+	<date>Tue Jul 26 22:59:51 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>harp</sense>
+				<count>17</count>
+				<prob>0.395</prob>
+				<loglikelihood>19.266</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.588</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

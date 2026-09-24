@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τροπαῖος</form>
+	<date>Tue Jul 26 23:33:12 EDT 2011</date>
+	<count>117</count>
+	<per10K>0.247</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>104</count>
+		<senses>
+			<senseContainer>
+				<sense>set up trophy</sense>
+				<count>37</count>
+				<prob>0.356</prob>
+				<loglikelihood>94.408</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.622</relativeFreq></author>
+					<author><name>Xenophon</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>trophy</sense>
+				<count>30</count>
+				<prob>0.288</prob>
+				<loglikelihood>33.329</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.433</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>setting up trophy</sense>
+				<count>8</count>
+				<prob>0.077</prob>
+				<loglikelihood>28.443</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

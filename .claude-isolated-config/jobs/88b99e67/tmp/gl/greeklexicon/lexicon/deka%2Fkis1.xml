@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεκάκις</form>
+	<date>Tue Jul 26 22:29:19 EDT 2011</date>
+	<count>11</count>
+	<per10K>0.023</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>13</count>
+		<senses>
+			<senseContainer>
+				<sense>ten times</sense>
+				<count>4</count>
+				<prob>0.308</prob>
+				<loglikelihood>7.111</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

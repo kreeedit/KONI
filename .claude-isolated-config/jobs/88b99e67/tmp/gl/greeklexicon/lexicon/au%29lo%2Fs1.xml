@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐλός</form>
+	<date>Tue Jul 26 23:14:50 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>flute</sense>
+				<count>38</count>
+				<prob>0.603</prob>
+				<loglikelihood>43.102</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

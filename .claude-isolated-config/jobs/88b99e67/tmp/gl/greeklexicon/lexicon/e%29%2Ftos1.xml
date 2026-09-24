@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔτος</form>
+	<date>Wed Jul 27 02:36:07 EDT 2011</date>
+	<count>1666</count>
+	<per10K>3.516</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>1887</count>
+		<senses>
+			<senseContainer>
+				<sense>year</sense>
+				<count>1573</count>
+				<prob>0.834</prob>
+				<loglikelihood>4665.622</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>βιόω</original>
+				<trans>lived years</trans>
+				<loglikelihood>3.83</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βασιλεύω</original>
+				<trans>reigned nine years</trans>
+				<loglikelihood>3.03</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δέκα</original>
+				<trans>ten years</trans>
+				<loglikelihood>24.04</loglikelihood>
+				<count>80</count>
+			</collocation>
+			<collocation>
+				<original>τεσσαράκοντα</original>
+				<trans>forty years</trans>
+				<loglikelihood>16.91</loglikelihood>
+				<count>47</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰκοστός</original>
+				<trans>twentieth year</trans>
+				<loglikelihood>15.12</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τέταρτος</original>
+				<trans>fourth year</trans>
+				<loglikelihood>10.26</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕβδομος</original>
+				<trans>seventh year</trans>
+				<loglikelihood>9.63</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρίτος</original>
+				<trans>third year</trans>
+				<loglikelihood>8.17</loglikelihood>
+				<count>51</count>
+			</collocation>
+			<collocation>
+				<original>εἴκοσι</original>
+				<trans>twenty years</trans>
+				<loglikelihood>7.87</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑβδομήκοντα</original>
+				<trans>seventy years</trans>
+				<loglikelihood>7.82</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δέκατος</original>
+				<trans>tenth year</trans>
+				<loglikelihood>7.77</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέμπτος</original>
+				<trans>fifth year</trans>
+				<loglikelihood>6.63</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρεῖς</original>
+				<trans>three years</trans>
+				<loglikelihood>6.52</loglikelihood>
+				<count>52</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕκτος</original>
+				<trans>sixth year</trans>
+				<loglikelihood>6.27</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>δωδέκατος</original>
+				<trans>twelfth year</trans>
+				<loglikelihood>6.22</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>δεύτερος</original>
+				<trans>second year</trans>
+				<loglikelihood>5.28</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τριάκοντα</original>
+				<trans>thirty years</trans>
+				<loglikelihood>5.08</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑνδέκατος</original>
+				<trans>eleventh year</trans>
+				<loglikelihood>4.90</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἑκατοστός</original>
+				<trans>hundred years</trans>
+				<loglikelihood>4.76</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πεντήκοντα</original>
+				<trans>fifty years</trans>
+				<loglikelihood>4.48</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέντε</original>
+				<trans>five years</trans>
+				<loglikelihood>4.27</loglikelihood>
+				<count>32</count>
+			</collocation>
+			<collocation>
+				<original>ἑκκαίδεκα</original>
+				<trans>sixteen years</trans>
+				<loglikelihood>4.02</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἕξ</original>
+				<trans>six years</trans>
+				<loglikelihood>3.94</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βασιλεία</original>
+				<trans>year of the reign</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δύο</original>
+				<trans>two years</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄγδοος</original>
+				<trans>eighth years</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἔνατος</original>
+				<trans>ninth year</trans>
+				<loglikelihood>2.41</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ὀκτώ</original>
+				<trans>eight years</trans>
+				<loglikelihood>2.40</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἐννέα</original>
+				<trans>nine years</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>δώδεκα</original>
+				<trans>twelve years</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑκατόν</original>
+				<trans>a hundred years</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑπτάς</original>
+				<trans>seven years</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

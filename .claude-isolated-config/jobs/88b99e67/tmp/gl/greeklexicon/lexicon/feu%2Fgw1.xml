@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φεύγω</form>
+	<date>Wed Jul 27 03:06:56 EDT 2011</date>
+	<count>2133</count>
+	<per10K>4.502</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1611</count>
+		<senses>
+			<senseContainer>
+				<sense>flee</sense>
+				<count>381</count>
+				<prob>0.236</prob>
+				<loglikelihood>708.053</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>escape</sense>
+				<count>147</count>
+				<prob>0.091</prob>
+				<loglikelihood>84.029</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.367</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>flight</sense>
+				<count>94</count>
+				<prob>0.058</prob>
+				<loglikelihood>71.154</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.404</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>exile</sense>
+				<count>93</count>
+				<prob>0.058</prob>
+				<loglikelihood>60.770</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>avoid</sense>
+				<count>75</count>
+				<prob>0.047</prob>
+				<loglikelihood>46.971</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shun</sense>
+				<count>40</count>
+				<prob>0.025</prob>
+				<loglikelihood>63.259</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fly</sense>
+				<count>40</count>
+				<prob>0.025</prob>
+				<loglikelihood>29.940</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>εἰς</original>
+				<trans>fled to</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>184</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἕρκος</original>
+				<trans>escaped the barrier</trans>
+				<loglikelihood>3.22</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

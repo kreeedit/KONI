@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄμουσος</form>
+	<date>Tue Jul 26 22:41:41 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>unmusical</sense>
+				<count>7</count>
+				<prob>0.233</prob>
+				<loglikelihood>28.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

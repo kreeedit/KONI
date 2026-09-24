@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐράω</form>
+	<date>Wed Jul 27 00:40:49 EDT 2011</date>
+	<count>433</count>
+	<per10K>0.914</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>176</count>
+		<senses>
+			<senseContainer>
+				<sense>love</sense>
+				<count>54</count>
+				<prob>0.307</prob>
+				<loglikelihood>7.435</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.463</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

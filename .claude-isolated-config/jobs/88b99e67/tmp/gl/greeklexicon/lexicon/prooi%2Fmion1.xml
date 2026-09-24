@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προοίμιον</form>
+	<date>Tue Jul 26 23:12:30 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>90</count>
+		<senses>
+			<senseContainer>
+				<sense>prelude</sense>
+				<count>31</count>
+				<prob>0.344</prob>
+				<loglikelihood>68.639</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.774</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>exordium</sense>
+				<count>8</count>
+				<prob>0.089</prob>
+				<loglikelihood>15.999</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>preface</sense>
+				<count>5</count>
+				<prob>0.056</prob>
+				<loglikelihood>4.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

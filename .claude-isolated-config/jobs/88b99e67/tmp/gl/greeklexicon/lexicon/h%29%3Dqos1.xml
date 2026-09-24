@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἦθος</form>
+	<date>Wed Jul 27 00:31:55 EDT 2011</date>
+	<count>372</count>
+	<per10K>0.785</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>451</count>
+		<senses>
+			<senseContainer>
+				<sense>character</sense>
+				<count>169</count>
+				<prob>0.375</prob>
+				<loglikelihood>184.160</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>disposition</sense>
+				<count>30</count>
+				<prob>0.067</prob>
+				<loglikelihood>13.021</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>moral character</sense>
+				<count>14</count>
+				<prob>0.031</prob>
+				<loglikelihood>48.990</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>moral</sense>
+				<count>14</count>
+				<prob>0.031</prob>
+				<loglikelihood>8.701</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

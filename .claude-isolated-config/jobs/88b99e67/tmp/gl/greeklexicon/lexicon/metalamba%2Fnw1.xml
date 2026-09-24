@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεταλαμβάνω</form>
+	<date>Tue Jul 26 23:57:34 EDT 2011</date>
+	<count>185</count>
+	<per10K>0.39</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>193</count>
+		<senses>
+			<senseContainer>
+				<sense>share</sense>
+				<count>27</count>
+				<prob>0.140</prob>
+				<loglikelihood>3.854</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>partake</sense>
+				<count>26</count>
+				<prob>0.135</prob>
+				<loglikelihood>12.172</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.654</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

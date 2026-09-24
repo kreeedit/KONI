@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱκετήριος</form>
+	<date>Tue Jul 26 22:55:01 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>54</count>
+		<senses>
+			<senseContainer>
+				<sense>bough</sense>
+				<count>7</count>
+				<prob>0.130</prob>
+				<loglikelihood>5.764</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bough there</sense>
+				<count>4</count>
+				<prob>0.074</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bough on</sense>
+				<count>4</count>
+				<prob>0.074</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

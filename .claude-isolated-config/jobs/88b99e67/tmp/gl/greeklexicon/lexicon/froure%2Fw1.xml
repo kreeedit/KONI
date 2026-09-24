@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φρουρέω</form>
+	<date>Wed Jul 27 00:02:52 EDT 2011</date>
+	<count>207</count>
+	<per10K>0.437</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>178</count>
+		<senses>
+			<senseContainer>
+				<sense>guard</sense>
+				<count>32</count>
+				<prob>0.180</prob>
+				<loglikelihood>5.029</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.344</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>garrison</sense>
+				<count>26</count>
+				<prob>0.146</prob>
+				<loglikelihood>7.262</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>guarded by</sense>
+				<count>5</count>
+				<prob>0.028</prob>
+				<loglikelihood>16.665</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

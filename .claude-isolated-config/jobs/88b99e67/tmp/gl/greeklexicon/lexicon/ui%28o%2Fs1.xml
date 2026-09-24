@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>υἱός</form>
+	<date>Wed Jul 27 03:48:59 EDT 2011</date>
+	<count>2782</count>
+	<per10K>5.872</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>2643</count>
+		<senses>
+			<senseContainer>
+				<sense>son</sense>
+				<count>2348</count>
+				<prob>0.888</prob>
+				<loglikelihood>3776.103</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.338</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>εἰσποιέω</original>
+				<trans>adopted as son</trans>
+				<loglikelihood>4.40</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>διαδέχομαι</original>
+				<trans>succeeded by his son</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Τυδεύς</original>
+				<trans>son of tydeus</trans>
+				<loglikelihood>59.87</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀτρεύς</original>
+				<trans>son of atreus</trans>
+				<loglikelihood>49.93</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀχαία</original>
+				<trans>sons of the achaeans</trans>
+				<loglikelihood>38.95</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγλαός</original>
+				<trans>glorious son</trans>
+				<loglikelihood>35.13</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Εὐπείθης</original>
+				<trans>son of eupeithes</trans>
+				<loglikelihood>28.53</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πετεώς</original>
+				<trans>son of peteos</trans>
+				<loglikelihood>27.97</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φαίδιμος</original>
+				<trans>glorious son</trans>
+				<loglikelihood>18.73</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λυκάων</original>
+				<trans>son of lycaon</trans>
+				<loglikelihood>16.04</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄλκιμος</original>
+				<trans>valiant son</trans>
+				<loglikelihood>11.42</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νόθος</original>
+				<trans>bastard son of</trans>
+				<loglikelihood>11.04</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀντήνωρ</original>
+				<trans>antenor son</trans>
+				<loglikelihood>10.08</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Νέστωρ</original>
+				<trans>son of nestor</trans>
+				<loglikelihood>8.31</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γνήσιος</original>
+				<trans>lawfully born son</trans>
+				<loglikelihood>8.07</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δαίφρων</original>
+				<trans>wise-hearted son</trans>
+				<loglikelihood>5.84</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φίλος</original>
+				<trans>dear son</trans>
+				<loglikelihood>4.62</loglikelihood>
+				<count>82</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πηλεύς</original>
+				<trans>son of peleus</trans>
+				<loglikelihood>4.39</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄρειος</original>
+				<trans>warlike sons</trans>
+				<loglikelihood>4.38</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πρίαμος</original>
+				<trans>son of priam</trans>
+				<loglikelihood>4.22</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ζεύς</original>
+				<trans>son of zeus</trans>
+				<loglikelihood>3.42</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

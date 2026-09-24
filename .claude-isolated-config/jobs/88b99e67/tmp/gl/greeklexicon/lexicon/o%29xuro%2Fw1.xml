@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀχυρόω</form>
+	<date>Tue Jul 26 22:51:57 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>44</count>
+		<senses>
+			<senseContainer>
+				<sense>fortify</sense>
+				<count>17</count>
+				<prob>0.386</prob>
+				<loglikelihood>5.779</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.647</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>also fortified</sense>
+				<count>4</count>
+				<prob>0.091</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

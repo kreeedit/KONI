@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θῆλυς</form>
+	<date>Wed Jul 27 00:01:00 EDT 2011</date>
+	<count>200</count>
+	<per10K>0.422</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>240</count>
+		<senses>
+			<senseContainer>
+				<sense>female</sense>
+				<count>93</count>
+				<prob>0.388</prob>
+				<loglikelihood>201.109</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.387</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

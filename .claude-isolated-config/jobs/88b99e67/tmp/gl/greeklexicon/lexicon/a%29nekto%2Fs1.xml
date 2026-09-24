@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνεκτός</form>
+	<date>Tue Jul 26 23:09:31 EDT 2011</date>
+	<count>68</count>
+	<per10K>0.144</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>intolerable</sense>
+				<count>11</count>
+				<prob>0.196</prob>
+				<loglikelihood>9.489</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tolerable</sense>
+				<count>5</count>
+				<prob>0.089</prob>
+				<loglikelihood>4.545</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more tolerable</sense>
+				<count>3</count>
+				<prob>0.054</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>9</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

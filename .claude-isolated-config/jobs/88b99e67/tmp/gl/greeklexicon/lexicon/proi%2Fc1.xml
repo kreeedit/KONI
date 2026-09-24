@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προίξ</form>
+	<date>Tue Jul 26 23:56:21 EDT 2011</date>
+	<count>181</count>
+	<per10K>0.382</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>206</count>
+		<senses>
+			<senseContainer>
+				<sense>dowry</sense>
+				<count>66</count>
+				<prob>0.320</prob>
+				<loglikelihood>175.981</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.515</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>marriage - portion</sense>
+				<count>32</count>
+				<prob>0.155</prob>
+				<loglikelihood>127.990</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>marriage portion</sense>
+				<count>11</count>
+				<prob>0.053</prob>
+				<loglikelihood>43.996</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

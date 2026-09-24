@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπρεπής</form>
+	<date>Tue Jul 26 22:57:43 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>unbecoming</sense>
+				<count>6</count>
+				<prob>0.167</prob>
+				<loglikelihood>6.261</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>11</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

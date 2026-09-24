@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπερέχω</form>
+	<date>Tue Jul 26 23:54:35 EDT 2011</date>
+	<count>174</count>
+	<per10K>0.367</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>121</count>
+		<senses>
+			<senseContainer>
+				<sense>exceed</sense>
+				<count>19</count>
+				<prob>0.157</prob>
+				<loglikelihood>8.965</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.632</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

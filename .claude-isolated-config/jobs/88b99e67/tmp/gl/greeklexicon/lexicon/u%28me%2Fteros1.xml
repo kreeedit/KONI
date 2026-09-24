@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑμέτερος</form>
+	<date>Wed Jul 27 01:39:56 EDT 2011</date>
+	<count>910</count>
+	<per10K>1.921</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1024</count>
+		<senses>
+			<senseContainer>
+				<sense>your</sense>
+				<count>627</count>
+				<prob>0.612</prob>
+				<loglikelihood>227.612</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>yours</sense>
+				<count>53</count>
+				<prob>0.052</prob>
+				<loglikelihood>26.473</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.453</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>πρόγονος</original>
+				<trans>your ancestors</trans>
+				<loglikelihood>2.12</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

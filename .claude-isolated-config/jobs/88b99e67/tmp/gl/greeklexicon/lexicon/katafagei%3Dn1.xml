@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταφαγεῖν</form>
+	<date>Tue Jul 26 22:47:51 EDT 2011</date>
+	<count>34</count>
+	<per10K>0.072</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>eat up</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

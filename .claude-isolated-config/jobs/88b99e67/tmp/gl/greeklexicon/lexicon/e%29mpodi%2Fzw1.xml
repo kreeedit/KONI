@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμποδίζω</form>
+	<date>Tue Jul 26 23:15:12 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>hinder</sense>
+				<count>20</count>
+				<prob>0.364</prob>
+				<loglikelihood>5.516</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.650</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hindrance</sense>
+				<count>8</count>
+				<prob>0.145</prob>
+				<loglikelihood>4.266</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hamper</sense>
+				<count>5</count>
+				<prob>0.091</prob>
+				<loglikelihood>4.347</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

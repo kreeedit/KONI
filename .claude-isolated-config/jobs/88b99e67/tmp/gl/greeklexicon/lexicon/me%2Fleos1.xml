@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέλεος</form>
+	<date>Tue Jul 26 23:28:56 EDT 2011</date>
+	<count>107</count>
+	<per10K>0.226</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>unhappy</sense>
+				<count>17</count>
+				<prob>0.179</prob>
+				<loglikelihood>4.444</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.824</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

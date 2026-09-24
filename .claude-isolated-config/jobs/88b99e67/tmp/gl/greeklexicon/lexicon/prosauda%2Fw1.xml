@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προσαυδάω</form>
+	<date>Wed Jul 27 00:04:25 EDT 2011</date>
+	<count>218</count>
+	<per10K>0.46</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>193</count>
+		<senses>
+			<senseContainer>
+				<sense>word</sense>
+				<count>55</count>
+				<prob>0.285</prob>
+				<loglikelihood>4.103</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.982</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>address</sense>
+				<count>33</count>
+				<prob>0.171</prob>
+				<loglikelihood>12.436</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.939</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spake</sense>
+				<count>30</count>
+				<prob>0.155</prob>
+				<loglikelihood>6.809</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>she spake</sense>
+				<count>8</count>
+				<prob>0.041</prob>
+				<loglikelihood>19.690</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spake unto</sense>
+				<count>6</count>
+				<prob>0.031</prob>
+				<loglikelihood>5.537</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἔπος</original>
+				<trans>addressed her with winged words</trans>
+				<loglikelihood>44.93</loglikelihood>
+				<count>118</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μιν</original>
+				<trans>he spoke, and addressed him</trans>
+				<loglikelihood>8.99</loglikelihood>
+				<count>52</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

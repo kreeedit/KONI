@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄν</form>
+	<date>Wed Jul 27 07:34:32 EDT 2011</date>
+	<count>13797</count>
+	<per10K>29.12</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>20877</count>
+		<senses>
+			<senseContainer>
+				<sense>would</sense>
+				<count>5503</count>
+				<prob>0.264</prob>
+				<loglikelihood>13777.612</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>can</sense>
+				<count>1976</count>
+				<prob>0.095</prob>
+				<loglikelihood>2662.094</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>should</sense>
+				<count>1037</count>
+				<prob>0.050</prob>
+				<loglikelihood>1009.958</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>may</sense>
+				<count>924</count>
+				<prob>0.044</prob>
+				<loglikelihood>971.064</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>will</sense>
+				<count>886</count>
+				<prob>0.042</prob>
+				<loglikelihood>735.946</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>might</sense>
+				<count>804</count>
+				<prob>0.039</prob>
+				<loglikelihood>1085.921</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

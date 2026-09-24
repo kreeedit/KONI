@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλύω</form>
+	<date>Wed Jul 27 00:54:18 EDT 2011</date>
+	<count>510</count>
+	<per10K>1.076</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>343</count>
+		<senses>
+			<senseContainer>
+				<sense>hear</sense>
+				<count>207</count>
+				<prob>0.603</prob>
+				<loglikelihood>48.915</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hearken</sense>
+				<count>20</count>
+				<prob>0.058</prob>
+				<loglikelihood>9.132</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.850</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hear me</sense>
+				<count>18</count>
+				<prob>0.052</prob>
+				<loglikelihood>30.847</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>readily hearkened</sense>
+				<count>13</count>
+				<prob>0.038</prob>
+				<loglikelihood>51.993</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>αὐδή</original>
+				<trans>heard the voice</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

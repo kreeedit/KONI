@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γυνή</form>
+	<date>Wed Jul 27 04:47:00 EDT 2011</date>
+	<count>4252</count>
+	<per10K>8.974</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>4665</count>
+		<senses>
+			<senseContainer>
+				<sense>woman</sense>
+				<count>2231</count>
+				<prob>0.478</prob>
+				<loglikelihood>7542.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wife</sense>
+				<count>1072</count>
+				<prob>0.230</prob>
+				<loglikelihood>2901.856</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lady</sense>
+				<count>138</count>
+				<prob>0.030</prob>
+				<loglikelihood>306.091</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.362</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>γαμέω</original>
+				<trans>married a wife</trans>
+				<loglikelihood>3.06</loglikelihood>
+				<count>20</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δμωή</original>
+				<trans>servants women</trans>
+				<loglikelihood>10.78</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφίπολος</original>
+				<trans>her handmaids women</trans>
+				<loglikelihood>9.72</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

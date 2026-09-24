@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μνήμη</form>
+	<date>Wed Jul 27 00:37:48 EDT 2011</date>
+	<count>410</count>
+	<per10K>0.865</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>519</count>
+		<senses>
+			<senseContainer>
+				<sense>memory</sense>
+				<count>125</count>
+				<prob>0.241</prob>
+				<loglikelihood>280.173</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mention</sense>
+				<count>54</count>
+				<prob>0.104</prob>
+				<loglikelihood>22.516</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.519</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>remember</sense>
+				<count>37</count>
+				<prob>0.071</prob>
+				<loglikelihood>6.945</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.351</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>memorial</sense>
+				<count>28</count>
+				<prob>0.054</prob>
+				<loglikelihood>27.246</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>remembrance</sense>
+				<count>15</count>
+				<prob>0.029</prob>
+				<loglikelihood>26.458</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

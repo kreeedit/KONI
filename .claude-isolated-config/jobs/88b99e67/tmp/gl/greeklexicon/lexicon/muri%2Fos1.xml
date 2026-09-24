@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μυρίος</form>
+	<date>Wed Jul 27 00:54:25 EDT 2011</date>
+	<count>510</count>
+	<per10K>1.076</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>709</count>
+		<senses>
+			<senseContainer>
+				<sense>ten thousand</sense>
+				<count>175</count>
+				<prob>0.247</prob>
+				<loglikelihood>637.837</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>countless</sense>
+				<count>97</count>
+				<prob>0.137</prob>
+				<loglikelihood>272.616</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.443</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>thousand</sense>
+				<count>79</count>
+				<prob>0.111</prob>
+				<loglikelihood>34.631</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>10</sense>
+				<count>54</count>
+				<prob>0.076</prob>
+				<loglikelihood>153.412</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.907</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>000</sense>
+				<count>17</count>
+				<prob>0.024</prob>
+				<loglikelihood>10.394</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>δραχμή</original>
+				<trans>ten thousand drachmae</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>11</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

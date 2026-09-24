@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὔρα</form>
+	<date>Tue Jul 26 22:52:09 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>breeze</sense>
+				<count>24</count>
+				<prob>0.421</prob>
+				<loglikelihood>41.141</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.458</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

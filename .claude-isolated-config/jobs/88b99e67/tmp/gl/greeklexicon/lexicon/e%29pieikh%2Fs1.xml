@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιεικής</form>
+	<date>Wed Jul 27 00:19:05 EDT 2011</date>
+	<count>302</count>
+	<per10K>0.637</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>281</count>
+		<senses>
+			<senseContainer>
+				<sense>virtuous</sense>
+				<count>18</count>
+				<prob>0.064</prob>
+				<loglikelihood>9.183</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>equity</sense>
+				<count>13</count>
+				<prob>0.046</prob>
+				<loglikelihood>22.527</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.923</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>respectable</sense>
+				<count>12</count>
+				<prob>0.043</prob>
+				<loglikelihood>17.449</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>equitable</sense>
+				<count>11</count>
+				<prob>0.039</prob>
+				<loglikelihood>11.251</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>fairly well</sense>
+				<count>3</count>
+				<prob>0.049</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

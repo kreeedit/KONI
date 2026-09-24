@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπομιμνήσκω</form>
+	<date>Tue Jul 26 23:39:52 EDT 2011</date>
+	<count>136</count>
+	<per10K>0.287</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>109</count>
+		<senses>
+			<senseContainer>
+				<sense>remind</sense>
+				<count>49</count>
+				<prob>0.450</prob>
+				<loglikelihood>48.993</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reminding me</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

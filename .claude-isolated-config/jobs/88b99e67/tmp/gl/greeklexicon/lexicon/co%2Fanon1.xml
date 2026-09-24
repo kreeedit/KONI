@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ξόανον</form>
+	<date>Tue Jul 26 23:33:03 EDT 2011</date>
+	<count>117</count>
+	<per10K>0.247</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>122</count>
+		<senses>
+			<senseContainer>
+				<sense>wooden image</sense>
+				<count>41</count>
+				<prob>0.336</prob>
+				<loglikelihood>149.415</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.976</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wooden images</sense>
+				<count>18</count>
+				<prob>0.148</prob>
+				<loglikelihood>58.906</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wooden</sense>
+				<count>10</count>
+				<prob>0.082</prob>
+				<loglikelihood>4.492</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καθάπτω</form>
+	<date>Tue Jul 26 23:03:30 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>would come down</sense>
+				<count>3</count>
+				<prob>0.083</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

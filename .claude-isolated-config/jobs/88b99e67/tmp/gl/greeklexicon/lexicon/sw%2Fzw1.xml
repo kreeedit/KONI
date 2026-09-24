@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σώζω</form>
+	<date>Wed Jul 27 02:31:25 EDT 2011</date>
+	<count>1568</count>
+	<per10K>3.309</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1398</count>
+		<senses>
+			<senseContainer>
+				<sense>save</sense>
+				<count>435</count>
+				<prob>0.311</prob>
+				<loglikelihood>773.852</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>preserve</sense>
+				<count>141</count>
+				<prob>0.101</prob>
+				<loglikelihood>173.317</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>safe</sense>
+				<count>61</count>
+				<prob>0.044</prob>
+				<loglikelihood>30.235</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>safety</sense>
+				<count>57</count>
+				<prob>0.041</prob>
+				<loglikelihood>26.017</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>keep</sense>
+				<count>40</count>
+				<prob>0.029</prob>
+				<loglikelihood>5.272</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.425</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>escape</sense>
+				<count>37</count>
+				<prob>0.026</prob>
+				<loglikelihood>5.262</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

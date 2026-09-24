@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δισμύριοι</form>
+	<date>Tue Jul 26 23:17:15 EDT 2011</date>
+	<count>84</count>
+	<per10K>0.177</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>120</count>
+		<senses>
+			<senseContainer>
+				<sense>20</sense>
+				<count>27</count>
+				<prob>0.225</prob>
+				<loglikelihood>60.745</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.926</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>twenty thousand</sense>
+				<count>25</count>
+				<prob>0.208</prob>
+				<loglikelihood>92.588</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>25</sense>
+				<count>5</count>
+				<prob>0.042</prob>
+				<loglikelihood>9.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

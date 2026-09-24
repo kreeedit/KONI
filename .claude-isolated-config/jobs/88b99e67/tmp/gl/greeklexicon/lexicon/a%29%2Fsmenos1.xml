@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄσμενος</form>
+	<date>Tue Jul 26 23:57:45 EDT 2011</date>
+	<count>186</count>
+	<per10K>0.393</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>182</count>
+		<senses>
+			<senseContainer>
+				<sense>glad</sense>
+				<count>80</count>
+				<prob>0.440</prob>
+				<loglikelihood>56.368</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>31</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

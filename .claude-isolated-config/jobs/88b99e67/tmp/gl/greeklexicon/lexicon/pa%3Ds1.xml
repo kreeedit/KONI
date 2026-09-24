@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πᾶς</form>
+	<date>Wed Jul 27 08:04:05 EDT 2011</date>
+	<count>18633</count>
+	<per10K>39.327</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>22999</count>
+		<senses>
+			<senseContainer>
+				<sense>all</sense>
+				<count>11644</count>
+				<prob>0.506</prob>
+				<loglikelihood>28647.322</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>every</sense>
+				<count>1385</count>
+				<prob>0.060</prob>
+				<loglikelihood>2995.264</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>whole</sense>
+				<count>1205</count>
+				<prob>0.052</prob>
+				<loglikelihood>1926.201</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>everything</sense>
+				<count>765</count>
+				<prob>0.033</prob>
+				<loglikelihood>1966.542</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἄνθρωπος</original>
+				<trans>all men</trans>
+				<loglikelihood>123.50</loglikelihood>
+				<count>491</count>
+			</collocation>
+			<collocation>
+				<original>ἦμαρ</original>
+				<trans>all thy days</trans>
+				<loglikelihood>19.73</loglikelihood>
+				<count>46</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λαός</original>
+				<trans>all the people</trans>
+				<loglikelihood>12.08</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀχαιός</original>
+				<trans>all the achaeans</trans>
+				<loglikelihood>8.56</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγυιά</original>
+				<trans>all ways</trans>
+				<loglikelihood>6.26</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔργον</original>
+				<trans>all sorts of work</trans>
+				<loglikelihood>5.90</loglikelihood>
+				<count>102</count>
+			</collocation>
+			<collocation>
+				<original>ζῷον</original>
+				<trans>every living creature</trans>
+				<loglikelihood>5.19</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑταῖρος</original>
+				<trans>all thy comrades</trans>
+				<loglikelihood>4.92</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to all</trans>
+				<loglikelihood>4.90</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἄριστος</original>
+				<trans>best of all</trans>
+				<loglikelihood>4.80</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρόπος</original>
+				<trans>every way</trans>
+				<loglikelihood>4.59</loglikelihood>
+				<count>72</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μνηστήρ</original>
+				<trans>all the wooers</trans>
+				<loglikelihood>4.29</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρᾶγμα</original>
+				<trans>all their affairs</trans>
+				<loglikelihood>4.17</loglikelihood>
+				<count>83</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χώρα</original>
+				<trans>all the country</trans>
+				<loglikelihood>3.71</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀρετή</original>
+				<trans>all the virtues</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στράτευμα</original>
+				<trans>whole army</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔθνος</original>
+				<trans>whole nation</trans>
+				<loglikelihood>3.56</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αἰκία</original>
+				<trans>all torment</trans>
+				<loglikelihood>3.47</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>προθυμία</original>
+				<trans>all zeal</trans>
+				<loglikelihood>3.31</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>θεός</original>
+				<trans>all the gods</trans>
+				<loglikelihood>3.30</loglikelihood>
+				<count>140</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>them all</trans>
+				<loglikelihood>3.29</loglikelihood>
+				<count>94</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνάγκη</original>
+				<trans>absolutely necessary</trans>
+				<loglikelihood>3.29</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνήρ</original>
+				<trans>every man</trans>
+				<loglikelihood>2.98</loglikelihood>
+				<count>150</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιστήμη</original>
+				<trans>all the sciences</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλπίς</original>
+				<trans>all hope</trans>
+				<loglikelihood>2.91</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βροτός</original>
+				<trans>all mortals</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δύναμις</original>
+				<trans>whole army</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>65</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔτος</original>
+				<trans>every year</trans>
+				<loglikelihood>2.56</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἑλλάς</original>
+				<trans>all hellas</trans>
+				<loglikelihood>2.53</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γένος</original>
+				<trans>whole race</trans>
+				<loglikelihood>2.42</loglikelihood>
+				<count>51</count>
+			</collocation>
+			<collocation>
+				<original>κτῆμα</original>
+				<trans>all her treasure</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατός</original>
+				<trans>whole army</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

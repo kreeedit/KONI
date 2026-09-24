@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λογάς</form>
+	<date>Tue Jul 26 23:04:11 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>picked men</sense>
+				<count>17</count>
+				<prob>0.279</prob>
+				<loglikelihood>48.165</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pick</sense>
+				<count>15</count>
+				<prob>0.246</prob>
+				<loglikelihood>10.842</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>unhewn</sense>
+				<count>5</count>
+				<prob>0.082</prob>
+				<loglikelihood>16.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>picked troops</sense>
+				<count>3</count>
+				<prob>0.049</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

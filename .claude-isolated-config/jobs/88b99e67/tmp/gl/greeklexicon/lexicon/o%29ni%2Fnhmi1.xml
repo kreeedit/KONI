@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀνίνημι</form>
+	<date>Tue Jul 26 23:36:28 EDT 2011</date>
+	<count>126</count>
+	<per10K>0.266</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>134</count>
+		<senses>
+			<senseContainer>
+				<sense>profit</sense>
+				<count>20</count>
+				<prob>0.149</prob>
+				<loglikelihood>6.126</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>profit by</sense>
+				<count>4</count>
+				<prob>0.030</prob>
+				<loglikelihood>4.922</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

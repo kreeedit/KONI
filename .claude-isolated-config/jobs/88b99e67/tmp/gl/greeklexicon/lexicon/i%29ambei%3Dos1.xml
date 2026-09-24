@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰαμβεῖος</form>
+	<date>Tue Jul 26 22:44:07 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>iambic</sense>
+				<count>7</count>
+				<prob>0.233</prob>
+				<loglikelihood>14.000</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>iambics</sense>
+				<count>6</count>
+				<prob>0.200</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>iambic lines</sense>
+				<count>3</count>
+				<prob>0.100</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

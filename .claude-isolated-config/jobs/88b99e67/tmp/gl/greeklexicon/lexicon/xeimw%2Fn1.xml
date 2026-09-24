@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χειμών</form>
+	<date>Wed Jul 27 00:54:05 EDT 2011</date>
+	<count>509</count>
+	<per10K>1.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>553</count>
+		<senses>
+			<senseContainer>
+				<sense>winter</sense>
+				<count>280</count>
+				<prob>0.506</prob>
+				<loglikelihood>755.467</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>storm</sense>
+				<count>105</count>
+				<prob>0.190</prob>
+				<loglikelihood>207.930</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>weather</sense>
+				<count>20</count>
+				<prob>0.036</prob>
+				<loglikelihood>33.315</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tempest</sense>
+				<count>13</count>
+				<prob>0.024</prob>
+				<loglikelihood>21.794</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

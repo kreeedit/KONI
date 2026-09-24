@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄβυσσος</form>
+	<date>Tue Jul 26 22:33:07 EDT 2011</date>
+	<count>15</count>
+	<per10K>0.032</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>17</count>
+		<senses>
+			<senseContainer>
+				<sense>abyss</sense>
+				<count>8</count>
+				<prob>0.471</prob>
+				<loglikelihood>25.600</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

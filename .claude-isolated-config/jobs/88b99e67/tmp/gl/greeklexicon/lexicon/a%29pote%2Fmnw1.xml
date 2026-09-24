@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποτέμνω</form>
+	<date>Tue Jul 26 23:39:09 EDT 2011</date>
+	<count>134</count>
+	<per10K>0.283</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>cut off</sense>
+				<count>47</count>
+				<prob>0.439</prob>
+				<loglikelihood>51.069</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.319</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cut off from</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>3.999</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>κεφαλή</original>
+				<trans>cut off his head</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐλεέω</form>
+	<date>Wed Jul 27 00:25:44 EDT 2011</date>
+	<count>336</count>
+	<per10K>0.709</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>255</count>
+		<senses>
+			<senseContainer>
+				<sense>pity</sense>
+				<count>126</count>
+				<prob>0.494</prob>
+				<loglikelihood>139.836</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>compassion</sense>
+				<count>13</count>
+				<prob>0.051</prob>
+				<loglikelihood>9.130</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

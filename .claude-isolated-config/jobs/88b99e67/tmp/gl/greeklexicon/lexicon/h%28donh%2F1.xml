@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡδονή</form>
+	<date>Wed Jul 27 02:15:18 EDT 2011</date>
+	<count>1352</count>
+	<per10K>2.854</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>879</count>
+		<senses>
+			<senseContainer>
+				<sense>pleasure</sense>
+				<count>676</count>
+				<prob>0.769</prob>
+				<loglikelihood>1184.025</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.531</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>joy</sense>
+				<count>24</count>
+				<prob>0.027</prob>
+				<loglikelihood>6.605</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

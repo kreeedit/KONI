@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μειλίχιος</form>
+	<date>Tue Jul 26 22:55:33 EDT 2011</date>
+	<count>44</count>
+	<per10K>0.093</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>gentle</sense>
+				<count>16</count>
+				<prob>0.276</prob>
+				<loglikelihood>5.987</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.812</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gentle words</sense>
+				<count>11</count>
+				<prob>0.190</prob>
+				<loglikelihood>43.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>meilichius</sense>
+				<count>4</count>
+				<prob>0.069</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τιμωρία</form>
+	<date>Wed Jul 27 00:38:23 EDT 2011</date>
+	<count>416</count>
+	<per10K>0.878</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>543</count>
+		<senses>
+			<senseContainer>
+				<sense>punishment</sense>
+				<count>161</count>
+				<prob>0.297</prob>
+				<loglikelihood>188.734</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.373</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>penalty</sense>
+				<count>47</count>
+				<prob>0.087</prob>
+				<loglikelihood>17.560</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.404</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>punish</sense>
+				<count>41</count>
+				<prob>0.076</prob>
+				<loglikelihood>8.443</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.634</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vengeance</sense>
+				<count>38</count>
+				<prob>0.070</prob>
+				<loglikelihood>36.756</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὑπέχω</original>
+				<trans>he punishment</trans>
+				<loglikelihood>4.84</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

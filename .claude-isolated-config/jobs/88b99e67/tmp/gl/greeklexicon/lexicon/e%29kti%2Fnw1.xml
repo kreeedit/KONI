@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκτίνω</form>
+	<date>Tue Jul 26 23:48:38 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>183</count>
+		<senses>
+			<senseContainer>
+				<sense>pay</sense>
+				<count>70</count>
+				<prob>0.383</prob>
+				<loglikelihood>15.600</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.386</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

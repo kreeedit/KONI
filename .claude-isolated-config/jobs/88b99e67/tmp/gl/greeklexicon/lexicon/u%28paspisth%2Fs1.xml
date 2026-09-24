@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπασπιστής</form>
+	<date>Tue Jul 26 22:35:23 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>armor - bearers</sense>
+				<count>3</count>
+				<prob>0.143</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

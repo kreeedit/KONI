@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλεῖστος</form>
+	<date>Wed Jul 27 02:48:24 EDT 2011</date>
+	<count>1877</count>
+	<per10K>3.962</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2285</count>
+		<senses>
+			<senseContainer>
+				<sense>most</sense>
+				<count>663</count>
+				<prob>0.290</prob>
+				<loglikelihood>586.457</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>great</sense>
+				<count>203</count>
+				<prob>0.089</prob>
+				<loglikelihood>22.295</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>possible</sense>
+				<count>64</count>
+				<prob>0.028</prob>
+				<loglikelihood>11.805</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>μέρος</original>
+				<trans>greatest part</trans>
+				<loglikelihood>2.29</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολιορκέω</form>
+	<date>Wed Jul 27 00:44:48 EDT 2011</date>
+	<count>456</count>
+	<per10K>0.962</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>340</count>
+		<senses>
+			<senseContainer>
+				<sense>besiege</sense>
+				<count>133</count>
+				<prob>0.391</prob>
+				<loglikelihood>209.276</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>siege</sense>
+				<count>31</count>
+				<prob>0.091</prob>
+				<loglikelihood>11.157</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>laid siege</sense>
+				<count>15</count>
+				<prob>0.044</prob>
+				<loglikelihood>44.992</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>blockade</sense>
+				<count>10</count>
+				<prob>0.029</prob>
+				<loglikelihood>4.756</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

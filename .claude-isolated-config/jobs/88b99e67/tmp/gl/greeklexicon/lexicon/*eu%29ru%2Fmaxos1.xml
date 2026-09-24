@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Εὐρύμαχος</form>
+	<date>Tue Jul 26 23:03:36 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>40</count>
+		<senses>
+			<senseContainer>
+				<sense>eurymachus</sense>
+				<count>35</count>
+				<prob>0.875</prob>
+				<loglikelihood>136.110</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.771</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eurymakhos</sense>
+				<count>11</count>
+				<prob>0.275</prob>
+				<loglikelihood>30.249</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>among eurymachus</sense>
+				<count>3</count>
+				<prob>0.075</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

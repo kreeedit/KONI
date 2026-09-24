@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δικάζω</form>
+	<date>Wed Jul 27 00:44:42 EDT 2011</date>
+	<count>456</count>
+	<per10K>0.962</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>394</count>
+		<senses>
+			<senseContainer>
+				<sense>judge</sense>
+				<count>44</count>
+				<prob>0.112</prob>
+				<loglikelihood>7.404</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>suit</sense>
+				<count>20</count>
+				<prob>0.051</prob>
+				<loglikelihood>4.242</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sue</sense>
+				<count>18</count>
+				<prob>0.046</prob>
+				<loglikelihood>25.908</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

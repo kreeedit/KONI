@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἴκοι</form>
+	<date>Tue Jul 26 23:31:57 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>150</count>
+		<senses>
+			<senseContainer>
+				<sense>at home</sense>
+				<count>95</count>
+				<prob>0.633</prob>
+				<loglikelihood>252.431</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

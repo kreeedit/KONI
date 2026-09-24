@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πιστεύω</form>
+	<date>Wed Jul 27 01:57:46 EDT 2011</date>
+	<count>1124</count>
+	<per10K>2.372</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>868</count>
+		<senses>
+			<senseContainer>
+				<sense>believe</sense>
+				<count>261</count>
+				<prob>0.301</prob>
+				<loglikelihood>188.115</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>trust</sense>
+				<count>123</count>
+				<prob>0.142</prob>
+				<loglikelihood>181.018</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>confidence</sense>
+				<count>42</count>
+				<prob>0.048</prob>
+				<loglikelihood>24.271</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>confidence in</sense>
+				<count>26</count>
+				<prob>0.030</prob>
+				<loglikelihood>62.846</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>credit</sense>
+				<count>24</count>
+				<prob>0.028</prob>
+				<loglikelihood>13.762</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

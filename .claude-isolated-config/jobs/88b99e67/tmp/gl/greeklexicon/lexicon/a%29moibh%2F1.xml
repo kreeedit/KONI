@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμοιβή</form>
+	<date>Tue Jul 26 23:00:27 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>requital for</sense>
+				<count>3</count>
+				<prob>0.059</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

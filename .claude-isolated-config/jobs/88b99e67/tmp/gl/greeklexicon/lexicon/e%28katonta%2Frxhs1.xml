@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑκατοντάρχης</form>
+	<date>Tue Jul 26 22:46:49 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>centurion</sense>
+				<count>28</count>
+				<prob>0.683</prob>
+				<loglikelihood>37.332</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.464</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

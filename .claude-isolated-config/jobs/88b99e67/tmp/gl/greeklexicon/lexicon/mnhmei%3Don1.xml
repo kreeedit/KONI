@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μνημεῖον</form>
+	<date>Tue Jul 26 23:31:55 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>123</count>
+		<senses>
+			<senseContainer>
+				<sense>tomb</sense>
+				<count>38</count>
+				<prob>0.309</prob>
+				<loglikelihood>9.901</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.974</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>memorial</sense>
+				<count>31</count>
+				<prob>0.252</prob>
+				<loglikelihood>33.420</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>monument</sense>
+				<count>26</count>
+				<prob>0.211</prob>
+				<loglikelihood>30.722</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.769</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

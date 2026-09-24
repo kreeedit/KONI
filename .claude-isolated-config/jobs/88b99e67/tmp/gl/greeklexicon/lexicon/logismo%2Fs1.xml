@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λογισμός</form>
+	<date>Wed Jul 27 00:11:28 EDT 2011</date>
+	<count>264</count>
+	<per10K>0.557</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>246</count>
+		<senses>
+			<senseContainer>
+				<sense>calculation</sense>
+				<count>30</count>
+				<prob>0.122</prob>
+				<loglikelihood>41.849</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

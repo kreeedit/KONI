@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σταθμός</form>
+	<date>Tue Jul 26 23:58:03 EDT 2011</date>
+	<count>187</count>
+	<per10K>0.395</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>211</count>
+		<senses>
+			<senseContainer>
+				<sense>stage</sense>
+				<count>31</count>
+				<prob>0.147</prob>
+				<loglikelihood>46.868</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.903</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>weight</sense>
+				<count>25</count>
+				<prob>0.118</prob>
+				<loglikelihood>17.353</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>farmstead</sense>
+				<count>14</count>
+				<prob>0.066</prob>
+				<loglikelihood>41.258</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>door - post</sense>
+				<count>7</count>
+				<prob>0.033</prob>
+				<loglikelihood>27.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

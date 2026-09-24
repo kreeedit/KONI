@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνεπίτροπος</form>
+	<date>Tue Jul 26 22:30:58 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>14</count>
+		<senses>
+			<senseContainer>
+				<sense>co - trustees</sense>
+				<count>6</count>
+				<prob>0.429</prob>
+				<loglikelihood>24.000</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

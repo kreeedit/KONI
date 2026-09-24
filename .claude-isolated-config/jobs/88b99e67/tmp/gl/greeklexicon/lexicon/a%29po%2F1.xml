@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπό</form>
+	<date>Wed Jul 27 06:27:59 EDT 2011</date>
+	<count>7788</count>
+	<per10K>16.438</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>10369</count>
+		<senses>
+			<senseContainer>
+				<sense>from</sense>
+				<count>5280</count>
+				<prob>0.509</prob>
+				<loglikelihood>6013.518</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>after</sense>
+				<count>344</count>
+				<prob>0.033</prob>
+				<loglikelihood>90.101</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.334</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>of</sense>
+				<count>279</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.551</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>by</sense>
+				<count>242</count>
+				<prob>0.023</prob>
+				<loglikelihood>13.150</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>ἄρχω</original>
+				<trans>beginning from</trans>
+				<loglikelihood>41.99</loglikelihood>
+				<count>239</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀφίστημι</original>
+				<trans>revolted from</trans>
+				<loglikelihood>25.64</loglikelihood>
+				<count>86</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καλέω</original>
+				<trans>called after</trans>
+				<loglikelihood>16.29</loglikelihood>
+				<count>157</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποσπάω</original>
+				<trans>drag from</trans>
+				<loglikelihood>14.97</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>καταπηδάω</original>
+				<trans>leaped down from</trans>
+				<loglikelihood>12.13</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ῥίπτω</original>
+				<trans>threw from</trans>
+				<loglikelihood>11.53</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀνομάζω</original>
+				<trans>named after</trans>
+				<loglikelihood>11.06</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διείργω</original>
+				<trans>separated from</trans>
+				<loglikelihood>10.26</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χωρίζω</original>
+				<trans>separated from</trans>
+				<loglikelihood>9.23</loglikelihood>
+				<count>24</count>
+			</collocation>
+			<collocation>
+				<original>βάλλω</original>
+				<trans>missiles from</trans>
+				<loglikelihood>8.93</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταβαίνω</original>
+				<trans>come down from</trans>
+				<loglikelihood>8.39</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπέχω</original>
+				<trans>distant from</trans>
+				<loglikelihood>8.07</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὠθέω</original>
+				<trans>thrust him from</trans>
+				<loglikelihood>8.04</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αἴρω</original>
+				<trans>removed from</trans>
+				<loglikelihood>7.60</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διίστημι</original>
+				<trans>separated from</trans>
+				<loglikelihood>7.44</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διήκω</original>
+				<trans>extend from</trans>
+				<loglikelihood>7.23</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>derived from</trans>
+				<loglikelihood>6.04</loglikelihood>
+				<count>234</count>
+			</collocation>
+			<collocation>
+				<original>σημειόω</original>
+				<trans>null</trans>
+				<loglikelihood>5.98</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἔρχομαι</original>
+				<trans>came from</trans>
+				<loglikelihood>5.07</loglikelihood>
+				<count>94</count>
+			</collocation>
+			<collocation>
+				<original>ἀπελαύνω</original>
+				<trans>exclude from</trans>
+				<loglikelihood>4.42</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ῥέω</original>
+				<trans>which flows from</trans>
+				<loglikelihood>4.16</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μετατίθημι</original>
+				<trans>changed from</trans>
+				<loglikelihood>3.91</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>led from</trans>
+				<loglikelihood>3.80</loglikelihood>
+				<count>66</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κερδαίνω</original>
+				<trans>make gain from</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὁρμάω</original>
+				<trans>starting from</trans>
+				<loglikelihood>3.61</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προσαγορεύω</original>
+				<trans>named from</trans>
+				<loglikelihood>3.52</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διέχω</original>
+				<trans>distant from</trans>
+				<loglikelihood>3.47</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔργω</original>
+				<trans>keep from</trans>
+				<loglikelihood>3.46</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τειχέω</original>
+				<trans>null</trans>
+				<loglikelihood>3.23</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>καταπίπτω</original>
+				<trans>fell from</trans>
+				<loglikelihood>3.22</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>ἐξέρχομαι</original>
+				<trans>came forth from</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>lay it down</trans>
+				<loglikelihood>3.02</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄρνυμι</original>
+				<trans>roused from</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αἱρέω</original>
+				<trans>chosen from</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καθοράω</original>
+				<trans>look down upon from</trans>
+				<loglikelihood>2.87</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>μεθίστημι</original>
+				<trans>had deserted from</trans>
+				<loglikelihood>2.80</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλευθερόω</original>
+				<trans>free from</trans>
+				<loglikelihood>2.76</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ἥκω</original>
+				<trans>had come from</trans>
+				<loglikelihood>2.72</loglikelihood>
+				<count>43</count>
+			</collocation>
+			<collocation>
+				<original>τέμνω</original>
+				<trans>cut my head from</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἅλλομαι</original>
+				<trans>leapt from</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπαίρω</original>
+				<trans>taken away from</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>διατείνω</original>
+				<trans>extends from</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μεταφέρω</original>
+				<trans>transferred from</trans>
+				<loglikelihood>2.49</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πίπτω</original>
+				<trans>fell from</trans>
+				<loglikelihood>2.36</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀφαιρέω</original>
+				<trans>removed the mist from</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φεύγω</original>
+				<trans>flee from</trans>
+				<loglikelihood>2.23</loglikelihood>
+				<count>43</count>
+			</collocation>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent from</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>46</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Emphatic particles</type>
+			<collocation>
+				<original>ὄλλυμι</original>
+				<trans>after losing</trans>
+				<loglikelihood>4.61</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

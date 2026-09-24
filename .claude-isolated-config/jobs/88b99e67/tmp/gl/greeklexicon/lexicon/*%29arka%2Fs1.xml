@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀρκάς</form>
+	<date>Wed Jul 27 00:51:43 EDT 2011</date>
+	<count>502</count>
+	<per10K>1.06</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>134</count>
+		<senses>
+			<senseContainer>
+				<sense>arcadian</sense>
+				<count>124</count>
+				<prob>0.925</prob>
+				<loglikelihood>136.357</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.452</relativeFreq></author>
+					<author><name>Pausanias</name><relativeFreq>0.435</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

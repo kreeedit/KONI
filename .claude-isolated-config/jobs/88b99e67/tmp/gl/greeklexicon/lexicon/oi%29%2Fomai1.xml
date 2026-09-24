@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἴομαι</form>
+	<date>Wed Jul 27 04:39:46 EDT 2011</date>
+	<count>3876</count>
+	<per10K>8.181</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2902</count>
+		<senses>
+			<senseContainer>
+				<sense>think</sense>
+				<count>799</count>
+				<prob>0.275</prob>
+				<loglikelihood>624.202</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.334</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>suppose</sense>
+				<count>213</count>
+				<prob>0.073</prob>
+				<loglikelihood>179.032</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.460</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>believe</sense>
+				<count>117</count>
+				<prob>0.040</prob>
+				<loglikelihood>37.307</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.521</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>imagine</sense>
+				<count>102</count>
+				<prob>0.035</prob>
+				<loglikelihood>101.260</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>do think</sense>
+				<count>67</count>
+				<prob>0.023</prob>
+				<loglikelihood>256.190</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.552</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fancy</sense>
+				<count>65</count>
+				<prob>0.022</prob>
+				<loglikelihood>66.749</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>χρή</original>
+				<trans>thought ought</trans>
+				<loglikelihood>2.01</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

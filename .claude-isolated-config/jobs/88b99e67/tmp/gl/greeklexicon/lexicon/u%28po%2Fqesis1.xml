@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπόθεσις</form>
+	<date>Wed Jul 27 00:02:22 EDT 2011</date>
+	<count>205</count>
+	<per10K>0.433</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>270</count>
+		<senses>
+			<senseContainer>
+				<sense>subject</sense>
+				<count>40</count>
+				<prob>0.148</prob>
+				<loglikelihood>5.849</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hypothesis</sense>
+				<count>36</count>
+				<prob>0.133</prob>
+				<loglikelihood>112.680</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Epictetus</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>assumption</sense>
+				<count>15</count>
+				<prob>0.056</prob>
+				<loglikelihood>14.747</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.467</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κριτήριον</form>
+	<date>Tue Jul 26 22:38:10 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>criterion</sense>
+				<count>12</count>
+				<prob>0.667</prob>
+				<loglikelihood>24.000</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

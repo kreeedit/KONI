@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γέρων</form>
+	<date>Wed Jul 27 01:23:28 EDT 2011</date>
+	<count>730</count>
+	<per10K>1.541</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>688</count>
+		<senses>
+			<senseContainer>
+				<sense>old man</sense>
+				<count>280</count>
+				<prob>0.407</prob>
+				<loglikelihood>787.681</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>old</sense>
+				<count>183</count>
+				<prob>0.266</prob>
+				<loglikelihood>103.257</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.388</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>old men</sense>
+				<count>54</count>
+				<prob>0.078</prob>
+				<loglikelihood>151.420</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>elder</sense>
+				<count>45</count>
+				<prob>0.065</prob>
+				<loglikelihood>23.225</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὔλογος</form>
+	<date>Tue Jul 26 23:48:49 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>173</count>
+		<senses>
+			<senseContainer>
+				<sense>reasonable</sense>
+				<count>51</count>
+				<prob>0.295</prob>
+				<loglikelihood>30.231</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.471</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>more reasonable</sense>
+				<count>5</count>
+				<prob>0.029</prob>
+				<loglikelihood>12.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>20</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δίφρος</form>
+	<date>Tue Jul 26 23:55:05 EDT 2011</date>
+	<count>176</count>
+	<per10K>0.371</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>167</count>
+		<senses>
+			<senseContainer>
+				<sense>chariot</sense>
+				<count>61</count>
+				<prob>0.365</prob>
+				<loglikelihood>23.574</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.590</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>car</sense>
+				<count>51</count>
+				<prob>0.305</prob>
+				<loglikelihood>60.476</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>chair</sense>
+				<count>15</count>
+				<prob>0.090</prob>
+				<loglikelihood>10.223</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὐδεπώποτε</form>
+	<date>Tue Jul 26 23:23:24 EDT 2011</date>
+	<count>96</count>
+	<per10K>0.203</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>102</count>
+		<senses>
+			<senseContainer>
+				<sense>has never</sense>
+				<count>6</count>
+				<prob>0.059</prob>
+				<loglikelihood>5.142</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>never once</sense>
+				<count>3</count>
+				<prob>0.029</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

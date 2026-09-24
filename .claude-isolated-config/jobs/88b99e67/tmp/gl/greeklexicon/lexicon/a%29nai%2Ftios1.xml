@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναίτιος</form>
+	<date>Tue Jul 26 23:03:06 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>innocent</sense>
+				<count>15</count>
+				<prob>0.268</prob>
+				<loglikelihood>10.226</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>guiltless</sense>
+				<count>10</count>
+				<prob>0.179</prob>
+				<loglikelihood>13.792</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

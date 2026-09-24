@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐνθύμημα</form>
+	<date>Tue Jul 26 23:26:26 EDT 2011</date>
+	<count>102</count>
+	<per10K>0.215</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>121</count>
+		<senses>
+			<senseContainer>
+				<sense>enthymemes</sense>
+				<count>33</count>
+				<prob>0.273</prob>
+				<loglikelihood>128.112</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.970</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>enthymeme</sense>
+				<count>27</count>
+				<prob>0.223</prob>
+				<loglikelihood>107.995</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.963</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

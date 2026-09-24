@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίπονος</form>
+	<date>Tue Jul 26 22:57:54 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>60</count>
+		<senses>
+			<senseContainer>
+				<sense>laborious</sense>
+				<count>11</count>
+				<prob>0.183</prob>
+				<loglikelihood>15.612</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>6</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

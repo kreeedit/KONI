@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπήνη</form>
+	<date>Tue Jul 26 22:56:27 EDT 2011</date>
+	<count>45</count>
+	<per10K>0.095</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>50</count>
+		<senses>
+			<senseContainer>
+				<sense>wagon</sense>
+				<count>18</count>
+				<prob>0.360</prob>
+				<loglikelihood>20.902</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

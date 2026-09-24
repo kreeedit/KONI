@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χράω</form>
+	<date>Wed Jul 27 03:20:42 EDT 2011</date>
+	<count>2379</count>
+	<per10K>5.021</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1926</count>
+		<senses>
+			<senseContainer>
+				<sense>use</sense>
+				<count>578</count>
+				<prob>0.300</prob>
+				<loglikelihood>1056.468</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>employ</sense>
+				<count>139</count>
+				<prob>0.072</prob>
+				<loglikelihood>242.596</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>make use</sense>
+				<count>88</count>
+				<prob>0.046</prob>
+				<loglikelihood>239.844</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>treat</sense>
+				<count>86</count>
+				<prob>0.045</prob>
+				<loglikelihood>56.729</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deal</sense>
+				<count>53</count>
+				<prob>0.028</prob>
+				<loglikelihood>32.780</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

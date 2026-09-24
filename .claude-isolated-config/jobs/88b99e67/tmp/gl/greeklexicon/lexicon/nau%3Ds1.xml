@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναῦς</form>
+	<date>Wed Jul 27 05:16:38 EDT 2011</date>
+	<count>5024</count>
+	<per10K>10.604</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>3932</count>
+		<senses>
+			<senseContainer>
+				<sense>ship</sense>
+				<count>2899</count>
+				<prob>0.737</prob>
+				<loglikelihood>8832.049</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.392</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fleet</sense>
+				<count>202</count>
+				<prob>0.051</prob>
+				<loglikelihood>231.197</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.470</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vessel</sense>
+				<count>132</count>
+				<prob>0.034</prob>
+				<loglikelihood>159.360</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.674</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐρύω</original>
+				<trans>drew the black ship</trans>
+				<loglikelihood>14.19</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>to the ships</trans>
+				<loglikelihood>5.69</loglikelihood>
+				<count>222</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>καθέλκω</original>
+				<trans>launched</trans>
+				<loglikelihood>8.27</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἐπισκευάζω</original>
+				<trans>refit</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>προσπλέω</original>
+				<trans>approach</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>πληρόω</original>
+				<trans>man my ship</trans>
+				<loglikelihood>2.63</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>θοός</original>
+				<trans>swift ships</trans>
+				<loglikelihood>226.51</loglikelihood>
+				<count>110</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γλαφυρός</original>
+				<trans>hollow ships</trans>
+				<loglikelihood>144.31</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὔσελμος</original>
+				<trans>well-benched ships</trans>
+				<loglikelihood>127.79</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μέλας</original>
+				<trans>black ship</trans>
+				<loglikelihood>59.15</loglikelihood>
+				<count>80</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποντοπόρος</original>
+				<trans>seafaring ships</trans>
+				<loglikelihood>49.73</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολυκλήις</original>
+				<trans>benched ship</trans>
+				<loglikelihood>47.92</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφιέλισσα</original>
+				<trans>curved ships</trans>
+				<loglikelihood>47.27</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὠκύπορος</original>
+				<trans>swift-faring ships</trans>
+				<loglikelihood>44.98</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρυμνός</original>
+				<trans>sterns of the ships</trans>
+				<loglikelihood>42.76</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κυανόπρῳρος</original>
+				<trans>dark-prowed ship</trans>
+				<loglikelihood>40.26</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κορωνίς</original>
+				<trans>beaked ships</trans>
+				<loglikelihood>39.03</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀχαία</original>
+				<trans>ships of the achaeans</trans>
+				<loglikelihood>31.63</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐεργής</original>
+				<trans>thy well-built ship</trans>
+				<loglikelihood>24.13</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κοῖλος</original>
+				<trans>hollow ships</trans>
+				<loglikelihood>23.25</loglikelihood>
+				<count>44</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατάφρακτος</original>
+				<trans>decked ships</trans>
+				<loglikelihood>13.17</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑξήκοντα</original>
+				<trans>sixty ships</trans>
+				<loglikelihood>7.77</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τεσσαράκοντα</original>
+				<trans>forty ships</trans>
+				<loglikelihood>7.70</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἴκοσι</original>
+				<trans>twenty ships</trans>
+				<loglikelihood>4.84</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑβδομήκοντα</original>
+				<trans>seventy ships</trans>
+				<loglikelihood>3.72</loglikelihood>
+				<count>16</count>
+			</collocation>
+			<collocation>
+				<original>τριάκοντα</original>
+				<trans>thirty ships</trans>
+				<loglikelihood>3.10</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑκατόν</original>
+				<trans>a hundred ships</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>843</count>
+		<senses>
+			<senseContainer>
+				<sense>yes</sense>
+				<count>763</count>
+				<prob>0.905</prob>
+				<loglikelihood>1104.090</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.885</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Παίων</form>
+	<date>Tue Jul 26 22:46:23 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>6</count>
+		<senses>
+			<senseContainer>
+				<sense>pannonians</sense>
+				<count>4</count>
+				<prob>0.667</prob>
+				<loglikelihood>5.818</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

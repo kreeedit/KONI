@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κίνδυνος</form>
+	<date>Wed Jul 27 01:58:53 EDT 2011</date>
+	<count>1126</count>
+	<per10K>2.377</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1461</count>
+		<senses>
+			<senseContainer>
+				<sense>danger</sense>
+				<count>559</count>
+				<prob>0.383</prob>
+				<loglikelihood>1237.660</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>peril</sense>
+				<count>134</count>
+				<prob>0.092</prob>
+				<loglikelihood>368.013</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>risk</sense>
+				<count>83</count>
+				<prob>0.057</prob>
+				<loglikelihood>101.484</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hazard</sense>
+				<count>30</count>
+				<prob>0.021</prob>
+				<loglikelihood>46.081</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὑπομένω</original>
+				<trans>endures toil and winter storms and deadly peril</trans>
+				<loglikelihood>4.34</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαφεύγω</original>
+				<trans>escaped the danger</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἔσχατος</original>
+				<trans>extreme danger</trans>
+				<loglikelihood>3.93</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

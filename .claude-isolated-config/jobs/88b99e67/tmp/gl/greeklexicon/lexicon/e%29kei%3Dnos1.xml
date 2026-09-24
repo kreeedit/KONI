@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκεῖνος</form>
+	<date>Wed Jul 27 05:45:40 EDT 2011</date>
+	<count>6092</count>
+	<per10K>12.858</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>10664</count>
+		<senses>
+			<senseContainer>
+				<sense>that</sense>
+				<count>1210</count>
+				<prob>0.113</prob>
+				<loglikelihood>235.754</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>his</sense>
+				<count>646</count>
+				<prob>0.061</prob>
+				<loglikelihood>112.447</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>him</sense>
+				<count>597</count>
+				<prob>0.056</prob>
+				<loglikelihood>93.701</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>he</sense>
+				<count>524</count>
+				<prob>0.049</prob>
+				<loglikelihood>106.267</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>them</sense>
+				<count>416</count>
+				<prob>0.039</prob>
+				<loglikelihood>48.079</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>those</sense>
+				<count>404</count>
+				<prob>0.038</prob>
+				<loglikelihood>100.286</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>they</sense>
+				<count>326</count>
+				<prob>0.031</prob>
+				<loglikelihood>49.518</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>that time</trans>
+				<loglikelihood>6.44</loglikelihood>
+				<count>94</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

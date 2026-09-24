@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἰγύπτιος</form>
+	<date>Wed Jul 27 01:13:50 EDT 2011</date>
+	<count>646</count>
+	<per10K>1.363</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>377</count>
+		<senses>
+			<senseContainer>
+				<sense>egyptian</sense>
+				<count>266</count>
+				<prob>0.706</prob>
+				<loglikelihood>466.157</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.372</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.338</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>egypt</sense>
+				<count>58</count>
+				<prob>0.154</prob>
+				<loglikelihood>16.956</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.552</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πήδασος</form>
+	<date>Tue Jul 26 22:42:13 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>pedasus</sense>
+				<count>13</count>
+				<prob>0.722</prob>
+				<loglikelihood>32.190</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.538</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

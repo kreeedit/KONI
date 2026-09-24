@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χάλκεος</form>
+	<date>Wed Jul 27 00:37:33 EDT 2011</date>
+	<count>410</count>
+	<per10K>0.865</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>281</count>
+		<senses>
+			<senseContainer>
+				<sense>bronze</sense>
+				<count>176</count>
+				<prob>0.626</prob>
+				<loglikelihood>166.929</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brazen</sense>
+				<count>39</count>
+				<prob>0.139</prob>
+				<loglikelihood>80.035</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brass</sense>
+				<count>14</count>
+				<prob>0.050</prob>
+				<loglikelihood>12.846</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἔγχος</original>
+				<trans>spear of bronze</trans>
+				<loglikelihood>11.75</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰκών</original>
+				<trans>bronze statues</trans>
+				<loglikelihood>3.70</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

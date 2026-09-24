@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βίος</form>
+	<date>Wed Jul 27 02:41:19 EDT 2011</date>
+	<count>1735</count>
+	<per10K>3.662</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>2107</count>
+		<senses>
+			<senseContainer>
+				<sense>life</sense>
+				<count>1206</count>
+				<prob>0.572</prob>
+				<loglikelihood>2259.771</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>μεταλλάσσω</original>
+				<trans>die life</trans>
+				<loglikelihood>52.43</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διάγω</original>
+				<trans>pass his life</trans>
+				<loglikelihood>21.21</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταστρέφω</original>
+				<trans>ended his life</trans>
+				<loglikelihood>15.58</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τελευτάω</original>
+				<trans>ended his life</trans>
+				<loglikelihood>12.02</loglikelihood>
+				<count>71</count>
+			</collocation>
+			<collocation>
+				<original>ἐκπνέω</original>
+				<trans>breathing away life</trans>
+				<loglikelihood>5.74</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>διατελέω</original>
+				<trans>pass his life</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἐπίλοιπος</original>
+				<trans>rest of his life</trans>
+				<loglikelihood>4.60</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνθρώπινος</original>
+				<trans>human life</trans>
+				<loglikelihood>3.69</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>εὐδαίμων</original>
+				<trans>happy life</trans>
+				<loglikelihood>3.18</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥοδοδάκτυλος</form>
+	<date>Tue Jul 26 22:53:41 EDT 2011</date>
+	<count>41</count>
+	<per10K>0.087</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>32</count>
+		<senses>
+			<senseContainer>
+				<sense>rosy - fingered</sense>
+				<count>23</count>
+				<prob>0.719</prob>
+				<loglikelihood>91.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.913</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rosy -</sense>
+				<count>12</count>
+				<prob>0.375</prob>
+				<loglikelihood>47.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἠώς</original>
+				<trans>rosy-fingered dawn</trans>
+				<loglikelihood>4.72</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

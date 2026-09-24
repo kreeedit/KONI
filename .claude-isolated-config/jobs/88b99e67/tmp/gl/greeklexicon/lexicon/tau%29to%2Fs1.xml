@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ταὐτός</form>
+	<date>Wed Jul 27 02:16:31 EDT 2011</date>
+	<count>1373</count>
+	<per10K>2.898</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>452</count>
+		<senses>
+			<senseContainer>
+				<sense>same</sense>
+				<count>182</count>
+				<prob>0.403</prob>
+				<loglikelihood>27.395</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.511</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>same thing</sense>
+				<count>18</count>
+				<prob>0.040</prob>
+				<loglikelihood>8.241</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.444</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>same as</sense>
+				<count>15</count>
+				<prob>0.033</prob>
+				<loglikelihood>8.400</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.467</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

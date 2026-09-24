@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπάτη</form>
+	<date>Tue Jul 26 23:20:55 EDT 2011</date>
+	<count>91</count>
+	<per10K>0.192</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>104</count>
+		<senses>
+			<senseContainer>
+				<sense>deceit</sense>
+				<count>21</count>
+				<prob>0.202</prob>
+				<loglikelihood>35.277</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deception</sense>
+				<count>8</count>
+				<prob>0.077</prob>
+				<loglikelihood>4.490</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>deceitful</sense>
+				<count>6</count>
+				<prob>0.058</prob>
+				<loglikelihood>6.856</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

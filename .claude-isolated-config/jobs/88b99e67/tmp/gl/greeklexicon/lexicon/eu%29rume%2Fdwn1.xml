@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐρυμέδων</form>
+	<date>Tue Jul 26 22:59:09 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>eurymedon</sense>
+				<count>28</count>
+				<prob>0.800</prob>
+				<loglikelihood>82.525</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

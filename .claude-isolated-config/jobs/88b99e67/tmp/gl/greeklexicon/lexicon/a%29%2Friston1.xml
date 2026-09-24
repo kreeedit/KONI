@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄριστον</form>
+	<date>Wed Jul 27 00:17:34 EDT 2011</date>
+	<count>295</count>
+	<per10K>0.623</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>129</count>
+		<senses>
+			<senseContainer>
+				<sense>best interests</sense>
+				<count>5</count>
+				<prob>0.039</prob>
+				<loglikelihood>7.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

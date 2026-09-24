@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγγέλλω</form>
+	<date>Wed Jul 27 00:19:28 EDT 2011</date>
+	<count>303</count>
+	<per10K>0.64</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>197</count>
+		<senses>
+			<senseContainer>
+				<sense>report</sense>
+				<count>31</count>
+				<prob>0.157</prob>
+				<loglikelihood>5.602</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>news</sense>
+				<count>30</count>
+				<prob>0.152</prob>
+				<loglikelihood>13.474</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>news came</sense>
+				<count>5</count>
+				<prob>0.025</prob>
+				<loglikelihood>11.109</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

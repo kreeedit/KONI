@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διατρίβω</form>
+	<date>Wed Jul 27 00:21:41 EDT 2011</date>
+	<count>313</count>
+	<per10K>0.661</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>308</count>
+		<senses>
+			<senseContainer>
+				<sense>spend</sense>
+				<count>21</count>
+				<prob>0.068</prob>
+				<loglikelihood>8.470</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>delay</sense>
+				<count>19</count>
+				<prob>0.062</prob>
+				<loglikelihood>5.148</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>abode</sense>
+				<count>15</count>
+				<prob>0.049</prob>
+				<loglikelihood>7.024</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>waste time</sense>
+				<count>8</count>
+				<prob>0.026</prob>
+				<loglikelihood>25.596</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

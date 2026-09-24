@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέτριος</form>
+	<date>Wed Jul 27 00:51:27 EDT 2011</date>
+	<count>501</count>
+	<per10K>1.057</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>543</count>
+		<senses>
+			<senseContainer>
+				<sense>moderate</sense>
+				<count>128</count>
+				<prob>0.236</prob>
+				<loglikelihood>359.984</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>moderation</sense>
+				<count>43</count>
+				<prob>0.079</prob>
+				<loglikelihood>60.092</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reasonable</sense>
+				<count>33</count>
+				<prob>0.061</prob>
+				<loglikelihood>12.633</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.576</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>modest</sense>
+				<count>12</count>
+				<prob>0.022</prob>
+				<loglikelihood>6.052</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>47</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

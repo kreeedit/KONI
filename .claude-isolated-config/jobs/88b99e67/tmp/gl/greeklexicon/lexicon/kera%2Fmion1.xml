@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κεράμιον</form>
+	<date>Tue Jul 26 22:36:45 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>jar</sense>
+				<count>12</count>
+				<prob>0.522</prob>
+				<loglikelihood>9.762</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

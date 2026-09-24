@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀφροδίσιος</form>
+	<date>Tue Jul 26 23:09:41 EDT 2011</date>
+	<count>68</count>
+	<per10K>0.144</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>78</count>
+		<senses>
+			<senseContainer>
+				<sense>sexual</sense>
+				<count>9</count>
+				<prob>0.115</prob>
+				<loglikelihood>12.959</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sex</sense>
+				<count>9</count>
+				<prob>0.115</prob>
+				<loglikelihood>5.490</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

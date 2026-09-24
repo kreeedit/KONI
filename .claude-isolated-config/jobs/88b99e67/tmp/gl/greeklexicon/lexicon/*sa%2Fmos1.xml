@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Σάμος</form>
+	<date>Wed Jul 27 00:53:33 EDT 2011</date>
+	<count>507</count>
+	<per10K>1.07</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>54</count>
+		<senses>
+			<senseContainer>
+				<sense>samians</sense>
+				<count>47</count>
+				<prob>0.870</prob>
+				<loglikelihood>65.938</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.532</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>6</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόθεν</form>
+	<date>Wed Jul 27 00:06:32 EDT 2011</date>
+	<count>231</count>
+	<per10K>0.488</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>236</count>
+		<senses>
+			<senseContainer>
+				<sense>whence</sense>
+				<count>65</count>
+				<prob>0.275</prob>
+				<loglikelihood>58.455</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.338</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>where did</sense>
+				<count>15</count>
+				<prob>0.064</prob>
+				<loglikelihood>52.935</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>how should</sense>
+				<count>10</count>
+				<prob>0.042</prob>
+				<loglikelihood>17.387</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>from where</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>7.141</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

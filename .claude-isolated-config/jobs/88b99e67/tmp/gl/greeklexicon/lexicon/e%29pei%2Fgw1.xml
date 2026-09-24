@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπείγω</form>
+	<date>Wed Jul 27 00:20:17 EDT 2011</date>
+	<count>307</count>
+	<per10K>0.648</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>262</count>
+		<senses>
+			<senseContainer>
+				<sense>hasten</sense>
+				<count>47</count>
+				<prob>0.179</prob>
+				<loglikelihood>49.344</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.596</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>made haste</sense>
+				<count>20</count>
+				<prob>0.076</prob>
+				<loglikelihood>31.991</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

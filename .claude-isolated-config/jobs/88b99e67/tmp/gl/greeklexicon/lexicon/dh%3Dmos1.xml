@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δῆμος</form>
+	<date>Wed Jul 27 03:19:57 EDT 2011</date>
+	<count>2351</count>
+	<per10K>4.962</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>2690</count>
+		<senses>
+			<senseContainer>
+				<sense>people</sense>
+				<count>1397</count>
+				<prob>0.519</prob>
+				<loglikelihood>2188.123</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>democracy</sense>
+				<count>160</count>
+				<prob>0.059</prob>
+				<loglikelihood>157.565</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assembly</sense>
+				<count>124</count>
+				<prob>0.046</prob>
+				<loglikelihood>82.229</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.516</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>common</sense>
+				<count>71</count>
+				<prob>0.026</prob>
+				<loglikelihood>23.322</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.577</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>land</sense>
+				<count>69</count>
+				<prob>0.026</prob>
+				<loglikelihood>6.145</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.957</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>καταλύω</original>
+				<trans>overthrow the democracy</trans>
+				<loglikelihood>9.69</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>χειροτονέω</original>
+				<trans>elected by the people</trans>
+				<loglikelihood>3.54</loglikelihood>
+				<count>13</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πίων</original>
+				<trans>rich land</trans>
+				<loglikelihood>14.37</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἰθάκη</original>
+				<trans>ithaca land</trans>
+				<loglikelihood>3.32</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

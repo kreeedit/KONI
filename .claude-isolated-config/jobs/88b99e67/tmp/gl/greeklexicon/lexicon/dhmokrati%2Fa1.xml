@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημοκρατία</form>
+	<date>Wed Jul 27 00:46:31 EDT 2011</date>
+	<count>470</count>
+	<per10K>0.992</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>518</count>
+		<senses>
+			<senseContainer>
+				<sense>democracy</sense>
+				<count>408</count>
+				<prob>0.788</prob>
+				<loglikelihood>1028.927</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.461</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καθίζω</form>
+	<date>Wed Jul 27 00:03:46 EDT 2011</date>
+	<count>212</count>
+	<per10K>0.447</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>188</count>
+		<senses>
+			<senseContainer>
+				<sense>seat</sense>
+				<count>25</count>
+				<prob>0.133</prob>
+				<loglikelihood>6.354</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sat down</sense>
+				<count>23</count>
+				<prob>0.122</prob>
+				<loglikelihood>18.555</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.652</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sit</sense>
+				<count>22</count>
+				<prob>0.117</prob>
+				<loglikelihood>6.716</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sit down</sense>
+				<count>8</count>
+				<prob>0.043</prob>
+				<loglikelihood>4.127</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

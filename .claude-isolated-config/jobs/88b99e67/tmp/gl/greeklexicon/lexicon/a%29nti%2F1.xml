@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντί</form>
+	<date>Wed Jul 27 02:10:03 EDT 2011</date>
+	<count>1294</count>
+	<per10K>2.731</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>1597</count>
+		<senses>
+			<senseContainer>
+				<sense>instead</sense>
+				<count>477</count>
+				<prob>0.299</prob>
+				<loglikelihood>1022.659</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>place</sense>
+				<count>93</count>
+				<prob>0.058</prob>
+				<loglikelihood>11.675</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in place</sense>
+				<count>59</count>
+				<prob>0.037</prob>
+				<loglikelihood>235.844</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.305</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

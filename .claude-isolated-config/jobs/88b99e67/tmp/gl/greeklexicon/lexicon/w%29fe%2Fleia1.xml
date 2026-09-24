@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὠφέλεια</form>
+	<date>Wed Jul 27 00:08:11 EDT 2011</date>
+	<count>243</count>
+	<per10K>0.513</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>321</count>
+		<senses>
+			<senseContainer>
+				<sense>benefit</sense>
+				<count>63</count>
+				<prob>0.196</prob>
+				<loglikelihood>26.969</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.524</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>advantage</sense>
+				<count>44</count>
+				<prob>0.137</prob>
+				<loglikelihood>10.900</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

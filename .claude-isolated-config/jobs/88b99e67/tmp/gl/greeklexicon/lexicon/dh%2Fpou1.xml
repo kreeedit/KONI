@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δήπου</form>
+	<date>Wed Jul 27 00:58:51 EDT 2011</date>
+	<count>537</count>
+	<per10K>1.133</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>638</count>
+		<senses>
+			<senseContainer>
+				<sense>sure</sense>
+				<count>157</count>
+				<prob>0.246</prob>
+				<loglikelihood>73.431</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.376</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.369</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>course</sense>
+				<count>83</count>
+				<prob>0.130</prob>
+				<loglikelihood>27.308</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.434</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>presume</sense>
+				<count>58</count>
+				<prob>0.091</prob>
+				<loglikelihood>81.001</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.707</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>suppose</sense>
+				<count>32</count>
+				<prob>0.050</prob>
+				<loglikelihood>4.030</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

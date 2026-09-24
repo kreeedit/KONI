@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὥσπερ</form>
+	<date>Wed Jul 27 04:38:33 EDT 2011</date>
+	<count>3848</count>
+	<per10K>8.122</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4399</count>
+		<senses>
+			<senseContainer>
+				<sense>as</sense>
+				<count>1910</count>
+				<prob>0.434</prob>
+				<loglikelihood>948.179</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>like</sense>
+				<count>515</count>
+				<prob>0.117</prob>
+				<loglikelihood>324.555</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>just as</sense>
+				<count>442</count>
+				<prob>0.100</prob>
+				<loglikelihood>1158.037</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as if</sense>
+				<count>128</count>
+				<prob>0.029</prob>
+				<loglikelihood>178.615</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

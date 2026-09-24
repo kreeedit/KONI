@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκρασία</form>
+	<date>Tue Jul 26 23:08:49 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>unrestraint</sense>
+				<count>28</count>
+				<prob>0.424</prob>
+				<loglikelihood>71.270</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>incontinence</sense>
+				<count>12</count>
+				<prob>0.182</prob>
+				<loglikelihood>25.042</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>intemperance</sense>
+				<count>4</count>
+				<prob>0.061</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

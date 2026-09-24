@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁλίζω</form>
+	<date>Tue Jul 26 22:57:31 EDT 2011</date>
+	<count>47</count>
+	<per10K>0.099</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>so much as</sense>
+				<count>5</count>
+				<prob>0.250</prob>
+				<loglikelihood>5.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

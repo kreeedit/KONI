@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συζάω</form>
+	<date>Tue Jul 26 22:59:03 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>society</sense>
+				<count>14</count>
+				<prob>0.255</prob>
+				<loglikelihood>9.445</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>live together</sense>
+				<count>3</count>
+				<prob>0.055</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

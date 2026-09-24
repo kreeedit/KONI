@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅσος</form>
+	<date>Wed Jul 27 05:17:36 EDT 2011</date>
+	<count>5049</count>
+	<per10K>10.657</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>7009</count>
+		<senses>
+			<senseContainer>
+				<sense>all</sense>
+				<count>976</count>
+				<prob>0.139</prob>
+				<loglikelihood>193.015</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as</sense>
+				<count>658</count>
+				<prob>0.094</prob>
+				<loglikelihood>106.536</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>which</sense>
+				<count>342</count>
+				<prob>0.049</prob>
+				<loglikelihood>26.174</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>who</sense>
+				<count>274</count>
+				<prob>0.039</prob>
+				<loglikelihood>20.113</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>those</sense>
+				<count>240</count>
+				<prob>0.034</prob>
+				<loglikelihood>35.128</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>what</sense>
+				<count>191</count>
+				<prob>0.027</prob>
+				<loglikelihood>8.716</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

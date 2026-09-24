@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔμβολος</form>
+	<date>Tue Jul 26 22:30:49 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>rostra</sense>
+				<count>11</count>
+				<prob>0.500</prob>
+				<loglikelihood>24.200</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

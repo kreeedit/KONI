@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημεύω</form>
+	<date>Tue Jul 26 23:09:57 EDT 2011</date>
+	<count>69</count>
+	<per10K>0.146</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>54</count>
+		<senses>
+			<senseContainer>
+				<sense>confiscate</sense>
+				<count>19</count>
+				<prob>0.352</prob>
+				<loglikelihood>24.473</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.474</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>confiscation</sense>
+				<count>12</count>
+				<prob>0.222</prob>
+				<loglikelihood>20.570</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

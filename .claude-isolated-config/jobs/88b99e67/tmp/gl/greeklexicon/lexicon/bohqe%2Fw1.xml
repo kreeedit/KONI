@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βοηθέω</form>
+	<date>Wed Jul 27 01:43:45 EDT 2011</date>
+	<count>961</count>
+	<per10K>2.028</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>912</count>
+		<senses>
+			<senseContainer>
+				<sense>aid</sense>
+				<count>154</count>
+				<prob>0.169</prob>
+				<loglikelihood>185.791</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>help</sense>
+				<count>104</count>
+				<prob>0.114</prob>
+				<loglikelihood>61.743</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rescue</sense>
+				<count>47</count>
+				<prob>0.052</prob>
+				<loglikelihood>49.018</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.404</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>assistance</sense>
+				<count>42</count>
+				<prob>0.046</prob>
+				<loglikelihood>23.855</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>support</sense>
+				<count>37</count>
+				<prob>0.041</prob>
+				<loglikelihood>15.283</loglikelihood>
+				<authorContainer>
+					<author><name>Lysias</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>assist</sense>
+				<count>30</count>
+				<prob>0.033</prob>
+				<loglikelihood>15.081</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>defend</sense>
+				<count>20</count>
+				<prob>0.022</prob>
+				<loglikelihood>5.564</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μανθάνω</form>
+	<date>Wed Jul 27 02:44:34 EDT 2011</date>
+	<count>1818</count>
+	<per10K>3.837</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1466</count>
+		<senses>
+			<senseContainer>
+				<sense>learn</sense>
+				<count>430</count>
+				<prob>0.293</prob>
+				<loglikelihood>896.665</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.302</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>understand</sense>
+				<count>179</count>
+				<prob>0.122</prob>
+				<loglikelihood>155.123</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.715</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>learnt</sense>
+				<count>57</count>
+				<prob>0.039</prob>
+				<loglikelihood>87.673</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.737</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>παρά</original>
+				<trans>learn from</trans>
+				<loglikelihood>2.54</loglikelihood>
+				<count>84</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρνίον</form>
+	<date>Tue Jul 26 22:46:09 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>lamb</sense>
+				<count>31</count>
+				<prob>0.912</prob>
+				<loglikelihood>33.137</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.871</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

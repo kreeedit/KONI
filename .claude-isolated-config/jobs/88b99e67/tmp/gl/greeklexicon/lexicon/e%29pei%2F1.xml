@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπεί</form>
+	<date>Wed Jul 27 05:54:13 EDT 2011</date>
+	<count>6453</count>
+	<per10K>13.62</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>6820</count>
+		<senses>
+			<senseContainer>
+				<sense>when</sense>
+				<count>2190</count>
+				<prob>0.321</prob>
+				<loglikelihood>1278.731</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>since</sense>
+				<count>1372</count>
+				<prob>0.201</prob>
+				<loglikelihood>2319.100</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for</sense>
+				<count>680</count>
+				<prob>0.100</prob>
+				<loglikelihood>58.604</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>after</sense>
+				<count>257</count>
+				<prob>0.038</prob>
+				<loglikelihood>50.680</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>now</sense>
+				<count>195</count>
+				<prob>0.029</prob>
+				<loglikelihood>10.526</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as</sense>
+				<count>177</count>
+				<prob>0.026</prob>
+				<loglikelihood>6.346</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>see</sense>
+				<count>173</count>
+				<prob>0.025</prob>
+				<loglikelihood>19.263</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.555</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

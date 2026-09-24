@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λυσιτελής</form>
+	<date>Tue Jul 26 23:05:28 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>more profitable than</sense>
+				<count>4</count>
+				<prob>0.068</prob>
+				<loglikelihood>4.923</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more advantageous</sense>
+				<count>4</count>
+				<prob>0.068</prob>
+				<loglikelihood>6.400</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more profitable</sense>
+				<count>4</count>
+				<prob>0.068</prob>
+				<loglikelihood>4.923</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>6</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

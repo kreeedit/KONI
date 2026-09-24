@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἤδη</form>
+	<date>Wed Jul 27 04:11:12 EDT 2011</date>
+	<count>3374</count>
+	<per10K>7.121</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4847</count>
+		<senses>
+			<senseContainer>
+				<sense>now</sense>
+				<count>748</count>
+				<prob>0.154</prob>
+				<loglikelihood>180.454</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>already</sense>
+				<count>622</count>
+				<prob>0.128</prob>
+				<loglikelihood>1624.224</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have</sense>
+				<count>316</count>
+				<prob>0.065</prob>
+				<loglikelihood>35.091</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>had already</sense>
+				<count>131</count>
+				<prob>0.027</prob>
+				<loglikelihood>482.351</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>time</sense>
+				<count>130</count>
+				<prob>0.027</prob>
+				<loglikelihood>14.145</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

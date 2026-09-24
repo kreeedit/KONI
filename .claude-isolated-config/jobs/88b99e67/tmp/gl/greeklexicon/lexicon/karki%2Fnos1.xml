@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καρκίνος</form>
+	<date>Tue Jul 26 22:37:24 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>carcinus</sense>
+				<count>10</count>
+				<prob>0.435</prob>
+				<loglikelihood>40.000</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>crab</sense>
+				<count>5</count>
+				<prob>0.217</prob>
+				<loglikelihood>16.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὕστερος</form>
+	<date>Wed Jul 27 03:05:07 EDT 2011</date>
+	<count>2097</count>
+	<per10K>4.426</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>373</count>
+		<senses>
+			<senseContainer>
+				<sense>last</sense>
+				<count>95</count>
+				<prob>0.255</prob>
+				<loglikelihood>41.442</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>late</sense>
+				<count>49</count>
+				<prob>0.131</prob>
+				<loglikelihood>11.350</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.347</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>posterior</sense>
+				<count>10</count>
+				<prob>0.027</prob>
+				<loglikelihood>12.494</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

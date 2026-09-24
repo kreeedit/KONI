@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁρπάζω</form>
+	<date>Wed Jul 27 00:17:39 EDT 2011</date>
+	<count>295</count>
+	<per10K>0.623</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>194</count>
+		<senses>
+			<senseContainer>
+				<sense>seize</sense>
+				<count>26</count>
+				<prob>0.134</prob>
+				<loglikelihood>3.945</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>snatch</sense>
+				<count>24</count>
+				<prob>0.124</prob>
+				<loglikelihood>30.308</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>plunder</sense>
+				<count>21</count>
+				<prob>0.108</prob>
+				<loglikelihood>4.437</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>carried off</sense>
+				<count>20</count>
+				<prob>0.103</prob>
+				<loglikelihood>19.994</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

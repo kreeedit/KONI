@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χιλίαρχος</form>
+	<date>Tue Jul 26 23:38:42 EDT 2011</date>
+	<count>132</count>
+	<per10K>0.279</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>226</count>
+		<senses>
+			<senseContainer>
+				<sense>tribune</sense>
+				<count>49</count>
+				<prob>0.217</prob>
+				<loglikelihood>48.983</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.510</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.469</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>commanding officer</sense>
+				<count>15</count>
+				<prob>0.066</prob>
+				<loglikelihood>59.994</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>military tribunes</sense>
+				<count>10</count>
+				<prob>0.044</prob>
+				<loglikelihood>30.765</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>colonel</sense>
+				<count>6</count>
+				<prob>0.027</prob>
+				<loglikelihood>5.331</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>military tribune</sense>
+				<count>5</count>
+				<prob>0.022</prob>
+				<loglikelihood>14.284</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

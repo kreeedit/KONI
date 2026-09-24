@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνδριάς</form>
+	<date>Tue Jul 26 23:59:57 EDT 2011</date>
+	<count>195</count>
+	<per10K>0.412</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>190</count>
+		<senses>
+			<senseContainer>
+				<sense>statue</sense>
+				<count>145</count>
+				<prob>0.763</prob>
+				<loglikelihood>148.558</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.517</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

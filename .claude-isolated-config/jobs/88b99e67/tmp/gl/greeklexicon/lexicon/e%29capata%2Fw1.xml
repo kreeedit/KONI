@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξαπατάω</form>
+	<date>Wed Jul 27 00:48:32 EDT 2011</date>
+	<count>480</count>
+	<per10K>1.013</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>307</count>
+		<senses>
+			<senseContainer>
+				<sense>deceive</sense>
+				<count>158</count>
+				<prob>0.515</prob>
+				<loglikelihood>228.443</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mislead</sense>
+				<count>19</count>
+				<prob>0.062</prob>
+				<loglikelihood>19.244</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.526</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

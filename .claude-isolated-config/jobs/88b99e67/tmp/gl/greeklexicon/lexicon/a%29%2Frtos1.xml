@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρτος</form>
+	<date>Tue Jul 26 23:55:04 EDT 2011</date>
+	<count>176</count>
+	<per10K>0.371</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>192</count>
+		<senses>
+			<senseContainer>
+				<sense>bread</sense>
+				<count>101</count>
+				<prob>0.526</prob>
+				<loglikelihood>200.981</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.574</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>loaf</sense>
+				<count>67</count>
+				<prob>0.349</prob>
+				<loglikelihood>249.371</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.343</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

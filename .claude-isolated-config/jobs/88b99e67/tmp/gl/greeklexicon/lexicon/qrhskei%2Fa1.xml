@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θρησκεία</form>
+	<date>Tue Jul 26 23:12:28 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>98</count>
+		<senses>
+			<senseContainer>
+				<sense>worship</sense>
+				<count>29</count>
+				<prob>0.296</prob>
+				<loglikelihood>9.861</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>divine worship</sense>
+				<count>10</count>
+				<prob>0.102</prob>
+				<loglikelihood>36.362</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ψήφισμα</form>
+	<date>Wed Jul 27 01:17:12 EDT 2011</date>
+	<count>676</count>
+	<per10K>1.427</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>770</count>
+		<senses>
+			<senseContainer>
+				<sense>decree</sense>
+				<count>529</count>
+				<prob>0.687</prob>
+				<loglikelihood>1290.626</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>resolution</sense>
+				<count>34</count>
+				<prob>0.044</prob>
+				<loglikelihood>21.976</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.588</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>motion</sense>
+				<count>22</count>
+				<prob>0.029</prob>
+				<loglikelihood>4.236</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.864</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>ἀναγιγνώσκω</original>
+				<trans>read the decree</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Aeschines</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γράφω</original>
+				<trans>proposed the decree</trans>
+				<loglikelihood>2.56</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>Aeschines</name></author>
+					<author><name>Plutarch</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

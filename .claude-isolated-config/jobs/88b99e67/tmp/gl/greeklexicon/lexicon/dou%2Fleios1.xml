@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δούλειος</form>
+	<date>Tue Jul 26 23:32:08 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>110</count>
+		<senses>
+			<senseContainer>
+				<sense>slavery</sense>
+				<count>68</count>
+				<prob>0.618</prob>
+				<loglikelihood>83.684</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.338</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bondage</sense>
+				<count>6</count>
+				<prob>0.055</prob>
+				<loglikelihood>3.891</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

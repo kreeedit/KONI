@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡγέομαι</form>
+	<date>Wed Jul 27 03:39:07 EDT 2011</date>
+	<count>2624</count>
+	<per10K>5.538</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2130</count>
+		<senses>
+			<senseContainer>
+				<sense>think</sense>
+				<count>338</count>
+				<prob>0.159</prob>
+				<loglikelihood>111.190</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>consider</sense>
+				<count>186</count>
+				<prob>0.087</prob>
+				<loglikelihood>81.880</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>believe</sense>
+				<count>140</count>
+				<prob>0.066</prob>
+				<loglikelihood>53.733</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lead</sense>
+				<count>108</count>
+				<prob>0.051</prob>
+				<loglikelihood>76.612</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.509</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>led</sense>
+				<count>105</count>
+				<prob>0.049</prob>
+				<loglikelihood>59.227</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.371</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>regard</sense>
+				<count>100</count>
+				<prob>0.047</prob>
+				<loglikelihood>26.158</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hold</sense>
+				<count>43</count>
+				<prob>0.020</prob>
+				<loglikelihood>4.383</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

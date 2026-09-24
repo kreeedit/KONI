@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πύλος</form>
+	<date>Wed Jul 27 00:06:27 EDT 2011</date>
+	<count>231</count>
+	<per10K>0.488</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>195</count>
+		<senses>
+			<senseContainer>
+				<sense>pylos</sense>
+				<count>129</count>
+				<prob>0.662</prob>
+				<loglikelihood>423.946</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.380</relativeFreq></author>
+					<author><name>Thucydides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pylus</sense>
+				<count>62</count>
+				<prob>0.318</prob>
+				<loglikelihood>216.546</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.742</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at pylos</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>27.998</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἠμαθόεις</original>
+				<trans>sandy pylos</trans>
+				<loglikelihood>11.13</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

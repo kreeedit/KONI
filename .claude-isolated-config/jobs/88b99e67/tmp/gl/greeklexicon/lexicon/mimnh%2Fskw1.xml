@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μιμνήσκω</form>
+	<date>Wed Jul 27 01:59:28 EDT 2011</date>
+	<count>1132</count>
+	<per10K>2.389</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>891</count>
+		<senses>
+			<senseContainer>
+				<sense>remember</sense>
+				<count>323</count>
+				<prob>0.363</prob>
+				<loglikelihood>531.215</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mention</sense>
+				<count>113</count>
+				<prob>0.127</prob>
+				<loglikelihood>98.634</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.442</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>recall</sense>
+				<count>27</count>
+				<prob>0.030</prob>
+				<loglikelihood>12.694</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>χάρμη</original>
+				<trans>shield bethought them</trans>
+				<loglikelihood>8.52</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀλκή</original>
+				<trans>mindful valour</trans>
+				<loglikelihood>2.47</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

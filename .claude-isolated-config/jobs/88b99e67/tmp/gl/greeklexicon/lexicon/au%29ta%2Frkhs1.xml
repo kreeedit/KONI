@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐτάρκης</form>
+	<date>Tue Jul 26 23:14:29 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>99</count>
+		<senses>
+			<senseContainer>
+				<sense>self - sufficing</sense>
+				<count>11</count>
+				<prob>0.111</prob>
+				<loglikelihood>43.998</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>self - sufficient</sense>
+				<count>10</count>
+				<prob>0.101</prob>
+				<loglikelihood>39.998</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

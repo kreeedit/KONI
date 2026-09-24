@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀεί</form>
+	<date>Wed Jul 27 03:33:46 EDT 2011</date>
+	<count>2567</count>
+	<per10K>5.418</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3387</count>
+		<senses>
+			<senseContainer>
+				<sense>always</sense>
+				<count>1210</count>
+				<prob>0.357</prob>
+				<loglikelihood>3834.580</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ever</sense>
+				<count>378</count>
+				<prob>0.112</prob>
+				<loglikelihood>424.799</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>constant</sense>
+				<count>100</count>
+				<prob>0.030</prob>
+				<loglikelihood>186.353</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>time</sense>
+				<count>86</count>
+				<prob>0.025</prob>
+				<loglikelihood>6.165</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>continual</sense>
+				<count>70</count>
+				<prob>0.021</prob>
+				<loglikelihood>79.279</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

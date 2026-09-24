@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκροβόλισις</form>
+	<date>Tue Jul 26 22:36:19 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>skirmish</sense>
+				<count>8</count>
+				<prob>0.421</prob>
+				<loglikelihood>5.224</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

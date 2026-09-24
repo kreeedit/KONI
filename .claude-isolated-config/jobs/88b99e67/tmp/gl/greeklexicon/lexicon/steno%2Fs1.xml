@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στενός</form>
+	<date>Wed Jul 27 00:16:59 EDT 2011</date>
+	<count>291</count>
+	<per10K>0.614</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>177</count>
+		<senses>
+			<senseContainer>
+				<sense>narrow</sense>
+				<count>89</count>
+				<prob>0.503</prob>
+				<loglikelihood>142.061</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>narrow passes</sense>
+				<count>4</count>
+				<prob>0.023</prob>
+				<loglikelihood>9.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

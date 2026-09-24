@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἴσειμι</form>
+	<date>Wed Jul 27 00:36:03 EDT 2011</date>
+	<count>399</count>
+	<per10K>0.842</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>343</count>
+		<senses>
+			<senseContainer>
+				<sense>enter</sense>
+				<count>86</count>
+				<prob>0.251</prob>
+				<loglikelihood>33.234</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

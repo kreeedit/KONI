@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Τρώς</form>
+	<date>Wed Jul 27 01:41:48 EDT 2011</date>
+	<count>943</count>
+	<per10K>1.99</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>757</count>
+		<senses>
+			<senseContainer>
+				<sense>trojan</sense>
+				<count>765</count>
+				<prob>1.011</prob>
+				<loglikelihood>2376.064</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.884</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἱππόδαμος</original>
+				<trans>horse-taming trojans</trans>
+				<loglikelihood>42.64</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑπέρθυμος</original>
+				<trans>the trojans, high of heart</trans>
+				<loglikelihood>5.59</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μεγάθυμος</original>
+				<trans>great-souled trojans</trans>
+				<loglikelihood>4.43</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

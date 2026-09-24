@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάμνω</form>
+	<date>Wed Jul 27 00:20:36 EDT 2011</date>
+	<count>308</count>
+	<per10K>0.65</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>223</count>
+		<senses>
+			<senseContainer>
+				<sense>sick</sense>
+				<count>25</count>
+				<prob>0.112</prob>
+				<loglikelihood>11.252</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.520</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>weary</sense>
+				<count>13</count>
+				<prob>0.058</prob>
+				<loglikelihood>10.238</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>grow weary</sense>
+				<count>9</count>
+				<prob>0.040</prob>
+				<loglikelihood>17.997</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>grew weary</sense>
+				<count>6</count>
+				<prob>0.027</prob>
+				<loglikelihood>15.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

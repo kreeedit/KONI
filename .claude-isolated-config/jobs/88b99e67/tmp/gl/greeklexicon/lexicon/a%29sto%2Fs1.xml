@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀστός</form>
+	<date>Tue Jul 26 23:52:21 EDT 2011</date>
+	<count>167</count>
+	<per10K>0.352</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>174</count>
+		<senses>
+			<senseContainer>
+				<sense>citizen</sense>
+				<count>98</count>
+				<prob>0.563</prob>
+				<loglikelihood>22.765</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>townsman</sense>
+				<count>11</count>
+				<prob>0.063</prob>
+				<loglikelihood>15.610</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>townsfolk</sense>
+				<count>6</count>
+				<prob>0.034</prob>
+				<loglikelihood>8.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

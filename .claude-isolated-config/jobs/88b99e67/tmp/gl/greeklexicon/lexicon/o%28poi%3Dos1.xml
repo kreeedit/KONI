@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁποῖος</form>
+	<date>Wed Jul 27 00:29:35 EDT 2011</date>
+	<count>357</count>
+	<per10K>0.753</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>355</count>
+		<senses>
+			<senseContainer>
+				<sense>what sort</sense>
+				<count>16</count>
+				<prob>0.045</prob>
+				<loglikelihood>7.576</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

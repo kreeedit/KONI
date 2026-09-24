@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θεραπεία</form>
+	<date>Tue Jul 26 23:57:38 EDT 2011</date>
+	<count>186</count>
+	<per10K>0.393</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>254</count>
+		<senses>
+			<senseContainer>
+				<sense>attention</sense>
+				<count>19</count>
+				<prob>0.075</prob>
+				<loglikelihood>5.862</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.316</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cure</sense>
+				<count>15</count>
+				<prob>0.059</prob>
+				<loglikelihood>5.319</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tendance</sense>
+				<count>7</count>
+				<prob>0.028</prob>
+				<loglikelihood>17.815</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀρέγω</form>
+	<date>Wed Jul 27 00:10:04 EDT 2011</date>
+	<count>254</count>
+	<per10K>0.536</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>197</count>
+		<senses>
+			<senseContainer>
+				<sense>desire</sense>
+				<count>66</count>
+				<prob>0.335</prob>
+				<loglikelihood>7.352</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.758</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>κῦδος</original>
+				<trans>null</trans>
+				<loglikelihood>2.08</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

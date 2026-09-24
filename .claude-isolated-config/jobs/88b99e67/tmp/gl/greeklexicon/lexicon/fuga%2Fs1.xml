@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φυγάς</form>
+	<date>Wed Jul 27 00:10:49 EDT 2011</date>
+	<count>260</count>
+	<per10K>0.549</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>296</count>
+		<senses>
+			<senseContainer>
+				<sense>exile</sense>
+				<count>148</count>
+				<prob>0.500</prob>
+				<loglikelihood>154.470</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fugitive</sense>
+				<count>15</count>
+				<prob>0.051</prob>
+				<loglikelihood>11.104</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ψῆφος</form>
+	<date>Wed Jul 27 00:38:46 EDT 2011</date>
+	<count>417</count>
+	<per10K>0.88</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>473</count>
+		<senses>
+			<senseContainer>
+				<sense>vote</sense>
+				<count>224</count>
+				<prob>0.474</prob>
+				<loglikelihood>284.550</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>verdict</sense>
+				<count>37</count>
+				<prob>0.078</prob>
+				<loglikelihood>31.995</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.351</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ballot</sense>
+				<count>20</count>
+				<prob>0.042</prob>
+				<loglikelihood>43.228</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast votes</sense>
+				<count>15</count>
+				<prob>0.032</prob>
+				<loglikelihood>42.845</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.800</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>φέρω</original>
+				<trans>cast his vote</trans>
+				<loglikelihood>7.04</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

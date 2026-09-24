@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παραινέω</form>
+	<date>Wed Jul 27 00:22:55 EDT 2011</date>
+	<count>319</count>
+	<per10K>0.673</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>298</count>
+		<senses>
+			<senseContainer>
+				<sense>exhort</sense>
+				<count>34</count>
+				<prob>0.114</prob>
+				<loglikelihood>19.091</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.618</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>urge</sense>
+				<count>23</count>
+				<prob>0.077</prob>
+				<loglikelihood>5.818</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>advice</sense>
+				<count>23</count>
+				<prob>0.077</prob>
+				<loglikelihood>5.125</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>advise</sense>
+				<count>22</count>
+				<prob>0.074</prob>
+				<loglikelihood>9.342</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>recommend</sense>
+				<count>18</count>
+				<prob>0.060</prob>
+				<loglikelihood>15.238</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

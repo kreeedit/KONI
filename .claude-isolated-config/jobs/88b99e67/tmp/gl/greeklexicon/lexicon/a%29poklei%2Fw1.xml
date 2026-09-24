@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποκλείω</form>
+	<date>Tue Jul 26 23:39:14 EDT 2011</date>
+	<count>134</count>
+	<per10K>0.283</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>109</count>
+		<senses>
+			<senseContainer>
+				<sense>shut</sense>
+				<count>20</count>
+				<prob>0.183</prob>
+				<loglikelihood>10.807</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cut off from</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>3.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

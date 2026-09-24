@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόσις</form>
+	<date>Wed Jul 27 00:33:32 EDT 2011</date>
+	<count>383</count>
+	<per10K>0.808</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>393</count>
+		<senses>
+			<senseContainer>
+				<sense>husband</sense>
+				<count>289</count>
+				<prob>0.735</prob>
+				<loglikelihood>421.702</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.654</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἐρίγδουπος</original>
+				<trans>loud-thundering lord</trans>
+				<loglikelihood>15.07</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

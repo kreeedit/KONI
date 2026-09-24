@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χύτρα</form>
+	<date>Tue Jul 26 23:03:42 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>pot</sense>
+				<count>29</count>
+				<prob>0.460</prob>
+				<loglikelihood>76.452</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.414</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.379</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stew - pot</sense>
+				<count>4</count>
+				<prob>0.063</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>- pot</sense>
+				<count>3</count>
+				<prob>0.048</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

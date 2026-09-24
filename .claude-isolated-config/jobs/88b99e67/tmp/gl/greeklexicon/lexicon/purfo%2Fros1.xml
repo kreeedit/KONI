@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πυρφόρος</form>
+	<date>Tue Jul 26 22:34:24 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>fire - bearing</sense>
+				<count>5</count>
+				<prob>0.250</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

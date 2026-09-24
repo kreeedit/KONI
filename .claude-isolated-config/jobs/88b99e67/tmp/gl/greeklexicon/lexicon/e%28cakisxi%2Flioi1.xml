@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑξακισχίλιοι</form>
+	<date>Tue Jul 26 23:30:17 EDT 2011</date>
+	<count>110</count>
+	<per10K>0.232</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>six thousand</sense>
+				<count>51</count>
+				<prob>0.347</prob>
+				<loglikelihood>192.656</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>6000</sense>
+				<count>29</count>
+				<prob>0.197</prob>
+				<loglikelihood>105.119</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.931</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>about six thousand</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>16</sense>
+				<count>3</count>
+				<prob>0.020</prob>
+				<loglikelihood>4.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

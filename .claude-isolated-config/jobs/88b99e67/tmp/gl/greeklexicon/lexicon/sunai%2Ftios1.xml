@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συναίτιος</form>
+	<date>Tue Jul 26 22:41:48 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>contingent causes</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

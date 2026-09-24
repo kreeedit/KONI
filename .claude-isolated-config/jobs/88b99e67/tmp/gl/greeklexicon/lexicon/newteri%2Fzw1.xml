@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νεωτερίζω</form>
+	<date>Tue Jul 26 23:18:37 EDT 2011</date>
+	<count>87</count>
+	<per10K>0.184</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>79</count>
+		<senses>
+			<senseContainer>
+				<sense>innovation</sense>
+				<count>11</count>
+				<prob>0.139</prob>
+				<loglikelihood>7.681</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

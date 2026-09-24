@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰδιώτης</form>
+	<date>Wed Jul 27 00:45:11 EDT 2011</date>
+	<count>459</count>
+	<per10K>0.969</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>491</count>
+		<senses>
+			<senseContainer>
+				<sense>private</sense>
+				<count>54</count>
+				<prob>0.110</prob>
+				<loglikelihood>16.668</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>private citizen</sense>
+				<count>44</count>
+				<prob>0.090</prob>
+				<loglikelihood>161.298</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>private person</sense>
+				<count>33</count>
+				<prob>0.067</prob>
+				<loglikelihood>124.431</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>individual</sense>
+				<count>33</count>
+				<prob>0.067</prob>
+				<loglikelihood>14.740</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.515</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>private citizens</sense>
+				<count>33</count>
+				<prob>0.067</prob>
+				<loglikelihood>98.974</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>private persons</sense>
+				<count>25</count>
+				<prob>0.051</prob>
+				<loglikelihood>96.134</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>private man</sense>
+				<count>18</count>
+				<prob>0.037</prob>
+				<loglikelihood>64.785</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

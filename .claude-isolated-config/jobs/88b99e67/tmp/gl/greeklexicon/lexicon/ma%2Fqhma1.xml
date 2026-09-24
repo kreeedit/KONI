@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μάθημα</form>
+	<date>Wed Jul 27 00:00:53 EDT 2011</date>
+	<count>200</count>
+	<per10K>0.422</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>229</count>
+		<senses>
+			<senseContainer>
+				<sense>study</sense>
+				<count>67</count>
+				<prob>0.293</prob>
+				<loglikelihood>54.555</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.851</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>accomplishment</sense>
+				<count>15</count>
+				<prob>0.066</prob>
+				<loglikelihood>14.280</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.933</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lesson</sense>
+				<count>13</count>
+				<prob>0.057</prob>
+				<loglikelihood>6.085</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

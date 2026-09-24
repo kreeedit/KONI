@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τεκμήριον</form>
+	<date>Wed Jul 27 00:38:59 EDT 2011</date>
+	<count>418</count>
+	<per10K>0.882</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>420</count>
+		<senses>
+			<senseContainer>
+				<sense>proof</sense>
+				<count>180</count>
+				<prob>0.429</prob>
+				<loglikelihood>224.510</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>evidence</sense>
+				<count>46</count>
+				<prob>0.110</prob>
+				<loglikelihood>26.586</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>presumption</sense>
+				<count>10</count>
+				<prob>0.024</prob>
+				<loglikelihood>15.378</loglikelihood>
+				<authorContainer>
+					<author><name>Antiphon</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάτος</form>
+	<date>Wed Jul 27 00:22:50 EDT 2011</date>
+	<count>318</count>
+	<per10K>0.671</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>270</count>
+		<senses>
+			<senseContainer>
+				<sense>down</sense>
+				<count>64</count>
+				<prob>0.237</prob>
+				<loglikelihood>19.502</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>below</sense>
+				<count>55</count>
+				<prob>0.204</prob>
+				<loglikelihood>58.432</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lower part</sense>
+				<count>8</count>
+				<prob>0.030</prob>
+				<loglikelihood>21.330</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>downward</sense>
+				<count>6</count>
+				<prob>0.022</prob>
+				<loglikelihood>7.997</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>13</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

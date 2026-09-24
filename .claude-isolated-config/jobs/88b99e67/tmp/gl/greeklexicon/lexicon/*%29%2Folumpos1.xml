@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ὄλυμπος</form>
+	<date>Wed Jul 27 00:12:44 EDT 2011</date>
+	<count>268</count>
+	<per10K>0.566</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>245</count>
+		<senses>
+			<senseContainer>
+				<sense>olympus</sense>
+				<count>212</count>
+				<prob>0.865</prob>
+				<loglikelihood>656.067</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.453</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

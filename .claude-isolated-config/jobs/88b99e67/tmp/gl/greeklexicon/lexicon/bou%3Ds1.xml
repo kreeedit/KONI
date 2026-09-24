@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βοῦς</form>
+	<date>Wed Jul 27 01:06:21 EDT 2011</date>
+	<count>601</count>
+	<per10K>1.268</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>717</count>
+		<senses>
+			<senseContainer>
+				<sense>ox</sense>
+				<count>225</count>
+				<prob>0.314</prob>
+				<loglikelihood>761.049</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cattle</sense>
+				<count>127</count>
+				<prob>0.177</prob>
+				<loglikelihood>222.329</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cow</sense>
+				<count>60</count>
+				<prob>0.084</prob>
+				<loglikelihood>165.448</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.383</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>kine</sense>
+				<count>58</count>
+				<prob>0.081</prob>
+				<loglikelihood>197.815</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.862</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bull</sense>
+				<count>45</count>
+				<prob>0.063</prob>
+				<loglikelihood>36.434</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>heifer</sense>
+				<count>33</count>
+				<prob>0.046</prob>
+				<loglikelihood>72.561</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἕλιξ</original>
+				<trans>sleek kine</trans>
+				<loglikelihood>37.48</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐρυμέτωπος</original>
+				<trans>wide-browed oxen</trans>
+				<loglikelihood>35.99</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰλίπους</original>
+				<trans>kine of shambling gait</trans>
+				<loglikelihood>33.87</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄγραυλος</original>
+				<trans>field an ox</trans>
+				<loglikelihood>10.88</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγελαῖος</original>
+				<trans>herd heifer</trans>
+				<loglikelihood>9.32</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

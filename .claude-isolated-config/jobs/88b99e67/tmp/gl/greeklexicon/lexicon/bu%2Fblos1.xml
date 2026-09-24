@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βύβλος</form>
+	<date>Tue Jul 26 22:56:11 EDT 2011</date>
+	<count>45</count>
+	<per10K>0.095</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>78</count>
+		<senses>
+			<senseContainer>
+				<sense>bibulus</sense>
+				<count>17</count>
+				<prob>0.218</prob>
+				<loglikelihood>60.840</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>byblus</sense>
+				<count>3</count>
+				<prob>0.038</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

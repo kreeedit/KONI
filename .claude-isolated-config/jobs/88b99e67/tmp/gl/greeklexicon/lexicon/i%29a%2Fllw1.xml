@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰάλλω</form>
+	<date>Tue Jul 26 22:46:29 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>they put forth</sense>
+				<count>10</count>
+				<prob>0.323</prob>
+				<loglikelihood>40.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>put forth</sense>
+				<count>5</count>
+				<prob>0.161</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>they laid</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>8.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἴσηπος</form>
+	<date>Tue Jul 26 22:59:22 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>aesepus</sense>
+				<count>14</count>
+				<prob>0.667</prob>
+				<loglikelihood>31.360</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aesepus river</sense>
+				<count>4</count>
+				<prob>0.190</prob>
+				<loglikelihood>5.818</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

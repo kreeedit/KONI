@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πικρός</form>
+	<date>Wed Jul 27 00:10:25 EDT 2011</date>
+	<count>255</count>
+	<per10K>0.538</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>196</count>
+		<senses>
+			<senseContainer>
+				<sense>bitter</sense>
+				<count>72</count>
+				<prob>0.367</prob>
+				<loglikelihood>102.634</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ὀιστός</original>
+				<trans>bitter arrow</trans>
+				<loglikelihood>6.40</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>85</count>
+		<senses>
+			<senseContainer>
+				<sense>bitter</sense>
+				<count>19</count>
+				<prob>0.224</prob>
+				<loglikelihood>7.146</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

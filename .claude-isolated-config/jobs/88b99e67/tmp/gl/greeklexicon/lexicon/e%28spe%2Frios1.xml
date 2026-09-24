@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑσπέριος</form>
+	<date>Tue Jul 26 23:06:12 EDT 2011</date>
+	<count>62</count>
+	<per10K>0.131</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>68</count>
+		<senses>
+			<senseContainer>
+				<sense>western</sense>
+				<count>27</count>
+				<prob>0.397</prob>
+				<loglikelihood>40.498</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.704</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at evening</sense>
+				<count>5</count>
+				<prob>0.074</prob>
+				<loglikelihood>16.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>western side</sense>
+				<count>4</count>
+				<prob>0.059</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

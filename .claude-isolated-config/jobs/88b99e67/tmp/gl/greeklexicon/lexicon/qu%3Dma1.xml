@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θῦμα</form>
+	<date>Tue Jul 26 23:12:31 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>82</count>
+		<senses>
+			<senseContainer>
+				<sense>sacrifice</sense>
+				<count>42</count>
+				<prob>0.512</prob>
+				<loglikelihood>4.885</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

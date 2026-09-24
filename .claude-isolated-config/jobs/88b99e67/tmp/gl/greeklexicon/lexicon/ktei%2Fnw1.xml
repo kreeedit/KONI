@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κτείνω</form>
+	<date>Wed Jul 27 02:01:11 EDT 2011</date>
+	<count>1155</count>
+	<per10K>2.438</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>894</count>
+		<senses>
+			<senseContainer>
+				<sense>kill</sense>
+				<count>352</count>
+				<prob>0.394</prob>
+				<loglikelihood>267.040</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.341</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>slay</sense>
+				<count>189</count>
+				<prob>0.211</prob>
+				<loglikelihood>119.113</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.423</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

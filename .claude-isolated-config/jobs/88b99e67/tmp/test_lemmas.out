@@ -1,0 +1,33 @@
+  ok   the whole paradigm collapses to ONE key ὁπλίτης (got ['οπλιτης'])
+  ok   and every form's key pools there
+  ok   ὁπλίτης is a row (keys: ['λογος', 'οπλιτης', 'πολις', 'πολω', 'τιμη', 'χωρα'])
+  ok   all 16 paradigm tokens count together (got 16)
+  ok   and are 8 distinct forms (got 8)
+  ok   the breakdown sums to the row's A count
+  ok   the breakdown sums to the row's B count
+  ok   no separate rows for the oblique cases
+  ok   λόγος/λόγον/λόγου aggregate (got 12)
+  ok   the 2nd-declension oblique cases do not leak into their own rows
+  ok   ττ and σσ forms lemmatise on their own spelling (θαλαττα vs θαλασσα)
+  ok   and pool to ONE key afterwards (θαλασσα vs θαλασσα)
+  ok   with the ττ rule on, all six tokens are one row: [('θαλασσα', 6)]
+  ok   a form's own frequency does not decide its lemma (θαλασσα vs θαλασσα)
+  ok   and the rest of the paradigm decides it (θαλασσα)
+  ok   χωρίον → χωρίον (neuter)
+  ok   λόγον → λόγος (masculine)
+  ok   τιμῆς → τιμή (feminine, no -ου)
+  ok   τιμήν → τιμή
+  ok   ἐποίησε offers ποιέω as a reading
+  ok   ἐλύθη offers λύω as a reading
+  ok   the gold token count is the measured one (got 25159)
+  ok   Thucydides exact accuracy is measured (got 0.744)
+  ok   within-candidate recall is never below exact accuracy
+  ok   nouns aggregate better than verbs — the disclosed limit
+  ok   describe() carries the same figures
+  ok   key lookup returns 8 forms (got 8)
+  ok   key_forms and lemma_key_lookup agree
+  ok   and their counts sum to the row's
+  ok   an unknown key reports found=False instead of an empty success
+  ok   an unmatched form comes back labelled `unreduced`
+
+RESULT: 0 failure(s)

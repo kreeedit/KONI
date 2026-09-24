@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρέσβις</form>
+	<date>Wed Jul 27 01:20:26 EDT 2011</date>
+	<count>714</count>
+	<per10K>1.507</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>715</count>
+		<senses>
+			<senseContainer>
+				<sense>ambassador</sense>
+				<count>441</count>
+				<prob>0.617</prob>
+				<loglikelihood>1066.743</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>envoy</sense>
+				<count>127</count>
+				<prob>0.178</prob>
+				<loglikelihood>199.600</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.480</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>embassy</sense>
+				<count>50</count>
+				<prob>0.070</prob>
+				<loglikelihood>34.785</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.320</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent ambassadors</trans>
+				<loglikelihood>7.06</loglikelihood>
+				<count>72</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποιήεις</form>
+	<date>Tue Jul 26 22:39:21 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>grassy</sense>
+				<count>11</count>
+				<prob>0.688</prob>
+				<loglikelihood>32.266</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

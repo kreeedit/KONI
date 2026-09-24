@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πού</form>
+	<date>Wed Jul 27 02:33:39 EDT 2011</date>
+	<count>1598</count>
+	<per10K>3.373</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>2344</count>
+		<senses>
+			<senseContainer>
+				<sense>where</sense>
+				<count>447</count>
+				<prob>0.191</prob>
+				<loglikelihood>253.341</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sure</sense>
+				<count>101</count>
+				<prob>0.043</prob>
+				<loglikelihood>30.061</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.455</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>somewhere</sense>
+				<count>76</count>
+				<prob>0.032</prob>
+				<loglikelihood>213.630</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>suppose</sense>
+				<count>65</count>
+				<prob>0.028</prob>
+				<loglikelihood>16.513</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.738</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέλος</form>
+	<date>Wed Jul 27 00:01:37 EDT 2011</date>
+	<count>201</count>
+	<per10K>0.424</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>306</count>
+		<senses>
+			<senseContainer>
+				<sense>limb</sense>
+				<count>53</count>
+				<prob>0.173</prob>
+				<loglikelihood>68.072</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.358</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>song</sense>
+				<count>50</count>
+				<prob>0.163</prob>
+				<loglikelihood>30.006</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tune</sense>
+				<count>35</count>
+				<prob>0.114</prob>
+				<loglikelihood>75.368</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.743</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>melody</sense>
+				<count>17</count>
+				<prob>0.056</prob>
+				<loglikelihood>38.525</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

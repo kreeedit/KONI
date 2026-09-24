@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκόροδον</form>
+	<date>Tue Jul 26 22:35:48 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>garlic</sense>
+				<count>13</count>
+				<prob>0.520</prob>
+				<loglikelihood>42.250</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

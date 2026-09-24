@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόθος</form>
+	<date>Tue Jul 26 23:36:45 EDT 2011</date>
+	<count>127</count>
+	<per10K>0.268</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>160</count>
+		<senses>
+			<senseContainer>
+				<sense>longing for</sense>
+				<count>12</count>
+				<prob>0.075</prob>
+				<loglikelihood>20.568</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>desire for</sense>
+				<count>4</count>
+				<prob>0.025</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

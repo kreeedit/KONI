@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πάτροκλος</form>
+	<date>Wed Jul 27 00:11:19 EDT 2011</date>
+	<count>263</count>
+	<per10K>0.555</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>80</count>
+		<senses>
+			<senseContainer>
+				<sense>patroclus</sense>
+				<count>72</count>
+				<prob>0.900</prob>
+				<loglikelihood>100.169</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.792</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>patroklos</sense>
+				<count>13</count>
+				<prob>0.162</prob>
+				<loglikelihood>10.398</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>even patroclus</sense>
+				<count>3</count>
+				<prob>0.038</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Μενοιτιάδης</original>
+				<trans>patroclus, son of menoetius</trans>
+				<loglikelihood>17.82</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

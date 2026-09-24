@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημοτικός</form>
+	<date>Tue Jul 26 23:49:34 EDT 2011</date>
+	<count>161</count>
+	<per10K>0.34</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>119</count>
+		<senses>
+			<senseContainer>
+				<sense>popular</sense>
+				<count>12</count>
+				<prob>0.101</prob>
+				<loglikelihood>6.191</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>democratic</sense>
+				<count>10</count>
+				<prob>0.084</prob>
+				<loglikelihood>5.061</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>democrat</sense>
+				<count>7</count>
+				<prob>0.059</prob>
+				<loglikelihood>6.532</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>9</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

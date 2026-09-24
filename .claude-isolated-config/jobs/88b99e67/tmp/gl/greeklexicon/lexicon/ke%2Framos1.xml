@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κέραμος</form>
+	<date>Tue Jul 26 22:52:54 EDT 2011</date>
+	<count>40</count>
+	<per10K>0.084</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>tile</sense>
+				<count>15</count>
+				<prob>0.349</prob>
+				<loglikelihood>29.999</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pottery</sense>
+				<count>3</count>
+				<prob>0.070</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

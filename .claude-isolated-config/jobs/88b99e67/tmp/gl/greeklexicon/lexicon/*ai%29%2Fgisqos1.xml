@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἴγισθος</form>
+	<date>Tue Jul 26 23:28:09 EDT 2011</date>
+	<count>105</count>
+	<per10K>0.222</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>aegisthus</sense>
+				<count>84</count>
+				<prob>0.903</prob>
+				<loglikelihood>303.477</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.369</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aigisthos</sense>
+				<count>9</count>
+				<prob>0.097</prob>
+				<loglikelihood>19.057</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

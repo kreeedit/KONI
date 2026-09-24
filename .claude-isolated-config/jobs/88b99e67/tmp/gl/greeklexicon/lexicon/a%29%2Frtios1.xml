@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρτιος</form>
+	<date>Tue Jul 26 23:53:00 EDT 2011</date>
+	<count>170</count>
+	<per10K>0.359</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>177</count>
+		<senses>
+			<senseContainer>
+				<sense>just now</sense>
+				<count>29</count>
+				<prob>0.164</prob>
+				<loglikelihood>10.914</loglikelihood>
+				<authorContainer>
+					<author><name>Sophocles</name><relativeFreq>0.379</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>have just</sense>
+				<count>9</count>
+				<prob>0.051</prob>
+				<loglikelihood>12.459</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>has just</sense>
+				<count>7</count>
+				<prob>0.040</prob>
+				<loglikelihood>9.798</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>15</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄνος</form>
+	<date>Tue Jul 26 23:41:28 EDT 2011</date>
+	<count>138</count>
+	<per10K>0.291</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>146</count>
+		<senses>
+			<senseContainer>
+				<sense>ass</sense>
+				<count>113</count>
+				<prob>0.774</prob>
+				<loglikelihood>375.542</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>donkey</sense>
+				<count>10</count>
+				<prob>0.068</prob>
+				<loglikelihood>26.664</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

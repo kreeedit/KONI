@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θαυμάσιος</form>
+	<date>Tue Jul 26 23:37:46 EDT 2011</date>
+	<count>130</count>
+	<per10K>0.274</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>150</count>
+		<senses>
+			<senseContainer>
+				<sense>wonderful</sense>
+				<count>25</count>
+				<prob>0.167</prob>
+				<loglikelihood>19.835</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.480</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wonderful things</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more marvellous</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>11</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

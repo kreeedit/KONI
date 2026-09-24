@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προερέω</form>
+	<date>Wed Jul 27 00:45:48 EDT 2011</date>
+	<count>464</count>
+	<per10K>0.979</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>125</count>
+		<senses>
+			<senseContainer>
+				<sense>have already said</sense>
+				<count>6</count>
+				<prob>0.048</prob>
+				<loglikelihood>6.260</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have said before</sense>
+				<count>4</count>
+				<prob>0.032</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have said already</sense>
+				<count>4</count>
+				<prob>0.032</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>we said before</sense>
+				<count>3</count>
+				<prob>0.024</prob>
+				<loglikelihood>4.499</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

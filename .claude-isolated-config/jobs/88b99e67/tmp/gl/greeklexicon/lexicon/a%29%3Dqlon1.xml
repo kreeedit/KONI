@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἆθλον</form>
+	<date>Wed Jul 27 00:06:59 EDT 2011</date>
+	<count>235</count>
+	<per10K>0.496</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>240</count>
+		<senses>
+			<senseContainer>
+				<sense>prize</sense>
+				<count>111</count>
+				<prob>0.462</prob>
+				<loglikelihood>167.598</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>contest</sense>
+				<count>43</count>
+				<prob>0.179</prob>
+				<loglikelihood>16.909</loglikelihood>
+				<authorContainer>
+					<author><name>Pindar</name><relativeFreq>0.512</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>game</sense>
+				<count>26</count>
+				<prob>0.108</prob>
+				<loglikelihood>10.232</loglikelihood>
+				<authorContainer>
+					<author><name>Pindar</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>prizes for</sense>
+				<count>11</count>
+				<prob>0.046</prob>
+				<loglikelihood>43.996</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>prize [</sense>
+				<count>6</count>
+				<prob>0.025</prob>
+				<loglikelihood>23.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>offered prizes</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

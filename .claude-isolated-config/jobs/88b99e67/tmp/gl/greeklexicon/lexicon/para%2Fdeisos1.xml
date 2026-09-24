@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παράδεισος</form>
+	<date>Tue Jul 26 22:38:39 EDT 2011</date>
+	<count>22</count>
+	<per10K>0.046</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>park</sense>
+				<count>11</count>
+				<prob>0.355</prob>
+				<loglikelihood>32.266</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>paradise</sense>
+				<count>6</count>
+				<prob>0.194</prob>
+				<loglikelihood>20.571</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

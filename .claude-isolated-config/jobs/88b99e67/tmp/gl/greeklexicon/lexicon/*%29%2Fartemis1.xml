@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἄρτεμις</form>
+	<date>Wed Jul 27 00:45:57 EDT 2011</date>
+	<count>468</count>
+	<per10K>0.988</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>165</count>
+		<senses>
+			<senseContainer>
+				<sense>artemis</sense>
+				<count>145</count>
+				<prob>0.879</prob>
+				<loglikelihood>183.202</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.421</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἰοχέαιρα</original>
+				<trans>archer artemis</trans>
+				<loglikelihood>21.60</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρχω</form>
+	<date>Wed Jul 27 04:51:04 EDT 2011</date>
+	<count>4352</count>
+	<per10K>9.185</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2894</count>
+		<senses>
+			<senseContainer>
+				<sense>begin</sense>
+				<count>529</count>
+				<prob>0.183</prob>
+				<loglikelihood>891.713</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rule</sense>
+				<count>327</count>
+				<prob>0.113</prob>
+				<loglikelihood>510.728</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ruler</sense>
+				<count>157</count>
+				<prob>0.054</prob>
+				<loglikelihood>145.757</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>govern</sense>
+				<count>121</count>
+				<prob>0.042</prob>
+				<loglikelihood>189.564</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.397</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.355</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>command</sense>
+				<count>119</count>
+				<prob>0.041</prob>
+				<loglikelihood>43.240</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>magistrate</sense>
+				<count>106</count>
+				<prob>0.037</prob>
+				<loglikelihood>127.903</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>office</sense>
+				<count>66</count>
+				<prob>0.023</prob>
+				<loglikelihood>28.674</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>beginning from</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>94</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἀοιδή</original>
+				<trans>begin song</trans>
+				<loglikelihood>8.24</loglikelihood>
+				<count>22</count>
+			</collocation>
+			<collocation>
+				<original>μῦθος</original>
+				<trans>first to speak, saying</trans>
+				<loglikelihood>4.47</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

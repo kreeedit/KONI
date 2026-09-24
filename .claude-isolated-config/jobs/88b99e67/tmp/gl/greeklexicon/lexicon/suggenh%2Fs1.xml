@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγγενής</form>
+	<date>Wed Jul 27 01:05:05 EDT 2011</date>
+	<count>585</count>
+	<per10K>1.235</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>353</count>
+		<senses>
+			<senseContainer>
+				<sense>kinsman</sense>
+				<count>66</count>
+				<prob>0.187</prob>
+				<loglikelihood>72.868</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.364</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>kindred</sense>
+				<count>50</count>
+				<prob>0.142</prob>
+				<loglikelihood>58.112</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>relative</sense>
+				<count>37</count>
+				<prob>0.105</prob>
+				<loglikelihood>14.504</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>akin</sense>
+				<count>34</count>
+				<prob>0.096</prob>
+				<loglikelihood>53.130</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>relation</sense>
+				<count>24</count>
+				<prob>0.068</prob>
+				<loglikelihood>5.395</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

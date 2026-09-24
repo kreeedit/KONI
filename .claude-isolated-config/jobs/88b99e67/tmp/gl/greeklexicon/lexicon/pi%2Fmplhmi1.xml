@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πίμπλημι</form>
+	<date>Wed Jul 27 00:05:18 EDT 2011</date>
+	<count>223</count>
+	<per10K>0.471</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>158</count>
+		<senses>
+			<senseContainer>
+				<sense>fill</sense>
+				<count>70</count>
+				<prob>0.443</prob>
+				<loglikelihood>42.780</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.386</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

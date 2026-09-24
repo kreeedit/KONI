@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πονηρός</form>
+	<date>Wed Jul 27 01:28:09 EDT 2011</date>
+	<count>780</count>
+	<per10K>1.646</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>523</count>
+		<senses>
+			<senseContainer>
+				<sense>wicked</sense>
+				<count>54</count>
+				<prob>0.103</prob>
+				<loglikelihood>36.066</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>evil</sense>
+				<count>46</count>
+				<prob>0.088</prob>
+				<loglikelihood>5.023</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.413</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bad</sense>
+				<count>42</count>
+				<prob>0.080</prob>
+				<loglikelihood>6.730</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.405</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>scoundrel</sense>
+				<count>17</count>
+				<prob>0.033</prob>
+				<loglikelihood>22.216</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rascal</sense>
+				<count>16</count>
+				<prob>0.031</prob>
+				<loglikelihood>18.604</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>19</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

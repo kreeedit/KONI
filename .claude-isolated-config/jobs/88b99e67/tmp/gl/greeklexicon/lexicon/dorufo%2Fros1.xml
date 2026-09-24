@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δορυφόρος</form>
+	<date>Tue Jul 26 23:11:09 EDT 2011</date>
+	<count>71</count>
+	<per10K>0.15</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>guard</sense>
+				<count>58</count>
+				<prob>0.951</prob>
+				<loglikelihood>16.548</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.448</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spearmen</sense>
+				<count>10</count>
+				<prob>0.164</prob>
+				<loglikelihood>7.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

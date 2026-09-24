@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδελφή</form>
+	<date>Wed Jul 27 01:04:09 EDT 2011</date>
+	<count>580</count>
+	<per10K>1.224</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>341</count>
+		<senses>
+			<senseContainer>
+				<sense>sister</sense>
+				<count>285</count>
+				<prob>0.836</prob>
+				<loglikelihood>507.561</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

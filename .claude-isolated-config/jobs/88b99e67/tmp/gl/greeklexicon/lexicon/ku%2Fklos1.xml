@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κύκλος</form>
+	<date>Wed Jul 27 00:42:11 EDT 2011</date>
+	<count>442</count>
+	<per10K>0.933</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>630</count>
+		<senses>
+			<senseContainer>
+				<sense>circle</sense>
+				<count>99</count>
+				<prob>0.157</prob>
+				<loglikelihood>246.469</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.414</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>round</sense>
+				<count>63</count>
+				<prob>0.100</prob>
+				<loglikelihood>26.178</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>circuit</sense>
+				<count>39</count>
+				<prob>0.062</prob>
+				<loglikelihood>55.776</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.821</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>round about</sense>
+				<count>35</count>
+				<prob>0.056</prob>
+				<loglikelihood>33.757</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.486</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>around</sense>
+				<count>26</count>
+				<prob>0.041</prob>
+				<loglikelihood>6.457</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>all round</sense>
+				<count>21</count>
+				<prob>0.033</prob>
+				<loglikelihood>56.881</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>surround</sense>
+				<count>16</count>
+				<prob>0.025</prob>
+				<loglikelihood>5.155</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑγιεινός</form>
+	<date>Tue Jul 26 23:28:54 EDT 2011</date>
+	<count>107</count>
+	<per10K>0.226</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>health</sense>
+				<count>19</count>
+				<prob>0.288</prob>
+				<loglikelihood>4.910</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.579</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>healthy</sense>
+				<count>14</count>
+				<prob>0.212</prob>
+				<loglikelihood>8.710</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wholesome</sense>
+				<count>10</count>
+				<prob>0.152</prob>
+				<loglikelihood>18.181</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>healthful</sense>
+				<count>4</count>
+				<prob>0.061</prob>
+				<loglikelihood>8.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>7</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

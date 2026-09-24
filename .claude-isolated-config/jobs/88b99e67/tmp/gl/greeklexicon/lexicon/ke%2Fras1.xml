@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κέρας</form>
+	<date>Wed Jul 27 00:24:09 EDT 2011</date>
+	<count>326</count>
+	<per10K>0.688</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>436</count>
+		<senses>
+			<senseContainer>
+				<sense>wing</sense>
+				<count>136</count>
+				<prob>0.312</prob>
+				<loglikelihood>240.123</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>horn</sense>
+				<count>113</count>
+				<prob>0.259</prob>
+				<loglikelihood>402.101</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>column</sense>
+				<count>13</count>
+				<prob>0.030</prob>
+				<loglikelihood>10.553</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.769</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δεξιός</original>
+				<trans>right wing</trans>
+				<loglikelihood>21.17</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐώνυμος</original>
+				<trans>left wing</trans>
+				<loglikelihood>9.34</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

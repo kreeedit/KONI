@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Κύκλωψ</form>
+	<date>Tue Jul 26 23:33:36 EDT 2011</date>
+	<count>118</count>
+	<per10K>0.249</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>111</count>
+		<senses>
+			<senseContainer>
+				<sense>cyclops</sense>
+				<count>63</count>
+				<prob>0.568</prob>
+				<loglikelihood>203.530</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.508</relativeFreq></author>
+					<author><name>Homer</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cyclopes</sense>
+				<count>34</count>
+				<prob>0.306</prob>
+				<loglikelihood>115.595</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

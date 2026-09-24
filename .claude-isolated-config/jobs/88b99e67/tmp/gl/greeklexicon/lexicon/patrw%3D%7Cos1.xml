@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πατρῷος</form>
+	<date>Wed Jul 27 00:43:57 EDT 2011</date>
+	<count>453</count>
+	<per10K>0.956</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>483</count>
+		<senses>
+			<senseContainer>
+				<sense>father</sense>
+				<count>230</count>
+				<prob>0.476</prob>
+				<loglikelihood>40.495</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ancestral</sense>
+				<count>53</count>
+				<prob>0.110</prob>
+				<loglikelihood>87.060</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>patrimony</sense>
+				<count>41</count>
+				<prob>0.085</prob>
+				<loglikelihood>149.390</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.317</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>paternal</sense>
+				<count>24</count>
+				<prob>0.050</prob>
+				<loglikelihood>63.981</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

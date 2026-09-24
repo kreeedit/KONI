@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατοικία</form>
+	<date>Tue Jul 26 23:20:42 EDT 2011</date>
+	<count>91</count>
+	<per10K>0.192</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>settlement</sense>
+				<count>49</count>
+				<prob>0.636</prob>
+				<loglikelihood>54.256</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

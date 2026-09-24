@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νομός</form>
+	<date>Tue Jul 26 23:01:46 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>60</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

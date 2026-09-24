@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χάρις</form>
+	<date>Wed Jul 27 02:26:44 EDT 2011</date>
+	<count>1475</count>
+	<per10K>3.113</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1885</count>
+		<senses>
+			<senseContainer>
+				<sense>grace</sense>
+				<count>163</count>
+				<prob>0.086</prob>
+				<loglikelihood>428.036</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>favor</sense>
+				<count>120</count>
+				<prob>0.064</prob>
+				<loglikelihood>189.104</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sake</sense>
+				<count>119</count>
+				<prob>0.063</prob>
+				<loglikelihood>71.792</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.328</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>thank</sense>
+				<count>106</count>
+				<prob>0.056</prob>
+				<loglikelihood>146.548</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>gratitude</sense>
+				<count>100</count>
+				<prob>0.053</prob>
+				<loglikelihood>275.552</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>grateful</sense>
+				<count>92</count>
+				<prob>0.049</prob>
+				<loglikelihood>296.697</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>favour</sense>
+				<count>54</count>
+				<prob>0.029</prob>
+				<loglikelihood>42.713</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀποδίδωμι</original>
+				<trans>to gratitude</trans>
+				<loglikelihood>7.27</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀφείλω</original>
+				<trans>owe gratitude</trans>
+				<loglikelihood>3.20</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>had grateful</trans>
+				<loglikelihood>3.13</loglikelihood>
+				<count>141</count>
+			</collocation>
+			<collocation>
+				<original>ἀπαιτέω</original>
+				<trans>ask thank</trans>
+				<loglikelihood>2.72</loglikelihood>
+				<count>12</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

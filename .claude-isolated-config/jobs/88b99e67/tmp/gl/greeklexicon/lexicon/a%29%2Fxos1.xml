@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄχος</form>
+	<date>Tue Jul 26 23:35:17 EDT 2011</date>
+	<count>123</count>
+	<per10K>0.26</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>grief</sense>
+				<count>39</count>
+				<prob>0.281</prob>
+				<loglikelihood>18.828</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.641</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sorrow</sense>
+				<count>21</count>
+				<prob>0.151</prob>
+				<loglikelihood>3.847</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.619</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>grief [ akhos ]</sense>
+				<count>3</count>
+				<prob>0.022</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>αἰνός</original>
+				<trans>dread sorrow</trans>
+				<loglikelihood>5.73</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

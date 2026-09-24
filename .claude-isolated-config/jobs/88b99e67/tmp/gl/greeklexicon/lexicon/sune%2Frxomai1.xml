@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνέρχομαι</form>
+	<date>Wed Jul 27 00:31:12 EDT 2011</date>
+	<count>369</count>
+	<per10K>0.779</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>268</count>
+		<senses>
+			<senseContainer>
+				<sense>come together</sense>
+				<count>31</count>
+				<prob>0.116</prob>
+				<loglikelihood>73.910</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.452</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>came together</sense>
+				<count>17</count>
+				<prob>0.063</prob>
+				<loglikelihood>36.118</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assemble</sense>
+				<count>15</count>
+				<prob>0.056</prob>
+				<loglikelihood>4.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

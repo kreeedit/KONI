@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζημία</form>
+	<date>Wed Jul 27 00:26:20 EDT 2011</date>
+	<count>339</count>
+	<per10K>0.716</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>386</count>
+		<senses>
+			<senseContainer>
+				<sense>penalty</sense>
+				<count>106</count>
+				<prob>0.275</prob>
+				<loglikelihood>89.470</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>loss</sense>
+				<count>64</count>
+				<prob>0.166</prob>
+				<loglikelihood>44.483</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fine</sense>
+				<count>57</count>
+				<prob>0.148</prob>
+				<loglikelihood>19.716</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>punishment</sense>
+				<count>42</count>
+				<prob>0.109</prob>
+				<loglikelihood>12.827</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

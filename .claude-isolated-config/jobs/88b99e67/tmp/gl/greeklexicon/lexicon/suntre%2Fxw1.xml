@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συντρέχω</form>
+	<date>Tue Jul 26 23:19:49 EDT 2011</date>
+	<count>89</count>
+	<per10K>0.188</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>89</count>
+		<senses>
+			<senseContainer>
+				<sense>ran together</sense>
+				<count>8</count>
+				<prob>0.090</prob>
+				<loglikelihood>17.066</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>came running together</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

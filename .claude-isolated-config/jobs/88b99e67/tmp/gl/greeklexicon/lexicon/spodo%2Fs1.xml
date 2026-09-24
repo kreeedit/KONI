@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σποδός</form>
+	<date>Tue Jul 26 22:49:49 EDT 2011</date>
+	<count>36</count>
+	<per10K>0.076</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>ash</sense>
+				<count>16</count>
+				<prob>0.615</prob>
+				<loglikelihood>12.047</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

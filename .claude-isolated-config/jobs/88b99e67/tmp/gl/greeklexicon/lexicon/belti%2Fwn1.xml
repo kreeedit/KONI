@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βελτίων</form>
+	<date>Wed Jul 27 01:38:40 EDT 2011</date>
+	<count>895</count>
+	<per10K>1.889</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>994</count>
+		<senses>
+			<senseContainer>
+				<sense>better than</sense>
+				<count>67</count>
+				<prob>0.067</prob>
+				<loglikelihood>74.398</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.537</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>improve</sense>
+				<count>39</count>
+				<prob>0.039</prob>
+				<loglikelihood>59.583</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>superior</sense>
+				<count>33</count>
+				<prob>0.033</prob>
+				<loglikelihood>10.171</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δικαστής</form>
+	<date>Wed Jul 27 01:55:20 EDT 2011</date>
+	<count>1111</count>
+	<per10K>2.345</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1074</count>
+		<senses>
+			<senseContainer>
+				<sense>jury</sense>
+				<count>674</count>
+				<prob>0.628</prob>
+				<loglikelihood>2451.393</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.746</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>judge</sense>
+				<count>109</count>
+				<prob>0.101</prob>
+				<loglikelihood>45.421</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.358</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>juryman</sense>
+				<count>25</count>
+				<prob>0.023</prob>
+				<loglikelihood>40.278</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.520</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>juror</sense>
+				<count>23</count>
+				<prob>0.021</prob>
+				<loglikelihood>34.647</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

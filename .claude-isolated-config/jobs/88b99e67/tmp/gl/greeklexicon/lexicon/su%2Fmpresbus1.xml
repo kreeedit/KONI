@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύμπρεσβυς</form>
+	<date>Tue Jul 26 22:48:41 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>colleague</sense>
+				<count>18</count>
+				<prob>0.429</prob>
+				<loglikelihood>9.256</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow legates</sense>
+				<count>5</count>
+				<prob>0.119</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

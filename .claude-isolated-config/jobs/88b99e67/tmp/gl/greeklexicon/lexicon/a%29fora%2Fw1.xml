@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφοράω</form>
+	<date>Wed Jul 27 00:16:09 EDT 2011</date>
+	<count>286</count>
+	<per10K>0.604</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>178</count>
+		<senses>
+			<senseContainer>
+				<sense>at loss</sense>
+				<count>24</count>
+				<prob>0.135</prob>
+				<loglikelihood>69.811</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.625</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>am at loss</sense>
+				<count>7</count>
+				<prob>0.039</prob>
+				<loglikelihood>27.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

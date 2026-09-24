@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πνύξ</form>
+	<date>Tue Jul 26 22:36:43 EDT 2011</date>
+	<count>19</count>
+	<per10K>0.04</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>pnyx</sense>
+				<count>9</count>
+				<prob>0.750</prob>
+				<loglikelihood>16.200</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

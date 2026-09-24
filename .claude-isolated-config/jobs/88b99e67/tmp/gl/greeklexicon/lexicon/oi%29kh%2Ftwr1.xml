@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκήτωρ</form>
+	<date>Tue Jul 26 23:21:27 EDT 2011</date>
+	<count>92</count>
+	<per10K>0.194</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>inhabitant</sense>
+				<count>34</count>
+				<prob>0.318</prob>
+				<loglikelihood>12.100</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>settler</sense>
+				<count>12</count>
+				<prob>0.112</prob>
+				<loglikelihood>10.284</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>its inhabitants</sense>
+				<count>10</count>
+				<prob>0.093</prob>
+				<loglikelihood>15.998</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dweller</sense>
+				<count>7</count>
+				<prob>0.065</prob>
+				<loglikelihood>4.354</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

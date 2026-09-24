@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀθυμέω</form>
+	<date>Tue Jul 26 23:13:36 EDT 2011</date>
+	<count>75</count>
+	<per10K>0.158</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>discourage</sense>
+				<count>6</count>
+				<prob>0.097</prob>
+				<loglikelihood>4.363</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dishearten</sense>
+				<count>5</count>
+				<prob>0.081</prob>
+				<loglikelihood>4.545</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>despondent</sense>
+				<count>5</count>
+				<prob>0.081</prob>
+				<loglikelihood>6.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lose heart</sense>
+				<count>4</count>
+				<prob>0.065</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

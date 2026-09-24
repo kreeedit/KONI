@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάτωθεν</form>
+	<date>Tue Jul 26 22:56:59 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>from below</sense>
+				<count>5</count>
+				<prob>0.086</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

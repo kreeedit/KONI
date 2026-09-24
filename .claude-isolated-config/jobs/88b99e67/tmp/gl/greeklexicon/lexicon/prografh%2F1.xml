@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προγραφή</form>
+	<date>Tue Jul 26 22:38:49 EDT 2011</date>
+	<count>22</count>
+	<per10K>0.046</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>proscription</sense>
+				<count>10</count>
+				<prob>0.500</prob>
+				<loglikelihood>14.815</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

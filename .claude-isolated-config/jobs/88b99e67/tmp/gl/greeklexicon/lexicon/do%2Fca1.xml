@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δόξα</form>
+	<date>Wed Jul 27 00:23:48 EDT 2011</date>
+	<count>324</count>
+	<per10K>0.684</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>563</count>
+		<senses>
+			<senseContainer>
+				<sense>opinion</sense>
+				<count>71</count>
+				<prob>0.126</prob>
+				<loglikelihood>12.846</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.563</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>reputation</sense>
+				<count>67</count>
+				<prob>0.119</prob>
+				<loglikelihood>42.897</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>glory</sense>
+				<count>60</count>
+				<prob>0.107</prob>
+				<loglikelihood>30.914</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>renown</sense>
+				<count>15</count>
+				<prob>0.027</prob>
+				<loglikelihood>10.574</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξίστημι</form>
+	<date>Tue Jul 26 23:40:31 EDT 2011</date>
+	<count>137</count>
+	<per10K>0.289</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>amaze</sense>
+				<count>13</count>
+				<prob>0.094</prob>
+				<loglikelihood>9.386</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

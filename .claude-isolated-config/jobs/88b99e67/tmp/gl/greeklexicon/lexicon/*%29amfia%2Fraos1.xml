@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀμφιάραος</form>
+	<date>Tue Jul 26 23:13:00 EDT 2011</date>
+	<count>74</count>
+	<per10K>0.156</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>amphiaraus</sense>
+				<count>18</count>
+				<prob>0.900</prob>
+				<loglikelihood>19.636</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμμελής</form>
+	<date>Tue Jul 26 22:51:34 EDT 2011</date>
+	<count>38</count>
+	<per10K>0.08</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>32</count>
+		<senses>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>13</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

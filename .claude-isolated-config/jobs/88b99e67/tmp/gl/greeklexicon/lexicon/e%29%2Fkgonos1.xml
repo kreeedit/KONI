@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔκγονος</form>
+	<date>Tue Jul 26 23:49:39 EDT 2011</date>
+	<count>161</count>
+	<per10K>0.34</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>195</count>
+		<senses>
+			<senseContainer>
+				<sense>offspring</sense>
+				<count>45</count>
+				<prob>0.231</prob>
+				<loglikelihood>44.249</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.867</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>descendant</sense>
+				<count>36</count>
+				<prob>0.185</prob>
+				<loglikelihood>21.235</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>posterity</sense>
+				<count>11</count>
+				<prob>0.056</prob>
+				<loglikelihood>4.437</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βῆσσα</form>
+	<date>Tue Jul 26 22:39:15 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>glade</sense>
+				<count>10</count>
+				<prob>0.455</prob>
+				<loglikelihood>22.222</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

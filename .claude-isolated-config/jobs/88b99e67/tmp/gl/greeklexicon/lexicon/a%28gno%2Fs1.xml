@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁγνός</form>
+	<date>Tue Jul 26 23:22:07 EDT 2011</date>
+	<count>93</count>
+	<per10K>0.196</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>holy</sense>
+				<count>23</count>
+				<prob>0.418</prob>
+				<loglikelihood>4.326</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschylus</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

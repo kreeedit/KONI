@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γνήσιος</form>
+	<date>Wed Jul 27 00:02:09 EDT 2011</date>
+	<count>204</count>
+	<per10K>0.431</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>237</count>
+		<senses>
+			<senseContainer>
+				<sense>legitimate</sense>
+				<count>90</count>
+				<prob>0.380</prob>
+				<loglikelihood>305.631</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.656</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lawfully born</sense>
+				<count>18</count>
+				<prob>0.076</prob>
+				<loglikelihood>68.204</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>genuine</sense>
+				<count>10</count>
+				<prob>0.042</prob>
+				<loglikelihood>6.553</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>legitimate child</sense>
+				<count>6</count>
+				<prob>0.025</prob>
+				<loglikelihood>23.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>legitimate sons</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>legitimate children</sense>
+				<count>5</count>
+				<prob>0.021</prob>
+				<loglikelihood>19.998</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>θυγάτηρ</original>
+				<trans>legitimate daughter</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Isaeus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

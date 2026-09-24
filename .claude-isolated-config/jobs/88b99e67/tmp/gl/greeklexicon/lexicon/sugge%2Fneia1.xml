@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγγένεια</form>
+	<date>Tue Jul 26 23:56:28 EDT 2011</date>
+	<count>182</count>
+	<per10K>0.384</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>198</count>
+		<senses>
+			<senseContainer>
+				<sense>kinship</sense>
+				<count>44</count>
+				<prob>0.222</prob>
+				<loglikelihood>73.739</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kindred</sense>
+				<count>26</count>
+				<prob>0.131</prob>
+				<loglikelihood>15.713</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.577</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>relationship</sense>
+				<count>21</count>
+				<prob>0.106</prob>
+				<loglikelihood>22.043</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

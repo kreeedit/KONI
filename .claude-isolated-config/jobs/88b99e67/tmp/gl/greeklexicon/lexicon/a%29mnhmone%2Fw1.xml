@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμνημονέω</form>
+	<date>Tue Jul 26 22:52:23 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>unmindful</sense>
+				<count>6</count>
+				<prob>0.167</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

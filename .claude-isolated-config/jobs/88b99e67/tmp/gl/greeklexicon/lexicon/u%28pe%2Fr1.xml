@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπέρ</form>
+	<date>Wed Jul 27 04:13:47 EDT 2011</date>
+	<count>3386</count>
+	<per10K>7.147</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>4506</count>
+		<senses>
+			<senseContainer>
+				<sense>for</sense>
+				<count>909</count>
+				<prob>0.202</prob>
+				<loglikelihood>111.525</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>above</sense>
+				<count>332</count>
+				<prob>0.074</prob>
+				<loglikelihood>495.195</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>behalf</sense>
+				<count>219</count>
+				<prob>0.049</prob>
+				<loglikelihood>706.287</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>over</sense>
+				<count>180</count>
+				<prob>0.040</prob>
+				<loglikelihood>78.614</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>beyond</sense>
+				<count>134</count>
+				<prob>0.030</prob>
+				<loglikelihood>121.355</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.313</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>on</sense>
+				<count>130</count>
+				<prob>0.029</prob>
+				<loglikelihood>6.353</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>on behalf</sense>
+				<count>117</count>
+				<prob>0.026</prob>
+				<loglikelihood>467.122</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>about</sense>
+				<count>105</count>
+				<prob>0.023</prob>
+				<loglikelihood>7.481</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>ἀπολογέομαι</original>
+				<trans>defence for</trans>
+				<loglikelihood>12.02</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Antiphon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρεσβεύω</original>
+				<trans>go behalf</trans>
+				<loglikelihood>5.25</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+					<author><name>Appian</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κινδυνεύω</original>
+				<trans>risk for</trans>
+				<loglikelihood>4.08</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποθνήσκω</original>
+				<trans>die for</trans>
+				<loglikelihood>3.86</loglikelihood>
+				<count>43</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βουλεύω</original>
+				<trans>deliberate for</trans>
+				<loglikelihood>3.70</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Aeschines</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγωνίζομαι</original>
+				<trans>fight for</trans>
+				<loglikelihood>3.52</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>do for</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>130</count>
+			</collocation>
+			<collocation>
+				<original>τιμωρέω</original>
+				<trans>avenge behalf</trans>
+				<loglikelihood>2.57</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφισβητέω</original>
+				<trans>claim for</trans>
+				<loglikelihood>2.53</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολεμέω</original>
+				<trans>fought for</trans>
+				<loglikelihood>2.16</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>did for</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>59</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

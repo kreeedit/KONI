@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀόριστος</form>
+	<date>Tue Jul 26 22:58:01 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>indeterminate</sense>
+				<count>11</count>
+				<prob>0.164</prob>
+				<loglikelihood>30.249</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>indefinite</sense>
+				<count>8</count>
+				<prob>0.119</prob>
+				<loglikelihood>13.473</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>indeterminate dyad</sense>
+				<count>4</count>
+				<prob>0.060</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

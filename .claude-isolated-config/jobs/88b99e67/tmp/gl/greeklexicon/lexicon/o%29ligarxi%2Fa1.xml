@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀλιγαρχία</form>
+	<date>Wed Jul 27 00:32:34 EDT 2011</date>
+	<count>377</count>
+	<per10K>0.796</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>406</count>
+		<senses>
+			<senseContainer>
+				<sense>oligarchy</sense>
+				<count>331</count>
+				<prob>0.815</prob>
+				<loglikelihood>1234.356</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.520</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

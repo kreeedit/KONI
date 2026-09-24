@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Τροίαθεν</form>
+	<date>Tue Jul 26 22:31:08 EDT 2011</date>
+	<count>13</count>
+	<per10K>0.027</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>8</count>
+		<senses>
+			<senseContainer>
+				<sense>from troy</sense>
+				<count>7</count>
+				<prob>0.875</prob>
+				<loglikelihood>21.778</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

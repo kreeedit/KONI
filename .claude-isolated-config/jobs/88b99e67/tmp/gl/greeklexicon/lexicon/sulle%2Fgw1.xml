@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συλλέγω</form>
+	<date>Wed Jul 27 00:13:02 EDT 2011</date>
+	<count>271</count>
+	<per10K>0.572</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>185</count>
+		<senses>
+			<senseContainer>
+				<sense>gather</sense>
+				<count>22</count>
+				<prob>0.119</prob>
+				<loglikelihood>6.556</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assemble</sense>
+				<count>18</count>
+				<prob>0.097</prob>
+				<loglikelihood>6.051</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>collect</sense>
+				<count>18</count>
+				<prob>0.097</prob>
+				<loglikelihood>8.197</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>muster</sense>
+				<count>9</count>
+				<prob>0.049</prob>
+				<loglikelihood>4.693</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

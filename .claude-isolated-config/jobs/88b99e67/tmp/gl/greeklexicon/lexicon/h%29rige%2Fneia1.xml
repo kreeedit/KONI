@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἠριγένεια</form>
+	<date>Tue Jul 26 22:50:18 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>dawn</sense>
+				<count>31</count>
+				<prob>1.240</prob>
+				<loglikelihood>20.778</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποτέ</form>
+	<date>Wed Jul 27 03:31:05 EDT 2011</date>
+	<count>2555</count>
+	<per10K>5.393</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>4036</count>
+		<senses>
+			<senseContainer>
+				<sense>once</sense>
+				<count>531</count>
+				<prob>0.132</prob>
+				<loglikelihood>905.441</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>never</sense>
+				<count>475</count>
+				<prob>0.118</prob>
+				<loglikelihood>343.143</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ever</sense>
+				<count>454</count>
+				<prob>0.112</prob>
+				<loglikelihood>612.814</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>can</sense>
+				<count>94</count>
+				<prob>0.023</prob>
+				<loglikelihood>5.556</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>time</sense>
+				<count>87</count>
+				<prob>0.022</prob>
+				<loglikelihood>6.223</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

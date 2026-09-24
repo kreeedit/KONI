@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁμοιότης</form>
+	<date>Tue Jul 26 23:26:16 EDT 2011</date>
+	<count>102</count>
+	<per10K>0.215</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>120</count>
+		<senses>
+			<senseContainer>
+				<sense>likeness</sense>
+				<count>27</count>
+				<prob>0.225</prob>
+				<loglikelihood>18.568</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>resemblance</sense>
+				<count>16</count>
+				<prob>0.133</prob>
+				<loglikelihood>18.960</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>similarity</sense>
+				<count>15</count>
+				<prob>0.125</prob>
+				<loglikelihood>23.681</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.533</relativeFreq></author>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>similitude</sense>
+				<count>5</count>
+				<prob>0.042</prob>
+				<loglikelihood>8.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὔριον</form>
+	<date>Tue Jul 26 23:30:04 EDT 2011</date>
+	<count>109</count>
+	<per10K>0.23</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>117</count>
+		<senses>
+			<senseContainer>
+				<sense>tomorrow</sense>
+				<count>32</count>
+				<prob>0.274</prob>
+				<loglikelihood>78.764</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>- morrow</sense>
+				<count>31</count>
+				<prob>0.265</prob>
+				<loglikelihood>120.120</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.548</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>morrow</sense>
+				<count>25</count>
+				<prob>0.214</prob>
+				<loglikelihood>51.016</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἴχομαι</form>
+	<date>Wed Jul 27 01:08:57 EDT 2011</date>
+	<count>617</count>
+	<per10K>1.302</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>638</count>
+		<senses>
+			<senseContainer>
+				<sense>go</sense>
+				<count>202</count>
+				<prob>0.317</prob>
+				<loglikelihood>34.207</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>away</sense>
+				<count>54</count>
+				<prob>0.085</prob>
+				<loglikelihood>14.956</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>off</sense>
+				<count>40</count>
+				<prob>0.063</prob>
+				<loglikelihood>9.539</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>went off</sense>
+				<count>18</count>
+				<prob>0.028</prob>
+				<loglikelihood>44.671</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>went away</sense>
+				<count>17</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.954</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.471</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

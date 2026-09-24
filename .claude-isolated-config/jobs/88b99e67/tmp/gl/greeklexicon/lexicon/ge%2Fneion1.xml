@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γένειον</form>
+	<date>Tue Jul 26 23:09:26 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>69</count>
+		<senses>
+			<senseContainer>
+				<sense>beard</sense>
+				<count>26</count>
+				<prob>0.377</prob>
+				<loglikelihood>39.186</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>chin</sense>
+				<count>12</count>
+				<prob>0.174</prob>
+				<loglikelihood>23.039</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>beardless youth</sense>
+				<count>6</count>
+				<prob>0.087</prob>
+				<loglikelihood>23.999</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>beardless</sense>
+				<count>3</count>
+				<prob>0.043</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

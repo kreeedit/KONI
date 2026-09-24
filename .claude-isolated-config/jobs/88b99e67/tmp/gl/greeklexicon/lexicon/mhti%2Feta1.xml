@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μητίετα</form>
+	<date>Tue Jul 26 22:42:40 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>30</count>
+		<senses>
+			<senseContainer>
+				<sense>counsellor</sense>
+				<count>13</count>
+				<prob>0.433</prob>
+				<loglikelihood>5.982</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

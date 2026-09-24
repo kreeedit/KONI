@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολεμίζω</form>
+	<date>Tue Jul 26 23:15:22 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>do battle</sense>
+				<count>6</count>
+				<prob>0.095</prob>
+				<loglikelihood>20.571</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

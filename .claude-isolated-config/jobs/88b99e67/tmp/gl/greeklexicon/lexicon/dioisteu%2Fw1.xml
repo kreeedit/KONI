@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διοιστεύω</form>
+	<date>Tue Jul 26 22:28:14 EDT 2011</date>
+	<count>11</count>
+	<per10K>0.023</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>7</count>
+		<senses>
+			<senseContainer>
+				<sense>shoot arrow through</sense>
+				<count>5</count>
+				<prob>0.714</prob>
+				<loglikelihood>16.667</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

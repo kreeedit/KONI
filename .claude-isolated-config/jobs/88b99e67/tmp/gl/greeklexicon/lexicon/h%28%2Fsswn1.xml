@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἥσσων</form>
+	<date>Wed Jul 27 01:50:42 EDT 2011</date>
+	<count>1038</count>
+	<per10K>2.191</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1190</count>
+		<senses>
+			<senseContainer>
+				<sense>less</sense>
+				<count>417</count>
+				<prob>0.350</prob>
+				<loglikelihood>723.847</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>inferior</sense>
+				<count>41</count>
+				<prob>0.034</prob>
+				<loglikelihood>23.430</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.488</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>weak</sense>
+				<count>34</count>
+				<prob>0.029</prob>
+				<loglikelihood>16.447</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>less than</sense>
+				<count>32</count>
+				<prob>0.027</prob>
+				<loglikelihood>23.078</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>μηδείς</original>
+				<trans>no less</trans>
+				<loglikelihood>2.43</loglikelihood>
+				<count>48</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

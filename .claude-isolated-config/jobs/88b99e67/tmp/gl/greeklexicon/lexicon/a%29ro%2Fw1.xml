@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρόω</form>
+	<date>Wed Jul 27 01:39:20 EDT 2011</date>
+	<count>900</count>
+	<per10K>1.9</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>169</count>
+		<senses>
+			<senseContainer>
+				<sense>plough</sense>
+				<count>10</count>
+				<prob>0.059</prob>
+				<loglikelihood>6.151</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

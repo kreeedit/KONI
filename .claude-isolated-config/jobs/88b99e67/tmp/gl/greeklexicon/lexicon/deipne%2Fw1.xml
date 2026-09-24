@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δειπνέω</form>
+	<date>Tue Jul 26 23:44:48 EDT 2011</date>
+	<count>148</count>
+	<per10K>0.312</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>dine</sense>
+				<count>26</count>
+				<prob>0.243</prob>
+				<loglikelihood>32.971</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dinner</sense>
+				<count>24</count>
+				<prob>0.224</prob>
+				<loglikelihood>11.459</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.792</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>had dined</sense>
+				<count>7</count>
+				<prob>0.065</prob>
+				<loglikelihood>19.599</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sup</sense>
+				<count>6</count>
+				<prob>0.056</prob>
+				<loglikelihood>3.891</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

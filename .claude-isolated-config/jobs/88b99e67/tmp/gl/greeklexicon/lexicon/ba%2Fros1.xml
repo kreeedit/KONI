@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βάρος</form>
+	<date>Tue Jul 26 23:15:54 EDT 2011</date>
+	<count>81</count>
+	<per10K>0.171</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>126</count>
+		<senses>
+			<senseContainer>
+				<sense>weight</sense>
+				<count>37</count>
+				<prob>0.294</prob>
+				<loglikelihood>38.021</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

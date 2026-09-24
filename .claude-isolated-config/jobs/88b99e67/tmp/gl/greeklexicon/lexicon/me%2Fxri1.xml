@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέχρι</form>
+	<date>Wed Jul 27 02:42:24 EDT 2011</date>
+	<count>1776</count>
+	<per10K>3.748</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>1976</count>
+		<senses>
+			<senseContainer>
+				<sense>as far</sense>
+				<count>404</count>
+				<prob>0.204</prob>
+				<loglikelihood>1092.365</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.582</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>until</sense>
+				<count>289</count>
+				<prob>0.146</prob>
+				<loglikelihood>232.081</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.439</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>till</sense>
+				<count>104</count>
+				<prob>0.053</prob>
+				<loglikelihood>75.564</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.644</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>up</sense>
+				<count>102</count>
+				<prob>0.052</prob>
+				<loglikelihood>26.605</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>extend</sense>
+				<count>59</count>
+				<prob>0.030</prob>
+				<loglikelihood>51.186</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.780</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>far</sense>
+				<count>56</count>
+				<prob>0.028</prob>
+				<loglikelihood>8.583</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>172</count>
+		<senses>
+			<senseContainer>
+				<sense>as far</sense>
+				<count>24</count>
+				<prob>0.140</prob>
+				<loglikelihood>3.853</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύμμαχος</form>
+	<date>Wed Jul 27 02:39:35 EDT 2011</date>
+	<count>1711</count>
+	<per10K>3.611</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1917</count>
+		<senses>
+			<senseContainer>
+				<sense>ally</sense>
+				<count>1264</count>
+				<prob>0.659</prob>
+				<loglikelihood>4080.826</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>alliance</sense>
+				<count>51</count>
+				<prob>0.027</prob>
+				<loglikelihood>23.483</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.431</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

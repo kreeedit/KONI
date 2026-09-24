@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπαγορεύω</form>
+	<date>Tue Jul 26 23:37:32 EDT 2011</date>
+	<count>129</count>
+	<per10K>0.272</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>112</count>
+		<senses>
+			<senseContainer>
+				<sense>forbid</sense>
+				<count>31</count>
+				<prob>0.277</prob>
+				<loglikelihood>13.025</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>forbade</sense>
+				<count>15</count>
+				<prob>0.134</prob>
+				<loglikelihood>8.735</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

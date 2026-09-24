@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀτρύνω</form>
+	<date>Tue Jul 26 23:54:32 EDT 2011</date>
+	<count>174</count>
+	<per10K>0.367</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>122</count>
+		<senses>
+			<senseContainer>
+				<sense>rouse</sense>
+				<count>13</count>
+				<prob>0.107</prob>
+				<loglikelihood>4.145</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.923</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>arouse</sense>
+				<count>12</count>
+				<prob>0.098</prob>
+				<loglikelihood>6.695</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>urge on</sense>
+				<count>8</count>
+				<prob>0.066</prob>
+				<loglikelihood>19.691</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>urged on</sense>
+				<count>7</count>
+				<prob>0.057</prob>
+				<loglikelihood>13.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπαίδευτος</form>
+	<date>Tue Jul 26 23:00:22 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>uninstructed</sense>
+				<count>9</count>
+				<prob>0.158</prob>
+				<loglikelihood>32.399</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>uneducated</sense>
+				<count>9</count>
+				<prob>0.158</prob>
+				<loglikelihood>32.399</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

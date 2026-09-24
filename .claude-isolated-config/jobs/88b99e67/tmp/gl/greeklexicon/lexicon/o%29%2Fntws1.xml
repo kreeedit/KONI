@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄντως</form>
+	<date>Tue Jul 26 23:57:08 EDT 2011</date>
+	<count>184</count>
+	<per10K>0.388</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>222</count>
+		<senses>
+			<senseContainer>
+				<sense>real</sense>
+				<count>109</count>
+				<prob>0.491</prob>
+				<loglikelihood>70.584</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.789</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄις</form>
+	<date>Tue Jul 26 23:43:45 EDT 2011</date>
+	<count>144</count>
+	<per10K>0.304</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>132</count>
+		<senses>
+			<senseContainer>
+				<sense>sheep</sense>
+				<count>77</count>
+				<prob>0.583</prob>
+				<loglikelihood>69.536</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.623</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ewe</sense>
+				<count>7</count>
+				<prob>0.053</prob>
+				<loglikelihood>10.314</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sheep -</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

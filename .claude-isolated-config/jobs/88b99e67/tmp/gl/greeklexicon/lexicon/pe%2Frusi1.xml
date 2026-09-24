@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πέρυσι</form>
+	<date>Tue Jul 26 22:50:09 EDT 2011</date>
+	<count>36</count>
+	<per10K>0.076</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>last year</sense>
+				<count>29</count>
+				<prob>0.784</prob>
+				<loglikelihood>115.999</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.379</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πεινάω</form>
+	<date>Tue Jul 26 23:28:16 EDT 2011</date>
+	<count>105</count>
+	<per10K>0.222</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>hungry</sense>
+				<count>26</count>
+				<prob>0.419</prob>
+				<loglikelihood>53.017</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.423</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hunger</sense>
+				<count>16</count>
+				<prob>0.258</prob>
+				<loglikelihood>6.648</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

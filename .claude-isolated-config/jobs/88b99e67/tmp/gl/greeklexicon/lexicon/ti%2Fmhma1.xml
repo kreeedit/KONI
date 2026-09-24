@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τίμημα</form>
+	<date>Tue Jul 26 23:47:05 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>180</count>
+		<senses>
+			<senseContainer>
+				<sense>penalty</sense>
+				<count>25</count>
+				<prob>0.139</prob>
+				<loglikelihood>4.973</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.440</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>property - qualification</sense>
+				<count>7</count>
+				<prob>0.039</prob>
+				<loglikelihood>27.998</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>assessment</sense>
+				<count>7</count>
+				<prob>0.039</prob>
+				<loglikelihood>8.520</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>property - class</sense>
+				<count>6</count>
+				<prob>0.033</prob>
+				<loglikelihood>23.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>property qualification</sense>
+				<count>6</count>
+				<prob>0.033</prob>
+				<loglikelihood>23.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>property - classes</sense>
+				<count>4</count>
+				<prob>0.022</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>valuation</sense>
+				<count>4</count>
+				<prob>0.022</prob>
+				<loglikelihood>5.817</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

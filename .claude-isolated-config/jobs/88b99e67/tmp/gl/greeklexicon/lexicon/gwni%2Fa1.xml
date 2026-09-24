@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γωνία</form>
+	<date>Tue Jul 26 23:15:04 EDT 2011</date>
+	<count>79</count>
+	<per10K>0.167</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>367</count>
+		<senses>
+			<senseContainer>
+				<sense>corner</sense>
+				<count>44</count>
+				<prob>0.120</prob>
+				<loglikelihood>138.260</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.341</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>angle</sense>
+				<count>21</count>
+				<prob>0.057</prob>
+				<loglikelihood>46.408</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.476</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὑποτείνω</original>
+				<trans>null</trans>
+				<loglikelihood>10.80</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>εὐθύγραμμος</original>
+				<trans>null</trans>
+				<loglikelihood>16.66</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ὑποτείνω</original>
+				<trans>null</trans>
+				<loglikelihood>5.29</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἴσος</original>
+				<trans>null</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>44</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

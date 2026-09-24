@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀδελφιδέος</form>
+	<date>Tue Jul 26 23:16:59 EDT 2011</date>
+	<count>84</count>
+	<per10K>0.177</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>91</count>
+		<senses>
+			<senseContainer>
+				<sense>nephew</sense>
+				<count>66</count>
+				<prob>0.725</prob>
+				<loglikelihood>238.678</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.424</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>brother son</sense>
+				<count>4</count>
+				<prob>0.044</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

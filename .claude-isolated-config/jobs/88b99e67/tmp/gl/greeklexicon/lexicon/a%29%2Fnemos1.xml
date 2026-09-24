@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄνεμος</form>
+	<date>Wed Jul 27 00:30:06 EDT 2011</date>
+	<count>360</count>
+	<per10K>0.76</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>460</count>
+		<senses>
+			<senseContainer>
+				<sense>wind</sense>
+				<count>311</count>
+				<prob>0.676</prob>
+				<loglikelihood>691.940</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Βορέας</original>
+				<trans>north wind</trans>
+				<loglikelihood>28.93</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

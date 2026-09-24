@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πατρώιος</form>
+	<date>Tue Jul 26 23:01:55 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>48</count>
+		<senses>
+			<senseContainer>
+				<sense>father house</sense>
+				<count>3</count>
+				<prob>0.062</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

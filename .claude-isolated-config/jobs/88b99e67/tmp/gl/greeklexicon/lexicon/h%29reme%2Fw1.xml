@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἠρεμέω</form>
+	<date>Tue Jul 26 23:16:44 EDT 2011</date>
+	<count>83</count>
+	<per10K>0.175</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>80</count>
+		<senses>
+			<senseContainer>
+				<sense>quiet</sense>
+				<count>18</count>
+				<prob>0.225</prob>
+				<loglikelihood>5.224</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lie still</sense>
+				<count>4</count>
+				<prob>0.050</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λευκός</form>
+	<date>Wed Jul 27 00:48:16 EDT 2011</date>
+	<count>478</count>
+	<per10K>1.009</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>525</count>
+		<senses>
+			<senseContainer>
+				<sense>white</sense>
+				<count>314</count>
+				<prob>0.598</prob>
+				<loglikelihood>943.307</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>white marble</sense>
+				<count>11</count>
+				<prob>0.021</prob>
+				<loglikelihood>34.562</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>λίθος</original>
+				<trans>white marble</trans>
+				<loglikelihood>10.93</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γάλα</original>
+				<trans>white milk</trans>
+				<loglikelihood>4.03</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἱστίον</original>
+				<trans>white sail</trans>
+				<loglikelihood>3.19</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

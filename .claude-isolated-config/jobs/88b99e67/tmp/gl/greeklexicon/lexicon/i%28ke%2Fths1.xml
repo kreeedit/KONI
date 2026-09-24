@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱκέτης</form>
+	<date>Tue Jul 26 23:53:52 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>189</count>
+		<senses>
+			<senseContainer>
+				<sense>suppliant</sense>
+				<count>116</count>
+				<prob>0.614</prob>
+				<loglikelihood>257.505</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>as suppliants</sense>
+				<count>19</count>
+				<prob>0.101</prob>
+				<loglikelihood>75.994</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>supplicant</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>6.399</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

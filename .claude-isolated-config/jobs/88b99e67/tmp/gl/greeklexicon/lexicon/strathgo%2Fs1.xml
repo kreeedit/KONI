@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στρατηγός</form>
+	<date>Wed Jul 27 02:38:30 EDT 2011</date>
+	<count>1708</count>
+	<per10K>3.605</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>696</count>
+		<senses>
+			<senseContainer>
+				<sense>general</sense>
+				<count>370</count>
+				<prob>0.532</prob>
+				<loglikelihood>247.576</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commander</sense>
+				<count>56</count>
+				<prob>0.080</prob>
+				<loglikelihood>20.740</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

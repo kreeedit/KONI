@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φθορά</form>
+	<date>Tue Jul 26 23:33:01 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>73</count>
+		<senses>
+			<senseContainer>
+				<sense>destruction</sense>
+				<count>21</count>
+				<prob>0.288</prob>
+				<loglikelihood>4.158</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

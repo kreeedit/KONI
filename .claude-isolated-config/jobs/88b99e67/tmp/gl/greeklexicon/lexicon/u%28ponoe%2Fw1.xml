@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπονοέω</form>
+	<date>Tue Jul 26 23:31:21 EDT 2011</date>
+	<count>112</count>
+	<per10K>0.236</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>suspect</sense>
+				<count>31</count>
+				<prob>0.403</prob>
+				<loglikelihood>14.557</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

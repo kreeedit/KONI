@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαπράσσω</form>
+	<date>Wed Jul 27 00:36:16 EDT 2011</date>
+	<count>401</count>
+	<per10K>0.846</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>308</count>
+		<senses>
+			<senseContainer>
+				<sense>accomplish</sense>
+				<count>28</count>
+				<prob>0.091</prob>
+				<loglikelihood>15.666</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.321</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

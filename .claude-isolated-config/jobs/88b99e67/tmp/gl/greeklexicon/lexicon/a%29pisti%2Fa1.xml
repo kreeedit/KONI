@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπιστία</form>
+	<date>Tue Jul 26 23:29:35 EDT 2011</date>
+	<count>108</count>
+	<per10K>0.228</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>distrust</sense>
+				<count>19</count>
+				<prob>0.129</prob>
+				<loglikelihood>13.748</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>perfidy</sense>
+				<count>5</count>
+				<prob>0.034</prob>
+				<loglikelihood>11.110</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bad faith</sense>
+				<count>5</count>
+				<prob>0.034</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unbelief</sense>
+				<count>5</count>
+				<prob>0.034</prob>
+				<loglikelihood>14.284</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>faithlessness</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>perfidiousness</sense>
+				<count>4</count>
+				<prob>0.027</prob>
+				<loglikelihood>6.399</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unfaithfulness</sense>
+				<count>3</count>
+				<prob>0.020</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

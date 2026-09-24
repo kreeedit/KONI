@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἅρμα</form>
+	<date>Wed Jul 27 00:46:18 EDT 2011</date>
+	<count>469</count>
+	<per10K>0.99</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>476</count>
+		<senses>
+			<senseContainer>
+				<sense>chariot</sense>
+				<count>374</count>
+				<prob>0.786</prob>
+				<loglikelihood>886.512</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>car</sense>
+				<count>44</count>
+				<prob>0.092</prob>
+				<loglikelihood>44.990</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.773</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δρεπανηφόρος</original>
+				<trans>scythe-bearing chariots</trans>
+				<loglikelihood>37.22</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀμφαλόεις</form>
+	<date>Tue Jul 26 22:36:59 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>boss</sense>
+				<count>11</count>
+				<prob>0.733</prob>
+				<loglikelihood>25.474</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φώκη</form>
+	<date>Tue Jul 26 23:49:36 EDT 2011</date>
+	<count>161</count>
+	<per10K>0.34</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>155</count>
+		<senses>
+			<senseContainer>
+				<sense>phocians</sense>
+				<count>98</count>
+				<prob>0.632</prob>
+				<loglikelihood>128.895</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.327</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.327</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>phocis</sense>
+				<count>23</count>
+				<prob>0.148</prob>
+				<loglikelihood>14.588</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>phocian</sense>
+				<count>18</count>
+				<prob>0.116</prob>
+				<loglikelihood>20.899</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seal</sense>
+				<count>16</count>
+				<prob>0.103</prob>
+				<loglikelihood>7.258</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

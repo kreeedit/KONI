@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅπη</form>
+	<date>Wed Jul 27 00:18:46 EDT 2011</date>
+	<count>299</count>
+	<per10K>0.631</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>381</count>
+		<senses>
+			<senseContainer>
+				<sense>wherever</sense>
+				<count>28</count>
+				<prob>0.073</prob>
+				<loglikelihood>13.215</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>whatever way</sense>
+				<count>8</count>
+				<prob>0.021</prob>
+				<loglikelihood>17.062</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>whithersoever</sense>
+				<count>8</count>
+				<prob>0.021</prob>
+				<loglikelihood>11.125</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

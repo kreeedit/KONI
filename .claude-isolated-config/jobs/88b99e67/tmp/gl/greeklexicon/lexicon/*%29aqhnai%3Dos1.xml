@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀθηναῖος</form>
+	<date>Wed Jul 27 05:17:55 EDT 2011</date>
+	<count>5055</count>
+	<per10K>10.669</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2146</count>
+		<senses>
+			<senseContainer>
+				<sense>athenian</sense>
+				<count>1129</count>
+				<prob>0.526</prob>
+				<loglikelihood>1363.527</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.392</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>athens</sense>
+				<count>735</count>
+				<prob>0.342</prob>
+				<loglikelihood>958.194</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.835</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>citizen</sense>
+				<count>92</count>
+				<prob>0.043</prob>
+				<loglikelihood>19.756</loglikelihood>
+				<authorContainer>
+					<author><name>Aeschines</name><relativeFreq>0.924</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἀνήρ</original>
+				<trans>men of athens</trans>
+				<loglikelihood>351.07</loglikelihood>
+				<count>1017</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

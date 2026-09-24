@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χράω</form>
+	<date>Tue Jul 26 23:28:12 EDT 2011</date>
+	<count>105</count>
+	<per10K>0.222</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>119</count>
+		<senses>
+			<senseContainer>
+				<sense>should have</sense>
+				<count>13</count>
+				<prob>0.109</prob>
+				<loglikelihood>28.164</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.846</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

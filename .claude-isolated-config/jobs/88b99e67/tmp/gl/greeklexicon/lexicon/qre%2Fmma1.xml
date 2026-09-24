@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θρέμμα</form>
+	<date>Tue Jul 26 23:02:57 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>creature</sense>
+				<count>17</count>
+				<prob>0.175</prob>
+				<loglikelihood>5.450</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.706</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

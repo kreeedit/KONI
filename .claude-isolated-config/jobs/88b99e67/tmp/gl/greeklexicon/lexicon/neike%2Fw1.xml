@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νεικέω</form>
+	<date>Tue Jul 26 23:07:03 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>chide</sense>
+				<count>7</count>
+				<prob>0.179</prob>
+				<loglikelihood>5.444</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>chid</sense>
+				<count>7</count>
+				<prob>0.179</prob>
+				<loglikelihood>16.333</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐγκλίνω</form>
+	<date>Tue Jul 26 22:48:03 EDT 2011</date>
+	<count>34</count>
+	<per10K>0.072</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>gave way</sense>
+				<count>11</count>
+				<prob>0.324</prob>
+				<loglikelihood>15.124</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

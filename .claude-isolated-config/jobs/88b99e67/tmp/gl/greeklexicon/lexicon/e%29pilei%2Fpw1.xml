@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιλείπω</form>
+	<date>Tue Jul 26 23:31:26 EDT 2011</date>
+	<count>113</count>
+	<per10K>0.239</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>114</count>
+		<senses>
+			<senseContainer>
+				<sense>fail</sense>
+				<count>27</count>
+				<prob>0.237</prob>
+				<loglikelihood>3.990</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>given out</sense>
+				<count>3</count>
+				<prob>0.026</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

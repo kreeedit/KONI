@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κῆπος</form>
+	<date>Tue Jul 26 23:13:20 EDT 2011</date>
+	<count>75</count>
+	<per10K>0.158</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>74</count>
+		<senses>
+			<senseContainer>
+				<sense>garden</sense>
+				<count>65</count>
+				<prob>0.878</prob>
+				<loglikelihood>222.364</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

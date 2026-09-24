@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐγείρω</form>
+	<date>Wed Jul 27 00:22:43 EDT 2011</date>
+	<count>318</count>
+	<per10K>0.671</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>270</count>
+		<senses>
+			<senseContainer>
+				<sense>raise</sense>
+				<count>35</count>
+				<prob>0.130</prob>
+				<loglikelihood>10.637</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.543</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>awake</sense>
+				<count>28</count>
+				<prob>0.104</prob>
+				<loglikelihood>44.788</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rouse</sense>
+				<count>22</count>
+				<prob>0.081</prob>
+				<loglikelihood>11.868</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.682</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>raised up</sense>
+				<count>11</count>
+				<prob>0.041</prob>
+				<loglikelihood>21.995</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>arouse</sense>
+				<count>10</count>
+				<prob>0.037</prob>
+				<loglikelihood>4.647</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

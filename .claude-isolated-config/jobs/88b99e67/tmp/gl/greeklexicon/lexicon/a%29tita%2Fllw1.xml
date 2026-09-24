@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀτιτάλλω</form>
+	<date>Tue Jul 26 22:35:00 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>lovingly nursed</sense>
+				<count>3</count>
+				<prob>0.188</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

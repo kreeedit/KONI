@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περιπλέω</form>
+	<date>Tue Jul 26 23:29:44 EDT 2011</date>
+	<count>109</count>
+	<per10K>0.23</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>sailed round</sense>
+				<count>10</count>
+				<prob>0.149</prob>
+				<loglikelihood>23.528</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sail round</sense>
+				<count>7</count>
+				<prob>0.104</prob>
+				<loglikelihood>21.777</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sail around</sense>
+				<count>7</count>
+				<prob>0.104</prob>
+				<loglikelihood>27.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sailed around</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

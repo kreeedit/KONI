@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βοή</form>
+	<date>Wed Jul 27 00:06:47 EDT 2011</date>
+	<count>233</count>
+	<per10K>0.492</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>231</count>
+		<senses>
+			<senseContainer>
+				<sense>cry</sense>
+				<count>58</count>
+				<prob>0.251</prob>
+				<loglikelihood>38.207</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>war - cry</sense>
+				<count>28</count>
+				<prob>0.121</prob>
+				<loglikelihood>84.746</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.964</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>noise</sense>
+				<count>14</count>
+				<prob>0.061</prob>
+				<loglikelihood>5.845</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἄσβεστος</original>
+				<trans>cry unquenchable</trans>
+				<loglikelihood>7.54</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

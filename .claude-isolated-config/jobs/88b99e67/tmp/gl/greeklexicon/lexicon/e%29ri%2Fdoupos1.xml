@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐρίδουπος</form>
+	<date>Tue Jul 26 22:32:13 EDT 2011</date>
+	<count>14</count>
+	<per10K>0.03</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>echoing portico</sense>
+				<count>5</count>
+				<prob>0.500</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>αἴθω</original>
+				<trans>null</trans>
+				<loglikelihood>2.88</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

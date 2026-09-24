@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θρίαμβος</form>
+	<date>Tue Jul 26 22:51:48 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>triumph</sense>
+				<count>30</count>
+				<prob>0.517</prob>
+				<loglikelihood>30.767</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.633</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

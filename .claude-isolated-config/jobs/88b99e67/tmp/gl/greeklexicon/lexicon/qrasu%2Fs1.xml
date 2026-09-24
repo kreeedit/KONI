@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θρασύς</form>
+	<date>Wed Jul 27 00:03:26 EDT 2011</date>
+	<count>209</count>
+	<per10K>0.441</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>220</count>
+		<senses>
+			<senseContainer>
+				<sense>bold</sense>
+				<count>69</count>
+				<prob>0.314</prob>
+				<loglikelihood>61.810</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rash</sense>
+				<count>11</count>
+				<prob>0.050</prob>
+				<loglikelihood>6.626</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>47</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

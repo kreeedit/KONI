@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κατακόπτω</form>
+	<date>Tue Jul 26 23:03:58 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>70</count>
+		<senses>
+			<senseContainer>
+				<sense>cut up</sense>
+				<count>3</count>
+				<prob>0.043</prob>
+				<loglikelihood>4.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

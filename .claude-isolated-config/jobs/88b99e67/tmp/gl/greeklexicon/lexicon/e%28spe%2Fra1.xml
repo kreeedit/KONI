@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑσπέρα</form>
+	<date>Wed Jul 27 00:06:06 EDT 2011</date>
+	<count>227</count>
+	<per10K>0.479</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>277</count>
+		<senses>
+			<senseContainer>
+				<sense>west</sense>
+				<count>70</count>
+				<prob>0.253</prob>
+				<loglikelihood>89.062</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.371</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>one evening</sense>
+				<count>6</count>
+				<prob>0.022</prob>
+				<loglikelihood>23.997</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

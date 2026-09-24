@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πομπή</form>
+	<date>Tue Jul 26 23:42:16 EDT 2011</date>
+	<count>140</count>
+	<per10K>0.295</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>149</count>
+		<senses>
+			<senseContainer>
+				<sense>procession</sense>
+				<count>54</count>
+				<prob>0.362</prob>
+				<loglikelihood>115.474</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>escort</sense>
+				<count>11</count>
+				<prob>0.074</prob>
+				<loglikelihood>4.479</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

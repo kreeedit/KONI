@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιφανής</form>
+	<date>Wed Jul 27 00:08:39 EDT 2011</date>
+	<count>246</count>
+	<per10K>0.519</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>253</count>
+		<senses>
+			<senseContainer>
+				<sense>most famous</sense>
+				<count>14</count>
+				<prob>0.055</prob>
+				<loglikelihood>20.626</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>most illustrious</sense>
+				<count>11</count>
+				<prob>0.043</prob>
+				<loglikelihood>24.195</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>38</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

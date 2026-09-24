@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρτι</form>
+	<date>Wed Jul 27 00:39:25 EDT 2011</date>
+	<count>423</count>
+	<per10K>0.893</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>575</count>
+		<senses>
+			<senseContainer>
+				<sense>just now</sense>
+				<count>103</count>
+				<prob>0.179</prob>
+				<loglikelihood>137.688</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.786</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>just</sense>
+				<count>76</count>
+				<prob>0.132</prob>
+				<loglikelihood>10.060</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.513</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>have just</sense>
+				<count>15</count>
+				<prob>0.026</prob>
+				<loglikelihood>34.601</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>moment ago</sense>
+				<count>13</count>
+				<prob>0.023</prob>
+				<loglikelihood>27.028</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.846</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>had just</sense>
+				<count>13</count>
+				<prob>0.023</prob>
+				<loglikelihood>37.543</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>has just</sense>
+				<count>12</count>
+				<prob>0.021</prob>
+				<loglikelihood>28.788</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

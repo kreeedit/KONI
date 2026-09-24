@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰκέω</form>
+	<date>Wed Jul 27 02:20:59 EDT 2011</date>
+	<count>1409</count>
+	<per10K>2.974</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>999</count>
+		<senses>
+			<senseContainer>
+				<sense>live</sense>
+				<count>198</count>
+				<prob>0.198</prob>
+				<loglikelihood>108.903</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dwell</sense>
+				<count>135</count>
+				<prob>0.135</prob>
+				<loglikelihood>140.521</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>inhabit</sense>
+				<count>90</count>
+				<prob>0.090</prob>
+				<loglikelihood>108.946</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

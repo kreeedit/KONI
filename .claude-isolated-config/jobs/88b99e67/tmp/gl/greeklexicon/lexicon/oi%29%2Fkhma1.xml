@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἴκημα</form>
+	<date>Tue Jul 26 23:45:10 EDT 2011</date>
+	<count>149</count>
+	<per10K>0.314</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>182</count>
+		<senses>
+			<senseContainer>
+				<sense>chamber</sense>
+				<count>27</count>
+				<prob>0.148</prob>
+				<loglikelihood>17.349</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>room</sense>
+				<count>23</count>
+				<prob>0.126</prob>
+				<loglikelihood>12.368</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

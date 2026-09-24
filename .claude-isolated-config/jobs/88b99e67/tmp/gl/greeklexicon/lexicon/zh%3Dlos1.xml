@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζῆλος</form>
+	<date>Tue Jul 26 23:13:46 EDT 2011</date>
+	<count>76</count>
+	<per10K>0.16</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>108</count>
+		<senses>
+			<senseContainer>
+				<sense>jealousy</sense>
+				<count>15</count>
+				<prob>0.139</prob>
+				<loglikelihood>8.179</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>emulation</sense>
+				<count>12</count>
+				<prob>0.111</prob>
+				<loglikelihood>15.156</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλείω</form>
+	<date>Tue Jul 26 23:02:11 EDT 2011</date>
+	<count>55</count>
+	<per10K>0.116</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>43</count>
+		<senses>
+			<senseContainer>
+				<sense>shut</sense>
+				<count>15</count>
+				<prob>0.349</prob>
+				<loglikelihood>6.080</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>close up</sense>
+				<count>3</count>
+				<prob>0.070</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐραστής</form>
+	<date>Tue Jul 26 23:47:00 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>29</count>
+		<senses>
+			<senseContainer>
+				<sense>lover</sense>
+				<count>21</count>
+				<prob>0.724</prob>
+				<loglikelihood>5.203</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

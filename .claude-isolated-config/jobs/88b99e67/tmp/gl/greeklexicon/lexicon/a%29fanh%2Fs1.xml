@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφανής</form>
+	<date>Tue Jul 26 23:49:06 EDT 2011</date>
+	<count>160</count>
+	<per10K>0.338</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>151</count>
+		<senses>
+			<senseContainer>
+				<sense>invisible</sense>
+				<count>11</count>
+				<prob>0.073</prob>
+				<loglikelihood>9.129</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unseen</sense>
+				<count>10</count>
+				<prob>0.066</prob>
+				<loglikelihood>8.886</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>disappear</sense>
+				<count>9</count>
+				<prob>0.060</prob>
+				<loglikelihood>4.498</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>34</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

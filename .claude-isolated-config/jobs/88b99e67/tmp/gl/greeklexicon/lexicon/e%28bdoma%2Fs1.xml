@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑβδομάς</form>
+	<date>Tue Jul 26 22:38:06 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>24</count>
+		<senses>
+			<senseContainer>
+				<sense>seventh day</sense>
+				<count>5</count>
+				<prob>0.208</prob>
+				<loglikelihood>7.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

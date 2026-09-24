@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κόρις</form>
+	<date>Tue Jul 26 22:45:26 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>bug</sense>
+				<count>3</count>
+				<prob>0.200</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kore</sense>
+				<count>3</count>
+				<prob>0.200</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

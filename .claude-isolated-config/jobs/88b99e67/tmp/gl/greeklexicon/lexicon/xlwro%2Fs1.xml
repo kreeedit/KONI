@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χλωρός</form>
+	<date>Tue Jul 26 23:06:03 EDT 2011</date>
+	<count>61</count>
+	<per10K>0.129</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>pale</sense>
+				<count>15</count>
+				<prob>0.273</prob>
+				<loglikelihood>24.999</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.733</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>green</sense>
+				<count>13</count>
+				<prob>0.236</prob>
+				<loglikelihood>17.788</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

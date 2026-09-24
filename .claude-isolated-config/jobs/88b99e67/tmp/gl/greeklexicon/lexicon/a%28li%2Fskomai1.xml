@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁλίσκομαι</form>
+	<date>Wed Jul 27 01:28:56 EDT 2011</date>
+	<count>787</count>
+	<per10K>1.661</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>556</count>
+		<senses>
+			<senseContainer>
+				<sense>capture</sense>
+				<count>40</count>
+				<prob>0.072</prob>
+				<loglikelihood>10.123</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>convict</sense>
+				<count>20</count>
+				<prob>0.036</prob>
+				<loglikelihood>5.800</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>be convicted</sense>
+				<count>19</count>
+				<prob>0.034</prob>
+				<loglikelihood>75.982</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.474</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>was captured</sense>
+				<count>18</count>
+				<prob>0.032</prob>
+				<loglikelihood>61.698</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>be taken</sense>
+				<count>17</count>
+				<prob>0.031</prob>
+				<loglikelihood>57.784</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>was taken</sense>
+				<count>15</count>
+				<prob>0.027</prob>
+				<loglikelihood>32.129</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>be caught</sense>
+				<count>13</count>
+				<prob>0.023</prob>
+				<loglikelihood>48.274</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>were captured</sense>
+				<count>12</count>
+				<prob>0.022</prob>
+				<loglikelihood>41.132</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

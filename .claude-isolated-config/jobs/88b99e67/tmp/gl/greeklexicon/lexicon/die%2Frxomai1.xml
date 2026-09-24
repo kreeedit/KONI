@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διέρχομαι</form>
+	<date>Wed Jul 27 00:50:27 EDT 2011</date>
+	<count>491</count>
+	<per10K>1.036</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>520</count>
+		<senses>
+			<senseContainer>
+				<sense>describe</sense>
+				<count>41</count>
+				<prob>0.079</prob>
+				<loglikelihood>13.829</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.707</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>discuss</sense>
+				<count>26</count>
+				<prob>0.050</prob>
+				<loglikelihood>8.872</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.538</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>recount</sense>
+				<count>15</count>
+				<prob>0.029</prob>
+				<loglikelihood>14.741</loglikelihood>
+				<authorContainer>
+					<author><name>Isocrates</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>have described</sense>
+				<count>11</count>
+				<prob>0.021</prob>
+				<loglikelihood>16.124</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

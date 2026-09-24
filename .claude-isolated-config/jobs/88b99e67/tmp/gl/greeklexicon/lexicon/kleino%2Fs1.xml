@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλεινός</form>
+	<date>Tue Jul 26 23:28:15 EDT 2011</date>
+	<count>105</count>
+	<per10K>0.222</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>famous</sense>
+				<count>18</count>
+				<prob>0.327</prob>
+				<loglikelihood>6.027</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>renowned</sense>
+				<count>12</count>
+				<prob>0.218</prob>
+				<loglikelihood>12.254</loglikelihood>
+				<authorContainer>
+					<author><name>Pindar</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

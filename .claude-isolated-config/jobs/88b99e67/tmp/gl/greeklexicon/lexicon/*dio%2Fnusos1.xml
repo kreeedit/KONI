@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Διόνυσος</form>
+	<date>Wed Jul 27 00:29:42 EDT 2011</date>
+	<count>358</count>
+	<per10K>0.756</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>167</count>
+		<senses>
+			<senseContainer>
+				<sense>dionysus</sense>
+				<count>143</count>
+				<prob>0.856</prob>
+				<loglikelihood>237.756</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

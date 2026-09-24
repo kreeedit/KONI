@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ναύκληρος</form>
+	<date>Tue Jul 26 23:07:57 EDT 2011</date>
+	<count>65</count>
+	<per10K>0.137</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>75</count>
+		<senses>
+			<senseContainer>
+				<sense>shipowner</sense>
+				<count>29</count>
+				<prob>0.387</prob>
+				<loglikelihood>115.997</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.828</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shipmaster</sense>
+				<count>4</count>
+				<prob>0.053</prob>
+				<loglikelihood>10.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>ship - owners</sense>
+				<count>3</count>
+				<prob>0.040</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πτολίεθρον</form>
+	<date>Tue Jul 26 23:02:45 EDT 2011</date>
+	<count>56</count>
+	<per10K>0.118</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>58</count>
+		<senses>
+			<senseContainer>
+				<sense>citadel</sense>
+				<count>21</count>
+				<prob>0.362</prob>
+				<loglikelihood>6.081</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἐυκτίμενος</original>
+				<trans>well-built citadel</trans>
+				<loglikelihood>22.26</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄρεξις</form>
+	<date>Tue Jul 26 23:48:27 EDT 2011</date>
+	<count>158</count>
+	<per10K>0.333</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>103</count>
+		<senses>
+			<senseContainer>
+				<sense>desire</sense>
+				<count>85</count>
+				<prob>0.825</prob>
+				<loglikelihood>12.216</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.835</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>appetition</sense>
+				<count>24</count>
+				<prob>0.233</prob>
+				<loglikelihood>85.330</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

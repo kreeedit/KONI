@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑκάτερος</form>
+	<date>Wed Jul 27 02:03:54 EDT 2011</date>
+	<count>1190</count>
+	<per10K>2.512</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1577</count>
+		<senses>
+			<senseContainer>
+				<sense>each</sense>
+				<count>468</count>
+				<prob>0.297</prob>
+				<loglikelihood>308.295</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.359</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>both</sense>
+				<count>103</count>
+				<prob>0.065</prob>
+				<loglikelihood>9.915</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>either</sense>
+				<count>82</count>
+				<prob>0.052</prob>
+				<loglikelihood>11.758</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

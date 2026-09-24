@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πορνεία</form>
+	<date>Tue Jul 26 22:39:45 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>29</count>
+		<senses>
+			<senseContainer>
+				<sense>sexual immorality</sense>
+				<count>10</count>
+				<prob>0.345</prob>
+				<loglikelihood>33.333</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

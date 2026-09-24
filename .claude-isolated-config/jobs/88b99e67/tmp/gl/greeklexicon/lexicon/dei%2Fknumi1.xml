@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δείκνυμι</form>
+	<date>Wed Jul 27 02:07:23 EDT 2011</date>
+	<count>1255</count>
+	<per10K>2.649</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>1045</count>
+		<senses>
+			<senseContainer>
+				<sense>show</sense>
+				<count>320</count>
+				<prob>0.306</prob>
+				<loglikelihood>276.279</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>prove</sense>
+				<count>96</count>
+				<prob>0.092</prob>
+				<loglikelihood>30.533</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shown</sense>
+				<count>64</count>
+				<prob>0.061</prob>
+				<loglikelihood>42.557</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reveal</sense>
+				<count>21</count>
+				<prob>0.020</prob>
+				<loglikelihood>7.838</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

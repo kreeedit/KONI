@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κρατερός</form>
+	<date>Wed Jul 27 00:07:03 EDT 2011</date>
+	<count>235</count>
+	<per10K>0.496</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>203</count>
+		<senses>
+			<senseContainer>
+				<sense>mighty</sense>
+				<count>47</count>
+				<prob>0.232</prob>
+				<loglikelihood>16.502</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.894</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>strong</sense>
+				<count>38</count>
+				<prob>0.187</prob>
+				<loglikelihood>5.679</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.579</relativeFreq></author>
+					<author><name>Hesiod</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fierce</sense>
+				<count>14</count>
+				<prob>0.069</prob>
+				<loglikelihood>5.760</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stalwart</sense>
+				<count>12</count>
+				<prob>0.059</prob>
+				<loglikelihood>23.036</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ὑσμίνη</original>
+				<trans>fierce conflict</trans>
+				<loglikelihood>47.43</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Διομήδης</original>
+				<trans>mighty diomedes</trans>
+				<loglikelihood>15.99</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>14</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

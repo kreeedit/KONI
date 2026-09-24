@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μένος</form>
+	<date>Wed Jul 27 00:12:19 EDT 2011</date>
+	<count>267</count>
+	<per10K>0.564</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>253</count>
+		<senses>
+			<senseContainer>
+				<sense>might</sense>
+				<count>52</count>
+				<prob>0.206</prob>
+				<loglikelihood>4.638</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.923</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>strength</sense>
+				<count>42</count>
+				<prob>0.166</prob>
+				<loglikelihood>10.224</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fury</sense>
+				<count>29</count>
+				<prob>0.115</prob>
+				<loglikelihood>21.013</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.793</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐμπνέω</original>
+				<trans>breathed might into</trans>
+				<loglikelihood>6.09</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πνέω</original>
+				<trans>fierce fury</trans>
+				<loglikelihood>2.47</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Ἀλκίνοος</original>
+				<trans>strong and mighty alcinous</trans>
+				<loglikelihood>5.62</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

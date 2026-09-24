@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λέγω</form>
+	<date>Wed Jul 27 07:37:13 EDT 2011</date>
+	<count>14268</count>
+	<per10K>30.114</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>9898</count>
+		<senses>
+			<senseContainer>
+				<sense>say</sense>
+				<count>2383</count>
+				<prob>0.241</prob>
+				<loglikelihood>2817.944</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>speak</sense>
+				<count>1110</count>
+				<prob>0.112</prob>
+				<loglikelihood>1525.068</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tell</sense>
+				<count>692</count>
+				<prob>0.070</prob>
+				<loglikelihood>500.366</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mean</sense>
+				<count>563</count>
+				<prob>0.057</prob>
+				<loglikelihood>625.462</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.661</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>call</sense>
+				<count>350</count>
+				<prob>0.035</prob>
+				<loglikelihood>84.831</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>περί</original>
+				<trans>say about</trans>
+				<loglikelihood>24.39</loglikelihood>
+				<count>411</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρός</original>
+				<trans>said to</trans>
+				<loglikelihood>9.65</loglikelihood>
+				<count>303</count>
+			</collocation>
+			<collocation>
+				<original>ἐν</original>
+				<trans>said in</trans>
+				<loglikelihood>3.09</loglikelihood>
+				<count>179</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ὅσπερ</original>
+				<trans>as i said</trans>
+				<loglikelihood>3.67</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σύ</original>
+				<trans>you say</trans>
+				<loglikelihood>3.23</loglikelihood>
+				<count>223</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀληθής</original>
+				<trans>speak the truth</trans>
+				<loglikelihood>3.17</loglikelihood>
+				<count>52</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>τοιόσδε</original>
+				<trans>spoke as follows</trans>
+				<loglikelihood>12.04</loglikelihood>
+				<count>65</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>tell me</trans>
+				<loglikelihood>2.84</loglikelihood>
+				<count>261</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅς</original>
+				<trans>what you say</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>237</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀληθής</original>
+				<trans>speak the truth</trans>
+				<loglikelihood>2.64</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

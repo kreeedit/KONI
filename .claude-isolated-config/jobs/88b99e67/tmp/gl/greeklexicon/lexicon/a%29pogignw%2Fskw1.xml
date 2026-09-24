@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπογιγνώσκω</form>
+	<date>Tue Jul 26 23:46:31 EDT 2011</date>
+	<count>154</count>
+	<per10K>0.325</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>85</count>
+		<senses>
+			<senseContainer>
+				<sense>despair</sense>
+				<count>27</count>
+				<prob>0.318</prob>
+				<loglikelihood>16.197</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.444</relativeFreq></author>
+					<author><name>Appian</name><relativeFreq>0.407</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

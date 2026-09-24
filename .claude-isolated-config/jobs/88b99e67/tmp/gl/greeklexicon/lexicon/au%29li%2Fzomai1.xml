@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αὐλίζομαι</form>
+	<date>Tue Jul 26 23:02:13 EDT 2011</date>
+	<count>55</count>
+	<per10K>0.116</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>bivouac</sense>
+				<count>6</count>
+				<prob>0.091</prob>
+				<loglikelihood>6.857</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>they bivouacked where</sense>
+				<count>3</count>
+				<prob>0.045</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

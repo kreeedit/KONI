@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀθλητής</form>
+	<date>Tue Jul 26 23:39:47 EDT 2011</date>
+	<count>136</count>
+	<per10K>0.287</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>athlete</sense>
+				<count>56</count>
+				<prob>0.727</prob>
+				<loglikelihood>118.335</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wrestler</sense>
+				<count>7</count>
+				<prob>0.091</prob>
+				<loglikelihood>3.999</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>athletes who</sense>
+				<count>5</count>
+				<prob>0.065</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μαντικός</form>
+	<date>Tue Jul 26 23:24:44 EDT 2011</date>
+	<count>98</count>
+	<per10K>0.207</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>divination</sense>
+				<count>23</count>
+				<prob>0.354</prob>
+				<loglikelihood>26.121</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>seer art</sense>
+				<count>4</count>
+				<prob>0.062</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>5</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

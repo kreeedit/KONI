@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φυλέτης</form>
+	<date>Tue Jul 26 22:53:42 EDT 2011</date>
+	<count>41</count>
+	<per10K>0.087</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>46</count>
+		<senses>
+			<senseContainer>
+				<sense>tribesman</sense>
+				<count>5</count>
+				<prob>0.109</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>same tribe</sense>
+				<count>4</count>
+				<prob>0.087</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fellow - tribesmen</sense>
+				<count>3</count>
+				<prob>0.065</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

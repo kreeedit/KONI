@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βασανίζω</form>
+	<date>Tue Jul 26 23:58:27 EDT 2011</date>
+	<count>189</count>
+	<per10K>0.399</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>torture</sense>
+				<count>58</count>
+				<prob>0.417</prob>
+				<loglikelihood>66.935</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>test</sense>
+				<count>16</count>
+				<prob>0.115</prob>
+				<loglikelihood>4.076</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.688</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>under torture</sense>
+				<count>5</count>
+				<prob>0.036</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

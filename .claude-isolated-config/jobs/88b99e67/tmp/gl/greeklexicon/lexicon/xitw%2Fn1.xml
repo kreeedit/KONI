@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χιτών</form>
+	<date>Tue Jul 26 23:58:19 EDT 2011</date>
+	<count>187</count>
+	<per10K>0.395</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>174</count>
+		<senses>
+			<senseContainer>
+				<sense>tunic</sense>
+				<count>122</count>
+				<prob>0.701</prob>
+				<loglikelihood>381.618</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.549</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shirt</sense>
+				<count>27</count>
+				<prob>0.155</prob>
+				<loglikelihood>59.503</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>coat</sense>
+				<count>12</count>
+				<prob>0.069</prob>
+				<loglikelihood>16.938</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἐνδύω</original>
+				<trans>on his tunic</trans>
+				<loglikelihood>2.81</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

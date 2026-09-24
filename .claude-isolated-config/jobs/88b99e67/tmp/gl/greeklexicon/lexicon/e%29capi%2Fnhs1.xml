@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξαπίνης</form>
+	<date>Tue Jul 26 22:58:22 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>sudden</sense>
+				<count>33</count>
+				<prob>0.647</prob>
+				<loglikelihood>12.551</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

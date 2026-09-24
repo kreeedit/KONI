@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐννοέω</form>
+	<date>Wed Jul 27 00:15:54 EDT 2011</date>
+	<count>285</count>
+	<per10K>0.602</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>244</count>
+		<senses>
+			<senseContainer>
+				<sense>reflect</sense>
+				<count>15</count>
+				<prob>0.061</prob>
+				<loglikelihood>4.563</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.533</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

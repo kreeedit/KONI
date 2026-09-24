@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τροφή</form>
+	<date>Wed Jul 27 00:47:50 EDT 2011</date>
+	<count>477</count>
+	<per10K>1.007</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>169</count>
+		<senses>
+			<senseContainer>
+				<sense>food</sense>
+				<count>54</count>
+				<prob>0.320</prob>
+				<loglikelihood>19.330</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>nurture</sense>
+				<count>14</count>
+				<prob>0.083</prob>
+				<loglikelihood>6.074</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

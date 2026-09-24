@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τίκτω</form>
+	<date>Wed Jul 27 01:20:09 EDT 2011</date>
+	<count>710</count>
+	<per10K>1.499</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>624</count>
+		<senses>
+			<senseContainer>
+				<sense>beget</sense>
+				<count>47</count>
+				<prob>0.075</prob>
+				<loglikelihood>54.834</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.766</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bear</sense>
+				<count>40</count>
+				<prob>0.064</prob>
+				<loglikelihood>8.527</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.325</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>birth</sense>
+				<count>21</count>
+				<prob>0.034</prob>
+				<loglikelihood>5.004</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>gave birth</sense>
+				<count>21</count>
+				<prob>0.034</prob>
+				<loglikelihood>65.312</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>she bore</sense>
+				<count>18</count>
+				<prob>0.029</prob>
+				<loglikelihood>46.267</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bare</sense>
+				<count>16</count>
+				<prob>0.026</prob>
+				<loglikelihood>5.835</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

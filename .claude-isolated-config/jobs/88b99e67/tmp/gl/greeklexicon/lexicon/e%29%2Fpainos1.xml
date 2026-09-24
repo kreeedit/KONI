@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔπαινος</form>
+	<date>Wed Jul 27 00:16:37 EDT 2011</date>
+	<count>288</count>
+	<per10K>0.608</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>333</count>
+		<senses>
+			<senseContainer>
+				<sense>praise</sense>
+				<count>181</count>
+				<prob>0.544</prob>
+				<loglikelihood>142.520</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commendation</sense>
+				<count>20</count>
+				<prob>0.060</prob>
+				<loglikelihood>35.545</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

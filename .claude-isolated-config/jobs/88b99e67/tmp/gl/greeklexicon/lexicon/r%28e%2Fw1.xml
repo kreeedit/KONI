@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ῥέω</form>
+	<date>Wed Jul 27 00:56:43 EDT 2011</date>
+	<count>523</count>
+	<per10K>1.104</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>345</count>
+		<senses>
+			<senseContainer>
+				<sense>flow</sense>
+				<count>192</count>
+				<prob>0.557</prob>
+				<loglikelihood>326.873</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.359</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>flux</sense>
+				<count>10</count>
+				<prob>0.029</prob>
+				<loglikelihood>22.216</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>which flows</sense>
+				<count>9</count>
+				<prob>0.026</prob>
+				<loglikelihood>7.195</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

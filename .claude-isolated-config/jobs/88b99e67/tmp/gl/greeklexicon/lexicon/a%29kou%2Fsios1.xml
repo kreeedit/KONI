@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκούσιος</form>
+	<date>Tue Jul 26 23:44:50 EDT 2011</date>
+	<count>148</count>
+	<per10K>0.312</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>involuntary</sense>
+				<count>88</count>
+				<prob>0.677</prob>
+				<loglikelihood>176.993</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.420</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>involuntary action</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>9</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

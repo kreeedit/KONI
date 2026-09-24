@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίπεδος</form>
+	<date>Tue Jul 26 23:20:38 EDT 2011</date>
+	<count>90</count>
+	<per10K>0.19</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>147</count>
+		<senses>
+			<senseContainer>
+				<sense>plane</sense>
+				<count>43</count>
+				<prob>0.293</prob>
+				<loglikelihood>123.258</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.698</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.302</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

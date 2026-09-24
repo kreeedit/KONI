@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἅλς</form>
+	<date>Wed Jul 27 00:15:14 EDT 2011</date>
+	<count>282</count>
+	<per10K>0.595</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>335</count>
+		<senses>
+			<senseContainer>
+				<sense>sea</sense>
+				<count>126</count>
+				<prob>0.376</prob>
+				<loglikelihood>21.338</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.738</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>salt</sense>
+				<count>67</count>
+				<prob>0.200</prob>
+				<loglikelihood>143.614</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὑπείρ</original>
+				<trans>null</trans>
+				<loglikelihood>32.00</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀτρύγετος</original>
+				<trans>unresting sea the</trans>
+				<loglikelihood>14.28</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῖος</original>
+				<trans>bright sea</trans>
+				<loglikelihood>11.99</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολιός</original>
+				<trans>grey sea</trans>
+				<loglikelihood>6.85</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

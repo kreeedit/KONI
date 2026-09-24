@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίθημα</form>
+	<date>Tue Jul 26 22:40:16 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>surmount</sense>
+				<count>4</count>
+				<prob>0.174</prob>
+				<loglikelihood>8.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

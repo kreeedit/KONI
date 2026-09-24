@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παροξύνω</form>
+	<date>Tue Jul 26 23:55:47 EDT 2011</date>
+	<count>179</count>
+	<per10K>0.378</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>139</count>
+		<senses>
+			<senseContainer>
+				<sense>provoke</sense>
+				<count>18</count>
+				<prob>0.129</prob>
+				<loglikelihood>14.238</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>irritate</sense>
+				<count>16</count>
+				<prob>0.115</prob>
+				<loglikelihood>19.317</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>exasperate</sense>
+				<count>7</count>
+				<prob>0.050</prob>
+				<loglikelihood>5.156</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>spurred on</sense>
+				<count>5</count>
+				<prob>0.036</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>greatly provoked</sense>
+				<count>3</count>
+				<prob>0.022</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

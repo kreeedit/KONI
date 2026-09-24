@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φοῖνιξ</form>
+	<date>Tue Jul 26 23:08:11 EDT 2011</date>
+	<count>65</count>
+	<per10K>0.137</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>88</count>
+		<senses>
+			<senseContainer>
+				<sense>palm</sense>
+				<count>22</count>
+				<prob>0.250</prob>
+				<loglikelihood>45.020</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>palm trees</sense>
+				<count>6</count>
+				<prob>0.068</prob>
+				<loglikelihood>23.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>palm tree</sense>
+				<count>5</count>
+				<prob>0.057</prob>
+				<loglikelihood>14.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>palm - tree</sense>
+				<count>5</count>
+				<prob>0.057</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>palm -</sense>
+				<count>5</count>
+				<prob>0.057</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>scarlet</sense>
+				<count>5</count>
+				<prob>0.057</prob>
+				<loglikelihood>5.555</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

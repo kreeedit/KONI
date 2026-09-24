@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δή</form>
+	<date>Wed Jul 27 05:09:55 EDT 2011</date>
+	<count>4806</count>
+	<per10K>10.144</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>13814</count>
+		<senses>
+			<senseContainer>
+				<sense>then</sense>
+				<count>1020</count>
+				<prob>0.074</prob>
+				<loglikelihood>287.538</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.489</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>now</sense>
+				<count>751</count>
+				<prob>0.054</prob>
+				<loglikelihood>170.888</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.340</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>so</sense>
+				<count>462</count>
+				<prob>0.033</prob>
+				<loglikelihood>71.625</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.405</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

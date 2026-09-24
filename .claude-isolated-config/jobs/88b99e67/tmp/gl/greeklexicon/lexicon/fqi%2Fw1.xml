@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φθίω</form>
+	<date>Tue Jul 26 23:34:36 EDT 2011</date>
+	<count>121</count>
+	<per10K>0.255</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>wane</sense>
+				<count>5</count>
+				<prob>0.076</prob>
+				<loglikelihood>4.545</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

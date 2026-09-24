@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐλπίζω</form>
+	<date>Wed Jul 27 00:55:11 EDT 2011</date>
+	<count>513</count>
+	<per10K>1.083</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>359</count>
+		<senses>
+			<senseContainer>
+				<sense>hope</sense>
+				<count>136</count>
+				<prob>0.379</prob>
+				<loglikelihood>62.898</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>expect</sense>
+				<count>31</count>
+				<prob>0.086</prob>
+				<loglikelihood>8.778</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

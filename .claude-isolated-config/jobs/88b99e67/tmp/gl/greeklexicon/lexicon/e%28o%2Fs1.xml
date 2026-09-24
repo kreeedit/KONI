@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑός</form>
+	<date>Tue Jul 26 23:39:06 EDT 2011</date>
+	<count>134</count>
+	<per10K>0.283</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2241</count>
+		<senses>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>τρόπος</original>
+				<trans>null</trans>
+				<loglikelihood>3.11</loglikelihood>
+				<count>49</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

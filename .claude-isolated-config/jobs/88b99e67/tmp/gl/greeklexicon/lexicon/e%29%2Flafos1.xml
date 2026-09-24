@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔλαφος</form>
+	<date>Tue Jul 26 23:29:30 EDT 2011</date>
+	<count>108</count>
+	<per10K>0.228</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>122</count>
+		<senses>
+			<senseContainer>
+				<sense>deer</sense>
+				<count>59</count>
+				<prob>0.484</prob>
+				<loglikelihood>214.206</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.407</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stag</sense>
+				<count>15</count>
+				<prob>0.123</prob>
+				<loglikelihood>39.128</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hind</sense>
+				<count>12</count>
+				<prob>0.098</prob>
+				<loglikelihood>23.038</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

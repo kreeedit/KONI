@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμπνέω</form>
+	<date>Tue Jul 26 22:54:27 EDT 2011</date>
+	<count>42</count>
+	<per10K>0.089</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>breathe</sense>
+				<count>7</count>
+				<prob>0.280</prob>
+				<loglikelihood>4.170</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>breathed into</sense>
+				<count>4</count>
+				<prob>0.160</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

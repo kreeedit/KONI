@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φοβέω</form>
+	<date>Wed Jul 27 01:51:05 EDT 2011</date>
+	<count>1046</count>
+	<per10K>2.208</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>687</count>
+		<senses>
+			<senseContainer>
+				<sense>fear</sense>
+				<count>275</count>
+				<prob>0.400</prob>
+				<loglikelihood>130.981</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>afraid</sense>
+				<count>156</count>
+				<prob>0.227</prob>
+				<loglikelihood>150.527</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>alarm</sense>
+				<count>24</count>
+				<prob>0.035</prob>
+				<loglikelihood>11.668</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>am afraid</sense>
+				<count>14</count>
+				<prob>0.020</prob>
+				<loglikelihood>15.664</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

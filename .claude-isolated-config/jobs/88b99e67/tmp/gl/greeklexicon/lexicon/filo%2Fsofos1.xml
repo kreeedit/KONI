@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φιλόσοφος</form>
+	<date>Wed Jul 27 00:49:23 EDT 2011</date>
+	<count>484</count>
+	<per10K>1.022</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>374</count>
+		<senses>
+			<senseContainer>
+				<sense>philosopher</sense>
+				<count>372</count>
+				<prob>0.995</prob>
+				<loglikelihood>1153.082</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.616</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>philosophic</sense>
+				<count>18</count>
+				<prob>0.048</prob>
+				<loglikelihood>39.262</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.722</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>philosophical</sense>
+				<count>8</count>
+				<prob>0.021</prob>
+				<loglikelihood>12.795</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

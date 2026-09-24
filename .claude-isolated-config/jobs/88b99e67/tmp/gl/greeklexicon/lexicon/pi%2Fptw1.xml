@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πίπτω</form>
+	<date>Wed Jul 27 01:45:15 EDT 2011</date>
+	<count>975</count>
+	<per10K>2.058</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>720</count>
+		<senses>
+			<senseContainer>
+				<sense>fall</sense>
+				<count>170</count>
+				<prob>0.236</prob>
+				<loglikelihood>146.147</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>χαμαί</original>
+				<trans>fell to the ground</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τελευτάω</form>
+	<date>Wed Jul 27 02:29:09 EDT 2011</date>
+	<count>1525</count>
+	<per10K>3.219</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>727</count>
+		<senses>
+			<senseContainer>
+				<sense>die</sense>
+				<count>231</count>
+				<prob>0.318</prob>
+				<loglikelihood>118.407</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>end</sense>
+				<count>149</count>
+				<prob>0.205</prob>
+				<loglikelihood>64.140</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>death</sense>
+				<count>60</count>
+				<prob>0.083</prob>
+				<loglikelihood>4.637</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead</sense>
+				<count>49</count>
+				<prob>0.067</prob>
+				<loglikelihood>6.453</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ἄπαις</original>
+				<trans>died without issue</trans>
+				<loglikelihood>7.51</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θέρος</original>
+				<trans>summer ended</trans>
+				<loglikelihood>2.51</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>βίος</original>
+				<trans>ended his life</trans>
+				<loglikelihood>5.82</loglikelihood>
+				<count>56</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

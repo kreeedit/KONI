@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τότε</form>
+	<date>Wed Jul 27 04:21:32 EDT 2011</date>
+	<count>3630</count>
+	<per10K>7.662</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4831</count>
+		<senses>
+			<senseContainer>
+				<sense>then</sense>
+				<count>1384</count>
+				<prob>0.286</prob>
+				<loglikelihood>561.197</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>time</sense>
+				<count>443</count>
+				<prob>0.092</prob>
+				<loglikelihood>172.813</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>at time</sense>
+				<count>247</count>
+				<prob>0.051</prob>
+				<loglikelihood>933.042</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>now</sense>
+				<count>179</count>
+				<prob>0.037</prob>
+				<loglikelihood>9.269</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>at</sense>
+				<count>164</count>
+				<prob>0.034</prob>
+				<loglikelihood>9.930</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

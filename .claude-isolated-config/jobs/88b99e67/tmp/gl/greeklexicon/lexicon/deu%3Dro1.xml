@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δεῦρο</form>
+	<date>Wed Jul 27 01:09:20 EDT 2011</date>
+	<count>620</count>
+	<per10K>1.309</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>720</count>
+		<senses>
+			<senseContainer>
+				<sense>here</sense>
+				<count>211</count>
+				<prob>0.293</prob>
+				<loglikelihood>64.610</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hither</sense>
+				<count>90</count>
+				<prob>0.125</prob>
+				<loglikelihood>176.947</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>come here</sense>
+				<count>20</count>
+				<prob>0.028</prob>
+				<loglikelihood>25.373</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>come hither</sense>
+				<count>20</count>
+				<prob>0.028</prob>
+				<loglikelihood>51.589</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.550</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

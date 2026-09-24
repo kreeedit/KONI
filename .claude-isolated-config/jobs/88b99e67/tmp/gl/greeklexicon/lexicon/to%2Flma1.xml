@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τόλμα</form>
+	<date>Wed Jul 27 00:10:26 EDT 2011</date>
+	<count>255</count>
+	<per10K>0.538</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>221</count>
+		<senses>
+			<senseContainer>
+				<sense>boldness</sense>
+				<count>26</count>
+				<prob>0.118</prob>
+				<loglikelihood>23.102</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>audacity</sense>
+				<count>23</count>
+				<prob>0.104</prob>
+				<loglikelihood>22.503</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παλέω</form>
+	<date>Tue Jul 26 22:54:21 EDT 2011</date>
+	<count>42</count>
+	<per10K>0.089</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>wrestle</sense>
+				<count>27</count>
+				<prob>0.794</prob>
+				<loglikelihood>20.109</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

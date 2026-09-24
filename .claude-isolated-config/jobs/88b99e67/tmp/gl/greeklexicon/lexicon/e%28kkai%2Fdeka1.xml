@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑκκαίδεκα</form>
+	<date>Tue Jul 26 23:08:09 EDT 2011</date>
+	<count>65</count>
+	<per10K>0.137</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>80</count>
+		<senses>
+			<senseContainer>
+				<sense>sixteen</sense>
+				<count>47</count>
+				<prob>0.588</prob>
+				<loglikelihood>122.718</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for sixteen</sense>
+				<count>5</count>
+				<prob>0.062</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

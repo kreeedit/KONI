@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζυγός</form>
+	<date>Tue Jul 26 23:26:13 EDT 2011</date>
+	<count>101</count>
+	<per10K>0.213</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>81</count>
+		<senses>
+			<senseContainer>
+				<sense>yoke</sense>
+				<count>68</count>
+				<prob>0.840</prob>
+				<loglikelihood>98.378</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>balance</sense>
+				<count>12</count>
+				<prob>0.148</prob>
+				<loglikelihood>9.761</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

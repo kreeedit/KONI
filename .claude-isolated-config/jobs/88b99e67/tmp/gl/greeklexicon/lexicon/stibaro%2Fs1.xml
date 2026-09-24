@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στιβαρός</form>
+	<date>Tue Jul 26 23:05:13 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>65</count>
+		<senses>
+			<senseContainer>
+				<sense>sturdy</sense>
+				<count>6</count>
+				<prob>0.092</prob>
+				<loglikelihood>5.142</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

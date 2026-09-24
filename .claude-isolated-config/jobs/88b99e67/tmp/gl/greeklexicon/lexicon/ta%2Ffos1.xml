@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τάφος</form>
+	<date>Wed Jul 27 00:38:27 EDT 2011</date>
+	<count>416</count>
+	<per10K>0.878</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>446</count>
+		<senses>
+			<senseContainer>
+				<sense>grave</sense>
+				<count>176</count>
+				<prob>0.395</prob>
+				<loglikelihood>389.529</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tomb</sense>
+				<count>154</count>
+				<prob>0.345</prob>
+				<loglikelihood>162.621</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>burial</sense>
+				<count>30</count>
+				<prob>0.067</prob>
+				<loglikelihood>23.662</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>funeral</sense>
+				<count>18</count>
+				<prob>0.040</prob>
+				<loglikelihood>9.805</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

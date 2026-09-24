@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναβάλλω</form>
+	<date>Tue Jul 26 23:24:37 EDT 2011</date>
+	<count>98</count>
+	<per10K>0.207</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>101</count>
+		<senses>
+			<senseContainer>
+				<sense>postpone</sense>
+				<count>23</count>
+				<prob>0.228</prob>
+				<loglikelihood>37.782</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>put off</sense>
+				<count>14</count>
+				<prob>0.139</prob>
+				<loglikelihood>27.032</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>defer</sense>
+				<count>7</count>
+				<prob>0.069</prob>
+				<loglikelihood>7.839</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

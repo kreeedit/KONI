@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περί</form>
+	<date>Wed Jul 27 07:31:55 EDT 2011</date>
+	<count>13584</count>
+	<per10K>28.671</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>21374</count>
+		<senses>
+			<senseContainer>
+				<sense>about</sense>
+				<count>3288</count>
+				<prob>0.154</prob>
+				<loglikelihood>7982.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>of</sense>
+				<count>960</count>
+				<prob>0.045</prob>
+				<loglikelihood>108.886</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in</sense>
+				<count>829</count>
+				<prob>0.039</prob>
+				<loglikelihood>67.508</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for</sense>
+				<count>633</count>
+				<prob>0.030</prob>
+				<loglikelihood>36.725</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>regard</sense>
+				<count>581</count>
+				<prob>0.027</prob>
+				<loglikelihood>874.227</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>on</sense>
+				<count>466</count>
+				<prob>0.022</prob>
+				<loglikelihood>77.842</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>βουλεύω</original>
+				<trans>deliberate about</trans>
+				<loglikelihood>185.82</loglikelihood>
+				<count>273</count>
+			</collocation>
+			<collocation>
+				<original>διαλέγω</original>
+				<trans>talk about</trans>
+				<loglikelihood>79.68</loglikelihood>
+				<count>125</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>said about</trans>
+				<loglikelihood>72.59</loglikelihood>
+				<count>280</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>say about</trans>
+				<loglikelihood>53.91</loglikelihood>
+				<count>491</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>do about</trans>
+				<loglikelihood>53.18</loglikelihood>
+				<count>550</count>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>took place about</trans>
+				<loglikelihood>34.81</loglikelihood>
+				<count>545</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σπουδάζω</original>
+				<trans>concerned about</trans>
+				<loglikelihood>34.30</loglikelihood>
+				<count>79</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διατρίβω</original>
+				<trans>dwell on</trans>
+				<loglikelihood>27.60</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>about</trans>
+				<loglikelihood>24.21</loglikelihood>
+				<count>184</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>have about</trans>
+				<loglikelihood>22.72</loglikelihood>
+				<count>457</count>
+			</collocation>
+			<collocation>
+				<original>μυθεύω</original>
+				<trans>myth about</trans>
+				<loglikelihood>19.61</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀμφισβητέω</original>
+				<trans>disputes about</trans>
+				<loglikelihood>17.47</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμβαίνω</original>
+				<trans>happened about</trans>
+				<loglikelihood>17.43</loglikelihood>
+				<count>126</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δείδω</original>
+				<trans>fear for</trans>
+				<loglikelihood>15.54</loglikelihood>
+				<count>76</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καταστρατοπεδεύω</original>
+				<trans>encamp measure</trans>
+				<loglikelihood>15.14</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πραγματεύομαι</original>
+				<trans>with concern</trans>
+				<loglikelihood>13.88</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κινδυνεύω</original>
+				<trans>danger of</trans>
+				<loglikelihood>13.57</loglikelihood>
+				<count>59</count>
+			</collocation>
+			<collocation>
+				<original>εἶπον</original>
+				<trans>speak about</trans>
+				<loglikelihood>13.11</loglikelihood>
+				<count>206</count>
+			</collocation>
+			<collocation>
+				<original>ἐνίστημι</original>
+				<trans>present in</trans>
+				<loglikelihood>13.09</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διανοέομαι</original>
+				<trans>thought about</trans>
+				<loglikelihood>12.98</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>concerning what had been done</trans>
+				<loglikelihood>12.88</loglikelihood>
+				<count>160</count>
+			</collocation>
+			<collocation>
+				<original>ἀπολογέομαι</original>
+				<trans>defence for</trans>
+				<loglikelihood>12.57</loglikelihood>
+				<count>35</count>
+			</collocation>
+			<collocation>
+				<original>γράφω</original>
+				<trans>written about</trans>
+				<loglikelihood>12.56</loglikelihood>
+				<count>107</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μέλλω</original>
+				<trans>for the future</trans>
+				<loglikelihood>12.20</loglikelihood>
+				<count>118</count>
+			</collocation>
+			<collocation>
+				<original>ἀγωνίζομαι</original>
+				<trans>fighting for</trans>
+				<loglikelihood>11.37</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>ἀσεβέω</original>
+				<trans>impiety towards</trans>
+				<loglikelihood>10.26</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στρατοπεδεύω</original>
+				<trans>encamped near</trans>
+				<loglikelihood>10.25</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Polybius</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποφαίνω</original>
+				<trans>opinion about</trans>
+				<loglikelihood>10.07</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρεσβεύω</original>
+				<trans>sent an embassy to rome to treat</trans>
+				<loglikelihood>10.01</loglikelihood>
+				<count>33</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἴρω</original>
+				<trans>i have already speak</trans>
+				<loglikelihood>9.82</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιστέλλω</original>
+				<trans>wrote about</trans>
+				<loglikelihood>9.57</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπαίω</original>
+				<trans>know about</trans>
+				<loglikelihood>8.73</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρίζω</original>
+				<trans>contend about</trans>
+				<loglikelihood>8.21</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γιγνώσκω</original>
+				<trans>opinion about</trans>
+				<loglikelihood>7.53</loglikelihood>
+				<count>88</count>
+			</collocation>
+			<collocation>
+				<original>ἑλίσσω</original>
+				<trans>eddy about</trans>
+				<loglikelihood>7.11</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>διαφέρω</original>
+				<trans>disagree about</trans>
+				<loglikelihood>7.00</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀντιλέγω</original>
+				<trans>argue about</trans>
+				<loglikelihood>6.97</loglikelihood>
+				<count>23</count>
+			</collocation>
+			<collocation>
+				<original>ἕννυμι</original>
+				<trans>clothed about</trans>
+				<loglikelihood>6.68</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βλασφημέω</original>
+				<trans>who about</trans>
+				<loglikelihood>6.61</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξαμαρτάνω</original>
+				<trans>wrong in</trans>
+				<loglikelihood>6.50</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱστορέω</original>
+				<trans>report on</trans>
+				<loglikelihood>6.35</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαμάχομαι</original>
+				<trans>fight for</trans>
+				<loglikelihood>6.23</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>κεῖμαι</original>
+				<trans>laid down in</trans>
+				<loglikelihood>6.18</loglikelihood>
+				<count>61</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δηλόω</original>
+				<trans>show about</trans>
+				<loglikelihood>6.17</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διασαφέω</original>
+				<trans>of on</trans>
+				<loglikelihood>6.11</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σκοπέω</original>
+				<trans>consider about</trans>
+				<loglikelihood>6.10</loglikelihood>
+				<count>49</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πυνθάνομαι</original>
+				<trans>inquire about</trans>
+				<loglikelihood>6.10</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαπορέω</original>
+				<trans>raising questions about</trans>
+				<loglikelihood>6.09</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>συμβουλεύω</original>
+				<trans>counsel about</trans>
+				<loglikelihood>5.99</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μιμνήσκω</original>
+				<trans>mention about</trans>
+				<loglikelihood>5.99</loglikelihood>
+				<count>46</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μαρτυρέω</original>
+				<trans>testify about</trans>
+				<loglikelihood>5.85</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συγγράφω</original>
+				<trans>write about</trans>
+				<loglikelihood>5.75</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμμίγνυμι</original>
+				<trans>with regard</trans>
+				<loglikelihood>5.43</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>same about</trans>
+				<loglikelihood>5.23</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>διέχω</original>
+				<trans>distant from about</trans>
+				<loglikelihood>5.03</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προερέω</original>
+				<trans>what about</trans>
+				<loglikelihood>4.88</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>οἶδα</original>
+				<trans>know about</trans>
+				<loglikelihood>4.83</loglikelihood>
+				<count>117</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἴρω</original>
+				<trans>null</trans>
+				<loglikelihood>4.72</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>διέξειμι</original>
+				<trans>discourse relate</trans>
+				<loglikelihood>4.57</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διέρχομαι</original>
+				<trans>discuss about</trans>
+				<loglikelihood>4.44</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Isocrates</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρίνω</original>
+				<trans>judge about</trans>
+				<loglikelihood>4.42</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μάχομαι</original>
+				<trans>fight for</trans>
+				<loglikelihood>4.41</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπαγγέλλω</original>
+				<trans>told him about</trans>
+				<loglikelihood>4.39</loglikelihood>
+				<count>26</count>
+			</collocation>
+			<collocation>
+				<original>ἀκούω</original>
+				<trans>hear about</trans>
+				<loglikelihood>4.37</loglikelihood>
+				<count>91</count>
+			</collocation>
+			<collocation>
+				<original>ἀγωνιάω</original>
+				<trans>null</trans>
+				<loglikelihood>4.14</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent about</trans>
+				<loglikelihood>3.86</loglikelihood>
+				<count>66</count>
+			</collocation>
+			<collocation>
+				<original>φιλονεικέω</original>
+				<trans>rivalry contend</trans>
+				<loglikelihood>3.85</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>χρηματίζω</original>
+				<trans>with upon</trans>
+				<loglikelihood>3.82</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to about</trans>
+				<loglikelihood>3.77</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαψεύδω</original>
+				<trans>variable in</trans>
+				<loglikelihood>3.72</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>εὐχαριστέω</original>
+				<trans>thankful envoy</trans>
+				<loglikelihood>3.59</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>set about</trans>
+				<loglikelihood>3.57</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δοκέω</original>
+				<trans>opinion about</trans>
+				<loglikelihood>3.56</loglikelihood>
+				<count>140</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἰδίω</original>
+				<trans>own business of</trans>
+				<loglikelihood>3.56</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νομοθετέω</original>
+				<trans>legislate about</trans>
+				<loglikelihood>3.40</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>χράω</original>
+				<trans>use about</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δικάζω</original>
+				<trans>decide in</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξαποστέλλω</original>
+				<trans>send in</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαγιγνώσκω</original>
+				<trans>decision on</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιτρέπω</original>
+				<trans>refer matter</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>what affair</trans>
+				<loglikelihood>3.24</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>dwelt about</trans>
+				<loglikelihood>3.17</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνακρίνω</original>
+				<trans>inquire about points</trans>
+				<loglikelihood>3.13</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>μέλω</original>
+				<trans>care about</trans>
+				<loglikelihood>3.11</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προθέω</original>
+				<trans>proposed about</trans>
+				<loglikelihood>3.01</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>συνίστημι</original>
+				<trans>stand about</trans>
+				<loglikelihood>3.01</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διδάσκω</original>
+				<trans>instruct about</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>36</count>
+			</collocation>
+			<collocation>
+				<original>πρόκειμαι</original>
+				<trans>appoint about</trans>
+				<loglikelihood>2.90</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>τυγχάνω</original>
+				<trans>it about</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>65</count>
+			</collocation>
+			<collocation>
+				<original>σκέπτομαι</original>
+				<trans>consider about</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξηγέομαι</original>
+				<trans>expound account</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>ἐρωτάω</original>
+				<trans>asked about</trans>
+				<loglikelihood>2.81</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νεωτερίζω</original>
+				<trans>innovation measures in</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>πλανάω</original>
+				<trans>bewildered about</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πάρειμι</original>
+				<trans>present in</trans>
+				<loglikelihood>2.65</loglikelihood>
+				<count>62</count>
+			</collocation>
+			<collocation>
+				<original>πιστεύω</original>
+				<trans>believe matter</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>35</count>
+			</collocation>
+			<collocation>
+				<original>λαλέω</original>
+				<trans>speak about</trans>
+				<loglikelihood>2.54</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μάρναμαι</original>
+				<trans>fight for</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θεωρέω</original>
+				<trans>see study</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>καθίστημι</original>
+				<trans>appointed about</trans>
+				<loglikelihood>2.39</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἥκω</original>
+				<trans>came about</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τε</original>
+				<trans>and about</trans>
+				<loglikelihood>2.30</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πταίω</original>
+				<trans>stumble about</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἐξετάζω</original>
+				<trans>inquiry into about</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>15</count>
+			</collocation>
+			<collocation>
+				<original>ζητέω</original>
+				<trans>inquiry about</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποδέχομαι</original>
+				<trans>receive about</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φαίνω</original>
+				<trans>show about</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>66</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μηνύω</original>
+				<trans>information matter</trans>
+				<loglikelihood>2.08</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ἐμπίπτω</original>
+				<trans>occur about</trans>
+				<loglikelihood>2.07</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγκαλέω</original>
+				<trans>accused regard</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δοξάζω</original>
+				<trans>opinion about</trans>
+				<loglikelihood>2.02</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Emphatic particles</type>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>said about</trans>
+				<loglikelihood>2.93</loglikelihood>
+				<count>70</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

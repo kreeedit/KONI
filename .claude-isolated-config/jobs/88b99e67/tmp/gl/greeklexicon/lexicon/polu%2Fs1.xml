@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολύς</form>
+	<date>Wed Jul 27 07:40:01 EDT 2011</date>
+	<count>14356</count>
+	<per10K>30.3</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>17854</count>
+		<senses>
+			<senseContainer>
+				<sense>many</sense>
+				<count>4965</count>
+				<prob>0.278</prob>
+				<loglikelihood>17432.281</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>much</sense>
+				<count>1183</count>
+				<prob>0.066</prob>
+				<loglikelihood>2915.010</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>great</sense>
+				<count>1076</count>
+				<prob>0.060</prob>
+				<loglikelihood>616.154</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>far</sense>
+				<count>780</count>
+				<prob>0.044</prob>
+				<loglikelihood>1677.703</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>long</sense>
+				<count>548</count>
+				<prob>0.031</prob>
+				<loglikelihood>640.592</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>most</sense>
+				<count>409</count>
+				<prob>0.023</prob>
+				<loglikelihood>211.985</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>χρόνος</original>
+				<trans>long time</trans>
+				<loglikelihood>194.57</loglikelihood>
+				<count>479</count>
+			</collocation>
+			<collocation>
+				<original>χρῆμα</original>
+				<trans>much money</trans>
+				<loglikelihood>35.19</loglikelihood>
+				<count>182</count>
+			</collocation>
+			<collocation>
+				<original>μυριάς</original>
+				<trans>many ten thousands</trans>
+				<loglikelihood>18.36</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄχλος</original>
+				<trans>a great multitude</trans>
+				<loglikelihood>17.78</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὀρυμαγδός</original>
+				<trans>null</trans>
+				<loglikelihood>16.78</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὕστερος</original>
+				<trans>long afterward</trans>
+				<loglikelihood>13.20</loglikelihood>
+				<count>88</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πόνος</original>
+				<trans>many troubles</trans>
+				<loglikelihood>9.60</loglikelihood>
+				<count>50</count>
+			</collocation>
+			<collocation>
+				<original>ἀπορία</original>
+				<trans>great distress</trans>
+				<loglikelihood>8.60</loglikelihood>
+				<count>39</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔτος</original>
+				<trans>many years</trans>
+				<loglikelihood>6.37</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σπουδή</original>
+				<trans>great haste</trans>
+				<loglikelihood>5.92</loglikelihood>
+				<count>24</count>
+			</collocation>
+			<collocation>
+				<original>φόνος</original>
+				<trans>a great slaughter</trans>
+				<loglikelihood>5.75</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κακός</original>
+				<trans>many evils</trans>
+				<loglikelihood>5.70</loglikelihood>
+				<count>117</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀφθονία</original>
+				<trans>a great plenty</trans>
+				<loglikelihood>5.26</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ταλαιπωρία</original>
+				<trans>long these</trans>
+				<loglikelihood>5.04</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἄλγος</original>
+				<trans>many griefs</trans>
+				<loglikelihood>4.95</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅμιλος</original>
+				<trans>great multitude</trans>
+				<loglikelihood>4.73</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἡμέρα</original>
+				<trans>many days</trans>
+				<loglikelihood>4.11</loglikelihood>
+				<count>43</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιμέλεια</original>
+				<trans>great care</trans>
+				<loglikelihood>3.78</loglikelihood>
+				<count>23</count>
+			</collocation>
+			<collocation>
+				<original>ἐλπίς</original>
+				<trans>great hopes</trans>
+				<loglikelihood>3.59</loglikelihood>
+				<count>40</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ῥᾳστώνη</original>
+				<trans>great ease</trans>
+				<loglikelihood>3.32</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>στρατός</original>
+				<trans>large army</trans>
+				<loglikelihood>3.12</loglikelihood>
+				<count>41</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρόνοια</original>
+				<trans>great forethought</trans>
+				<loglikelihood>3.09</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>συγγνώμη</original>
+				<trans>much indulgence</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>ὄλβος</original>
+				<trans>great prosperity</trans>
+				<loglikelihood>2.98</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>θόρυβος</original>
+				<trans>great tumult</trans>
+				<loglikelihood>2.97</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνάγκη</original>
+				<trans>quite inevitable</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>51</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀσέλγεια</original>
+				<trans>many imitate</trans>
+				<loglikelihood>2.90</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἄξιος</original>
+				<trans>great value</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄνθρωπος</original>
+				<trans>many men</trans>
+				<loglikelihood>2.83</loglikelihood>
+				<count>95</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄνοια</original>
+				<trans>great folly</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>βίοτος</original>
+				<trans>much livelihood</trans>
+				<loglikelihood>2.71</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χάρις</original>
+				<trans>most grateful</trans>
+				<loglikelihood>2.57</loglikelihood>
+				<count>43</count>
+			</collocation>
+			<collocation>
+				<original>λόγος</original>
+				<trans>many words</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>115</count>
+			</collocation>
+			<collocation>
+				<original>δῶρον</original>
+				<trans>many presents</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χώρα</original>
+				<trans>a large country</trans>
+				<loglikelihood>2.37</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἡσυχία</original>
+				<trans>aggression quiet</trans>
+				<loglikelihood>2.31</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐτός</original>
+				<trans>many of them</trans>
+				<loglikelihood>2.30</loglikelihood>
+				<count>59</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>many us</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>10</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

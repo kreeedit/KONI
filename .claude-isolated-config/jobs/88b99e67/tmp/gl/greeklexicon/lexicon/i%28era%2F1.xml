@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱερά</form>
+	<date>Wed Jul 27 00:19:55 EDT 2011</date>
+	<count>305</count>
+	<per10K>0.644</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>177</count>
+		<senses>
+			<senseContainer>
+				<sense>sanctuary</sense>
+				<count>44</count>
+				<prob>0.249</prob>
+				<loglikelihood>10.411</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.886</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shrine</sense>
+				<count>23</count>
+				<prob>0.130</prob>
+				<loglikelihood>11.494</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>favourable</sense>
+				<count>9</count>
+				<prob>0.051</prob>
+				<loglikelihood>6.610</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sacred rites</sense>
+				<count>4</count>
+				<prob>0.023</prob>
+				<loglikelihood>5.332</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

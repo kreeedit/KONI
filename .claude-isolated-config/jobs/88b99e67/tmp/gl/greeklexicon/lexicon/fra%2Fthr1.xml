@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φράτηρ</form>
+	<date>Tue Jul 26 23:14:32 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>86</count>
+		<senses>
+			<senseContainer>
+				<sense>ward</sense>
+				<count>27</count>
+				<prob>0.314</prob>
+				<loglikelihood>44.858</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>clansman</sense>
+				<count>25</count>
+				<prob>0.291</prob>
+				<loglikelihood>86.204</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.960</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>clan</sense>
+				<count>8</count>
+				<prob>0.093</prob>
+				<loglikelihood>6.563</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wardsmen</sense>
+				<count>6</count>
+				<prob>0.070</prob>
+				<loglikelihood>20.571</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μετάνοια</form>
+	<date>Tue Jul 26 23:05:21 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>75</count>
+		<senses>
+			<senseContainer>
+				<sense>repentance</sense>
+				<count>21</count>
+				<prob>0.280</prob>
+				<loglikelihood>35.998</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.524</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>repent</sense>
+				<count>12</count>
+				<prob>0.160</prob>
+				<loglikelihood>4.396</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>repentance for</sense>
+				<count>4</count>
+				<prob>0.053</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for repentance</sense>
+				<count>3</count>
+				<prob>0.040</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

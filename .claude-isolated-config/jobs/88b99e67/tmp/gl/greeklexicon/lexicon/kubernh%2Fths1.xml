@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κυβερνήτης</form>
+	<date>Tue Jul 26 23:50:25 EDT 2011</date>
+	<count>163</count>
+	<per10K>0.344</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>173</count>
+		<senses>
+			<senseContainer>
+				<sense>pilot</sense>
+				<count>80</count>
+				<prob>0.462</prob>
+				<loglikelihood>211.552</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.338</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>helmsman</sense>
+				<count>21</count>
+				<prob>0.121</prob>
+				<loglikelihood>60.822</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>steersman</sense>
+				<count>13</count>
+				<prob>0.075</prob>
+				<loglikelihood>35.575</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

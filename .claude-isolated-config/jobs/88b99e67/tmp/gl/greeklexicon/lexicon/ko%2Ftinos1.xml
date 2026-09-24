@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κότινος</form>
+	<date>Tue Jul 26 22:38:22 EDT 2011</date>
+	<count>21</count>
+	<per10K>0.044</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>wild olive</sense>
+				<count>14</count>
+				<prob>0.412</prob>
+				<loglikelihood>52.266</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.786</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wild - olive</sense>
+				<count>3</count>
+				<prob>0.088</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

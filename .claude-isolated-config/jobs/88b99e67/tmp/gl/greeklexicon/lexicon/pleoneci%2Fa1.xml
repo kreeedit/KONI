@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλεονεξία</form>
+	<date>Tue Jul 26 23:45:57 EDT 2011</date>
+	<count>152</count>
+	<per10K>0.321</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>214</count>
+		<senses>
+			<senseContainer>
+				<sense>greed</sense>
+				<count>21</count>
+				<prob>0.098</prob>
+				<loglikelihood>32.659</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>covetousness</sense>
+				<count>9</count>
+				<prob>0.042</prob>
+				<loglikelihood>10.448</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rapacity</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>14.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>aggrandizement</sense>
+				<count>5</count>
+				<prob>0.023</prob>
+				<loglikelihood>6.248</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

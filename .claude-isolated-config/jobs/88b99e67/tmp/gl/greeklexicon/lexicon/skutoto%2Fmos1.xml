@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκυτοτόμος</form>
+	<date>Tue Jul 26 22:59:41 EDT 2011</date>
+	<count>51</count>
+	<per10K>0.108</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>54</count>
+		<senses>
+			<senseContainer>
+				<sense>shoemaker</sense>
+				<count>26</count>
+				<prob>0.481</prob>
+				<loglikelihood>51.998</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.423</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cobbler</sense>
+				<count>21</count>
+				<prob>0.389</prob>
+				<loglikelihood>58.798</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.810</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

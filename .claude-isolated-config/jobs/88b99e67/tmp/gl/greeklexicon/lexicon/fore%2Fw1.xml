@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φορέω</form>
+	<date>Tue Jul 26 23:50:14 EDT 2011</date>
+	<count>162</count>
+	<per10K>0.342</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>208</count>
+		<senses>
+			<senseContainer>
+				<sense>wear</sense>
+				<count>55</count>
+				<prob>0.264</prob>
+				<loglikelihood>57.059</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

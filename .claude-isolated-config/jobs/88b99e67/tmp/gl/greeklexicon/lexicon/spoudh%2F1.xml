@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σπουδή</form>
+	<date>Wed Jul 27 00:28:16 EDT 2011</date>
+	<count>352</count>
+	<per10K>0.743</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>348</count>
+		<senses>
+			<senseContainer>
+				<sense>haste</sense>
+				<count>27</count>
+				<prob>0.078</prob>
+				<loglikelihood>12.774</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>zeal</sense>
+				<count>14</count>
+				<prob>0.040</prob>
+				<loglikelihood>5.116</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hasty</sense>
+				<count>10</count>
+				<prob>0.029</prob>
+				<loglikelihood>3.878</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

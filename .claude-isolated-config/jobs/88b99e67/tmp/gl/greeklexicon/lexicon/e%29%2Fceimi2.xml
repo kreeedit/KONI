@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔξειμι</form>
+	<date>Wed Jul 27 00:23:14 EDT 2011</date>
+	<count>320</count>
+	<per10K>0.675</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>263</count>
+		<senses>
+			<senseContainer>
+				<sense>went out</sense>
+				<count>17</count>
+				<prob>0.065</prob>
+				<loglikelihood>7.857</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.706</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>go out</sense>
+				<count>13</count>
+				<prob>0.049</prob>
+				<loglikelihood>6.892</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>came out</sense>
+				<count>10</count>
+				<prob>0.038</prob>
+				<loglikelihood>4.593</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>go forth</sense>
+				<count>7</count>
+				<prob>0.027</prob>
+				<loglikelihood>5.936</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

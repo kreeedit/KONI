@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἶδος</form>
+	<date>Wed Jul 27 01:42:47 EDT 2011</date>
+	<count>956</count>
+	<per10K>2.018</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>1272</count>
+		<senses>
+			<senseContainer>
+				<sense>form</sense>
+				<count>250</count>
+				<prob>0.197</prob>
+				<loglikelihood>283.607</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.560</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.336</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>kind</sense>
+				<count>177</count>
+				<prob>0.139</prob>
+				<loglikelihood>104.164</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.605</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.339</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>class</sense>
+				<count>78</count>
+				<prob>0.061</prob>
+				<loglikelihood>53.560</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.872</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>species</sense>
+				<count>63</count>
+				<prob>0.050</prob>
+				<loglikelihood>151.068</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.794</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>idea</sense>
+				<count>61</count>
+				<prob>0.048</prob>
+				<loglikelihood>45.250</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.836</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

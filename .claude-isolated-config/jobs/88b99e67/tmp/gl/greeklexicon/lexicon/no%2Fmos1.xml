@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νόμος</form>
+	<date>Wed Jul 27 05:01:15 EDT 2011</date>
+	<count>4674</count>
+	<per10K>9.865</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>5430</count>
+		<senses>
+			<senseContainer>
+				<sense>law</sense>
+				<count>3899</count>
+				<prob>0.718</prob>
+				<loglikelihood>14020.692</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>statute</sense>
+				<count>133</count>
+				<prob>0.024</prob>
+				<loglikelihood>435.562</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.962</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>custom</sense>
+				<count>126</count>
+				<prob>0.023</prob>
+				<loglikelihood>109.882</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.317</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>τίθημι</original>
+				<trans>passed a law</trans>
+				<loglikelihood>52.30</loglikelihood>
+				<count>211</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀναγιγνώσκω</original>
+				<trans>read the law</trans>
+				<loglikelihood>29.82</loglikelihood>
+				<count>71</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παραβαίνω</original>
+				<trans>transgressed the law</trans>
+				<loglikelihood>9.35</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἰσφέρω</original>
+				<trans>introduced his law</trans>
+				<loglikelihood>8.16</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χράομαι</original>
+				<trans>such laws</trans>
+				<loglikelihood>5.42</loglikelihood>
+				<count>45</count>
+			</collocation>
+			<collocation>
+				<original>γράφω</original>
+				<trans>written law</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>Plutarch</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χράω</original>
+				<trans>use the most ancient laws</trans>
+				<loglikelihood>3.46</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>κελεύω</original>
+				<trans>laws command</trans>
+				<loglikelihood>5.64</loglikelihood>
+				<count>70</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπαγορεύω</original>
+				<trans>laws forbid</trans>
+				<loglikelihood>2.98</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πάτριος</original>
+				<trans>laws of their country</trans>
+				<loglikelihood>23.94</loglikelihood>
+				<count>56</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὑμέτερος</original>
+				<trans>your laws</trans>
+				<loglikelihood>4.47</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

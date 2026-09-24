@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀριστεύς</form>
+	<date>Tue Jul 26 23:10:06 EDT 2011</date>
+	<count>69</count>
+	<per10K>0.146</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>76</count>
+		<senses>
+			<senseContainer>
+				<sense>chieftain</sense>
+				<count>15</count>
+				<prob>0.197</prob>
+				<loglikelihood>16.070</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Παναχαιοί</original>
+				<trans>princes of the hosts of achaea</trans>
+				<loglikelihood>21.33</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

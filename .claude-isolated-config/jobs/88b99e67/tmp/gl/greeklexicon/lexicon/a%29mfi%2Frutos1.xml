@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀμφίρυτος</form>
+	<date>Tue Jul 26 22:29:26 EDT 2011</date>
+	<count>11</count>
+	<per10K>0.023</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>11</count>
+		<senses>
+			<senseContainer>
+				<sense>sea - girt</sense>
+				<count>4</count>
+				<prob>0.364</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

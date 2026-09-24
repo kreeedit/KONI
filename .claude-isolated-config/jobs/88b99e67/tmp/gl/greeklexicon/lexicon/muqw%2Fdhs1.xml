@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μυθώδης</form>
+	<date>Tue Jul 26 22:43:18 EDT 2011</date>
+	<count>28</count>
+	<per10K>0.059</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>23</count>
+		<senses>
+			<senseContainer>
+				<sense>mythical</sense>
+				<count>4</count>
+				<prob>0.174</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fabulous</sense>
+				<count>4</count>
+				<prob>0.174</prob>
+				<loglikelihood>6.400</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

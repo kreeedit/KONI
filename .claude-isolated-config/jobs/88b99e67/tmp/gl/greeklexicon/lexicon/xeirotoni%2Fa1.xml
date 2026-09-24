@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χειροτονία</form>
+	<date>Tue Jul 26 23:14:38 EDT 2011</date>
+	<count>78</count>
+	<per10K>0.165</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>election</sense>
+				<count>27</count>
+				<prob>0.290</prob>
+				<loglikelihood>30.058</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.963</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>comitia</sense>
+				<count>11</count>
+				<prob>0.118</prob>
+				<loglikelihood>23.046</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

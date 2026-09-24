@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δοκέω</form>
+	<date>Wed Jul 27 06:39:04 EDT 2011</date>
+	<count>8812</count>
+	<per10K>18.599</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>7712</count>
+		<senses>
+			<senseContainer>
+				<sense>seem</sense>
+				<count>1302</count>
+				<prob>0.169</prob>
+				<loglikelihood>2472.870</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>think</sense>
+				<count>1219</count>
+				<prob>0.158</prob>
+				<loglikelihood>1446.175</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.409</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>opinion</sense>
+				<count>338</count>
+				<prob>0.044</prob>
+				<loglikelihood>288.269</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.388</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>appear</sense>
+				<count>284</count>
+				<prob>0.037</prob>
+				<loglikelihood>203.594</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>it</sense>
+				<count>204</count>
+				<prob>0.026</prob>
+				<loglikelihood>18.138</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>believe</sense>
+				<count>156</count>
+				<prob>0.020</prob>
+				<loglikelihood>65.323</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>i think</trans>
+				<loglikelihood>343.77</loglikelihood>
+				<count>1968</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σύ</original>
+				<trans>you think</trans>
+				<loglikelihood>36.40</loglikelihood>
+				<count>581</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>think you</trans>
+				<loglikelihood>5.00</loglikelihood>
+				<count>153</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>think</trans>
+				<loglikelihood>3.01</loglikelihood>
+				<count>65</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βουλεύω</original>
+				<trans>resolved plan</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>συμφέρω</original>
+				<trans>thought best</trans>
+				<loglikelihood>2.36</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>seemed to have</trans>
+				<loglikelihood>2.07</loglikelihood>
+				<count>144</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

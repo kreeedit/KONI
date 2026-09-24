@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπηρέτης</form>
+	<date>Tue Jul 26 23:50:39 EDT 2011</date>
+	<count>164</count>
+	<per10K>0.346</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>202</count>
+		<senses>
+			<senseContainer>
+				<sense>servant</sense>
+				<count>46</count>
+				<prob>0.228</prob>
+				<loglikelihood>11.992</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>officer</sense>
+				<count>20</count>
+				<prob>0.099</prob>
+				<loglikelihood>5.172</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>attendant</sense>
+				<count>16</count>
+				<prob>0.079</prob>
+				<loglikelihood>9.057</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>minister</sense>
+				<count>13</count>
+				<prob>0.064</prob>
+				<loglikelihood>8.662</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>aides</sense>
+				<count>9</count>
+				<prob>0.045</prob>
+				<loglikelihood>29.452</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>assistant</sense>
+				<count>8</count>
+				<prob>0.040</prob>
+				<loglikelihood>6.916</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποδημέω</form>
+	<date>Tue Jul 26 23:43:29 EDT 2011</date>
+	<count>143</count>
+	<per10K>0.302</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>abroad</sense>
+				<count>14</count>
+				<prob>0.147</prob>
+				<loglikelihood>7.257</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>go abroad</sense>
+				<count>7</count>
+				<prob>0.074</prob>
+				<loglikelihood>21.777</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>went abroad</sense>
+				<count>4</count>
+				<prob>0.042</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>travel abroad</sense>
+				<count>3</count>
+				<prob>0.032</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>gone abroad</sense>
+				<count>3</count>
+				<prob>0.032</prob>
+				<loglikelihood>5.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

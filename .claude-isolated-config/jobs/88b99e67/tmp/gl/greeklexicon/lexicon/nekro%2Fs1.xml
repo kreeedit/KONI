@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νεκρός</form>
+	<date>Wed Jul 27 01:24:46 EDT 2011</date>
+	<count>745</count>
+	<per10K>1.572</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>470</count>
+		<senses>
+			<senseContainer>
+				<sense>dead</sense>
+				<count>178</count>
+				<prob>0.379</prob>
+				<loglikelihood>85.808</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>corpse</sense>
+				<count>89</count>
+				<prob>0.189</prob>
+				<loglikelihood>114.319</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead bodies</sense>
+				<count>30</count>
+				<prob>0.064</prob>
+				<loglikelihood>63.135</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.733</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead body</sense>
+				<count>27</count>
+				<prob>0.057</prob>
+				<loglikelihood>67.793</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.593</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead man</sense>
+				<count>11</count>
+				<prob>0.023</prob>
+				<loglikelihood>21.991</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ἀνάστασις</original>
+				<trans>resurrection of the dead</trans>
+				<loglikelihood>2.72</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>366</count>
+		<senses>
+			<senseContainer>
+				<sense>dead</sense>
+				<count>159</count>
+				<prob>0.434</prob>
+				<loglikelihood>68.482</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>corpse</sense>
+				<count>86</count>
+				<prob>0.235</prob>
+				<loglikelihood>106.755</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead bodies</sense>
+				<count>18</count>
+				<prob>0.049</prob>
+				<loglikelihood>22.726</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.722</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dead body</sense>
+				<count>11</count>
+				<prob>0.030</prob>
+				<loglikelihood>11.249</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>θάπτω</original>
+				<trans>bury the dead</trans>
+				<loglikelihood>3.72</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ὑπόσπονδος</original>
+				<trans>dead under truce</trans>
+				<loglikelihood>17.81</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

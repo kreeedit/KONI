@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Παιάν</form>
+	<date>Tue Jul 26 23:19:02 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>89</count>
+		<senses>
+			<senseContainer>
+				<sense>paean</sense>
+				<count>34</count>
+				<prob>0.382</prob>
+				<loglikelihood>78.369</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>healer</sense>
+				<count>6</count>
+				<prob>0.067</prob>
+				<loglikelihood>5.538</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

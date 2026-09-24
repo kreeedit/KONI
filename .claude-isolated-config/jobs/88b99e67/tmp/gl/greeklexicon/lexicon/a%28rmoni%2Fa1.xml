@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁρμονία</form>
+	<date>Tue Jul 26 23:53:35 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>199</count>
+		<senses>
+			<senseContainer>
+				<sense>harmony</sense>
+				<count>110</count>
+				<prob>0.553</prob>
+				<loglikelihood>288.068</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.791</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

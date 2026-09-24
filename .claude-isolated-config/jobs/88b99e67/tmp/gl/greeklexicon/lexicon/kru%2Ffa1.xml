@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κρύφα</form>
+	<date>Tue Jul 26 23:21:34 EDT 2011</date>
+	<count>92</count>
+	<per10K>0.194</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>103</count>
+		<senses>
+			<senseContainer>
+				<sense>secret</sense>
+				<count>64</count>
+				<prob>0.621</prob>
+				<loglikelihood>42.111</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.312</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

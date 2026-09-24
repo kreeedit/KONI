@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλοπή</form>
+	<date>Tue Jul 26 23:10:29 EDT 2011</date>
+	<count>69</count>
+	<per10K>0.146</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>theft</sense>
+				<count>17</count>
+				<prob>0.304</prob>
+				<loglikelihood>21.017</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>for theft</sense>
+				<count>6</count>
+				<prob>0.107</prob>
+				<loglikelihood>23.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

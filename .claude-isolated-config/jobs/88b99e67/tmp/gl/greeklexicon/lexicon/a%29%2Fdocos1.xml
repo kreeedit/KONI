@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄδοξος</form>
+	<date>Tue Jul 26 22:56:17 EDT 2011</date>
+	<count>45</count>
+	<per10K>0.095</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>53</count>
+		<senses>
+			<senseContainer>
+				<sense>inglorious</sense>
+				<count>5</count>
+				<prob>0.094</prob>
+				<loglikelihood>5.882</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

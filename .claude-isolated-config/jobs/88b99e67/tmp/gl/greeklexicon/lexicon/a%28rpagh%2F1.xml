@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἁρπαγή</form>
+	<date>Tue Jul 26 23:36:02 EDT 2011</date>
+	<count>124</count>
+	<per10K>0.262</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>plunder</sense>
+				<count>23</count>
+				<prob>0.237</prob>
+				<loglikelihood>5.327</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.522</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>rapine</sense>
+				<count>3</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

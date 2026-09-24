@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φιλονεικία</form>
+	<date>Tue Jul 26 23:22:27 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>121</count>
+		<senses>
+			<senseContainer>
+				<sense>rivalry</sense>
+				<count>19</count>
+				<prob>0.157</prob>
+				<loglikelihood>24.471</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>contention</sense>
+				<count>9</count>
+				<prob>0.074</prob>
+				<loglikelihood>4.437</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>contentiousness</sense>
+				<count>6</count>
+				<prob>0.050</prob>
+				<loglikelihood>14.399</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

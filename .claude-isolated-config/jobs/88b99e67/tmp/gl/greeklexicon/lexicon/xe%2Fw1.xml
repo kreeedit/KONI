@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χέω</form>
+	<date>Tue Jul 26 23:57:13 EDT 2011</date>
+	<count>184</count>
+	<per10K>0.388</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>177</count>
+		<senses>
+			<senseContainer>
+				<sense>pour</sense>
+				<count>28</count>
+				<prob>0.158</prob>
+				<loglikelihood>16.585</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.821</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shed</sense>
+				<count>23</count>
+				<prob>0.130</prob>
+				<loglikelihood>22.035</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.957</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

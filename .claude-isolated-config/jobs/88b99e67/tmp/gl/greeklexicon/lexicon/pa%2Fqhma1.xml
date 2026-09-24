@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πάθημα</form>
+	<date>Tue Jul 26 23:39:37 EDT 2011</date>
+	<count>135</count>
+	<per10K>0.285</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>186</count>
+		<senses>
+			<senseContainer>
+				<sense>affection</sense>
+				<count>21</count>
+				<prob>0.113</prob>
+				<loglikelihood>6.014</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.905</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

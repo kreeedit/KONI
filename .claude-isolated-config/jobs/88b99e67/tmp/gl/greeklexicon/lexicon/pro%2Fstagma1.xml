@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόσταγμα</form>
+	<date>Tue Jul 26 23:28:32 EDT 2011</date>
+	<count>106</count>
+	<per10K>0.224</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>125</count>
+		<senses>
+			<senseContainer>
+				<sense>injunction</sense>
+				<count>14</count>
+				<prob>0.112</prob>
+				<loglikelihood>9.331</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δακρύω</form>
+	<date>Tue Jul 26 23:42:49 EDT 2011</date>
+	<count>142</count>
+	<per10K>0.3</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>96</count>
+		<senses>
+			<senseContainer>
+				<sense>weep</sense>
+				<count>40</count>
+				<prob>0.417</prob>
+				<loglikelihood>24.329</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>tear</sense>
+				<count>22</count>
+				<prob>0.229</prob>
+				<loglikelihood>3.916</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shed tears</sense>
+				<count>6</count>
+				<prob>0.062</prob>
+				<loglikelihood>10.285</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγχωρέω</form>
+	<date>Wed Jul 27 00:57:16 EDT 2011</date>
+	<count>527</count>
+	<per10K>1.112</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>542</count>
+		<senses>
+			<senseContainer>
+				<sense>agree</sense>
+				<count>87</count>
+				<prob>0.161</prob>
+				<loglikelihood>27.652</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.563</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>grant</sense>
+				<count>52</count>
+				<prob>0.096</prob>
+				<loglikelihood>14.853</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.346</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>concede</sense>
+				<count>40</count>
+				<prob>0.074</prob>
+				<loglikelihood>72.692</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>concession</sense>
+				<count>18</count>
+				<prob>0.033</prob>
+				<loglikelihood>24.437</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

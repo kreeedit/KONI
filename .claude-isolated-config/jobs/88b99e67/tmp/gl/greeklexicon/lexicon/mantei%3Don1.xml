@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μαντεῖον</form>
+	<date>Tue Jul 26 23:39:34 EDT 2011</date>
+	<count>135</count>
+	<per10K>0.285</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>oracle</sense>
+				<count>38</count>
+				<prob>0.691</prob>
+				<loglikelihood>8.156</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.553</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

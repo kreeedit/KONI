@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κληρονομέω</form>
+	<date>Tue Jul 26 23:08:06 EDT 2011</date>
+	<count>65</count>
+	<per10K>0.137</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>77</count>
+		<senses>
+			<senseContainer>
+				<sense>inherit</sense>
+				<count>31</count>
+				<prob>0.403</prob>
+				<loglikelihood>35.263</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.419</relativeFreq></author>
+					<author><name>Isaeus</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>should inherit</sense>
+				<count>3</count>
+				<prob>0.039</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

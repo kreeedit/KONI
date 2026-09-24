@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀπτός</form>
+	<date>Tue Jul 26 22:41:47 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>22</count>
+		<senses>
+			<senseContainer>
+				<sense>roast</sense>
+				<count>8</count>
+				<prob>0.364</prob>
+				<loglikelihood>5.565</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>πλίνθος</original>
+				<trans>bake burnt brick</trans>
+				<loglikelihood>4.06</loglikelihood>
+				<count>8</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

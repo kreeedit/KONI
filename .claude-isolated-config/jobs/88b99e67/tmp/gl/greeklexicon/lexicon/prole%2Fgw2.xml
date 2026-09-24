@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προλέγω</form>
+	<date>Tue Jul 26 23:19:44 EDT 2011</date>
+	<count>89</count>
+	<per10K>0.188</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>66</count>
+		<senses>
+			<senseContainer>
+				<sense>foretell</sense>
+				<count>20</count>
+				<prob>0.303</prob>
+				<loglikelihood>12.306</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>predict</sense>
+				<count>5</count>
+				<prob>0.076</prob>
+				<loglikelihood>4.347</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

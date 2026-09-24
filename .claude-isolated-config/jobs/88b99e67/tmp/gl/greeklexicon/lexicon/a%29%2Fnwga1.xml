@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄνωγα</form>
+	<date>Wed Jul 27 00:05:45 EDT 2011</date>
+	<count>225</count>
+	<per10K>0.475</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>193</count>
+		<senses>
+			<senseContainer>
+				<sense>bid</sense>
+				<count>55</count>
+				<prob>0.285</prob>
+				<loglikelihood>26.695</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.782</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bade</sense>
+				<count>47</count>
+				<prob>0.244</prob>
+				<loglikelihood>19.321</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>biddeth</sense>
+				<count>8</count>
+				<prob>0.041</prob>
+				<loglikelihood>12.188</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bade me</sense>
+				<count>5</count>
+				<prob>0.026</prob>
+				<loglikelihood>6.665</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bids me</sense>
+				<count>4</count>
+				<prob>0.021</prob>
+				<loglikelihood>5.817</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

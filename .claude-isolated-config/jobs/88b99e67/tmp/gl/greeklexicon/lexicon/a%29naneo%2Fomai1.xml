@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνανεόομαι</form>
+	<date>Tue Jul 26 22:54:30 EDT 2011</date>
+	<count>43</count>
+	<per10K>0.091</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>renew</sense>
+				<count>18</count>
+				<prob>0.439</prob>
+				<loglikelihood>16.830</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

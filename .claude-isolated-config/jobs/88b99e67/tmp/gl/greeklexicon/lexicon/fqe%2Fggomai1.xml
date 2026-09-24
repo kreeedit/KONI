@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φθέγγομαι</form>
+	<date>Wed Jul 27 00:04:57 EDT 2011</date>
+	<count>221</count>
+	<per10K>0.466</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>216</count>
+		<senses>
+			<senseContainer>
+				<sense>utter</sense>
+				<count>28</count>
+				<prob>0.130</prob>
+				<loglikelihood>6.080</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.393</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

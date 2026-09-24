@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σοφός</form>
+	<date>Wed Jul 27 01:44:04 EDT 2011</date>
+	<count>964</count>
+	<per10K>2.035</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>649</count>
+		<senses>
+			<senseContainer>
+				<sense>wise</sense>
+				<count>272</count>
+				<prob>0.419</prob>
+				<loglikelihood>273.526</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.489</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>clever</sense>
+				<count>36</count>
+				<prob>0.055</prob>
+				<loglikelihood>24.414</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.306</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wise men</sense>
+				<count>34</count>
+				<prob>0.052</prob>
+				<loglikelihood>82.535</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.441</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wisdom</sense>
+				<count>31</count>
+				<prob>0.048</prob>
+				<loglikelihood>5.025</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wiser than</sense>
+				<count>24</count>
+				<prob>0.037</prob>
+				<loglikelihood>69.792</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wise man</sense>
+				<count>15</count>
+				<prob>0.023</prob>
+				<loglikelihood>16.965</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>26</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

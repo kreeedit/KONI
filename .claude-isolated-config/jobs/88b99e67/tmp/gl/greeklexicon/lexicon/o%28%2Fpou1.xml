@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅπου</form>
+	<date>Wed Jul 27 01:38:08 EDT 2011</date>
+	<count>887</count>
+	<per10K>1.872</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>909</count>
+		<senses>
+			<senseContainer>
+				<sense>where</sense>
+				<count>431</count>
+				<prob>0.474</prob>
+				<loglikelihood>236.511</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wherever</sense>
+				<count>90</count>
+				<prob>0.099</prob>
+				<loglikelihood>136.578</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.367</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>where there</sense>
+				<count>20</count>
+				<prob>0.022</prob>
+				<loglikelihood>42.075</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>place where</sense>
+				<count>20</count>
+				<prob>0.022</prob>
+				<loglikelihood>15.504</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

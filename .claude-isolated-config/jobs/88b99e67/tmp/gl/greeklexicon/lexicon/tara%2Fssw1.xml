@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ταράσσω</form>
+	<date>Wed Jul 27 00:11:16 EDT 2011</date>
+	<count>262</count>
+	<per10K>0.553</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>187</count>
+		<senses>
+			<senseContainer>
+				<sense>disturb</sense>
+				<count>37</count>
+				<prob>0.198</prob>
+				<loglikelihood>36.016</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.378</relativeFreq></author>
+					<author><name>Epictetus</name><relativeFreq>0.324</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>into confusion</sense>
+				<count>7</count>
+				<prob>0.037</prob>
+				<loglikelihood>10.887</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thrown into confusion</sense>
+				<count>6</count>
+				<prob>0.032</prob>
+				<loglikelihood>13.089</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

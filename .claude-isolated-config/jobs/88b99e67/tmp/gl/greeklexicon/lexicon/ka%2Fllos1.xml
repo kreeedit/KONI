@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάλλος</form>
+	<date>Wed Jul 27 00:27:07 EDT 2011</date>
+	<count>344</count>
+	<per10K>0.726</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>375</count>
+		<senses>
+			<senseContainer>
+				<sense>beauty</sense>
+				<count>239</count>
+				<prob>0.637</prob>
+				<loglikelihood>522.744</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.305</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

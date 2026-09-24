@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄκυρος</form>
+	<date>Tue Jul 26 23:18:44 EDT 2011</date>
+	<count>87</count>
+	<per10K>0.184</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>83</count>
+		<senses>
+			<senseContainer>
+				<sense>annul</sense>
+				<count>9</count>
+				<prob>0.108</prob>
+				<loglikelihood>6.749</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no effect</sense>
+				<count>6</count>
+				<prob>0.072</prob>
+				<loglikelihood>17.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>invalid</sense>
+				<count>6</count>
+				<prob>0.072</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>invalidate</sense>
+				<count>3</count>
+				<prob>0.036</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

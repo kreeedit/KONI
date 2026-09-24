@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πλόκαμος</form>
+	<date>Tue Jul 26 22:41:04 EDT 2011</date>
+	<count>25</count>
+	<per10K>0.053</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>32</count>
+		<senses>
+			<senseContainer>
+				<sense>lock</sense>
+				<count>10</count>
+				<prob>0.312</prob>
+				<loglikelihood>6.557</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tress</sense>
+				<count>8</count>
+				<prob>0.250</prob>
+				<loglikelihood>21.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

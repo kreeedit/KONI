@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσχίον</form>
+	<date>Tue Jul 26 22:34:11 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>hip</sense>
+				<count>8</count>
+				<prob>0.500</prob>
+				<loglikelihood>19.692</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>haunch</sense>
+				<count>3</count>
+				<prob>0.188</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δίψος</form>
+	<date>Tue Jul 26 23:04:00 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>thirst</sense>
+				<count>45</count>
+				<prob>0.789</prob>
+				<loglikelihood>78.638</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.356</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

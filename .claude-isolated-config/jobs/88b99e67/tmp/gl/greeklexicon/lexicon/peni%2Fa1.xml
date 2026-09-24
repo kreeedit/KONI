@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πενία</form>
+	<date>Tue Jul 26 23:58:34 EDT 2011</date>
+	<count>189</count>
+	<per10K>0.399</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>193</count>
+		<senses>
+			<senseContainer>
+				<sense>poverty</sense>
+				<count>157</count>
+				<prob>0.813</prob>
+				<loglikelihood>392.782</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>penury</sense>
+				<count>7</count>
+				<prob>0.036</prob>
+				<loglikelihood>16.331</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

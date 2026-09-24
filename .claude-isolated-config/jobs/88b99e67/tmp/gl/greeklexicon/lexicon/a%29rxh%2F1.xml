@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρχή</form>
+	<date>Wed Jul 27 04:22:32 EDT 2011</date>
+	<count>3638</count>
+	<per10K>7.678</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>4308</count>
+		<senses>
+			<senseContainer>
+				<sense>office</sense>
+				<count>303</count>
+				<prob>0.070</prob>
+				<loglikelihood>608.917</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>government</sense>
+				<count>284</count>
+				<prob>0.066</prob>
+				<loglikelihood>354.495</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.525</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>empire</sense>
+				<count>191</count>
+				<prob>0.044</prob>
+				<loglikelihood>496.676</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>original</sense>
+				<count>127</count>
+				<prob>0.029</prob>
+				<loglikelihood>227.062</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>first</sense>
+				<count>125</count>
+				<prob>0.029</prob>
+				<loglikelihood>10.505</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>principle</sense>
+				<count>113</count>
+				<prob>0.026</prob>
+				<loglikelihood>97.225</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.858</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>power</sense>
+				<count>93</count>
+				<prob>0.022</prob>
+				<loglikelihood>14.700</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>kingdom</sense>
+				<count>90</count>
+				<prob>0.021</prob>
+				<loglikelihood>41.874</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.367</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>παραλαμβάνω</original>
+				<trans>took the government</trans>
+				<loglikelihood>6.83</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>from the beginning</trans>
+				<loglikelihood>6.16</loglikelihood>
+				<count>206</count>
+			</collocation>
+			<collocation>
+				<original>διαδέχομαι</original>
+				<trans>succeeded government</trans>
+				<loglikelihood>3.94</loglikelihood>
+				<count>12</count>
+			</collocation>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>from the beginning</trans>
+				<loglikelihood>3.31</loglikelihood>
+				<count>102</count>
+			</collocation>
+			<collocation>
+				<original>ἐκδέχομαι</original>
+				<trans>null</trans>
+				<loglikelihood>2.69</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πατρῷος</original>
+				<trans>his ancestral kingdom</trans>
+				<loglikelihood>4.60</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κίνησις</original>
+				<trans>motion first principle</trans>
+				<loglikelihood>4.47</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

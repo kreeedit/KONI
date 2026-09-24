@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πειράζω</form>
+	<date>Wed Jul 27 00:30:16 EDT 2011</date>
+	<count>363</count>
+	<per10K>0.766</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>297</count>
+		<senses>
+			<senseContainer>
+				<sense>try</sense>
+				<count>40</count>
+				<prob>0.135</prob>
+				<loglikelihood>10.847</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shall try</sense>
+				<count>33</count>
+				<prob>0.111</prob>
+				<loglikelihood>120.984</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+					<author><name>Demosthenes</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>endeavor</sense>
+				<count>20</count>
+				<prob>0.067</prob>
+				<loglikelihood>9.687</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>endeavour</sense>
+				<count>18</count>
+				<prob>0.061</prob>
+				<loglikelihood>21.591</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.611</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shall endeavor</sense>
+				<count>9</count>
+				<prob>0.030</prob>
+				<loglikelihood>29.450</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>let us try</sense>
+				<count>9</count>
+				<prob>0.030</prob>
+				<loglikelihood>35.996</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shall attempt</sense>
+				<count>7</count>
+				<prob>0.024</prob>
+				<loglikelihood>24.497</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

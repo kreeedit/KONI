@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μυθεύω</form>
+	<date>Tue Jul 26 23:07:05 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>myth</sense>
+				<count>22</count>
+				<prob>0.537</prob>
+				<loglikelihood>28.057</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.955</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mythical</sense>
+				<count>4</count>
+				<prob>0.098</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mythical story</sense>
+				<count>3</count>
+				<prob>0.073</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

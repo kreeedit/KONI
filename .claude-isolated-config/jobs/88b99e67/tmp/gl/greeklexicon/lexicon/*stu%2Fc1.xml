@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Στύξ</form>
+	<date>Tue Jul 26 22:43:56 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>styx</sense>
+				<count>15</count>
+				<prob>0.833</prob>
+				<loglikelihood>37.500</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

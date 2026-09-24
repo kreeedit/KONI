@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περίοικος</form>
+	<date>Tue Jul 26 23:19:05 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>110</count>
+		<senses>
+			<senseContainer>
+				<sense>neighbors</sense>
+				<count>19</count>
+				<prob>0.173</prob>
+				<loglikelihood>5.682</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>perioeci</sense>
+				<count>18</count>
+				<prob>0.164</prob>
+				<loglikelihood>68.207</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>surrounding country</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

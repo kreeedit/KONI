@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Τελαμών</form>
+	<date>Tue Jul 26 23:25:50 EDT 2011</date>
+	<count>100</count>
+	<per10K>0.211</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>38</count>
+		<senses>
+			<senseContainer>
+				<sense>telamon</sense>
+				<count>35</count>
+				<prob>0.921</prob>
+				<loglikelihood>53.260</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>telamonian</sense>
+				<count>20</count>
+				<prob>0.606</prob>
+				<loglikelihood>76.190</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>telamon</sense>
+				<count>15</count>
+				<prob>0.455</prob>
+				<loglikelihood>9.782</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.867</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>Αἴας</original>
+				<trans>telamonian aias</trans>
+				<loglikelihood>10.11</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

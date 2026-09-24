@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κενός</form>
+	<date>Wed Jul 27 00:04:19 EDT 2011</date>
+	<count>216</count>
+	<per10K>0.456</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>empty</sense>
+				<count>38</count>
+				<prob>0.292</prob>
+				<loglikelihood>25.216</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>away empty</sense>
+				<count>4</count>
+				<prob>0.031</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

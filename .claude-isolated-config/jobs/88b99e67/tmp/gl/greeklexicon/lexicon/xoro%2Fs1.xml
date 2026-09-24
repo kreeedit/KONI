@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χορός</form>
+	<date>Wed Jul 27 00:11:05 EDT 2011</date>
+	<count>261</count>
+	<per10K>0.551</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>272</count>
+		<senses>
+			<senseContainer>
+				<sense>chorus</sense>
+				<count>66</count>
+				<prob>0.243</prob>
+				<loglikelihood>118.504</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dance</sense>
+				<count>59</count>
+				<prob>0.217</prob>
+				<loglikelihood>58.235</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.339</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>choir</sense>
+				<count>25</count>
+				<prob>0.092</prob>
+				<loglikelihood>60.965</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

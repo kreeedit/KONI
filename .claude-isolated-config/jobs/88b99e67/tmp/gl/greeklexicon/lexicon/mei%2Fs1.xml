@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μείς</form>
+	<date>Wed Jul 27 01:23:51 EDT 2011</date>
+	<count>731</count>
+	<per10K>1.543</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>627</count>
+		<senses>
+			<senseContainer>
+				<sense>month</sense>
+				<count>390</count>
+				<prob>0.622</prob>
+				<loglikelihood>1041.496</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.323</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>course</sense>
+				<count>54</count>
+				<prob>0.086</prob>
+				<loglikelihood>11.540</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.963</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἕξ</original>
+				<trans>six months</trans>
+				<loglikelihood>17.60</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρεῖς</original>
+				<trans>three months</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

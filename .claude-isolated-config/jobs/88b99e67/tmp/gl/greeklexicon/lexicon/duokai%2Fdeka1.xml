@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δυοκαίδεκα</form>
+	<date>Tue Jul 26 22:45:16 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>twelve</sense>
+				<count>26</count>
+				<prob>0.963</prob>
+				<loglikelihood>5.982</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

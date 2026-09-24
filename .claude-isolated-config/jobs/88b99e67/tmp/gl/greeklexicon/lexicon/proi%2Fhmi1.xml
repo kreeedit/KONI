@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προίημι</form>
+	<date>Wed Jul 27 00:20:12 EDT 2011</date>
+	<count>306</count>
+	<per10K>0.646</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>283</count>
+		<senses>
+			<senseContainer>
+				<sense>abandon</sense>
+				<count>23</count>
+				<prob>0.081</prob>
+				<loglikelihood>11.745</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.696</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>forth</sense>
+				<count>17</count>
+				<prob>0.060</prob>
+				<loglikelihood>4.020</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἔγχος</original>
+				<trans>up spear</trans>
+				<loglikelihood>2.36</loglikelihood>
+				<count>13</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

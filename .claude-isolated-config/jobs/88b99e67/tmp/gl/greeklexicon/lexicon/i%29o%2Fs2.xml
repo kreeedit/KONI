@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰός</form>
+	<date>Wed Jul 27 00:30:27 EDT 2011</date>
+	<count>364</count>
+	<per10K>0.768</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>120</count>
+		<senses>
+			<senseContainer>
+				<sense>ah</sense>
+				<count>24</count>
+				<prob>0.200</prob>
+				<loglikelihood>4.576</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>arrow</sense>
+				<count>17</count>
+				<prob>0.142</prob>
+				<loglikelihood>4.155</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.824</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

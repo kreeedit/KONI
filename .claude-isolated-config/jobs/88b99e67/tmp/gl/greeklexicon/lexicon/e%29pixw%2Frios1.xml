@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιχώριος</form>
+	<date>Wed Jul 27 00:13:52 EDT 2011</date>
+	<count>275</count>
+	<per10K>0.58</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>256</count>
+		<senses>
+			<senseContainer>
+				<sense>native</sense>
+				<count>83</count>
+				<prob>0.324</prob>
+				<loglikelihood>73.847</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.494</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>local</sense>
+				<count>15</count>
+				<prob>0.059</prob>
+				<loglikelihood>19.994</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.733</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

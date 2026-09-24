@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνατίθημι</form>
+	<date>Wed Jul 27 00:36:28 EDT 2011</date>
+	<count>402</count>
+	<per10K>0.848</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>392</count>
+		<senses>
+			<senseContainer>
+				<sense>dedicate</sense>
+				<count>166</count>
+				<prob>0.423</prob>
+				<loglikelihood>301.072</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.560</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dedicated by</sense>
+				<count>22</count>
+				<prob>0.056</prob>
+				<loglikelihood>32.799</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.909</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

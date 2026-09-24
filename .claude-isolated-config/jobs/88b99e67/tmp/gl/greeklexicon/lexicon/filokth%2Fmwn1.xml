@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φιλοκτήμων</form>
+	<date>Tue Jul 26 22:44:26 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>13</count>
+		<senses>
+			<senseContainer>
+				<sense>philoctemon</sense>
+				<count>12</count>
+				<prob>0.923</prob>
+				<loglikelihood>21.333</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκπέμπω</form>
+	<date>Wed Jul 27 00:39:46 EDT 2011</date>
+	<count>424</count>
+	<per10K>0.895</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>488</count>
+		<senses>
+			<senseContainer>
+				<sense>send</sense>
+				<count>180</count>
+				<prob>0.369</prob>
+				<loglikelihood>31.435</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent out</sense>
+				<count>48</count>
+				<prob>0.098</prob>
+				<loglikelihood>94.973</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>send out</sense>
+				<count>14</count>
+				<prob>0.029</prob>
+				<loglikelihood>34.076</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dispatch</sense>
+				<count>11</count>
+				<prob>0.023</prob>
+				<loglikelihood>4.514</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

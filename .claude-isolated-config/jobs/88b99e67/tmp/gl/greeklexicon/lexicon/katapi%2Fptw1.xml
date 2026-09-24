@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταπίπτω</form>
+	<date>Tue Jul 26 23:18:19 EDT 2011</date>
+	<count>86</count>
+	<per10K>0.182</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>74</count>
+		<senses>
+			<senseContainer>
+				<sense>fell down</sense>
+				<count>9</count>
+				<prob>0.122</prob>
+				<loglikelihood>6.611</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

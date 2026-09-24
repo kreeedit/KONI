@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀριστεῖος</form>
+	<date>Tue Jul 26 22:51:44 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>33</count>
+		<senses>
+			<senseContainer>
+				<sense>meed</sense>
+				<count>7</count>
+				<prob>0.212</prob>
+				<loglikelihood>10.889</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κληρονομία</form>
+	<date>Tue Jul 26 23:01:57 EDT 2011</date>
+	<count>55</count>
+	<per10K>0.116</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>inheritance</sense>
+				<count>40</count>
+				<prob>0.645</prob>
+				<loglikelihood>48.482</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

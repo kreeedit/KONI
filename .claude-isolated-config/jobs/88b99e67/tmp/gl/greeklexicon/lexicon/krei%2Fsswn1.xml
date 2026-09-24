@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κρείσσων</form>
+	<date>Wed Jul 27 01:32:51 EDT 2011</date>
+	<count>839</count>
+	<per10K>1.771</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>898</count>
+		<senses>
+			<senseContainer>
+				<sense>superior</sense>
+				<count>158</count>
+				<prob>0.176</prob>
+				<loglikelihood>234.185</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>strong</sense>
+				<count>80</count>
+				<prob>0.089</prob>
+				<loglikelihood>25.106</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>better than</sense>
+				<count>57</count>
+				<prob>0.063</prob>
+				<loglikelihood>53.842</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stronger than</sense>
+				<count>42</count>
+				<prob>0.047</prob>
+				<loglikelihood>103.703</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

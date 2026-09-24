@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεταπέμπω</form>
+	<date>Wed Jul 27 00:19:49 EDT 2011</date>
+	<count>304</count>
+	<per10K>0.642</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>196</count>
+		<senses>
+			<senseContainer>
+				<sense>sent for</sense>
+				<count>71</count>
+				<prob>0.362</prob>
+				<loglikelihood>141.981</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>summon</sense>
+				<count>21</count>
+				<prob>0.107</prob>
+				<loglikelihood>4.623</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>send for</sense>
+				<count>8</count>
+				<prob>0.041</prob>
+				<loglikelihood>19.690</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sending for</sense>
+				<count>5</count>
+				<prob>0.026</prob>
+				<loglikelihood>9.089</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

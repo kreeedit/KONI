@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόμαχος</form>
+	<date>Tue Jul 26 23:13:52 EDT 2011</date>
+	<count>76</count>
+	<per10K>0.16</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>foremost fighters</sense>
+				<count>32</count>
+				<prob>0.500</prob>
+				<loglikelihood>124.119</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>promachus</sense>
+				<count>7</count>
+				<prob>0.109</prob>
+				<loglikelihood>13.999</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fighter</sense>
+				<count>5</count>
+				<prob>0.078</prob>
+				<loglikelihood>5.555</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

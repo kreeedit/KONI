@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πόρνη</form>
+	<date>Tue Jul 26 22:46:41 EDT 2011</date>
+	<count>32</count>
+	<per10K>0.068</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>39</count>
+		<senses>
+			<senseContainer>
+				<sense>harlot</sense>
+				<count>12</count>
+				<prob>0.308</prob>
+				<loglikelihood>23.039</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>prostitute</sense>
+				<count>9</count>
+				<prob>0.231</prob>
+				<loglikelihood>6.352</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.778</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

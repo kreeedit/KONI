@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παρέρχομαι</form>
+	<date>Wed Jul 27 01:06:09 EDT 2011</date>
+	<count>598</count>
+	<per10K>1.262</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>331</count>
+		<senses>
+			<senseContainer>
+				<sense>pass</sense>
+				<count>46</count>
+				<prob>0.139</prob>
+				<loglikelihood>9.572</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>come forward</sense>
+				<count>13</count>
+				<prob>0.039</prob>
+				<loglikelihood>12.511</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pass away</sense>
+				<count>11</count>
+				<prob>0.033</prob>
+				<loglikelihood>43.994</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.727</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>passed by</sense>
+				<count>7</count>
+				<prob>0.021</prob>
+				<loglikelihood>9.329</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

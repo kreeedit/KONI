@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δμώς</form>
+	<date>Tue Jul 26 23:18:16 EDT 2011</date>
+	<count>86</count>
+	<per10K>0.182</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>81</count>
+		<senses>
+			<senseContainer>
+				<sense>servant</sense>
+				<count>30</count>
+				<prob>0.370</prob>
+				<loglikelihood>5.103</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

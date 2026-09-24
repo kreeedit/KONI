@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναίδεια</form>
+	<date>Tue Jul 26 23:17:31 EDT 2011</date>
+	<count>85</count>
+	<per10K>0.179</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>90</count>
+		<senses>
+			<senseContainer>
+				<sense>shamelessness</sense>
+				<count>35</count>
+				<prob>0.389</prob>
+				<loglikelihood>66.212</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.486</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>impudence</sense>
+				<count>22</count>
+				<prob>0.244</prob>
+				<loglikelihood>25.140</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στόμα</form>
+	<date>Wed Jul 27 00:55:58 EDT 2011</date>
+	<count>516</count>
+	<per10K>1.089</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>668</count>
+		<senses>
+			<senseContainer>
+				<sense>mouth</sense>
+				<count>314</count>
+				<prob>0.470</prob>
+				<loglikelihood>910.547</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lip</sense>
+				<count>42</count>
+				<prob>0.063</prob>
+				<loglikelihood>67.154</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

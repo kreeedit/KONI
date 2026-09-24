@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνάγω</form>
+	<date>Wed Jul 27 00:39:16 EDT 2011</date>
+	<count>420</count>
+	<per10K>0.886</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>429</count>
+		<senses>
+			<senseContainer>
+				<sense>put out</sense>
+				<count>23</count>
+				<prob>0.054</prob>
+				<loglikelihood>31.566</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>set sail</sense>
+				<count>16</count>
+				<prob>0.037</prob>
+				<loglikelihood>10.882</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

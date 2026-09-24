@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπερωτάω</form>
+	<date>Tue Jul 26 23:54:03 EDT 2011</date>
+	<count>172</count>
+	<per10K>0.363</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>135</count>
+		<senses>
+			<senseContainer>
+				<sense>ask</sense>
+				<count>76</count>
+				<prob>0.563</prob>
+				<loglikelihood>10.906</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.513</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>they asked</sense>
+				<count>6</count>
+				<prob>0.044</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

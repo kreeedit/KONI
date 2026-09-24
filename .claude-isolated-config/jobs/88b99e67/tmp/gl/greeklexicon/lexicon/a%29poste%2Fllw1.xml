@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀποστέλλω</form>
+	<date>Wed Jul 27 01:06:41 EDT 2011</date>
+	<count>603</count>
+	<per10K>1.273</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>494</count>
+		<senses>
+			<senseContainer>
+				<sense>send</sense>
+				<count>296</count>
+				<prob>0.599</prob>
+				<loglikelihood>85.160</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>despatch</sense>
+				<count>33</count>
+				<prob>0.067</prob>
+				<loglikelihood>27.370</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dispatch</sense>
+				<count>17</count>
+				<prob>0.034</prob>
+				<loglikelihood>10.790</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent off</sense>
+				<count>10</count>
+				<prob>0.020</prob>
+				<loglikelihood>14.807</loglikelihood>
+				<authorContainer>
+					<author><name>Thucydides</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

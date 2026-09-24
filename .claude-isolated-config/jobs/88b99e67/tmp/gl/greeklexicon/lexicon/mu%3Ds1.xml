@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μῦς</form>
+	<date>Tue Jul 26 22:50:39 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>40</count>
+		<senses>
+			<senseContainer>
+				<sense>mouse</sense>
+				<count>19</count>
+				<prob>0.475</prob>
+				<loglikelihood>60.166</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mys</sense>
+				<count>4</count>
+				<prob>0.100</prob>
+				<loglikelihood>9.143</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rat</sense>
+				<count>4</count>
+				<prob>0.100</prob>
+				<loglikelihood>12.800</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

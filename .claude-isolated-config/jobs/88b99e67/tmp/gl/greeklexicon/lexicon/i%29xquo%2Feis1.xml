@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰχθυόεις</form>
+	<date>Tue Jul 26 22:37:42 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>19</count>
+		<senses>
+			<senseContainer>
+				<sense>teeming deep</sense>
+				<count>9</count>
+				<prob>0.474</prob>
+				<loglikelihood>36.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>teem</sense>
+				<count>7</count>
+				<prob>0.368</prob>
+				<loglikelihood>11.529</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

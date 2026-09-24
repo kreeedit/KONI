@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πίστις</form>
+	<date>Wed Jul 27 01:09:39 EDT 2011</date>
+	<count>621</count>
+	<per10K>1.311</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1001</count>
+		<senses>
+			<senseContainer>
+				<sense>fidelity</sense>
+				<count>62</count>
+				<prob>0.062</prob>
+				<loglikelihood>135.969</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.645</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>faith</sense>
+				<count>62</count>
+				<prob>0.062</prob>
+				<loglikelihood>71.084</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.710</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pledge</sense>
+				<count>53</count>
+				<prob>0.053</prob>
+				<loglikelihood>80.170</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>proof</sense>
+				<count>47</count>
+				<prob>0.047</prob>
+				<loglikelihood>15.236</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.574</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>confidence</sense>
+				<count>32</count>
+				<prob>0.032</prob>
+				<loglikelihood>14.071</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>assurance</sense>
+				<count>28</count>
+				<prob>0.028</prob>
+				<loglikelihood>43.509</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>belief</sense>
+				<count>21</count>
+				<prob>0.021</prob>
+				<loglikelihood>9.105</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.476</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

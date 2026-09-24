@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφανίζω</form>
+	<date>Wed Jul 27 00:11:57 EDT 2011</date>
+	<count>266</count>
+	<per10K>0.561</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>241</count>
+		<senses>
+			<senseContainer>
+				<sense>disappear</sense>
+				<count>27</count>
+				<prob>0.112</prob>
+				<loglikelihood>40.490</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>vanish</sense>
+				<count>9</count>
+				<prob>0.037</prob>
+				<loglikelihood>7.196</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>wiped out</sense>
+				<count>6</count>
+				<prob>0.025</prob>
+				<loglikelihood>11.075</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

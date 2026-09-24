@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κοάξ</form>
+	<date>Tue Jul 26 22:39:18 EDT 2011</date>
+	<count>23</count>
+	<per10K>0.049</per10K>
+	<posContainer>
+		<pos>exclam</pos>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>koax</sense>
+				<count>10</count>
+				<prob>0.556</prob>
+				<loglikelihood>21.052</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

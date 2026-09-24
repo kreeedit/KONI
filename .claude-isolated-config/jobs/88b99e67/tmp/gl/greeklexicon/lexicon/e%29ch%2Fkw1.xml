@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐξήκω</form>
+	<date>Tue Jul 26 22:54:05 EDT 2011</date>
+	<count>42</count>
+	<per10K>0.089</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>32</count>
+		<senses>
+			<senseContainer>
+				<sense>had expired</sense>
+				<count>3</count>
+				<prob>0.094</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

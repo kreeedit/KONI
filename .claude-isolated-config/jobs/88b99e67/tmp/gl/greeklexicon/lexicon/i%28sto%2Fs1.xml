@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱστός</form>
+	<date>Tue Jul 26 23:26:21 EDT 2011</date>
+	<count>102</count>
+	<per10K>0.215</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>89</count>
+		<senses>
+			<senseContainer>
+				<sense>mast</sense>
+				<count>34</count>
+				<prob>0.382</prob>
+				<loglikelihood>85.625</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>loom</sense>
+				<count>16</count>
+				<prob>0.180</prob>
+				<loglikelihood>35.308</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.500</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>web</sense>
+				<count>15</count>
+				<prob>0.169</prob>
+				<loglikelihood>27.271</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.933</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>at loom</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ὑφαίνω</original>
+				<trans>weaving web</trans>
+				<loglikelihood>4.21</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πότνια</form>
+	<date>Tue Jul 26 23:50:03 EDT 2011</date>
+	<count>162</count>
+	<per10K>0.342</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>160</count>
+		<senses>
+			<senseContainer>
+				<sense>queenly</sense>
+				<count>50</count>
+				<prob>0.312</prob>
+				<loglikelihood>185.174</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.920</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lady</sense>
+				<count>25</count>
+				<prob>0.156</prob>
+				<loglikelihood>10.074</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.640</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

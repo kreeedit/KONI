@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκιά</form>
+	<date>Tue Jul 26 23:20:06 EDT 2011</date>
+	<count>90</count>
+	<per10K>0.19</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>shadow</sense>
+				<count>28</count>
+				<prob>0.549</prob>
+				<loglikelihood>53.151</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shade</sense>
+				<count>14</count>
+				<prob>0.275</prob>
+				<loglikelihood>22.399</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

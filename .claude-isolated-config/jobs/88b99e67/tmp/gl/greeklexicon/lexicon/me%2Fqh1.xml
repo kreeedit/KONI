@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέθη</form>
+	<date>Tue Jul 26 23:11:54 EDT 2011</date>
+	<count>72</count>
+	<per10K>0.152</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>96</count>
+		<senses>
+			<senseContainer>
+				<sense>drunkenness</sense>
+				<count>20</count>
+				<prob>0.208</prob>
+				<loglikelihood>49.997</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

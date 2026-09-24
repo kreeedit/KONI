@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καρπάλιμος</form>
+	<date>Tue Jul 26 23:08:03 EDT 2011</date>
+	<count>65</count>
+	<per10K>0.137</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>way quickly</sense>
+				<count>4</count>
+				<prob>0.078</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>7</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

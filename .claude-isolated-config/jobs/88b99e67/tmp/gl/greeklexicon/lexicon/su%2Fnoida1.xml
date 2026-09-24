@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σύνοιδα</form>
+	<date>Wed Jul 27 00:17:54 EDT 2011</date>
+	<count>296</count>
+	<per10K>0.625</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>185</count>
+		<senses>
+			<senseContainer>
+				<sense>conscious</sense>
+				<count>30</count>
+				<prob>0.162</prob>
+				<loglikelihood>39.552</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>privy</sense>
+				<count>5</count>
+				<prob>0.027</prob>
+				<loglikelihood>3.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

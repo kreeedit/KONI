@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τραχύς</form>
+	<date>Tue Jul 26 23:59:45 EDT 2011</date>
+	<count>194</count>
+	<per10K>0.409</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>174</count>
+		<senses>
+			<senseContainer>
+				<sense>rough</sense>
+				<count>43</count>
+				<prob>0.247</prob>
+				<loglikelihood>85.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rugged</sense>
+				<count>32</count>
+				<prob>0.184</prob>
+				<loglikelihood>63.991</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.562</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tracheia</sense>
+				<count>11</count>
+				<prob>0.063</prob>
+				<loglikelihood>32.264</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>19</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

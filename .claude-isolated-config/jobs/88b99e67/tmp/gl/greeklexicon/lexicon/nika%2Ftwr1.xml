@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νικάτωρ</form>
+	<date>Tue Jul 26 22:35:02 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>nicator</sense>
+				<count>7</count>
+				<prob>0.583</prob>
+				<loglikelihood>17.818</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

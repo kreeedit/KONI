@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπίτιμος</form>
+	<date>Tue Jul 26 22:49:07 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>franchise</sense>
+				<count>5</count>
+				<prob>0.143</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

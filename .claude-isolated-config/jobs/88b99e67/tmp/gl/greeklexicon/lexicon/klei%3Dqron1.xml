@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλεῖθρον</form>
+	<date>Tue Jul 26 22:46:16 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>bar</sense>
+				<count>8</count>
+				<prob>0.222</prob>
+				<loglikelihood>4.923</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>bolt</sense>
+				<count>8</count>
+				<prob>0.222</prob>
+				<loglikelihood>4.266</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

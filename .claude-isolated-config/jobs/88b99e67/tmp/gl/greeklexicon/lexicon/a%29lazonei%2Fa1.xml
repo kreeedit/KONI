@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀλαζονεία</form>
+	<date>Tue Jul 26 22:50:38 EDT 2011</date>
+	<count>37</count>
+	<per10K>0.078</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>imposture</sense>
+				<count>5</count>
+				<prob>0.111</prob>
+				<loglikelihood>5.882</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>boastfulness</sense>
+				<count>5</count>
+				<prob>0.111</prob>
+				<loglikelihood>20.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

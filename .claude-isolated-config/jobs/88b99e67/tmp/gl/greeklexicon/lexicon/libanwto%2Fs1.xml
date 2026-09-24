@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λιβανωτός</form>
+	<date>Tue Jul 26 22:40:01 EDT 2011</date>
+	<count>24</count>
+	<per10K>0.051</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>frankincense</sense>
+				<count>7</count>
+				<prob>0.438</prob>
+				<loglikelihood>8.909</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

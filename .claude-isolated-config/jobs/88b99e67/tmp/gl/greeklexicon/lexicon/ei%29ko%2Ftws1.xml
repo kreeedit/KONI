@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἰκότως</form>
+	<date>Wed Jul 27 00:45:28 EDT 2011</date>
+	<count>460</count>
+	<per10K>0.971</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>451</count>
+		<senses>
+			<senseContainer>
+				<sense>natural</sense>
+				<count>86</count>
+				<prob>0.191</prob>
+				<loglikelihood>31.180</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>good reason</sense>
+				<count>51</count>
+				<prob>0.113</prob>
+				<loglikelihood>167.770</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>reasonable</sense>
+				<count>37</count>
+				<prob>0.082</prob>
+				<loglikelihood>15.892</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

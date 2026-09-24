@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνήρ</form>
+	<date>Wed Jul 27 07:15:06 EDT 2011</date>
+	<count>9545</count>
+	<per10K>20.146</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>11691</count>
+		<senses>
+			<senseContainer>
+				<sense>man</sense>
+				<count>6186</count>
+				<prob>0.529</prob>
+				<loglikelihood>10473.131</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>gentleman</sense>
+				<count>634</count>
+				<prob>0.054</prob>
+				<loglikelihood>2025.641</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>a</sense>
+				<count>447</count>
+				<prob>0.038</prob>
+				<loglikelihood>94.066</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>husband</sense>
+				<count>363</count>
+				<prob>0.031</prob>
+				<loglikelihood>658.464</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀποκτείνω</original>
+				<trans>murdering herodes</trans>
+				<loglikelihood>3.28</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Antiphon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατακτείνω</original>
+				<trans>slain man</trans>
+				<loglikelihood>2.28</loglikelihood>
+				<count>9</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>σκέπτομαι</original>
+				<trans>see, gentlemen</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Aeschines</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>δικαστής</original>
+				<trans>men of the jury</trans>
+				<loglikelihood>2362.45</loglikelihood>
+				<count>799</count>
+				<authorContainer>
+					<author><name>Lysias</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ἀθηναῖος</original>
+				<trans>men of athens</trans>
+				<loglikelihood>1908.69</loglikelihood>
+				<count>1017</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγαθός</original>
+				<trans>good man</trans>
+				<loglikelihood>49.98</loglikelihood>
+				<count>250</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δόκιμος</original>
+				<trans>notable a man</trans>
+				<loglikelihood>32.09</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄριστος</original>
+				<trans>best men</trans>
+				<loglikelihood>13.69</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δυσμενής</original>
+				<trans>foemen man</trans>
+				<loglikelihood>13.60</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀλλοδαπός</original>
+				<trans>null</trans>
+				<loglikelihood>8.99</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀριστεύς</original>
+				<trans>a prince</trans>
+				<loglikelihood>7.34</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φίλος</original>
+				<trans>beloved man</trans>
+				<loglikelihood>7.21</loglikelihood>
+				<count>112</count>
+			</collocation>
+			<collocation>
+				<original>ἀξιόλογος</original>
+				<trans>notable men</trans>
+				<loglikelihood>6.89</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλλόγιμος</original>
+				<trans>importance men</trans>
+				<loglikelihood>6.86</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>δέκα</original>
+				<trans>ten men</trans>
+				<loglikelihood>5.60</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>σοφός</original>
+				<trans>wise men</trans>
+				<loglikelihood>5.10</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἷς</original>
+				<trans>one man</trans>
+				<loglikelihood>4.41</loglikelihood>
+				<count>98</count>
+			</collocation>
+			<collocation>
+				<original>δύο</original>
+				<trans>two men</trans>
+				<loglikelihood>4.38</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>αὐτόχθων</original>
+				<trans>an aboriginal man</trans>
+				<loglikelihood>4.04</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σπουδαῖος</original>
+				<trans>good men</trans>
+				<loglikelihood>3.68</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὔζωνος</original>
+				<trans>active man</trans>
+				<loglikelihood>3.31</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>ἰδιώτης</original>
+				<trans>private man</trans>
+				<loglikelihood>3.03</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔνδοξος</original>
+				<trans>famous men</trans>
+				<loglikelihood>2.73</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>τέλειος</original>
+				<trans>mature men</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τοιοῦτος</original>
+				<trans>such men</trans>
+				<loglikelihood>2.43</loglikelihood>
+				<count>90</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρεῖς</original>
+				<trans>three men</trans>
+				<loglikelihood>2.38</loglikelihood>
+				<count>35</count>
+			</collocation>
+			<collocation>
+				<original>θνητός</original>
+				<trans>mortal men</trans>
+				<loglikelihood>2.23</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δάιος</original>
+				<trans>foe man</trans>
+				<loglikelihood>2.20</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἑκατόν</original>
+				<trans>a hundred men</trans>
+				<loglikelihood>2.19</loglikelihood>
+				<count>24</count>
+			</collocation>
+			<collocation>
+				<original>Φαίαξ</original>
+				<trans>null</trans>
+				<loglikelihood>2.07</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντέχω</form>
+	<date>Wed Jul 27 00:03:09 EDT 2011</date>
+	<count>208</count>
+	<per10K>0.439</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>252</count>
+		<senses>
+			<senseContainer>
+				<sense>resist</sense>
+				<count>18</count>
+				<prob>0.071</prob>
+				<loglikelihood>9.250</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hold out</sense>
+				<count>12</count>
+				<prob>0.048</prob>
+				<loglikelihood>27.424</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>resistance</sense>
+				<count>11</count>
+				<prob>0.044</prob>
+				<loglikelihood>7.802</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>held out</sense>
+				<count>6</count>
+				<prob>0.024</prob>
+				<loglikelihood>8.997</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

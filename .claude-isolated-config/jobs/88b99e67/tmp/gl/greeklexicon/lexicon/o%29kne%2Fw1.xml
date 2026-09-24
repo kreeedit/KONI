@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀκνέω</form>
+	<date>Wed Jul 27 00:04:31 EDT 2011</date>
+	<count>219</count>
+	<per10K>0.462</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>214</count>
+		<senses>
+			<senseContainer>
+				<sense>hesitate</sense>
+				<count>79</count>
+				<prob>0.369</prob>
+				<loglikelihood>177.026</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shrink from</sense>
+				<count>14</count>
+				<prob>0.065</prob>
+				<loglikelihood>22.395</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>scruple</sense>
+				<count>11</count>
+				<prob>0.051</prob>
+				<loglikelihood>10.996</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>shrank from</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>9.598</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

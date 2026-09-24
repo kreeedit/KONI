@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔρυμα</form>
+	<date>Tue Jul 26 23:32:56 EDT 2011</date>
+	<count>116</count>
+	<per10K>0.245</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>135</count>
+		<senses>
+			<senseContainer>
+				<sense>fortress</sense>
+				<count>27</count>
+				<prob>0.200</prob>
+				<loglikelihood>16.105</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.444</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.407</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fortification</sense>
+				<count>16</count>
+				<prob>0.119</prob>
+				<loglikelihood>9.567</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.438</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>stronghold</sense>
+				<count>14</count>
+				<prob>0.104</prob>
+				<loglikelihood>6.814</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.714</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

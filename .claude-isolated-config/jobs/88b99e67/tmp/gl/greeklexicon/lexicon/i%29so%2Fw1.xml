@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσόω</form>
+	<date>Wed Jul 27 00:26:48 EDT 2011</date>
+	<count>342</count>
+	<per10K>0.722</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>324</count>
+		<senses>
+			<senseContainer>
+				<sense>probable</sense>
+				<count>45</count>
+				<prob>0.139</prob>
+				<loglikelihood>22.988</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.489</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>daresay</sense>
+				<count>17</count>
+				<prob>0.052</prob>
+				<loglikelihood>29.632</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.882</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>doubtless</sense>
+				<count>15</count>
+				<prob>0.046</prob>
+				<loglikelihood>19.992</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.733</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>may perhaps</sense>
+				<count>9</count>
+				<prob>0.028</prob>
+				<loglikelihood>14.722</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

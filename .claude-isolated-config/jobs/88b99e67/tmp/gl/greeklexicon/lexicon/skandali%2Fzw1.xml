@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σκανδαλίζω</form>
+	<date>Tue Jul 26 22:41:36 EDT 2011</date>
+	<count>26</count>
+	<per10K>0.055</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>29</count>
+		<senses>
+			<senseContainer>
+				<sense>stumble</sense>
+				<count>19</count>
+				<prob>0.655</prob>
+				<loglikelihood>24.066</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

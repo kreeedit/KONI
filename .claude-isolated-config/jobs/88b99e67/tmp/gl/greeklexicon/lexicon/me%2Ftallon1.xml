@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέταλλον</form>
+	<date>Tue Jul 26 23:12:46 EDT 2011</date>
+	<count>74</count>
+	<per10K>0.156</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>mine</sense>
+				<count>37</count>
+				<prob>0.673</prob>
+				<loglikelihood>8.960</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.378</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

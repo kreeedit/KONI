@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρόσωπον</form>
+	<date>Wed Jul 27 00:24:29 EDT 2011</date>
+	<count>328</count>
+	<per10K>0.692</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>448</count>
+		<senses>
+			<senseContainer>
+				<sense>face</sense>
+				<count>210</count>
+				<prob>0.469</prob>
+				<loglikelihood>272.101</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>countenance</sense>
+				<count>20</count>
+				<prob>0.045</prob>
+				<loglikelihood>24.228</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.350</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

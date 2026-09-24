@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἶμι</form>
+	<date>Wed Jul 27 02:51:42 EDT 2011</date>
+	<count>1926</count>
+	<per10K>4.065</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>2209</count>
+		<senses>
+			<senseContainer>
+				<sense>go</sense>
+				<count>515</count>
+				<prob>0.233</prob>
+				<loglikelihood>221.841</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.367</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>come</sense>
+				<count>200</count>
+				<prob>0.091</prob>
+				<loglikelihood>18.274</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>let</sense>
+				<count>45</count>
+				<prob>0.020</prob>
+				<loglikelihood>4.137</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>go to</trans>
+				<loglikelihood>10.80</loglikelihood>
+				<count>287</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>go to</trans>
+				<loglikelihood>4.43</loglikelihood>
+				<count>270</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>δεῦρο</original>
+				<trans>come here</trans>
+				<loglikelihood>2.85</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Aristophanes</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

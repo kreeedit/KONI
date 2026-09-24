@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σοφία</form>
+	<date>Wed Jul 27 00:49:05 EDT 2011</date>
+	<count>483</count>
+	<per10K>1.019</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>578</count>
+		<senses>
+			<senseContainer>
+				<sense>wisdom</sense>
+				<count>365</count>
+				<prob>0.631</prob>
+				<loglikelihood>700.940</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.532</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>skill</sense>
+				<count>25</count>
+				<prob>0.043</prob>
+				<loglikelihood>12.731</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φόρμιγξ</form>
+	<date>Tue Jul 26 23:01:43 EDT 2011</date>
+	<count>54</count>
+	<per10K>0.114</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>55</count>
+		<senses>
+			<senseContainer>
+				<sense>lyre</sense>
+				<count>38</count>
+				<prob>0.691</prob>
+				<loglikelihood>37.504</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.526</relativeFreq></author>
+					<author><name>Pindar</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>λιγύς</original>
+				<trans>clear-toned lyre</trans>
+				<loglikelihood>10.53</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

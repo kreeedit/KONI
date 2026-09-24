@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐργαστήριον</form>
+	<date>Tue Jul 26 22:55:57 EDT 2011</date>
+	<count>45</count>
+	<per10K>0.095</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>factory</sense>
+				<count>17</count>
+				<prob>0.298</prob>
+				<loglikelihood>60.841</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.765</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>shop</sense>
+				<count>11</count>
+				<prob>0.193</prob>
+				<loglikelihood>21.043</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>workshop</sense>
+				<count>6</count>
+				<prob>0.105</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

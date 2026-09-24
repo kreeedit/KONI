@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στρατός</form>
+	<date>Wed Jul 27 02:16:07 EDT 2011</date>
+	<count>1369</count>
+	<per10K>2.889</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1575</count>
+		<senses>
+			<senseContainer>
+				<sense>army</sense>
+				<count>949</count>
+				<prob>0.603</prob>
+				<loglikelihood>1099.553</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.432</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>host</sense>
+				<count>108</count>
+				<prob>0.069</prob>
+				<loglikelihood>105.759</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.417</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>soldier</sense>
+				<count>102</count>
+				<prob>0.065</prob>
+				<loglikelihood>34.303</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.971</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>led his army</trans>
+				<loglikelihood>2.15</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>πεζός</original>
+				<trans>land army</trans>
+				<loglikelihood>5.87</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εὐρύς</original>
+				<trans>wide camp</trans>
+				<loglikelihood>2.10</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

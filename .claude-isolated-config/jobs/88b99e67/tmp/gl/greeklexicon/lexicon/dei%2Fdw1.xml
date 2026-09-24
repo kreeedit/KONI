@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δείδω</form>
+	<date>Wed Jul 27 02:08:40 EDT 2011</date>
+	<count>1268</count>
+	<per10K>2.676</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>570</count>
+		<senses>
+			<senseContainer>
+				<sense>fear</sense>
+				<count>256</count>
+				<prob>0.449</prob>
+				<loglikelihood>113.537</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>afraid</sense>
+				<count>109</count>
+				<prob>0.191</prob>
+				<loglikelihood>73.472</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.330</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>am afraid</sense>
+				<count>26</count>
+				<prob>0.046</prob>
+				<loglikelihood>54.056</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>alarm</sense>
+				<count>18</count>
+				<prob>0.032</prob>
+				<loglikelihood>6.562</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὅταν</form>
+	<date>Wed Jul 27 03:58:39 EDT 2011</date>
+	<count>2968</count>
+	<per10K>6.264</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>3111</count>
+		<senses>
+			<senseContainer>
+				<sense>when</sense>
+				<count>2050</count>
+				<prob>0.659</prob>
+				<loglikelihood>1131.749</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>whenever</sense>
+				<count>220</count>
+				<prob>0.071</prob>
+				<loglikelihood>339.731</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.309</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>when they</sense>
+				<count>154</count>
+				<prob>0.050</prob>
+				<loglikelihood>228.352</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

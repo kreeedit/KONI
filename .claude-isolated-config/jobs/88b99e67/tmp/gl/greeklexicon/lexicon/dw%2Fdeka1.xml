@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δώδεκα</form>
+	<date>Wed Jul 27 00:33:35 EDT 2011</date>
+	<count>383</count>
+	<per10K>0.808</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>402</count>
+		<senses>
+			<senseContainer>
+				<sense>twelve</sense>
+				<count>329</count>
+				<prob>0.818</prob>
+				<loglikelihood>957.753</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

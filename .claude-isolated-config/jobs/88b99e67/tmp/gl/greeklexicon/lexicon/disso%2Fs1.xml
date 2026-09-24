@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δισσός</form>
+	<date>Tue Jul 26 23:44:42 EDT 2011</date>
+	<count>147</count>
+	<per10K>0.31</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>two kinds</sense>
+				<count>6</count>
+				<prob>0.095</prob>
+				<loglikelihood>8.470</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>10</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

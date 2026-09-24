@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ποσός</form>
+	<date>Tue Jul 26 23:25:43 EDT 2011</date>
+	<count>100</count>
+	<per10K>0.211</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>71</count>
+		<senses>
+			<senseContainer>
+				<sense>quantity</sense>
+				<count>24</count>
+				<prob>0.338</prob>
+				<loglikelihood>14.580</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>quantitative</sense>
+				<count>5</count>
+				<prob>0.070</prob>
+				<loglikelihood>7.692</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

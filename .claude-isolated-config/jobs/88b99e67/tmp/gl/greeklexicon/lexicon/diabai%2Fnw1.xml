@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαβαίνω</form>
+	<date>Wed Jul 27 00:56:15 EDT 2011</date>
+	<count>521</count>
+	<per10K>1.1</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>351</count>
+		<senses>
+			<senseContainer>
+				<sense>cross</sense>
+				<count>120</count>
+				<prob>0.342</prob>
+				<loglikelihood>157.749</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.392</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>crossed over</sense>
+				<count>39</count>
+				<prob>0.111</prob>
+				<loglikelihood>63.353</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.359</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cross over</sense>
+				<count>18</count>
+				<prob>0.051</prob>
+				<loglikelihood>35.017</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.444</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ποταμός</original>
+				<trans>crossed the river</trans>
+				<loglikelihood>2.69</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

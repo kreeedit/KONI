@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀνώνυμος</form>
+	<date>Tue Jul 26 23:06:54 EDT 2011</date>
+	<count>63</count>
+	<per10K>0.133</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>80</count>
+		<senses>
+			<senseContainer>
+				<sense>nameless</sense>
+				<count>16</count>
+				<prob>0.200</prob>
+				<loglikelihood>51.198</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>no name</sense>
+				<count>11</count>
+				<prob>0.138</prob>
+				<loglikelihood>40.332</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

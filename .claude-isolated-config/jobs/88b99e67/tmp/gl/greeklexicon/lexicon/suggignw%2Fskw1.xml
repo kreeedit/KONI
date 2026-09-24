@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συγγιγνώσκω</form>
+	<date>Tue Jul 26 23:39:20 EDT 2011</date>
+	<count>134</count>
+	<per10K>0.283</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>109</count>
+		<senses>
+			<senseContainer>
+				<sense>forgive</sense>
+				<count>20</count>
+				<prob>0.183</prob>
+				<loglikelihood>12.210</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.700</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pardon</sense>
+				<count>17</count>
+				<prob>0.156</prob>
+				<loglikelihood>7.455</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>forgive me</sense>
+				<count>4</count>
+				<prob>0.037</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>would forgive</sense>
+				<count>3</count>
+				<prob>0.028</prob>
+				<loglikelihood>11.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

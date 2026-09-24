@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>αἴτιος</form>
+	<date>Wed Jul 27 03:25:28 EDT 2011</date>
+	<count>2434</count>
+	<per10K>5.137</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>2522</count>
+		<senses>
+			<senseContainer>
+				<sense>cause</sense>
+				<count>676</count>
+				<prob>0.268</prob>
+				<loglikelihood>1130.038</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.345</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>reason</sense>
+				<count>229</count>
+				<prob>0.091</prob>
+				<loglikelihood>112.579</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>blame</sense>
+				<count>104</count>
+				<prob>0.041</prob>
+				<loglikelihood>79.096</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>author</sense>
+				<count>102</count>
+				<prob>0.040</prob>
+				<loglikelihood>238.747</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>occasion</sense>
+				<count>96</count>
+				<prob>0.038</prob>
+				<loglikelihood>66.870</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.917</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>charge</sense>
+				<count>89</count>
+				<prob>0.035</prob>
+				<loglikelihood>32.702</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

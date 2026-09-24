@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀναλίσκω</form>
+	<date>Wed Jul 27 00:27:05 EDT 2011</date>
+	<count>344</count>
+	<per10K>0.726</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>281</count>
+		<senses>
+			<senseContainer>
+				<sense>spend</sense>
+				<count>54</count>
+				<prob>0.192</prob>
+				<loglikelihood>56.054</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>expend</sense>
+				<count>14</count>
+				<prob>0.050</prob>
+				<loglikelihood>18.660</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>have spent</sense>
+				<count>7</count>
+				<prob>0.025</prob>
+				<loglikelihood>11.526</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

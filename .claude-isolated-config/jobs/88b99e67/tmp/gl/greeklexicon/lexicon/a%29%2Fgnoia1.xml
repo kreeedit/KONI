@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγνοια</form>
+	<date>Wed Jul 27 00:03:52 EDT 2011</date>
+	<count>213</count>
+	<per10K>0.45</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>288</count>
+		<senses>
+			<senseContainer>
+				<sense>ignorance</sense>
+				<count>123</count>
+				<prob>0.427</prob>
+				<loglikelihood>178.994</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.317</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

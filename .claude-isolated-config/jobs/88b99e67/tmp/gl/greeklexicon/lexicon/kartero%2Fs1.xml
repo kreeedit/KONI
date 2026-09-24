@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καρτερός</form>
+	<date>Tue Jul 26 23:58:41 EDT 2011</date>
+	<count>189</count>
+	<per10K>0.399</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>152</count>
+		<senses>
+			<senseContainer>
+				<sense>strong</sense>
+				<count>36</count>
+				<prob>0.237</prob>
+				<loglikelihood>5.099</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.361</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>49</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

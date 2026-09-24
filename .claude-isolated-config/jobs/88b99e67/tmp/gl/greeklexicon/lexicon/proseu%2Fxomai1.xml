@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προσεύχομαι</form>
+	<date>Tue Jul 26 23:30:27 EDT 2011</date>
+	<count>110</count>
+	<per10K>0.232</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>84</count>
+		<senses>
+			<senseContainer>
+				<sense>pray</sense>
+				<count>53</count>
+				<prob>0.631</prob>
+				<loglikelihood>16.046</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.736</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

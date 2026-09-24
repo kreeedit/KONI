@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καθά</form>
+	<date>Wed Jul 27 02:33:15 EDT 2011</date>
+	<count>1590</count>
+	<per10K>3.356</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>1221</count>
+		<senses>
+			<senseContainer>
+				<sense>as</sense>
+				<count>472</count>
+				<prob>0.387</prob>
+				<loglikelihood>57.798</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>like</sense>
+				<count>109</count>
+				<prob>0.089</prob>
+				<loglikelihood>14.486</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.404</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>just as</sense>
+				<count>105</count>
+				<prob>0.086</prob>
+				<loglikelihood>65.320</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.362</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

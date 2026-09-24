@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημοκρατικός</form>
+	<date>Tue Jul 26 23:01:03 EDT 2011</date>
+	<count>53</count>
+	<per10K>0.112</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>democratic</sense>
+				<count>15</count>
+				<prob>0.441</prob>
+				<loglikelihood>11.392</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

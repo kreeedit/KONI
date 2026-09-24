@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγκυρα</form>
+	<date>Tue Jul 26 23:00:13 EDT 2011</date>
+	<count>52</count>
+	<per10K>0.11</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>59</count>
+		<senses>
+			<senseContainer>
+				<sense>anchor</sense>
+				<count>42</count>
+				<prob>0.712</prob>
+				<loglikelihood>53.860</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cast anchor</sense>
+				<count>3</count>
+				<prob>0.051</prob>
+				<loglikelihood>9.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

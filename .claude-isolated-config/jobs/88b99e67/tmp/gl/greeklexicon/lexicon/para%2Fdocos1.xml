@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παράδοξος</form>
+	<date>Tue Jul 26 23:49:17 EDT 2011</date>
+	<count>160</count>
+	<per10K>0.338</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>260</count>
+		<senses>
+			<senseContainer>
+				<sense>paradox</sense>
+				<count>23</count>
+				<prob>0.088</prob>
+				<loglikelihood>62.226</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.783</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>14</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

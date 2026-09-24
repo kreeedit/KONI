@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄσσα</form>
+	<date>Tue Jul 26 23:33:52 EDT 2011</date>
+	<count>119</count>
+	<per10K>0.251</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>eye</sense>
+				<count>48</count>
+				<prob>0.495</prob>
+				<loglikelihood>8.093</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.938</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ossa</sense>
+				<count>13</count>
+				<prob>0.134</prob>
+				<loglikelihood>23.308</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.615</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>enfolded eyes</sense>
+				<count>12</count>
+				<prob>0.124</prob>
+				<loglikelihood>47.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eyes came</sense>
+				<count>3</count>
+				<prob>0.031</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>καλύπτω</original>
+				<trans>close enfolded his eyes</trans>
+				<loglikelihood>4.04</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

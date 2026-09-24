@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μῖσος</form>
+	<date>Wed Jul 27 00:04:37 EDT 2011</date>
+	<count>219</count>
+	<per10K>0.462</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>249</count>
+		<senses>
+			<senseContainer>
+				<sense>hatred</sense>
+				<count>137</count>
+				<prob>0.550</prob>
+				<loglikelihood>225.412</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.606</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hate</sense>
+				<count>29</count>
+				<prob>0.116</prob>
+				<loglikelihood>6.744</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.586</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

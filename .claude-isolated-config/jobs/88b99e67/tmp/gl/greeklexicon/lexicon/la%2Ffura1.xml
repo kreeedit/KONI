@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λάφυρα</form>
+	<date>Tue Jul 26 23:15:30 EDT 2011</date>
+	<count>80</count>
+	<per10K>0.169</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>97</count>
+		<senses>
+			<senseContainer>
+				<sense>spoil</sense>
+				<count>50</count>
+				<prob>0.515</prob>
+				<loglikelihood>47.841</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.360</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>spoils taken</sense>
+				<count>3</count>
+				<prob>0.031</prob>
+				<loglikelihood>7.200</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

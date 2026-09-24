@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φύσις</form>
+	<date>Wed Jul 27 02:28:40 EDT 2011</date>
+	<count>1519</count>
+	<per10K>3.206</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>1507</count>
+		<senses>
+			<senseContainer>
+				<sense>nature</sense>
+				<count>937</count>
+				<prob>0.622</prob>
+				<loglikelihood>2185.079</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>natural</sense>
+				<count>40</count>
+				<prob>0.027</prob>
+				<loglikelihood>6.658</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ἀνθρώπινος</original>
+				<trans>human nature</trans>
+				<loglikelihood>10.59</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

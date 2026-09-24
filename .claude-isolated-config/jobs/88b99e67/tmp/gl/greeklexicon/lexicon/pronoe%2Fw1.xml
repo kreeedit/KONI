@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προνοέω</form>
+	<date>Tue Jul 26 23:43:53 EDT 2011</date>
+	<count>145</count>
+	<per10K>0.306</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>130</count>
+		<senses>
+			<senseContainer>
+				<sense>take care</sense>
+				<count>14</count>
+				<prob>0.108</prob>
+				<loglikelihood>4.867</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.929</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

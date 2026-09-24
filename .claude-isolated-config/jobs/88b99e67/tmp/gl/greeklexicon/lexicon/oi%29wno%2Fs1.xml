@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οἰωνός</form>
+	<date>Tue Jul 26 23:37:17 EDT 2011</date>
+	<count>128</count>
+	<per10K>0.27</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>129</count>
+		<senses>
+			<senseContainer>
+				<sense>bird</sense>
+				<count>66</count>
+				<prob>0.512</prob>
+				<loglikelihood>43.441</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>omen</sense>
+				<count>20</count>
+				<prob>0.155</prob>
+				<loglikelihood>15.996</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>augury</sense>
+				<count>4</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.266</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>oeonus</sense>
+				<count>3</count>
+				<prob>0.023</prob>
+				<loglikelihood>7.199</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

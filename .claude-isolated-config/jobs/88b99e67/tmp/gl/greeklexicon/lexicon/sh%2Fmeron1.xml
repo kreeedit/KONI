@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σήμερον</form>
+	<date>Tue Jul 26 23:59:28 EDT 2011</date>
+	<count>192</count>
+	<per10K>0.405</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>203</count>
+		<senses>
+			<senseContainer>
+				<sense>today</sense>
+				<count>62</count>
+				<prob>0.305</prob>
+				<loglikelihood>48.487</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>- day</sense>
+				<count>41</count>
+				<prob>0.202</prob>
+				<loglikelihood>149.410</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.585</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>very day</sense>
+				<count>8</count>
+				<prob>0.039</prob>
+				<loglikelihood>7.755</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἰθάκη</form>
+	<date>Tue Jul 26 23:53:33 EDT 2011</date>
+	<count>171</count>
+	<per10K>0.361</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>119</count>
+		<senses>
+			<senseContainer>
+				<sense>ithaca</sense>
+				<count>145</count>
+				<prob>1.218</prob>
+				<loglikelihood>459.551</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.793</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ithaca itself</sense>
+				<count>9</count>
+				<prob>0.076</prob>
+				<loglikelihood>35.998</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>between ithaca</sense>
+				<count>4</count>
+				<prob>0.034</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>εὐδείελος</original>
+				<trans>clear-seen ithaca</trans>
+				<loglikelihood>19.69</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

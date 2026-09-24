@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἕκτωρ</form>
+	<date>Wed Jul 27 01:19:43 EDT 2011</date>
+	<count>707</count>
+	<per10K>1.492</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>571</count>
+		<senses>
+			<senseContainer>
+				<sense>hector</sense>
+				<count>572</count>
+				<prob>1.002</prob>
+				<loglikelihood>2170.100</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.748</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hektor</sense>
+				<count>40</count>
+				<prob>0.070</prob>
+				<loglikelihood>39.227</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>κορυθαίολος</original>
+				<trans>hector of the flashing helm</trans>
+				<loglikelihood>140.84</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φαίδιμος</original>
+				<trans>glorious hector</trans>
+				<loglikelihood>39.55</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πριαμίδης</original>
+				<trans>hector, priam's son</trans>
+				<loglikelihood>21.99</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῖος</original>
+				<trans>goodly hector</trans>
+				<loglikelihood>11.62</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀνδροφόνος</original>
+				<trans>man-slaying hector</trans>
+				<loglikelihood>4.98</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

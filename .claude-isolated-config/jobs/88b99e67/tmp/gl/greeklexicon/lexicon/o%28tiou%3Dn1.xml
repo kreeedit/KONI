@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁτιοῦν</form>
+	<date>Wed Jul 27 00:17:26 EDT 2011</date>
+	<count>294</count>
+	<per10K>0.621</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>385</count>
+		<senses>
+			<senseContainer>
+				<sense>anything</sense>
+				<count>49</count>
+				<prob>0.127</prob>
+				<loglikelihood>7.016</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.592</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>whatsoever</sense>
+				<count>21</count>
+				<prob>0.055</prob>
+				<loglikelihood>9.420</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>anything whatever</sense>
+				<count>8</count>
+				<prob>0.021</prob>
+				<loglikelihood>28.439</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

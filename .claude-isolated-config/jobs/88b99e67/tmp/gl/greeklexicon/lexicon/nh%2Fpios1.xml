@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νήπιος</form>
+	<date>Tue Jul 26 23:47:10 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>186</count>
+		<senses>
+			<senseContainer>
+				<sense>infant</sense>
+				<count>30</count>
+				<prob>0.161</prob>
+				<loglikelihood>66.658</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.633</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>fool</sense>
+				<count>18</count>
+				<prob>0.097</prob>
+				<loglikelihood>7.358</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>baby</sense>
+				<count>9</count>
+				<prob>0.048</prob>
+				<loglikelihood>7.041</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>babe</sense>
+				<count>6</count>
+				<prob>0.032</prob>
+				<loglikelihood>10.284</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

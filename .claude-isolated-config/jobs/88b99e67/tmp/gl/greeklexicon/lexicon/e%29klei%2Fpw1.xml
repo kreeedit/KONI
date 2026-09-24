@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐκλείπω</form>
+	<date>Wed Jul 27 00:32:46 EDT 2011</date>
+	<count>377</count>
+	<per10K>0.796</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>300</count>
+		<senses>
+			<senseContainer>
+				<sense>desert</sense>
+				<count>23</count>
+				<prob>0.077</prob>
+				<loglikelihood>3.966</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.348</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>abandon</sense>
+				<count>20</count>
+				<prob>0.067</prob>
+				<loglikelihood>8.879</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

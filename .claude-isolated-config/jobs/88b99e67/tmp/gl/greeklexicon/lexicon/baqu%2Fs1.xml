@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βαθύς</form>
+	<date>Tue Jul 26 23:57:58 EDT 2011</date>
+	<count>187</count>
+	<per10K>0.395</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>249</count>
+		<senses>
+			<senseContainer>
+				<sense>deep</sense>
+				<count>124</count>
+				<prob>0.498</prob>
+				<loglikelihood>175.687</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>φάραγξ</original>
+				<trans>a deep valley</trans>
+				<loglikelihood>6.92</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

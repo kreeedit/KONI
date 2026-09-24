@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὑπό</form>
+	<date>Wed Jul 27 07:11:59 EDT 2011</date>
+	<count>9354</count>
+	<per10K>19.743</per10K>
+	<posContainer>
+		<pos>prep</pos>
+		<count>13109</count>
+		<senses>
+			<senseContainer>
+				<sense>by</sense>
+				<count>5751</count>
+				<prob>0.439</prob>
+				<loglikelihood>9550.359</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>under</sense>
+				<count>740</count>
+				<prob>0.056</prob>
+				<loglikelihood>1205.771</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>from</sense>
+				<count>379</count>
+				<prob>0.029</prob>
+				<loglikelihood>23.602</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>beneath</sense>
+				<count>363</count>
+				<prob>0.028</prob>
+				<loglikelihood>1087.882</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.639</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>of</sense>
+				<count>263</count>
+				<prob>0.020</prob>
+				<loglikelihood>5.579</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Verbs</type>
+			<collocation>
+				<original>πάσχω</original>
+				<trans>treated by</trans>
+				<loglikelihood>60.67</loglikelihood>
+				<count>223</count>
+			</collocation>
+			<collocation>
+				<original>δαμάζω</original>
+				<trans>vanquished beneath</trans>
+				<loglikelihood>36.56</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀποθνήσκω</original>
+				<trans>killed by</trans>
+				<loglikelihood>28.90</loglikelihood>
+				<count>118</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαφθείρω</original>
+				<trans>corrupted by</trans>
+				<loglikelihood>20.00</loglikelihood>
+				<count>87</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκπίπτω</original>
+				<trans>expelled by</trans>
+				<loglikelihood>15.01</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τάσσω</original>
+				<trans>marshalled by</trans>
+				<loglikelihood>14.02</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπόλλυμι</original>
+				<trans>destroyed by</trans>
+				<loglikelihood>13.85</loglikelihood>
+				<count>90</count>
+			</collocation>
+			<collocation>
+				<original>ἁλίσκομαι</original>
+				<trans>was captured by</trans>
+				<loglikelihood>13.83</loglikelihood>
+				<count>57</count>
+			</collocation>
+			<collocation>
+				<original>ἡσσάομαι</original>
+				<trans>overcome by</trans>
+				<loglikelihood>13.06</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀδικέω</original>
+				<trans>wronged by</trans>
+				<loglikelihood>12.15</loglikelihood>
+				<count>90</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πιέζω</original>
+				<trans>when hard pressed in war by</trans>
+				<loglikelihood>8.87</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>τιμάω</original>
+				<trans>honored by</trans>
+				<loglikelihood>8.15</loglikelihood>
+				<count>55</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>said by</trans>
+				<loglikelihood>7.98</loglikelihood>
+				<count>203</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>περιέχω</original>
+				<trans>surrounded by</trans>
+				<loglikelihood>7.55</loglikelihood>
+				<count>25</count>
+			</collocation>
+			<collocation>
+				<original>πίπτω</original>
+				<trans>fall under</trans>
+				<loglikelihood>7.38</loglikelihood>
+				<count>50</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πλήσσω</original>
+				<trans>struck by</trans>
+				<loglikelihood>6.91</loglikelihood>
+				<count>22</count>
+			</collocation>
+			<collocation>
+				<original>καλέω</original>
+				<trans>called by</trans>
+				<loglikelihood>6.88</loglikelihood>
+				<count>109</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πέμπω</original>
+				<trans>sent by</trans>
+				<loglikelihood>6.37</loglikelihood>
+				<count>76</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄρχω</original>
+				<trans>ruled by</trans>
+				<loglikelihood>5.87</loglikelihood>
+				<count>99</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιβουλεύω</original>
+				<trans>plot by</trans>
+				<loglikelihood>5.84</loglikelihood>
+				<count>28</count>
+			</collocation>
+			<collocation>
+				<original>οἰκέω</original>
+				<trans>inhabited by</trans>
+				<loglikelihood>5.56</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γίγνομαι</original>
+				<trans>became subject</trans>
+				<loglikelihood>5.52</loglikelihood>
+				<count>239</count>
+			</collocation>
+			<collocation>
+				<original>ἄγω</original>
+				<trans>led by</trans>
+				<loglikelihood>5.36</loglikelihood>
+				<count>79</count>
+			</collocation>
+			<collocation>
+				<original>πολιορκέω</original>
+				<trans>besieged by</trans>
+				<loglikelihood>5.31</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξαπατάω</original>
+				<trans>deceived by</trans>
+				<loglikelihood>5.02</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρατέω</original>
+				<trans>conquered in battle by</trans>
+				<loglikelihood>5.01</loglikelihood>
+				<count>53</count>
+			</collocation>
+			<collocation>
+				<original>πράσσω</original>
+				<trans>done by</trans>
+				<loglikelihood>4.71</loglikelihood>
+				<count>97</count>
+			</collocation>
+			<collocation>
+				<original>μισέω</original>
+				<trans>hated by</trans>
+				<loglikelihood>4.52</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>ὁράω</original>
+				<trans>seen by</trans>
+				<loglikelihood>4.40</loglikelihood>
+				<count>84</count>
+			</collocation>
+			<collocation>
+				<original>ἀναιρέω</original>
+				<trans>slain by</trans>
+				<loglikelihood>3.98</loglikelihood>
+				<count>41</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐρῶ</original>
+				<trans>have described by</trans>
+				<loglikelihood>3.97</loglikelihood>
+				<count>72</count>
+			</collocation>
+			<collocation>
+				<original>κεῖμαι</original>
+				<trans>lies below</trans>
+				<loglikelihood>3.91</loglikelihood>
+				<count>47</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λέγω</original>
+				<trans>by</trans>
+				<loglikelihood>3.89</loglikelihood>
+				<count>78</count>
+			</collocation>
+			<collocation>
+				<original>φθείρω</original>
+				<trans>destroyed by</trans>
+				<loglikelihood>3.84</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προπηλακίζω</original>
+				<trans>insulted by</trans>
+				<loglikelihood>3.76</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>προστάσσω</original>
+				<trans>orders by</trans>
+				<loglikelihood>3.39</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξελέγχω</original>
+				<trans>refuted by</trans>
+				<loglikelihood>3.34</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ἐξελαύνω</original>
+				<trans>banished by</trans>
+				<loglikelihood>3.28</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πείθω</original>
+				<trans>persuaded by</trans>
+				<loglikelihood>3.26</loglikelihood>
+				<count>63</count>
+			</collocation>
+			<collocation>
+				<original>ἀγαπάω</original>
+				<trans>beloved by</trans>
+				<loglikelihood>3.15</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>γωνία</original>
+				<trans>null</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>καταπίνω</original>
+				<trans>swallowed up by</trans>
+				<loglikelihood>2.96</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἔχω</original>
+				<trans>held by</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>189</count>
+			</collocation>
+			<collocation>
+				<original>διώκω</original>
+				<trans>pursued by</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>30</count>
+			</collocation>
+			<collocation>
+				<original>βαρύνω</original>
+				<trans>him by</trans>
+				<loglikelihood>2.86</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>κατέχω</original>
+				<trans>held by</trans>
+				<loglikelihood>2.84</loglikelihood>
+				<count>31</count>
+			</collocation>
+			<collocation>
+				<original>ἀφανίζω</original>
+				<trans>wiped out by</trans>
+				<loglikelihood>2.82</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἁρπάζω</original>
+				<trans>carried off by</trans>
+				<loglikelihood>2.78</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κακόω</original>
+				<trans>great by</trans>
+				<loglikelihood>2.75</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>φιλέω</original>
+				<trans>loved by</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>28</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρύπτω</original>
+				<trans>hid by</trans>
+				<loglikelihood>2.73</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>ἕλκω</original>
+				<trans>drag by</trans>
+				<loglikelihood>2.67</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>φρουρέω</original>
+				<trans>garrisoned by</trans>
+				<loglikelihood>2.65</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>ποιέω</original>
+				<trans>made by</trans>
+				<loglikelihood>2.62</loglikelihood>
+				<count>152</count>
+			</collocation>
+			<collocation>
+				<original>παιδεύω</original>
+				<trans>educated by</trans>
+				<loglikelihood>2.57</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>βαπτίζω</original>
+				<trans>baptized by</trans>
+				<loglikelihood>2.52</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παρακρούω</original>
+				<trans>led astray by</trans>
+				<loglikelihood>2.46</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ζεύγνυμι</original>
+				<trans>yoked beneath</trans>
+				<loglikelihood>2.40</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολεμέω</original>
+				<trans>war by</trans>
+				<loglikelihood>2.32</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Appian</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀφαιρέω</original>
+				<trans>deprived by</trans>
+				<loglikelihood>2.30</loglikelihood>
+				<count>31</count>
+			</collocation>
+			<collocation>
+				<original>καταλείπω</original>
+				<trans>left by</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>32</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐκλείπω</original>
+				<trans>abandoned by</trans>
+				<loglikelihood>2.22</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κατασκευάζω</original>
+				<trans>built by</trans>
+				<loglikelihood>2.22</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρέφω</original>
+				<trans>reared by</trans>
+				<loglikelihood>2.18</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>στεφανόω</original>
+				<trans>crowned by</trans>
+				<loglikelihood>2.17</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>δουλόω</original>
+				<trans>enslaved by</trans>
+				<loglikelihood>2.09</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>ἤ</original>
+				<trans>or by</trans>
+				<loglikelihood>2.08</loglikelihood>
+				<count>174</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προκρίνω</original>
+				<trans>nominate by</trans>
+				<loglikelihood>2.03</loglikelihood>
+				<count>7</count>
+			</collocation>
+			<collocation>
+				<original>ἐπαινέω</original>
+				<trans>commended by</trans>
+				<loglikelihood>2.01</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πολέμιος</original>
+				<trans>by the enemy</trans>
+				<loglikelihood>2.00</loglikelihood>
+				<count>48</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

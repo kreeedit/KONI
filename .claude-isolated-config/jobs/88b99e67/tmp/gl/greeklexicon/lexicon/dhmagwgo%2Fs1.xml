@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δημαγωγός</form>
+	<date>Tue Jul 26 23:03:45 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>demagogue</sense>
+				<count>8</count>
+				<prob>0.500</prob>
+				<loglikelihood>6.737</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

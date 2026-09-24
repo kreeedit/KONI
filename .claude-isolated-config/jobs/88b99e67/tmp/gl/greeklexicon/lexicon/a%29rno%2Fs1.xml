@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀρνός</form>
+	<date>Tue Jul 26 23:16:58 EDT 2011</date>
+	<count>83</count>
+	<per10K>0.175</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>82</count>
+		<senses>
+			<senseContainer>
+				<sense>lamb</sense>
+				<count>59</count>
+				<prob>0.720</prob>
+				<loglikelihood>120.029</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.458</relativeFreq></author>
+					<author><name>Flavius Josephus</name><relativeFreq>0.322</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

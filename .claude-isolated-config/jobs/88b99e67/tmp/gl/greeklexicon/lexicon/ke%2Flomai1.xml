@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κέλομαι</form>
+	<date>Tue Jul 26 23:38:50 EDT 2011</date>
+	<count>133</count>
+	<per10K>0.281</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>114</count>
+		<senses>
+			<senseContainer>
+				<sense>bid</sense>
+				<count>33</count>
+				<prob>0.289</prob>
+				<loglikelihood>9.610</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>biddeth</sense>
+				<count>5</count>
+				<prob>0.044</prob>
+				<loglikelihood>4.761</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>biddest</sense>
+				<count>5</count>
+				<prob>0.044</prob>
+				<loglikelihood>7.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

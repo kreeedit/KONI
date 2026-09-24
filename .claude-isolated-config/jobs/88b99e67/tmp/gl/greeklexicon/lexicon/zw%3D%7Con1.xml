@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ζῷον</form>
+	<date>Wed Jul 27 01:13:02 EDT 2011</date>
+	<count>641</count>
+	<per10K>1.353</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>757</count>
+		<senses>
+			<senseContainer>
+				<sense>animal</sense>
+				<count>294</count>
+				<prob>0.388</prob>
+				<loglikelihood>699.584</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.361</relativeFreq></author>
+					<author><name>Plato</name><relativeFreq>0.303</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>creature</sense>
+				<count>102</count>
+				<prob>0.135</prob>
+				<loglikelihood>196.180</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.559</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>living creatures</sense>
+				<count>47</count>
+				<prob>0.062</prob>
+				<loglikelihood>173.197</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.532</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>living creature</sense>
+				<count>37</count>
+				<prob>0.049</prob>
+				<loglikelihood>140.364</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.676</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

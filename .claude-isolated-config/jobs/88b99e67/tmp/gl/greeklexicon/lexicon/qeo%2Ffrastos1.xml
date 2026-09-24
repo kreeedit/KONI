@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θεόφραστος</form>
+	<date>Tue Jul 26 22:53:54 EDT 2011</date>
+	<count>42</count>
+	<per10K>0.089</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>21</count>
+		<senses>
+			<senseContainer>
+				<sense>theophrastus</sense>
+				<count>17</count>
+				<prob>0.810</prob>
+				<loglikelihood>41.285</loglikelihood>
+				<authorContainer>
+					<author><name>Plutarch</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

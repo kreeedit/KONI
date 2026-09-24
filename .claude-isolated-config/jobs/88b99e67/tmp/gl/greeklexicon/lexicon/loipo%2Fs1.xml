@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λοιπός</form>
+	<date>Wed Jul 27 02:32:57 EDT 2011</date>
+	<count>1584</count>
+	<per10K>3.343</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>639</count>
+		<senses>
+			<senseContainer>
+				<sense>rest</sense>
+				<count>135</count>
+				<prob>0.211</prob>
+				<loglikelihood>26.408</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>remain</sense>
+				<count>69</count>
+				<prob>0.108</prob>
+				<loglikelihood>17.337</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>future</sense>
+				<count>38</count>
+				<prob>0.059</prob>
+				<loglikelihood>12.517</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>remainder</sense>
+				<count>20</count>
+				<prob>0.031</prob>
+				<loglikelihood>7.822</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

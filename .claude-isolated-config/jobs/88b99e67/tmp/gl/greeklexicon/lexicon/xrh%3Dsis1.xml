@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρῆσις</form>
+	<date>Tue Jul 26 23:27:19 EDT 2011</date>
+	<count>104</count>
+	<per10K>0.22</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>72</count>
+		<senses>
+			<senseContainer>
+				<sense>use</sense>
+				<count>54</count>
+				<prob>0.750</prob>
+				<loglikelihood>9.231</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.648</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

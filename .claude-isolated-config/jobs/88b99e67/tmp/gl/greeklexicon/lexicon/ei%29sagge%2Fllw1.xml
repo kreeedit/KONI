@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἰσαγγέλλω</form>
+	<date>Tue Jul 26 23:12:14 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>63</count>
+		<senses>
+			<senseContainer>
+				<sense>impeach</sense>
+				<count>9</count>
+				<prob>0.143</prob>
+				<loglikelihood>11.571</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

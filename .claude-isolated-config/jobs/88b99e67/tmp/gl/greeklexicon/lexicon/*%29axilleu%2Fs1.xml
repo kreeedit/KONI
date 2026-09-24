@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀχιλλεύς</form>
+	<date>Wed Jul 27 01:36:08 EDT 2011</date>
+	<count>866</count>
+	<per10K>1.828</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>384</count>
+		<senses>
+			<senseContainer>
+				<sense>achilles</sense>
+				<count>467</count>
+				<prob>1.216</prob>
+				<loglikelihood>923.987</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subject of</type>
+			<collocation>
+				<original>πρόσφημι</original>
+				<trans>him spake achilles</trans>
+				<loglikelihood>9.39</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>ποδαρκής</original>
+				<trans>swift-footed goodly achilles</trans>
+				<loglikelihood>65.32</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῖος</original>
+				<trans>goodly achilles</trans>
+				<loglikelihood>30.60</loglikelihood>
+				<count>60</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Πηληιάδης</original>
+				<trans>son of peleus achilles</trans>
+				<loglikelihood>25.59</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιείκελος</original>
+				<trans>godlike achilles</trans>
+				<loglikelihood>10.88</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πούς</original>
+				<trans>achilles, swift of foot</trans>
+				<loglikelihood>2.66</loglikelihood>
+				<count>31</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

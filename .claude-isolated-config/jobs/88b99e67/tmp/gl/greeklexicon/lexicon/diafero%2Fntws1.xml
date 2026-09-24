@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>διαφερόντως</form>
+	<date>Tue Jul 26 23:41:41 EDT 2011</date>
+	<count>139</count>
+	<per10K>0.293</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>206</count>
+		<senses>
+			<senseContainer>
+				<sense>exceptional</sense>
+				<count>14</count>
+				<prob>0.068</prob>
+				<loglikelihood>26.129</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

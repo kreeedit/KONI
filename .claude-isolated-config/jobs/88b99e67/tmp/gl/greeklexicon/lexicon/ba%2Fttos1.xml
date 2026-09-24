@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βάττος</form>
+	<date>Tue Jul 26 22:45:38 EDT 2011</date>
+	<count>31</count>
+	<per10K>0.065</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>16</count>
+		<senses>
+			<senseContainer>
+				<sense>battus</sense>
+				<count>14</count>
+				<prob>0.875</prob>
+				<loglikelihood>24.500</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

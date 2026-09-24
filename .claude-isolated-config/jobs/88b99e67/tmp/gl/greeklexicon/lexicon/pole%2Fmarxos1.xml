@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πολέμαρχος</form>
+	<date>Tue Jul 26 23:26:54 EDT 2011</date>
+	<count>103</count>
+	<per10K>0.217</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>117</count>
+		<senses>
+			<senseContainer>
+				<sense>polemarch</sense>
+				<count>38</count>
+				<prob>0.325</prob>
+				<loglikelihood>140.872</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>polemarchus</sense>
+				<count>29</count>
+				<prob>0.248</prob>
+				<loglikelihood>112.128</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.793</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>polemarchs</sense>
+				<count>13</count>
+				<prob>0.111</prob>
+				<loglikelihood>39.762</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>war - lord</sense>
+				<count>7</count>
+				<prob>0.060</prob>
+				<loglikelihood>27.999</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>colonel</sense>
+				<count>6</count>
+				<prob>0.051</prob>
+				<loglikelihood>5.332</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

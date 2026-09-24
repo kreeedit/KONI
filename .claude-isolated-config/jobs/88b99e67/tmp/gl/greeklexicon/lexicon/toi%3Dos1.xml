@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τοῖος</form>
+	<date>Tue Jul 26 23:46:57 EDT 2011</date>
+	<count>155</count>
+	<per10K>0.327</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>238</count>
+		<senses>
+			<senseContainer>
+				<sense>such wise</sense>
+				<count>8</count>
+				<prob>0.034</prob>
+				<loglikelihood>21.330</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

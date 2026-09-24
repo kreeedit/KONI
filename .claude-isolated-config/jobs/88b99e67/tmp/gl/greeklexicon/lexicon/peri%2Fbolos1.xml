@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>περίβολος</form>
+	<date>Tue Jul 26 23:42:14 EDT 2011</date>
+	<count>140</count>
+	<per10K>0.295</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>158</count>
+		<senses>
+			<senseContainer>
+				<sense>enclosure</sense>
+				<count>45</count>
+				<prob>0.285</prob>
+				<loglikelihood>120.885</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.711</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>circuit</sense>
+				<count>17</count>
+				<prob>0.108</prob>
+				<loglikelihood>10.601</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.529</relativeFreq></author>
+					<author><name>Strabo</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

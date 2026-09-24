@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔχω</form>
+	<date>Wed Jul 27 06:49:28 EDT 2011</date>
+	<count>8833</count>
+	<per10K>18.643</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>14925</count>
+		<senses>
+			<senseContainer>
+				<sense>have</sense>
+				<count>2749</count>
+				<prob>0.184</prob>
+				<loglikelihood>2779.431</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hold</sense>
+				<count>513</count>
+				<prob>0.034</prob>
+				<loglikelihood>632.772</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>possess</sense>
+				<count>301</count>
+				<prob>0.020</prob>
+				<loglikelihood>364.606</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Prepositions</type>
+			<collocation>
+				<original>πρός</original>
+				<trans>attitude towards</trans>
+				<loglikelihood>40.71</loglikelihood>
+				<count>593</count>
+			</collocation>
+			<collocation>
+				<original>περί</original>
+				<trans>have about</trans>
+				<loglikelihood>17.11</loglikelihood>
+				<count>375</count>
+			</collocation>
+			<collocation>
+				<original>ἐν</original>
+				<trans>had in</trans>
+				<loglikelihood>16.22</loglikelihood>
+				<count>373</count>
+			</collocation>
+			<collocation>
+				<original>εἰς</original>
+				<trans>to have</trans>
+				<loglikelihood>9.64</loglikelihood>
+				<count>533</count>
+			</collocation>
+			<collocation>
+				<original>κατά</original>
+				<trans>have equality according</trans>
+				<loglikelihood>8.39</loglikelihood>
+				<count>276</count>
+			</collocation>
+			<collocation>
+				<original>διά</original>
+				<trans>had because</trans>
+				<loglikelihood>7.95</loglikelihood>
+				<count>225</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπί</original>
+				<trans>with wings on</trans>
+				<loglikelihood>5.98</loglikelihood>
+				<count>292</count>
+			</collocation>
+			<collocation>
+				<original>παρά</original>
+				<trans>had received from</trans>
+				<loglikelihood>5.95</loglikelihood>
+				<count>156</count>
+			</collocation>
+			<collocation>
+				<original>ἀντί</original>
+				<trans>had instead of</trans>
+				<loglikelihood>3.22</loglikelihood>
+				<count>41</count>
+			</collocation>
+			<collocation>
+				<original>ἐκ</original>
+				<trans>had from</trans>
+				<loglikelihood>2.85</loglikelihood>
+				<count>197</count>
+			</collocation>
+			<collocation>
+				<original>ἀμφί</original>
+				<trans>had his</trans>
+				<loglikelihood>2.75</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπό</original>
+				<trans>have from</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>107</count>
+			</collocation>
+			<collocation>
+				<original>πηρός</original>
+				<trans>have contrary</trans>
+				<loglikelihood>2.13</loglikelihood>
+				<count>40</count>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ὄνομα</original>
+				<trans>have the same name</trans>
+				<loglikelihood>5.47</loglikelihood>
+				<count>75</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τοι</original>
+				<trans>broad</trans>
+				<loglikelihood>5.34</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κράτος</original>
+				<trans>power</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>συγγνώμη</original>
+				<trans>have pardon</trans>
+				<loglikelihood>100.00</loglikelihood>
+				<count>96</count>
+			</collocation>
+			<collocation>
+				<original>γνώμη</original>
+				<trans>mind with</trans>
+				<loglikelihood>65.03</loglikelihood>
+				<count>174</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἡσυχία</original>
+				<trans>kept quiet</trans>
+				<loglikelihood>52.42</loglikelihood>
+				<count>79</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλπίς</original>
+				<trans>had hopes</trans>
+				<loglikelihood>34.24</loglikelihood>
+				<count>112</count>
+			</collocation>
+			<collocation>
+				<original>χάρις</original>
+				<trans>had grateful</trans>
+				<loglikelihood>31.60</loglikelihood>
+				<count>131</count>
+			</collocation>
+			<collocation>
+				<original>χρεία</original>
+				<trans>have need</trans>
+				<loglikelihood>23.49</loglikelihood>
+				<count>67</count>
+				<authorContainer>
+					<author><name>Epictetus</name></author>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐξουσία</original>
+				<trans>have power</trans>
+				<loglikelihood>20.69</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+					<author><name>Epictetus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δύναμις</original>
+				<trans>forces he had</trans>
+				<loglikelihood>17.45</loglikelihood>
+				<count>135</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>εἶπον</original>
+				<trans>can say</trans>
+				<loglikelihood>13.69</loglikelihood>
+				<count>198</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τέλος</original>
+				<trans>have an end</trans>
+				<loglikelihood>13.23</loglikelihood>
+				<count>85</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διάθεσις</original>
+				<trans>have chance</trans>
+				<loglikelihood>11.93</loglikelihood>
+				<count>26</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τιμή</original>
+				<trans>have honor</trans>
+				<loglikelihood>10.78</loglikelihood>
+				<count>69</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅς</original>
+				<trans>which he had</trans>
+				<loglikelihood>9.99</loglikelihood>
+				<count>417</count>
+			</collocation>
+			<collocation>
+				<original>βάσις</original>
+				<trans>have</trans>
+				<loglikelihood>9.22</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>μνεία</original>
+				<trans>hold mention</trans>
+				<loglikelihood>8.26</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>νόος</original>
+				<trans>had mind</trans>
+				<loglikelihood>7.13</loglikelihood>
+				<count>48</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χώρα</original>
+				<trans>have country</trans>
+				<loglikelihood>6.61</loglikelihood>
+				<count>86</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρόπος</original>
+				<trans>hold way</trans>
+				<loglikelihood>6.49</loglikelihood>
+				<count>78</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γέρας</original>
+				<trans>have this privilege</trans>
+				<loglikelihood>6.40</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λόγος</original>
+				<trans>possessing reason</trans>
+				<loglikelihood>6.11</loglikelihood>
+				<count>153</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προσηγορία</original>
+				<trans>have name</trans>
+				<loglikelihood>5.70</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>νέω</original>
+				<trans>we sensible</trans>
+				<loglikelihood>5.33</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔννοια</original>
+				<trans>have notion</trans>
+				<loglikelihood>5.31</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>πόνος</original>
+				<trans>have toil</trans>
+				<loglikelihood>5.16</loglikelihood>
+				<count>37</count>
+			</collocation>
+			<collocation>
+				<original>πρᾶγμα</original>
+				<trans>have trouble</trans>
+				<loglikelihood>5.08</loglikelihood>
+				<count>83</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κέρας</original>
+				<trans>hold wing</trans>
+				<loglikelihood>5.07</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χρῆμα</original>
+				<trans>had no money</trans>
+				<loglikelihood>4.96</loglikelihood>
+				<count>74</count>
+				<authorContainer>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πρόνοια</original>
+				<trans>had take care</trans>
+				<loglikelihood>4.77</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σωτηρία</original>
+				<trans>have safety</trans>
+				<loglikelihood>4.53</loglikelihood>
+				<count>37</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>Ὄλυμπος</original>
+				<trans>hold olympus</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γωνία</original>
+				<trans>null</trans>
+				<loglikelihood>4.29</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>ἡλικία</original>
+				<trans>have age</trans>
+				<loglikelihood>4.01</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ζωή</original>
+				<trans>have eternal life</trans>
+				<loglikelihood>3.95</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μηδείς</original>
+				<trans>have nothing</trans>
+				<loglikelihood>3.76</loglikelihood>
+				<count>70</count>
+			</collocation>
+			<collocation>
+				<original>φύσις</original>
+				<trans>have nature</trans>
+				<loglikelihood>3.67</loglikelihood>
+				<count>46</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δίαιτα</original>
+				<trans>have lived</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>πλευρά</original>
+				<trans>have side</trans>
+				<loglikelihood>3.63</loglikelihood>
+				<count>14</count>
+			</collocation>
+			<collocation>
+				<original>διάνοια</original>
+				<trans>have mind</trans>
+				<loglikelihood>3.59</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὅσος</original>
+				<trans>all the ships they had</trans>
+				<loglikelihood>3.56</loglikelihood>
+				<count>101</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>προθυμία</original>
+				<trans>have zeal</trans>
+				<loglikelihood>3.55</loglikelihood>
+				<count>19</count>
+			</collocation>
+			<collocation>
+				<original>ἐγώ</original>
+				<trans>i have</trans>
+				<loglikelihood>3.54</loglikelihood>
+				<count>326</count>
+			</collocation>
+			<collocation>
+				<original>σύ</original>
+				<trans>you have</trans>
+				<loglikelihood>3.19</loglikelihood>
+				<count>255</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τάξις</original>
+				<trans>have position</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀπορία</original>
+				<trans>have difficulties</trans>
+				<loglikelihood>3.11</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀρχιερωσύνη</original>
+				<trans>have high priesthood</trans>
+				<loglikelihood>3.08</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀρχή</original>
+				<trans>have kingdom</trans>
+				<loglikelihood>3.07</loglikelihood>
+				<count>71</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γυνή</original>
+				<trans>had her as a wife</trans>
+				<loglikelihood>2.92</loglikelihood>
+				<count>73</count>
+				<authorContainer>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μνήμη</original>
+				<trans>have remember</trans>
+				<loglikelihood>2.89</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>ἐπιμέλεια</original>
+				<trans>have the care</trans>
+				<loglikelihood>2.88</loglikelihood>
+				<count>20</count>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>know what</trans>
+				<loglikelihood>2.77</loglikelihood>
+				<count>309</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σῶμα</original>
+				<trans>bodily condition</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>53</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὕλη</original>
+				<trans>stop matter</trans>
+				<loglikelihood>2.74</loglikelihood>
+				<count>20</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίς</original>
+				<trans>have everything</trans>
+				<loglikelihood>2.68</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐντολή</original>
+				<trans>have enjoin</trans>
+				<loglikelihood>2.65</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τέχνη</original>
+				<trans>has the art</trans>
+				<loglikelihood>2.51</loglikelihood>
+				<count>35</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπιστήμη</original>
+				<trans>have knowledge</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>29</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χείρ</original>
+				<trans>with the arm</trans>
+				<loglikelihood>2.48</loglikelihood>
+				<count>54</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἡγεμονία</original>
+				<trans>had the command</trans>
+				<loglikelihood>2.25</loglikelihood>
+				<count>17</count>
+			</collocation>
+			<collocation>
+				<original>πρόφασις</original>
+				<trans>have excuse</trans>
+				<loglikelihood>2.21</loglikelihood>
+				<count>18</count>
+			</collocation>
+			<collocation>
+				<original>φράζω</original>
+				<trans>can say</trans>
+				<loglikelihood>2.11</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄγαλμα</original>
+				<trans>had the images</trans>
+				<loglikelihood>2.06</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>διαφορά</original>
+				<trans>possess difference</trans>
+				<loglikelihood>2.04</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἕ</original>
+				<trans>had the</trans>
+				<loglikelihood>2.02</loglikelihood>
+				<count>102</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

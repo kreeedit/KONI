@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἱππόβοτος</form>
+	<date>Tue Jul 26 22:42:45 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>27</count>
+		<senses>
+			<senseContainer>
+				<sense>horse - pasturing</sense>
+				<count>13</count>
+				<prob>0.481</prob>
+				<loglikelihood>52.000</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.692</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>pasture - land</sense>
+				<count>3</count>
+				<prob>0.111</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>Ἄργος</original>
+				<trans>horse-pasturing argos</trans>
+				<loglikelihood>2.69</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

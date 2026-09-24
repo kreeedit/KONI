@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θύω</form>
+	<date>Wed Jul 27 00:46:58 EDT 2011</date>
+	<count>471</count>
+	<per10K>0.994</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>384</count>
+		<senses>
+			<senseContainer>
+				<sense>sacrifice</sense>
+				<count>265</count>
+				<prob>0.690</prob>
+				<loglikelihood>194.551</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

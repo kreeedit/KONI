@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νεώριον</form>
+	<date>Tue Jul 26 23:08:47 EDT 2011</date>
+	<count>66</count>
+	<per10K>0.139</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>53</count>
+		<senses>
+			<senseContainer>
+				<sense>dockyard</sense>
+				<count>16</count>
+				<prob>0.302</prob>
+				<loglikelihood>31.029</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>arsenal</sense>
+				<count>11</count>
+				<prob>0.208</prob>
+				<loglikelihood>17.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>dock</sense>
+				<count>6</count>
+				<prob>0.113</prob>
+				<loglikelihood>4.965</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

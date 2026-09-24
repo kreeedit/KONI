@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταδουλόω</form>
+	<date>Tue Jul 26 23:11:57 EDT 2011</date>
+	<count>72</count>
+	<per10K>0.152</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>49</count>
+		<senses>
+			<senseContainer>
+				<sense>enslave</sense>
+				<count>30</count>
+				<prob>0.612</prob>
+				<loglikelihood>19.046</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἐρινύς</form>
+	<date>Tue Jul 26 23:22:40 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>37</count>
+		<senses>
+			<senseContainer>
+				<sense>erinys</sense>
+				<count>6</count>
+				<prob>0.162</prob>
+				<loglikelihood>10.285</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>erinyes</sense>
+				<count>5</count>
+				<prob>0.135</prob>
+				<loglikelihood>6.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμός</form>
+	<date>Wed Jul 27 04:31:15 EDT 2011</date>
+	<count>3727</count>
+	<per10K>7.866</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>3459</count>
+		<senses>
+			<senseContainer>
+				<sense>my</sense>
+				<count>2316</count>
+				<prob>0.670</prob>
+				<loglikelihood>2653.628</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>mine</sense>
+				<count>243</count>
+				<prob>0.070</prob>
+				<loglikelihood>385.205</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>own</sense>
+				<count>151</count>
+				<prob>0.044</prob>
+				<loglikelihood>15.834</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>μήτηρ</original>
+				<trans>my mother</trans>
+				<loglikelihood>31.43</loglikelihood>
+				<count>133</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Isaeus</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πατήρ</original>
+				<trans>my father</trans>
+				<loglikelihood>29.24</loglikelihood>
+				<count>194</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Demosthenes</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δάμαρ</original>
+				<trans>my wife</trans>
+				<loglikelihood>8.30</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>παῖς</original>
+				<trans>my son</trans>
+				<loglikelihood>7.53</loglikelihood>
+				<count>115</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χείρ</original>
+				<trans>my hand</trans>
+				<loglikelihood>6.56</loglikelihood>
+				<count>74</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+					<author><name>Homer</name></author>
+					<author><name>Sophocles</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πόσις</original>
+				<trans>my husband</trans>
+				<loglikelihood>6.11</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δόμος</original>
+				<trans>my house</trans>
+				<loglikelihood>4.35</loglikelihood>
+				<count>34</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>γνώμη</original>
+				<trans>my opinion</trans>
+				<loglikelihood>3.80</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δῶμα</original>
+				<trans>my house</trans>
+				<loglikelihood>3.38</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πάππος</original>
+				<trans>my grandfather</trans>
+				<loglikelihood>2.60</loglikelihood>
+				<count>11</count>
+			</collocation>
+			<collocation>
+				<original>ψυχή</original>
+				<trans>my life</trans>
+				<loglikelihood>2.53</loglikelihood>
+				<count>42</count>
+				<authorContainer>
+					<author><name>Euripides</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λόγος</original>
+				<trans>my words</trans>
+				<loglikelihood>2.42</loglikelihood>
+				<count>84</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κῆρ</original>
+				<trans>my heart</trans>
+				<loglikelihood>2.09</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

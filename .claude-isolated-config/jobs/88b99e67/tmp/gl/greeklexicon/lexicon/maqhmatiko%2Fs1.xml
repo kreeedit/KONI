@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μαθηματικός</form>
+	<date>Tue Jul 26 23:28:43 EDT 2011</date>
+	<count>106</count>
+	<per10K>0.224</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>mathematical</sense>
+				<count>18</count>
+				<prob>0.281</prob>
+				<loglikelihood>25.410</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mathematics</sense>
+				<count>10</count>
+				<prob>0.156</prob>
+				<loglikelihood>8.510</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.900</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>mathematical objects</sense>
+				<count>3</count>
+				<prob>0.047</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>3</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

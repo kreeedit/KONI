@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὔδμητος</form>
+	<date>Tue Jul 26 22:34:31 EDT 2011</date>
+	<count>17</count>
+	<per10K>0.036</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>15</count>
+		<senses>
+			<senseContainer>
+				<sense>well - built</sense>
+				<count>7</count>
+				<prob>0.467</prob>
+				<loglikelihood>4.000</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>well - builded</sense>
+				<count>3</count>
+				<prob>0.200</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

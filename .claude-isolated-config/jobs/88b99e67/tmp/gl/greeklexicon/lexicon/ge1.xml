@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γε</form>
+	<date>Wed Jul 27 03:22:51 EDT 2011</date>
+	<count>2412</count>
+	<per10K>5.091</per10K>
+	<posContainer>
+		<pos>partic</pos>
+		<count>12797</count>
+		<senses>
+			<senseContainer>
+				<sense>yes</sense>
+				<count>278</count>
+				<prob>0.022</prob>
+				<loglikelihood>140.766</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.342</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

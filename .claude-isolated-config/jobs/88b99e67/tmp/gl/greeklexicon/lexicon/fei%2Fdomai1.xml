@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φείδομαι</form>
+	<date>Wed Jul 27 00:02:27 EDT 2011</date>
+	<count>206</count>
+	<per10K>0.435</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>168</count>
+		<senses>
+			<senseContainer>
+				<sense>spare</sense>
+				<count>88</count>
+				<prob>0.524</prob>
+				<loglikelihood>135.248</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.352</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>would spare</sense>
+				<count>4</count>
+				<prob>0.024</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

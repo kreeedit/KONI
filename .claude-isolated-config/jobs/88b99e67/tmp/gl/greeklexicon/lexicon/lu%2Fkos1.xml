@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λύκος</form>
+	<date>Tue Jul 26 23:54:42 EDT 2011</date>
+	<count>175</count>
+	<per10K>0.369</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>201</count>
+		<senses>
+			<senseContainer>
+				<sense>wolf</sense>
+				<count>110</count>
+				<prob>0.547</prob>
+				<loglikelihood>372.281</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lycus</sense>
+				<count>51</count>
+				<prob>0.254</prob>
+				<loglikelihood>162.547</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.529</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πειράω</form>
+	<date>Wed Jul 27 01:47:40 EDT 2011</date>
+	<count>1002</count>
+	<per10K>2.115</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>936</count>
+		<senses>
+			<senseContainer>
+				<sense>try</sense>
+				<count>291</count>
+				<prob>0.311</prob>
+				<loglikelihood>574.695</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.357</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>attempt</sense>
+				<count>81</count>
+				<prob>0.087</prob>
+				<loglikelihood>45.361</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>endeavor</sense>
+				<count>70</count>
+				<prob>0.075</prob>
+				<loglikelihood>118.681</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>make trial</sense>
+				<count>29</count>
+				<prob>0.031</prob>
+				<loglikelihood>76.409</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>experience</sense>
+				<count>22</count>
+				<prob>0.024</prob>
+				<loglikelihood>5.627</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

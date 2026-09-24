@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄριστος</form>
+	<date>Wed Jul 27 02:11:25 EDT 2011</date>
+	<count>1307</count>
+	<per10K>2.759</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>1165</count>
+		<senses>
+			<senseContainer>
+				<sense>brave</sense>
+				<count>63</count>
+				<prob>0.054</prob>
+				<loglikelihood>34.393</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.492</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>noble</sense>
+				<count>47</count>
+				<prob>0.040</prob>
+				<loglikelihood>8.710</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>excellent</sense>
+				<count>30</count>
+				<prob>0.026</prob>
+				<loglikelihood>13.275</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

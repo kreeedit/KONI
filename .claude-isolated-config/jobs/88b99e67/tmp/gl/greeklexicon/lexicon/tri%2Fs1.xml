@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τρίς</form>
+	<date>Wed Jul 27 00:03:55 EDT 2011</date>
+	<count>213</count>
+	<per10K>0.45</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>227</count>
+		<senses>
+			<senseContainer>
+				<sense>thrice</sense>
+				<count>90</count>
+				<prob>0.396</prob>
+				<loglikelihood>317.619</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.511</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>three times</sense>
+				<count>58</count>
+				<prob>0.256</prob>
+				<loglikelihood>206.996</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>thrice did</sense>
+				<count>8</count>
+				<prob>0.035</prob>
+				<loglikelihood>31.997</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

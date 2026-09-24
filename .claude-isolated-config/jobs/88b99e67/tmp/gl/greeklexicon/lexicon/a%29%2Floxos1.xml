@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄλοχος</form>
+	<date>Wed Jul 27 00:05:32 EDT 2011</date>
+	<count>225</count>
+	<per10K>0.475</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>206</count>
+		<senses>
+			<senseContainer>
+				<sense>wife</sense>
+				<count>141</count>
+				<prob>0.684</prob>
+				<loglikelihood>50.299</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.596</relativeFreq></author>
+					<author><name>Euripides</name><relativeFreq>0.305</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>κουρίδιος</original>
+				<trans>wedded wife</trans>
+				<loglikelihood>7.75</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

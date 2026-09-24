@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀρθός</form>
+	<date>Wed Jul 27 02:40:54 EDT 2011</date>
+	<count>1732</count>
+	<per10K>3.656</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>592</count>
+		<senses>
+			<senseContainer>
+				<sense>right</sense>
+				<count>270</count>
+				<prob>0.456</prob>
+				<loglikelihood>93.765</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.756</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>correct</sense>
+				<count>43</count>
+				<prob>0.073</prob>
+				<loglikelihood>23.588</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.674</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>quite right</sense>
+				<count>18</count>
+				<prob>0.030</prob>
+				<loglikelihood>31.592</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>518</count>
+		<senses>
+			<senseContainer>
+				<sense>right</sense>
+				<count>142</count>
+				<prob>0.274</prob>
+				<loglikelihood>25.886</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.549</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>upright</sense>
+				<count>32</count>
+				<prob>0.062</prob>
+				<loglikelihood>46.518</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>correct</sense>
+				<count>22</count>
+				<prob>0.042</prob>
+				<loglikelihood>6.166</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.682</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

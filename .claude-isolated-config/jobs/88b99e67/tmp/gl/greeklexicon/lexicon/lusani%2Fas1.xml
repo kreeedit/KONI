@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λυσανίας</form>
+	<date>Tue Jul 26 22:34:09 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>8</count>
+		<senses>
+			<senseContainer>
+				<sense>lysanias</sense>
+				<count>6</count>
+				<prob>0.750</prob>
+				<loglikelihood>10.286</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νοσέω</form>
+	<date>Wed Jul 27 00:08:33 EDT 2011</date>
+	<count>244</count>
+	<per10K>0.515</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>119</count>
+		<senses>
+			<senseContainer>
+				<sense>sick</sense>
+				<count>26</count>
+				<prob>0.218</prob>
+				<loglikelihood>12.176</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>diseased</sense>
+				<count>9</count>
+				<prob>0.076</prob>
+				<loglikelihood>11.171</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

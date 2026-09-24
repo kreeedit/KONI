@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κοινωνός</form>
+	<date>Tue Jul 26 23:41:29 EDT 2011</date>
+	<count>138</count>
+	<per10K>0.291</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>50</count>
+		<senses>
+			<senseContainer>
+				<sense>partner</sense>
+				<count>10</count>
+				<prob>0.200</prob>
+				<loglikelihood>4.395</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

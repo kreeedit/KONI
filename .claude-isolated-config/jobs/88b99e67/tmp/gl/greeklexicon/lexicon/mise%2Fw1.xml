@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μισέω</form>
+	<date>Wed Jul 27 00:51:07 EDT 2011</date>
+	<count>498</count>
+	<per10K>1.051</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>405</count>
+		<senses>
+			<senseContainer>
+				<sense>hate</sense>
+				<count>213</count>
+				<prob>0.526</prob>
+				<loglikelihood>364.302</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>hatred</sense>
+				<count>33</count>
+				<prob>0.081</prob>
+				<loglikelihood>13.059</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>abhor</sense>
+				<count>17</count>
+				<prob>0.042</prob>
+				<loglikelihood>25.119</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.412</relativeFreq></author>
+					<author><name>Isocrates</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>detest</sense>
+				<count>15</count>
+				<prob>0.037</prob>
+				<loglikelihood>19.990</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.467</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>dislike</sense>
+				<count>9</count>
+				<prob>0.022</prob>
+				<loglikelihood>6.474</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκούω</form>
+	<date>Wed Jul 27 04:53:07 EDT 2011</date>
+	<count>4372</count>
+	<per10K>9.228</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>3029</count>
+		<senses>
+			<senseContainer>
+				<sense>hear</sense>
+				<count>1691</count>
+				<prob>0.558</prob>
+				<loglikelihood>3263.613</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>listen</sense>
+				<count>310</count>
+				<prob>0.102</prob>
+				<loglikelihood>533.128</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>φωνή</original>
+				<trans>heard a voice</trans>
+				<loglikelihood>7.56</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄψ</original>
+				<trans>heard voice</trans>
+				<loglikelihood>4.30</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>μῦθος</original>
+				<trans>hearken to the words</trans>
+				<loglikelihood>2.54</loglikelihood>
+				<count>22</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λόγος</original>
+				<trans>heard the word</trans>
+				<loglikelihood>2.05</loglikelihood>
+				<count>77</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

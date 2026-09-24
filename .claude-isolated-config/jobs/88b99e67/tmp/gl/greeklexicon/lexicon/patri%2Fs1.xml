@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πατρίς</form>
+	<date>Wed Jul 27 02:01:39 EDT 2011</date>
+	<count>1165</count>
+	<per10K>2.459</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>211</count>
+		<senses>
+			<senseContainer>
+				<sense>country</sense>
+				<count>61</count>
+				<prob>0.289</prob>
+				<loglikelihood>4.539</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fatherland</sense>
+				<count>26</count>
+				<prob>0.123</prob>
+				<loglikelihood>17.899</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>native</sense>
+				<count>22</count>
+				<prob>0.104</prob>
+				<loglikelihood>5.183</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>native land</sense>
+				<count>18</count>
+				<prob>0.085</prob>
+				<loglikelihood>14.556</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

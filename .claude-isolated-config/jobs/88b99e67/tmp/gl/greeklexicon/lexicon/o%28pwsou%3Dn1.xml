@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁπωσοῦν</form>
+	<date>Tue Jul 26 23:19:23 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>conj</pos>
+		<count>91</count>
+		<senses>
+			<senseContainer>
+				<sense>in any way whatsoever</sense>
+				<count>3</count>
+				<prob>0.033</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

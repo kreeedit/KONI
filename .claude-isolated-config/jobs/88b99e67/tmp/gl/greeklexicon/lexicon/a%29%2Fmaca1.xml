@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄμαξα</form>
+	<date>Tue Jul 26 23:31:54 EDT 2011</date>
+	<count>114</count>
+	<per10K>0.241</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>138</count>
+		<senses>
+			<senseContainer>
+				<sense>wagons</sense>
+				<count>46</count>
+				<prob>0.333</prob>
+				<loglikelihood>153.882</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.435</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>wagon</sense>
+				<count>33</count>
+				<prob>0.239</prob>
+				<loglikelihood>70.251</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cart</sense>
+				<count>13</count>
+				<prob>0.094</prob>
+				<loglikelihood>33.797</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγριος</form>
+	<date>Wed Jul 27 00:07:46 EDT 2011</date>
+	<count>240</count>
+	<per10K>0.507</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>264</count>
+		<senses>
+			<senseContainer>
+				<sense>wild</sense>
+				<count>99</count>
+				<prob>0.375</prob>
+				<loglikelihood>213.029</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>savage</sense>
+				<count>50</count>
+				<prob>0.189</prob>
+				<loglikelihood>88.475</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>fierce</sense>
+				<count>25</count>
+				<prob>0.095</prob>
+				<loglikelihood>18.372</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>ὗς</original>
+				<trans>wild boars</trans>
+				<loglikelihood>2.45</loglikelihood>
+				<count>11</count>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βότρυς</form>
+	<date>Tue Jul 26 22:45:08 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>35</count>
+		<senses>
+			<senseContainer>
+				<sense>grape</sense>
+				<count>17</count>
+				<prob>0.486</prob>
+				<loglikelihood>27.523</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cluster</sense>
+				<count>5</count>
+				<prob>0.143</prob>
+				<loglikelihood>5.555</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

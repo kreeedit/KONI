@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐπιθυμέω</form>
+	<date>Wed Jul 27 01:27:58 EDT 2011</date>
+	<count>779</count>
+	<per10K>1.644</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>629</count>
+		<senses>
+			<senseContainer>
+				<sense>desire</sense>
+				<count>294</count>
+				<prob>0.467</prob>
+				<loglikelihood>146.015</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.354</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eager</sense>
+				<count>35</count>
+				<prob>0.056</prob>
+				<loglikelihood>10.877</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>covet</sense>
+				<count>31</count>
+				<prob>0.049</prob>
+				<loglikelihood>52.625</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>desirous</sense>
+				<count>15</count>
+				<prob>0.024</prob>
+				<loglikelihood>4.190</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

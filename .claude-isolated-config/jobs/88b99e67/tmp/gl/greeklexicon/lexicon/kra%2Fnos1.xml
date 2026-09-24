@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κράνος</form>
+	<date>Tue Jul 26 23:05:00 EDT 2011</date>
+	<count>60</count>
+	<per10K>0.127</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>64</count>
+		<senses>
+			<senseContainer>
+				<sense>helmet</sense>
+				<count>45</count>
+				<prob>0.703</prob>
+				<loglikelihood>61.829</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

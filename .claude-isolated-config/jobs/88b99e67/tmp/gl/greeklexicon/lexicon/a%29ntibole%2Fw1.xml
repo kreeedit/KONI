@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντιβολέω</form>
+	<date>Tue Jul 26 23:17:03 EDT 2011</date>
+	<count>84</count>
+	<per10K>0.177</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>81</count>
+		<senses>
+			<senseContainer>
+				<sense>beseech</sense>
+				<count>14</count>
+				<prob>0.173</prob>
+				<loglikelihood>7.610</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>adjure</sense>
+				<count>6</count>
+				<prob>0.074</prob>
+				<loglikelihood>4.363</loglikelihood>
+				<authorContainer>
+					<author><name>Aristophanes</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

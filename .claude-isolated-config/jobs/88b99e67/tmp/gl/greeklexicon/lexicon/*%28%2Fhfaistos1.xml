@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἥφαιστος</form>
+	<date>Tue Jul 26 23:55:50 EDT 2011</date>
+	<count>179</count>
+	<per10K>0.378</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>104</count>
+		<senses>
+			<senseContainer>
+				<sense>hephaestus</sense>
+				<count>86</count>
+				<prob>0.827</prob>
+				<loglikelihood>195.912</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.616</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hephaistos</sense>
+				<count>14</count>
+				<prob>0.135</prob>
+				<loglikelihood>24.498</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

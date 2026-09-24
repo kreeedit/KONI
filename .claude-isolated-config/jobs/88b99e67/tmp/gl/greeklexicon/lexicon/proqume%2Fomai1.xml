@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προθυμέομαι</form>
+	<date>Tue Jul 26 23:47:20 EDT 2011</date>
+	<count>157</count>
+	<per10K>0.331</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>110</count>
+		<senses>
+			<senseContainer>
+				<sense>eager</sense>
+				<count>24</count>
+				<prob>0.218</prob>
+				<loglikelihood>5.127</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>do best</sense>
+				<count>5</count>
+				<prob>0.045</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

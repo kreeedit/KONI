@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἑκατόν</form>
+	<date>Wed Jul 27 01:25:07 EDT 2011</date>
+	<count>747</count>
+	<per10K>1.577</per10K>
+	<posContainer>
+		<pos>numeral</pos>
+		<count>871</count>
+		<senses>
+			<senseContainer>
+				<sense>hundred</sense>
+				<count>389</count>
+				<prob>0.447</prob>
+				<loglikelihood>846.107</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>one hundred</sense>
+				<count>250</count>
+				<prob>0.287</prob>
+				<loglikelihood>991.749</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.380</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>100</sense>
+				<count>25</count>
+				<prob>0.029</prob>
+				<loglikelihood>62.464</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

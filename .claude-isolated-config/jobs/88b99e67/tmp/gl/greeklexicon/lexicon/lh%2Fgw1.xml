@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λήγω</form>
+	<date>Wed Jul 27 00:00:33 EDT 2011</date>
+	<count>198</count>
+	<per10K>0.418</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>187</count>
+		<senses>
+			<senseContainer>
+				<sense>cease</sense>
+				<count>25</count>
+				<prob>0.134</prob>
+				<loglikelihood>6.677</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cease from</sense>
+				<count>10</count>
+				<prob>0.053</prob>
+				<loglikelihood>5.192</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

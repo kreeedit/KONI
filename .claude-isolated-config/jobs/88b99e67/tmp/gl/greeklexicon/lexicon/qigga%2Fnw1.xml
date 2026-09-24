@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θιγγάνω</form>
+	<date>Tue Jul 26 23:10:49 EDT 2011</date>
+	<count>70</count>
+	<per10K>0.148</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>72</count>
+		<senses>
+			<senseContainer>
+				<sense>touch</sense>
+				<count>24</count>
+				<prob>0.333</prob>
+				<loglikelihood>8.595</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φέγγος</form>
+	<date>Tue Jul 26 23:02:31 EDT 2011</date>
+	<count>55</count>
+	<per10K>0.116</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>67</count>
+		<senses>
+			<senseContainer>
+				<sense>light</sense>
+				<count>41</count>
+				<prob>0.612</prob>
+				<loglikelihood>9.120</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.415</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

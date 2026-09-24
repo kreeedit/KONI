@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πεδίον</form>
+	<date>Wed Jul 27 01:28:42 EDT 2011</date>
+	<count>786</count>
+	<per10K>1.659</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>883</count>
+		<senses>
+			<senseContainer>
+				<sense>plain</sense>
+				<count>710</count>
+				<prob>0.804</prob>
+				<loglikelihood>1608.625</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Θήβη</original>
+				<trans>plain of thebe</trans>
+				<loglikelihood>3.75</loglikelihood>
+				<count>8</count>
+				<authorContainer>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

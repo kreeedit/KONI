@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔτι</form>
+	<date>Wed Jul 27 05:22:35 EDT 2011</date>
+	<count>5270</count>
+	<per10K>11.123</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>7322</count>
+		<senses>
+			<senseContainer>
+				<sense>still</sense>
+				<count>1702</count>
+				<prob>0.232</prob>
+				<loglikelihood>4749.819</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>further</sense>
+				<count>346</count>
+				<prob>0.047</prob>
+				<loglikelihood>534.486</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.355</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>even</sense>
+				<count>272</count>
+				<prob>0.037</prob>
+				<loglikelihood>64.801</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>more</sense>
+				<count>267</count>
+				<prob>0.036</prob>
+				<loglikelihood>62.081</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>again</sense>
+				<count>250</count>
+				<prob>0.034</prob>
+				<loglikelihood>72.315</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.548</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>yet</sense>
+				<count>217</count>
+				<prob>0.030</prob>
+				<loglikelihood>53.950</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>also</sense>
+				<count>160</count>
+				<prob>0.022</prob>
+				<loglikelihood>8.514</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.419</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

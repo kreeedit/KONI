@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φορεῖον</form>
+	<date>Tue Jul 26 22:36:09 EDT 2011</date>
+	<count>18</count>
+	<per10K>0.038</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>litter</sense>
+				<count>12</count>
+				<prob>0.600</prob>
+				<loglikelihood>23.040</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sedan</sense>
+				<count>3</count>
+				<prob>0.150</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

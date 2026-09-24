@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>φιλοτιμία</form>
+	<date>Tue Jul 26 23:56:03 EDT 2011</date>
+	<count>180</count>
+	<per10K>0.38</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>255</count>
+		<senses>
+			<senseContainer>
+				<sense>ambition</sense>
+				<count>56</count>
+				<prob>0.220</prob>
+				<loglikelihood>90.877</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>liberality</sense>
+				<count>12</count>
+				<prob>0.047</prob>
+				<loglikelihood>9.758</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.833</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θεόπομπος</form>
+	<date>Tue Jul 26 23:34:30 EDT 2011</date>
+	<count>121</count>
+	<per10K>0.255</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>70</count>
+		<senses>
+			<senseContainer>
+				<sense>theopompus</sense>
+				<count>63</count>
+				<prob>0.900</prob>
+				<loglikelihood>149.769</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

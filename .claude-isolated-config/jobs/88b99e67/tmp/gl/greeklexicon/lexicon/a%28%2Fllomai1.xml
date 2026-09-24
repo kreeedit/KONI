@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἅλλομαι</form>
+	<date>Tue Jul 26 23:09:44 EDT 2011</date>
+	<count>68</count>
+	<per10K>0.144</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>57</count>
+		<senses>
+			<senseContainer>
+				<sense>leapt</sense>
+				<count>18</count>
+				<prob>0.316</prob>
+				<loglikelihood>24.922</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.944</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>χαμᾶζε</original>
+				<trans>leapt in his armour from his chariot to the ground</trans>
+				<loglikelihood>16.00</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὀπτάω</form>
+	<date>Tue Jul 26 22:55:46 EDT 2011</date>
+	<count>44</count>
+	<per10K>0.093</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>34</count>
+		<senses>
+			<senseContainer>
+				<sense>roast</sense>
+				<count>11</count>
+				<prob>0.324</prob>
+				<loglikelihood>10.521</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>bake</sense>
+				<count>5</count>
+				<prob>0.147</prob>
+				<loglikelihood>4.166</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

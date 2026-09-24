@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παύω</form>
+	<date>Wed Jul 27 01:46:43 EDT 2011</date>
+	<count>985</count>
+	<per10K>2.079</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>997</count>
+		<senses>
+			<senseContainer>
+				<sense>cease</sense>
+				<count>173</count>
+				<prob>0.174</prob>
+				<loglikelihood>319.830</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>stop</sense>
+				<count>160</count>
+				<prob>0.160</prob>
+				<loglikelihood>253.218</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>cease from</sense>
+				<count>52</count>
+				<prob>0.052</prob>
+				<loglikelihood>140.382</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.308</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>end</sense>
+				<count>42</count>
+				<prob>0.042</prob>
+				<loglikelihood>5.040</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>leave off</sense>
+				<count>25</count>
+				<prob>0.025</prob>
+				<loglikelihood>40.942</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.840</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>put end</sense>
+				<count>22</count>
+				<prob>0.022</prob>
+				<loglikelihood>31.189</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

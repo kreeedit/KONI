@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Αἰνείας</form>
+	<date>Tue Jul 26 23:49:29 EDT 2011</date>
+	<count>161</count>
+	<per10K>0.34</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>48</count>
+		<senses>
+			<senseContainer>
+				<sense>aeneas</sense>
+				<count>38</count>
+				<prob>0.792</prob>
+				<loglikelihood>40.390</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.868</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>aeneias</sense>
+				<count>7</count>
+				<prob>0.146</prob>
+				<loglikelihood>15.076</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

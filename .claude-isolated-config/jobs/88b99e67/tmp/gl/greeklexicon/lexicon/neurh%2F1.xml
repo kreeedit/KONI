@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νευρή</form>
+	<date>Tue Jul 26 22:52:10 EDT 2011</date>
+	<count>39</count>
+	<per10K>0.082</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>31</count>
+		<senses>
+			<senseContainer>
+				<sense>string</sense>
+				<count>19</count>
+				<prob>0.613</prob>
+				<loglikelihood>16.044</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.842</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>neuri</sense>
+				<count>4</count>
+				<prob>0.129</prob>
+				<loglikelihood>6.400</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

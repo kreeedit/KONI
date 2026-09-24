@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>παρακελεύομαι</form>
+	<date>Tue Jul 26 23:51:42 EDT 2011</date>
+	<count>166</count>
+	<per10K>0.35</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>129</count>
+		<senses>
+			<senseContainer>
+				<sense>exhort</sense>
+				<count>21</count>
+				<prob>0.163</prob>
+				<loglikelihood>7.285</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.381</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>exhortation</sense>
+				<count>13</count>
+				<prob>0.101</prob>
+				<loglikelihood>9.011</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

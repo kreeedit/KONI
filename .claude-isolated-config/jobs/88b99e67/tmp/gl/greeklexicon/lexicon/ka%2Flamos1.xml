@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κάλαμος</form>
+	<date>Tue Jul 26 22:53:16 EDT 2011</date>
+	<count>41</count>
+	<per10K>0.087</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>reed</sense>
+				<count>31</count>
+				<prob>0.608</prob>
+				<loglikelihood>68.641</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>γεραιός</form>
+	<date>Tue Jul 26 23:52:53 EDT 2011</date>
+	<count>169</count>
+	<per10K>0.357</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>122</count>
+		<senses>
+			<senseContainer>
+				<sense>old man</sense>
+				<count>27</count>
+				<prob>0.221</prob>
+				<loglikelihood>7.322</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.556</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>elder</sense>
+				<count>19</count>
+				<prob>0.156</prob>
+				<loglikelihood>4.146</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.737</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

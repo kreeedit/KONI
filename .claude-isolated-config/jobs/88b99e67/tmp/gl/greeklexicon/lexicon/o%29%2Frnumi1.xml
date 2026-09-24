@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὄρνυμι</form>
+	<date>Wed Jul 27 00:22:40 EDT 2011</date>
+	<count>317</count>
+	<per10K>0.669</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>318</count>
+		<senses>
+			<senseContainer>
+				<sense>rouse</sense>
+				<count>33</count>
+				<prob>0.104</prob>
+				<loglikelihood>26.707</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.879</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>arise</sense>
+				<count>32</count>
+				<prob>0.101</prob>
+				<loglikelihood>9.106</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.812</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Subjects</type>
+			<collocation>
+				<original>ὀρυμαγδός</original>
+				<trans>null</trans>
+				<loglikelihood>10.31</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Objects</type>
+			<collocation>
+				<original>ἵμερος</original>
+				<trans>weep desire</trans>
+				<loglikelihood>7.93</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

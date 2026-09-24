@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προκαλέω</form>
+	<date>Wed Jul 27 00:05:53 EDT 2011</date>
+	<count>226</count>
+	<per10K>0.477</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>184</count>
+		<senses>
+			<senseContainer>
+				<sense>challenge</sense>
+				<count>69</count>
+				<prob>0.375</prob>
+				<loglikelihood>77.084</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.580</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

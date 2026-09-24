@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μάκαρ</form>
+	<date>Tue Jul 26 23:58:29 EDT 2011</date>
+	<count>189</count>
+	<per10K>0.399</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>135</count>
+		<senses>
+			<senseContainer>
+				<sense>blest</sense>
+				<count>12</count>
+				<prob>0.089</prob>
+				<loglikelihood>15.997</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.583</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>blessed gods</sense>
+				<count>9</count>
+				<prob>0.067</prob>
+				<loglikelihood>35.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>41</count>
+		<senses>
+			<senseContainer>
+				<sense>macartatus</sense>
+				<count>8</count>
+				<prob>0.195</prob>
+				<loglikelihood>6.095</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.750</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

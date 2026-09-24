@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συσσίτιον</form>
+	<date>Tue Jul 26 23:03:31 EDT 2011</date>
+	<count>57</count>
+	<per10K>0.12</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>62</count>
+		<senses>
+			<senseContainer>
+				<sense>common meals</sense>
+				<count>14</count>
+				<prob>0.226</prob>
+				<loglikelihood>55.999</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>public mess - tables</sense>
+				<count>5</count>
+				<prob>0.081</prob>
+				<loglikelihood>19.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>public meals</sense>
+				<count>4</count>
+				<prob>0.065</prob>
+				<loglikelihood>16.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

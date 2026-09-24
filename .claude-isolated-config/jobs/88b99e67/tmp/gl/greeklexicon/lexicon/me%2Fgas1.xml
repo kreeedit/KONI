@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μέγας</form>
+	<date>Wed Jul 27 06:34:35 EDT 2011</date>
+	<count>8619</count>
+	<per10K>18.191</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>10070</count>
+		<senses>
+			<senseContainer>
+				<sense>great</sense>
+				<count>4287</count>
+				<prob>0.426</prob>
+				<loglikelihood>10217.086</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>large</sense>
+				<count>599</count>
+				<prob>0.059</prob>
+				<loglikelihood>1142.912</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>a</sense>
+				<count>261</count>
+				<prob>0.026</prob>
+				<loglikelihood>30.714</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>high</sense>
+				<count>226</count>
+				<prob>0.022</prob>
+				<loglikelihood>233.778</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Nouns</type>
+			<collocation>
+				<original>λαῖτμα</original>
+				<trans>great gulf</trans>
+				<loglikelihood>30.06</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τεκμήριον</original>
+				<trans>strongest proof</trans>
+				<loglikelihood>23.76</loglikelihood>
+				<count>52</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κῦδος</original>
+				<trans>great glory</trans>
+				<loglikelihood>18.33</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κακός</original>
+				<trans>great evils</trans>
+				<loglikelihood>11.63</loglikelihood>
+				<count>147</count>
+			</collocation>
+			<collocation>
+				<original>φωνή</original>
+				<trans>loud voice</trans>
+				<loglikelihood>11.34</loglikelihood>
+				<count>45</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κίνδυνος</original>
+				<trans>great danger</trans>
+				<loglikelihood>10.49</loglikelihood>
+				<count>65</count>
+			</collocation>
+			<collocation>
+				<original>δύναμις</original>
+				<trans>great power</trans>
+				<loglikelihood>10.37</loglikelihood>
+				<count>103</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πένθος</original>
+				<trans>great mourning</trans>
+				<loglikelihood>9.18</loglikelihood>
+				<count>21</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>θαῦμα</original>
+				<trans>great marvel</trans>
+				<loglikelihood>9.02</loglikelihood>
+				<count>23</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+					<author><name>Pausanias</name></author>
+					<author><name>Herodotus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ζημία</original>
+				<trans>severest punishment</trans>
+				<loglikelihood>8.73</loglikelihood>
+				<count>30</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐλπίς</original>
+				<trans>great hopes</trans>
+				<loglikelihood>8.64</loglikelihood>
+				<count>57</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πόλις</original>
+				<trans>great city</trans>
+				<loglikelihood>7.94</loglikelihood>
+				<count>198</count>
+			</collocation>
+			<collocation>
+				<original>κῦμα</original>
+				<trans>mighty wave</trans>
+				<loglikelihood>7.83</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἔργον</original>
+				<trans>mighty deed</trans>
+				<loglikelihood>7.63</loglikelihood>
+				<count>101</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>σθένος</original>
+				<trans>great strength</trans>
+				<loglikelihood>7.21</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κλέος</original>
+				<trans>great glory</trans>
+				<loglikelihood>6.67</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πῆμα</original>
+				<trans>great woe</trans>
+				<loglikelihood>5.99</loglikelihood>
+				<count>18</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἐπίδοσις</original>
+				<trans>great advance</trans>
+				<loglikelihood>5.99</loglikelihood>
+				<count>10</count>
+			</collocation>
+			<collocation>
+				<original>πεδίον</original>
+				<trans>great plain</trans>
+				<loglikelihood>5.56</loglikelihood>
+				<count>38</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τιμή</original>
+				<trans>highest honors</trans>
+				<loglikelihood>5.48</loglikelihood>
+				<count>49</count>
+			</collocation>
+			<collocation>
+				<original>Ζεύς</original>
+				<trans>great zeus</trans>
+				<loglikelihood>5.30</loglikelihood>
+				<count>76</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἱστός</original>
+				<trans>she set up in her halls a great</trans>
+				<loglikelihood>5.13</loglikelihood>
+				<count>11</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀγαθός</original>
+				<trans>greatest good</trans>
+				<loglikelihood>5.10</loglikelihood>
+				<count>86</count>
+				<authorContainer>
+					<author><name>Xenophon</name></author>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φᾶρος</original>
+				<trans>great cloak</trans>
+				<loglikelihood>4.44</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τίμημα</original>
+				<trans>highest property-class</trans>
+				<loglikelihood>4.05</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Plato</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>χρεία</original>
+				<trans>great need</trans>
+				<loglikelihood>3.64</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Polybius</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>λιμήν</original>
+				<trans>great harbor</trans>
+				<loglikelihood>3.59</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Thucydides</name></author>
+					<author><name>Strabo</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>δωρεά</original>
+				<trans>great presents</trans>
+				<loglikelihood>3.46</loglikelihood>
+				<count>13</count>
+			</collocation>
+			<collocation>
+				<original>σημεῖον</original>
+				<trans>great signs</trans>
+				<loglikelihood>3.39</loglikelihood>
+				<count>27</count>
+			</collocation>
+			<collocation>
+				<original>συμφορά</original>
+				<trans>greatest disasters</trans>
+				<loglikelihood>3.14</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Isocrates</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρόνος</original>
+				<trans>great cronos</trans>
+				<loglikelihood>2.95</loglikelihood>
+				<count>8</count>
+			</collocation>
+			<collocation>
+				<original>τιμωρία</original>
+				<trans>severest punishment</trans>
+				<loglikelihood>2.90</loglikelihood>
+				<count>21</count>
+			</collocation>
+			<collocation>
+				<original>ὅρκος</original>
+				<trans>a mighty oath</trans>
+				<loglikelihood>2.63</loglikelihood>
+				<count>24</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τρίπους</original>
+				<trans>great cauldron</trans>
+				<loglikelihood>2.59</loglikelihood>
+				<count>10</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ὄλβος</original>
+				<trans>great prosperity</trans>
+				<loglikelihood>2.50</loglikelihood>
+				<count>9</count>
+			</collocation>
+			<collocation>
+				<original>Αἴας</original>
+				<trans>great telamonian aias</trans>
+				<loglikelihood>2.28</loglikelihood>
+				<count>15</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>φόβος</original>
+				<trans>great fear</trans>
+				<loglikelihood>2.27</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>NULL</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἀρχή</original>
+				<trans>great empire</trans>
+				<loglikelihood>2.22</loglikelihood>
+				<count>58</count>
+				<authorContainer>
+					<author><name>Aristotle</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>πίστις</original>
+				<trans>great assurance</trans>
+				<loglikelihood>2.09</loglikelihood>
+				<count>25</count>
+				<authorContainer>
+					<author><name>Flavius Josephus</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

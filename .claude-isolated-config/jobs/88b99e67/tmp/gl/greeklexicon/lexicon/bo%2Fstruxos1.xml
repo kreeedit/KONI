@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βόστρυχος</form>
+	<date>Tue Jul 26 22:37:08 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>lock</sense>
+				<count>8</count>
+				<prob>0.320</prob>
+				<loglikelihood>4.196</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

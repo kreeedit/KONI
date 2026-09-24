@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἐμμένω</form>
+	<date>Wed Jul 27 00:02:33 EDT 2011</date>
+	<count>206</count>
+	<per10K>0.435</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>199</count>
+		<senses>
+			<senseContainer>
+				<sense>abide by</sense>
+				<count>53</count>
+				<prob>0.266</prob>
+				<loglikelihood>190.425</loglikelihood>
+				<authorContainer>
+					<author><name>Demosthenes</name><relativeFreq>0.302</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

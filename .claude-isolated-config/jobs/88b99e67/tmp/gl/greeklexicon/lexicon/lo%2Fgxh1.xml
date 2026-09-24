@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λόγχη</form>
+	<date>Tue Jul 26 23:22:06 EDT 2011</date>
+	<count>93</count>
+	<per10K>0.196</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>107</count>
+		<senses>
+			<senseContainer>
+				<sense>spear</sense>
+				<count>53</count>
+				<prob>0.495</prob>
+				<loglikelihood>9.998</loglikelihood>
+				<authorContainer>
+					<author><name>Euripides</name><relativeFreq>0.377</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>lance</sense>
+				<count>18</count>
+				<prob>0.168</prob>
+				<loglikelihood>37.026</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Πήλιον</form>
+	<date>Tue Jul 26 23:03:55 EDT 2011</date>
+	<count>58</count>
+	<per10K>0.122</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>20</count>
+		<senses>
+			<senseContainer>
+				<sense>pelion</sense>
+				<count>14</count>
+				<prob>0.700</prob>
+				<loglikelihood>18.232</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.429</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

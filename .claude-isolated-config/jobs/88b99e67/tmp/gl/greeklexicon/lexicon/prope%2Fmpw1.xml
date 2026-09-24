@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>προπέμπω</form>
+	<date>Tue Jul 26 23:55:10 EDT 2011</date>
+	<count>177</count>
+	<per10K>0.374</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>141</count>
+		<senses>
+			<senseContainer>
+				<sense>escort</sense>
+				<count>14</count>
+				<prob>0.099</prob>
+				<loglikelihood>7.256</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent forward</sense>
+				<count>8</count>
+				<prob>0.057</prob>
+				<loglikelihood>25.598</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>sent on</sense>
+				<count>6</count>
+				<prob>0.043</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

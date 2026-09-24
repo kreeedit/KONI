@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θέμις</form>
+	<date>Tue Jul 26 23:50:28 EDT 2011</date>
+	<count>163</count>
+	<per10K>0.344</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>217</count>
+		<senses>
+			<senseContainer>
+				<sense>themis</sense>
+				<count>27</count>
+				<prob>0.124</prob>
+				<loglikelihood>91.116</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lawful</sense>
+				<count>15</count>
+				<prob>0.069</prob>
+				<loglikelihood>4.364</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lawful for</sense>
+				<count>7</count>
+				<prob>0.032</prob>
+				<loglikelihood>24.497</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>right for</sense>
+				<count>6</count>
+				<prob>0.028</prob>
+				<loglikelihood>11.998</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

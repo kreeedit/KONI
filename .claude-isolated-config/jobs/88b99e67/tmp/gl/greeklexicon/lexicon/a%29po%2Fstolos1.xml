@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπόστολος</form>
+	<date>Tue Jul 26 23:04:46 EDT 2011</date>
+	<count>59</count>
+	<per10K>0.125</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>95</count>
+		<senses>
+			<senseContainer>
+				<sense>apostle</sense>
+				<count>39</count>
+				<prob>0.411</prob>
+				<loglikelihood>124.158</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

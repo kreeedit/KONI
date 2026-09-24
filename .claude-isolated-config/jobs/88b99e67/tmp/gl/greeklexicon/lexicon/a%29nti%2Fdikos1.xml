@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀντίδικος</form>
+	<date>Tue Jul 26 23:17:09 EDT 2011</date>
+	<count>84</count>
+	<per10K>0.177</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>93</count>
+		<senses>
+			<senseContainer>
+				<sense>opponent</sense>
+				<count>30</count>
+				<prob>0.323</prob>
+				<loglikelihood>12.717</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>adversary</sense>
+				<count>22</count>
+				<prob>0.237</prob>
+				<loglikelihood>12.904</loglikelihood>
+				<authorContainer>
+					<author><name>Isaeus</name><relativeFreq>0.318</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>litigant</sense>
+				<count>5</count>
+				<prob>0.054</prob>
+				<loglikelihood>6.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

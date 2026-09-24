@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀφροσύνη</form>
+	<date>Tue Jul 26 23:12:26 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>86</count>
+		<senses>
+			<senseContainer>
+				<sense>folly</sense>
+				<count>40</count>
+				<prob>0.465</prob>
+				<loglikelihood>27.000</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>foolishness</sense>
+				<count>6</count>
+				<prob>0.070</prob>
+				<loglikelihood>4.644</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>unwisdom</sense>
+				<count>3</count>
+				<prob>0.035</prob>
+				<loglikelihood>6.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

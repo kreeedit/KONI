@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἔναγχος</form>
+	<date>Tue Jul 26 22:56:46 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>52</count>
+		<senses>
+			<senseContainer>
+				<sense>recent</sense>
+				<count>14</count>
+				<prob>0.269</prob>
+				<loglikelihood>5.332</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

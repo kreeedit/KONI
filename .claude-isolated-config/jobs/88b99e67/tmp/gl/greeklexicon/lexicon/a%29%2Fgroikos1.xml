@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγροικος</form>
+	<date>Tue Jul 26 22:59:23 EDT 2011</date>
+	<count>50</count>
+	<per10K>0.106</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>rustic</sense>
+				<count>8</count>
+				<prob>0.131</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>boorish</sense>
+				<count>7</count>
+				<prob>0.115</prob>
+				<loglikelihood>19.599</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>boor</sense>
+				<count>5</count>
+				<prob>0.082</prob>
+				<loglikelihood>16.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>rude</sense>
+				<count>4</count>
+				<prob>0.066</prob>
+				<loglikelihood>4.923</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

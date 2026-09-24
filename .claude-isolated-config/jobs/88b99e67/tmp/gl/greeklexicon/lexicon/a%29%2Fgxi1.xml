@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγχι</form>
+	<date>Tue Jul 26 23:19:32 EDT 2011</date>
+	<count>88</count>
+	<per10K>0.186</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>51</count>
+		<senses>
+			<senseContainer>
+				<sense>came close</sense>
+				<count>5</count>
+				<prob>0.098</prob>
+				<loglikelihood>16.666</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>prep</pos>
+		<count>26</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

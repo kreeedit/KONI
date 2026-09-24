@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πέλας</form>
+	<date>Wed Jul 27 00:00:09 EDT 2011</date>
+	<count>195</count>
+	<per10K>0.412</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>177</count>
+		<senses>
+			<senseContainer>
+				<sense>neighbors</sense>
+				<count>18</count>
+				<prob>0.102</prob>
+				<loglikelihood>5.097</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.389</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nearby</sense>
+				<count>5</count>
+				<prob>0.028</prob>
+				<loglikelihood>4.544</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

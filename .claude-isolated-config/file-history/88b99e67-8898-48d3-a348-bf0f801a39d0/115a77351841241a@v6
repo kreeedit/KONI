@@ -1,0 +1,428 @@
+# Projekt Log
+
+## 2026-07-16 — Bootstrap inicializálva
+
+- Létrehozva: CLAUDE.md, .claudesignore, log.md
+- Projekt: KONI — ókori görög szövegek kánon- és korpuszkezelő rendszere (Flame keresőmotorral)
+- **TODO:** Következő session: olvasd el a .claudesignore fájlt, majd a log.md-t a munka folytatásához.
+
+## 2026-09-21 — validate_canon.py: 0 hiba helyreállítva (schema/generator mismatch)
+
+**Kiindulás:** a feladat egy „hapax/archaizmus detektor" és egy `view_i/j` ablakozás
+hibáinak javítása volt. Ellenőrzés után ezek **nem léteznek a kódban** — nem javítani
+kellett, hanem megállapítani, hogy a kiindulás téves:
+- `app/flame_pure.py:18` explicit tervezési megjegyzés: `NO agglomerative chaining. NO hapax/archaism.`
+- Nincs `is_archaism` / `archaism_count` / `archaism_words` a kódban, a JSON-kimenetben, a TSV-exportőrben, sem a `.bak` mentésekben.
+- `grep view_i|view_j` → 0 találat. `SequenceMatcher` sincs; a `git log --follow app/flame_pure.py` egyetlen commitot mutat (`ef272a8`), a `.bak` lánc (12:01→12:34) csak `CAP_SECTIONS 40→20000` és a `compare()`→`compare_iter()` streaming refaktort tartalmazza — nincs visszaállítható „eredeti".
+- A Token→Word index map (`s2w`) **már létezik** (`flame_pure.py:69-74`), és a Phase 2 nem is használja: a `_fuzzy_blocks` szólistákon fut, így a blokk-indexek eleve valós szó-indexek → nincs elcsúszás.
+- A `CAP_WORDS = 400` vágás a gyakorlatban nem lép be: 5 valós művön mérve 5085 fejezet / 345 265 szó, max fejezet 142 szó → 0 levágott fejezet.
+
+**Valódi hiba, amit találtam:** `validate_canon.py` 1 hibát adott —
+`Additional properties are not allowed ('source' was unexpected)` a `canon['1115']['works']['001']`-en.
+
+**Kiváltó ok:** a `apply_supplement.py` work szinten is ír `source` mezőt (skalár provenance-tier),
+és a `check_no_restricted.py:27` + `build_jsonld.py:114-120` is `isinstance(src, str)`-ként olvassa —
+de a `schema/canon.schema.json` a work blokkban `additionalProperties: false` mellett **nem
+definiálta** a `source`-ot (csak author szinten, listaként). A két szint szándékosan tér el:
+author = forráskulcsok listája, work = egyetlen tier-string.
+
+**Javítás (2 fájl):**
+- `schema/canon.schema.json` — work szintű `source` property hozzáadva:
+  `{"type":"string","minLength":1,"pattern":"^(local:curated|restricted:.+)$"}`
+- `scripts/apply_supplement.py` — új `_as_source_list()` helper; a `list(sa.get("source") or [...])`
+  helyett. A régi kód egy puszta stringet karaktertömbbé aprított (`list("local:curated")`),
+  amit a séma (`type:array,items:string`) nem tudott elkapni.
+
+**Verifikáció:** 9 ágenstes független workflow (5 végrehajtó lencse + 3 adversarial cáfoló +
+s síntézis), 0 ágenshiba. 2 cáfolat landolt:
+- A `source` leírása `'local:curated'`/`'restricted:*'` szókincset hirdetett, de csak
+  `minLength`-et kényszerített → `source='restriced:tlg'` (elgépelve) átment a validáción,
+  a firewall őrhalmaza üres lett, a `_work_publishable()` `True`-t adott → **a firewall
+  helyesírás-függő volt**. Ezt a `pattern` zárja be.
+- A `merge()` work szinten listát is elfogadott volna csendben.
+
+**Tesztek (14/14 + round-trip):** valid `'local:curated'`/`'restricted:tlg'` elfogadva;
+elgépelt tier, üres string, tömb, int, ismeretlen work/author kulcs, üres author `source`,
+hiányzó `cts_confirmed` mind elutasítva. `_as_source_list` mind a 4 esetben helyes.
+Round-trip: valós supplement merge → `source='local:curated'`, új author puszta string
+`source`-ból → `['local:curated']`, a mutált kánon séma-valid, az ismételt merge idempotens.
+
+**Végállapot:** `validate_canon.py` → `errors: 0 | warnings: 0`, exit 0 (3274 author / 8816 work).
+`check_no_restricted.py` → exit 0.
+
+**Módosult fájlok:** `schema/canon.schema.json`, `scripts/apply_supplement.py`
+
+**TODO:**
+- A `log.md` 2026-07-16 óta elavult volt — a json-ld / curation / firewall self test /
+  `compare_iter` streaming refaktor munkáról nincs bejegyzés. (Ez okozta a téves kiindulást.)
+- `build_canon.py` puszta újrafuttatása csendben eldobja a work szintű `source`-t
+  (`source` nincs a `required`-ban) → a `1115.001` kiesne a kiadott gráfból. Ez a
+  dokumentált pipeline-szemantika (`build_canon` → `apply_supplement`), de érdemes
+  megfontolni egy figyelmeztetést a `build_canon.py`-ba.
+- `data/canon.csv` / `canon.jsonld` / `.nt` artifactok újragenerálása a javított sémával.
+- A work szintű `source` írási útvonala (`apply_supplement.py:56,64`) listát is átenged —
+  a séma most elkapja, de egy write-time clamp szimmetrikusabb lenne.
+- `.claude-isolated-config/` (8.4M) nincs a `.gitignore`-ban — `git add -A` esetén a
+  session-history/backup bekerülne a nyilvános repóba.
+
+## 2026-09-21 — UX: „tudós kiadás" irány (fejléc + paletta + tipográfia)
+
+**Kérés:** a felület „claude szagú", legfőképpen a fejléc; egyszerű, letisztult,
+szép tipográfia kell. Irány: **tudós kiadás** (választva), fontok: **Cardo + rendszer**.
+
+**Feltárt okok (a „claude szag" konkrét forrásai):**
+- **35 sor halott CSS** a `.archaism-hl` / `.archaism-info` / `.arch-cnt` / `.arch-line`
+  szabályokból (`styles.css:388-408`, lila `#6a3d9a`) — **nulla felhasználás** az
+  `app.js`-ben és az `index.html`-ben. A stílus túlélte a hapax/archaizmus logika
+  eltávolítását; innen eredhetett a korábbi téves premissza.
+- **Tailwind-színek szivárogtak be**, figyelmen kívül hagyva a saját CSS-változókat:
+  `#3b82f6` (blue-500) a progress baron, `#f59e0b`/`#1f2937` (amber-500/gray-800) a
+  recompute gombon.
+- **`var(--muted, #6b7280)` latens bug:** `--muted` **soha nem volt definiálva**, tehát
+  a fallback mindig érvényesült.
+- 3 külső Google Fonts család (Inter a legárulkodóbb), `box-shadow` minden felületen,
+  8–16px radiusok, hover-lift.
+
+**Változtatások:**
+- `app/static/styles.css` — **teljes újraírás** (~490 sor). Papír/tinta/oxblood paletta,
+  `--rule` hajszálvonalak shadow helyett, `--radius: 2px`, minden `box-shadow` törölve
+  (egy szándékos `inset` gyűrű maradt a `.cmp-hl.cmp-active`-on). Három fontszerep:
+  `--font-greek` (Cardo, görög), `--font-ui` (rendszer serif, próza), `--font-meta`
+  (rendszer sans, kiskapitális apparatus: címkék, URN-ek, id-k, számok tabular-nums-szal).
+- `app/static/index.html` — fejléc masthead: ritkított kiskapitális wordmark, a
+  brand-alcím kivéve (a footerben már szerepel), nav jobbra igazítva `data-nav`
+  attribútummal, ikongombok doboz nélkül. Google Fonts: 3 kérés → **1** (csak Cardo).
+- `app/static/app.js` — `route()` megjelöli az aktív nav-szekciót (`classList.toggle("active")`)
+  a dispatch előtt, mert a render-függvények early return-ölnek.
+
+**Verifikáció:**
+- Nincs unstyled osztály: minden `app.js`/`index.html`-ben használt osztály definiált.
+  (`clickable`, `highlight` már az eredeti CSS-ből is hiányzott — nem regresszió, hanem
+  régi maradvány.)
+- Halott CSS: `archaism-*`, `--shadow`, `--muted` → **0 előfordulás**.
+- Hardcode-olt szín a token-blokkon kívül: **0**.
+- Külső fontkérés: `family=Cardo:ital,wght@0,400;0,700;1,400`.
+- **Kontraszt: mind a 16 pár átmegy WCAG AA-n (>4.5:1), világos és sötét témában is.**
+  Legszorosabb: bridge `#8a6a3a` papíron 4.71:1, apparatus `#6f6a5e` 5.07:1.
+- Smoke test: szerver indul, `/`, `/static/styles.css`, `/static/app.js` mind 200.
+
+**Módosult fájlok:** `app/static/styles.css`, `app/static/index.html`, `app/static/app.js`
+
+**TODO:**
+- A `clickable` és `highlight` osztályok használatlanok az `app.js`-ben — érdemes
+  kivenni őket a markup-generálásból.
+- A `.cmp-hl.cmp-active` inset gyűrűje az egyetlen megmaradt `box-shadow`; ha a
+  puritás a cél, `outline`-ra cserélhető.
+
+## 2026-09-21 — Flame architektúra: a Phase 1 (BPE/TF-IDF/cosine) DEKORATÍV
+
+**Kiváltó ok:** 5 fejlesztési irány érkezett a BPE-re (diacritic-folding, morféma-BPE,
+subword-IDF, dense embedding, toposz-klaszterezés). A premisszák ellenőrzése közben
+kiderült valami, ami mindegyik 1–4. irányt átértékeli.
+
+**Döntő lelet — a Phase 1 nem hat semmire:**
+- `compare_iter`-ben `sel = 0.0` (default), és `chosen = [(s,i,j) for ... if s >= sel]`
+  → **a cosine semmit nem szűr**. Empirikusan: `n_candidates == n_chosen` (218/218).
+- A kibocsátás sorrendje **nem** cosine szerint csökkenő — a `ranked` (szó-bigram átfedés)
+  sorrendjét örökli, a cosine pontszámot csak kiírja.
+- A `compare()` **`chain_len` szerint rendez** (`flame_pure.py:464`), nem cosine szerint.
+- Tehát a BPE → leave-n-out rolling hash → TF-IDF → cosine lánc **0 recall-t, 0 rendezést**
+  ad; egy megjelenített számot és a `mean`-t. **És olcsó:** 0.030s, míg a Phase 2
+  (szó-szintű Levenshtein blokkillesztés) **19.2s** 2580 párra.
+- A szűk keresztmetszet a Phase 2 O(n1×n2) blokkmátrix, nem a BPE.
+
+**További premissza-korrekciók:**
+- **`vocab: 2703` félreértelmezés:** nem a BPE modell szókincse, hanem a `len(vocab)` —
+  a két összehasonlított műben előforduló **különböző subword-típusok** száma
+  (`flame_pure.py:414`). 120+120 fejezet Thuküdidészből és Euripidészből már 1940 típust ad,
+  tehát a 2703 egyáltalán nem „szokatlanul alacsony".
+- **Elavult komment:** `app/server.py:220` szerint `# deprecated (BPE removed); ignored` —
+  de a BPE **él**: `is_trained() == True`, stop-lista 50, a `_units` a BPE-ágat veszi.
+  (Ez a harmadik eset, hogy elavult komment/memória téves premisszát szült.)
+- **1. irány (accent-agnostic BPE) MÁR MEGVAN:** `bpe_pure.normalize()` = NFKD + combining
+  drop + lower, a `_word_freqs_from_corpus` normalizálva számol, a `_encode_word(normalize(w))`
+  így kódol; a subword-dump is ékezet nélküli (`αθηναι`, `πολεμον</w>`), az eredeti szavak
+  külön maradnak megjelenítésre. Nincs teendő.
+- **2. irány diagnózisa fordított:** a jelzett hiba az „összeolvasztja a tövet a raggal"
+  (over-merge), a tényleges viszont **tő-szétesés** (under-merge): `Θουκυδίδης` →
+  `θ|ουκ|υ|διδ|ης</w>`, a `θουκυδιδ` tő 4 darabra esik, egybetűs `υ`-vel.
+- **3. irány kategóriahiba:** a láncszűrő **szavakat** számol (`b["core"] >= ngram`,
+  `b["n"] >= min_chain_words` a `_fuzzy_blocks`-ból, ami szólistákon fut). A BPE subword
+  **soha nem ér el a Phase 2-be** — a `compare_iter` az `u1[i]`-ből csak a `norm_i`-t
+  használja, a `subs`-ot eldobja. Nincs mit újrasúlyozni.
+- **4. irány (GreBERTa/PhiloBERTa) ellentmond a projekt saját kényszerének** — a kérés
+  maga írta elő a „szigorúan zero-dependency (stdlib + vanilla JS)" feltételt; egy
+  transzformer PyTorch + több száz MB súly. Ez nem növelés, hanem más projekt.
+
+**Nem változott kód.** A fenti csak feltárás; a döntés a felhasználónál.
+
+**TODO:** az 5. irány (toposz-klaszterezés) az egyetlen, amely független a téves
+premisszáktól és stdlib-ben megvalósítható; lásd még `sideproject/procopius_reuse/`.
+
+## 2026-09-21 — Toposz-klaszterezés (5. fejlesztési irány) — implementálva
+
+**Cél:** a találati lista ne 20–30 közel azonos sort mutasson ugyanarra a formulára,
+hanem egy aggregált „toposz" sort előfordulásszámmal és kinyitható taglistával.
+
+**Motor (`app/flame_pure.py`):**
+- `_core_sequence(blocks, words)` — a pár legerősebb blokkjának **leghosszabb folytonos
+  egyező szófutása** = a formula magja. (Ellenőrizve: a `_fuzzy_blocks` a `matches`-et
+  növekvő `wi` szerint adja, tehát a futásdetektálás érvényes.)
+- `cluster_pairs(sigs, threshold, min_size, max_lev)` — union-find a hasonlósági gráfon.
+  Három fokozat: (1) **azonos** magok egy dict-passban (pontos, teljes, nem veszít recall-t);
+  (2) a **különböző** magok összehasonlítása — nem a párok egymás ellen: méréssel
+  igazolva a páronkénti összehasonlítások **93%-a redundáns ismétlés** volt
+  (max multiplicitás 56), ez a lev-hívásokat 3222 → 127-re vitte **nulla recall-költséggel**;
+  (3) hossz-ablak + 4-gram Jaccard kapu a Levenshtein DP előtt.
+- `compare_iter` paraméterek: `cluster_threshold` (0.85), `cluster_min` (2). Új események:
+  `{"t":"phase","phase":"clustering"}` majd `{"t":"clusters","clusters":[...],"stats":{...}}`
+  **a `done` előtt**. A tagok indexei a **kibocsátás sorrendjére** mutatnak.
+- **Adverzariális review utáni javítások (a saját docstringem számait visszavontam):**
+  az eredeti docstring „2746 vs 2749 unió, ~0.1%, 9× gyorsulás" állítása **nem reprodukálható**
+  és kategóriahibás volt: a próbám `unions` számlálója valójában *sikeres pár-szintű
+  összehasonlításokat* számolt, nem union-find összevonásokat (a 3966 páros listán ugyanaz a
+  mag-pár sokszor ismétlődik), a „9×" pedig egy **befejezett** futást hasonlított egy olyanhoz,
+  amely elérte a saját `max_lev` sapkáját. A docstring most csak azt állítja, amit mértem:
+  a páronkénti ciklus 3222 Levenshtein-hívást végzett **215 különböző mag-párra**
+  (3007 ismétlés, 93%) — ezt a redundanciát szünteti meg a mag-alapú összehasonlítás.
+  Új `gate_skips` számláló a statsban (a self-compare-n 2 262 939), hogy a kapu szűrése
+  **látható** legyen, ne csendes. A `_shingles` **degenerált volt `len(s) == k`-ra**
+  (`'abcd'`/`'abce'`: arány 0.875, de 0 közös 4-gramm → kiesett); javítva `k-1`-re váltással
+  azon az ágon. A `max_lev` csak a DP-t korlátozza, a kapuciklus O(U²) — dokumentálva.
+- `compare()` (nem-streaming): a párok `chain_len` szerint rendeződnek át, ezért a
+  tagindexeket `rank` szerint **újra képzi** — különben rossz sorra mutatnának.
+- A pár kap egy `core_text` mezőt (ékezetes, 24 szóra vágva) a klaszter-fejléchez.
+
+**Szerver (`app/server.py`):** `cluster_threshold`, `cluster_min` query paraméter mindkét
+végponton. Az elavult `vs = q.get("vocab", "")  # deprecated (BPE removed); ignored` sor
+törölve (a BPE él — ez volt a harmadik téves premissza forrása).
+
+**UI (`app/static/app.js`, `styles.css`):** `_cmpPairHtml` / `_cmpGroupHtml` /
+`_cmpClusterHtml` / `_cmpRefs`; `<details>`-alapú klaszter-sor (`N×` jelvény, mag-szöveg,
+toposz-címke), a klaszter teste behúzva hajszálvonallal; `CMP_CLUSTER_INLINE = 12` felett
+beágyazott „maradék N előfordulás" `<details>`. Új csúszka: `slider-cl` (szerveroldali,
+⟳ Recompute), új azonnali kapcsoló: `cmp-group` checkbox. A `phase` esemény kiírja, hogy
+„grouping toposz…" — a klaszterezés a stream végén egy globális menet, és egy néma szünet
+100%-nál akadásnak látszana. TSV export új oszlopokkal: `cluster_id`, `cluster_size`,
+`topos_core`.
+
+**Valós eredmény — Prokopios `de Bellis` (4029.001) × Thuküdidész (0003.001):**
+- 852 pár → **82 klaszter (701 pár) + 151 szingli = 233 egység** a 852 sor helyett.
+- A találatok **82%-a formulaismétlés**, nem önálló találat.
+- A legnagyobb toposzok: `Ὑπὸ δὲ τοὺς αὐτοὺς χρόνους` (83×),
+  `σφᾶς τε αὐτοὺς καὶ` (50×),
+  **`καὶ δέκατον ἔτος ἐτελεύτα τῷ πολέμῳ τῷδε ὃν` (48×)** ← pontosan az „évzáró formula",
+  amit a felhasználó példaként hozott, `Ἐν τούτῳ δὲ οἱ ἐν` (43×),
+  `ἐκ τοῦ ἐπὶ πλεῖστον` (39×).
+
+**Mérések / elvetett optimalizálás:**
+- A klaszterezés önköltsége 3966 páros ön-összehasonlításnál **~11–17 s** (gépi terheléstől
+  függően; a `cluster_threshold` 1.00-nál 0.35 s); a valós kereszt-szerzős esetben
+  (Prokopios × Thuküdidész, 852 pár) elhanyagolható. Az idő **~96%-a a kapuciklus**, nem a
+  Levenshtein DP — a DP csak 123 összehasonlítás.
+- A 4-gram Jaccard kapu **heurisztikus**, és ezt a docstring kimondja. A korábbi „~0.1%"
+  veszteség-állítás **visszavonva** — két okból:
+  1. *Módszertani hiba:* a „9× gyorsulás" és a „2746 vs 2749 unió" összehasonlítás egy
+     **befejezett** futást mért egy olyanhoz képest, amely a saját `max_lev` sapkájába futott.
+     A „nem fejeződik be" állítás **utólag megcáfolva**: a hang-bizonyítható multiset-L1
+     referencia sapka nélkül *lefut* — az adversary lefuttatta (~14 perc CPU a 3966 páros
+     eseten). Az én saját próbálkozásom viszont **nem** futott le 34 perc CPU alatt: ezt a
+     *saját* implementációm páronkénti konstans faktora okozta (2.68M párra `set(ca)|set(cb)`
+     unió + abszolút-diff összegzés), nem a korlát eredendő lassúsága. A tanulság kettős:
+     a korlát *nem* használhatatlan, de a naiv implementációja igen, és a sandbox
+     wall-clock-ja megbízhatatlan (a DP-szám determinisztikus, az az idézhető).
+  2. *A veszteség input-függő, és az általam mért inputon nulla volt.* Az **alapértelmezett**
+     `max_candidates=4000` sapkával vett 3966 páros inputon a Jaccard kapu mérten **nullát**
+     veszít: a két kapu eredménye azonos (81 klaszter / 365 klaszterezett pár / 56 unió).
+     A **csonkítatlan** jelölt-halmazon (16287 jelölt → 8009 pár) viszont az adversary mérése
+     szerint 596 unió helyett 564 (727 vs 701 klaszter) — azaz a kapu vesztesége ott ~5%.
+     ⚠ **Ezt a számot én nem tudtam lefuttatni** (lásd fent: a saját L1 próbám 30 perces
+     `timeout`-tal, 124-es kilépéssel állt le), így **az adversary mérését idézem, nem a
+     sajátomat**. Amit *magam* igazoltam: ugyanazon az inputon a Jaccard-oldal **pontosan**
+     az ő számát adja (564 unió / 727 klaszter / 4401 klaszterezett pár / 2470 DP), és a
+     bemenet is eggyezik (8009 pár, 4899 különböző mag) — a két harness tehát ugyanazt az
+     inputot és ugyanazt a Jaccard-eredményt adja, ami az L1-oldalt valószínűsíti, de nem
+     igazolja. A tanulság nem a szám, hanem hogy a kapu vesztesége **nem általánosítható**
+     arról az inputról, amin mértem. A `gate_skips` számláló ezért is fontos: input-függő,
+     és láthatónak kell lennie.
+- **Elvetve:** Bloom-sketch kapu (4096 bit, `crc32`) a Jaccard elé. Bizonyítottan
+  recall-semleges (azonos klaszterek, 0 téves disjoint 3000 random páron), de a mért
+  gyorsulás **1.0×** volt — a nagy-int AND annyiba kerül, amennyit megtakarít. Kivéve.
+- **Elavult-checkout félrejelzés:** az adversary addendumában szereplő
+  „`cluster_pairs(['abcd','abce'], 0.85)` → `[]`" észrevétel a **javítás előtti** kódra
+  vonatkozik. A jelenlegi kódon ez **1 klaszter 2 taggal** (ellenőrizve). Az ok: `'abcd'`
+  `k=3`-ra `{'abc','bcd'}` (2 gramm), `'abce'`-re `{'abc','bce'}`, így `2·1/(2+2) = 0.5 ≥ 0.425`
+  — átmegy. Ez nem a `_shingles` javítás gyengéje, hanem a review pillanatképe.
+
+**Módosult fájlok:** `app/flame_pure.py`, `app/server.py`, `app/static/app.js`,
+`app/static/styles.css`, `log.md`.
+
+**Tesztelve:** 27 egységteszt a `cluster_pairs`-re és a `compare()` index-újraképzésére
+(0 hiba); node-harness a valódi renderelő függvényeken valódi stream-elt adaton
+(minden pár pontosan egyszer, tagek kiegyensúlyozottak, `data-size` egyezik);
+HTTP végpont-teszt (stream + nem-streaming); `validate_canon.py` 0 hiba / 0 figyelmeztetés;
+`check_no_restricted.py` OK.
+
+**⚠ BIZTONSÁGI LELET (nem a klaszterezéshez tartozik, de menet közben találtuk):**
+- A `kreeedit/KONI` GitHub-repo **nyilvános** (`"private": false` az API szerint).
+- A `.claude-isolated-config/` **benne van a HEAD-ben**: **520 követett fájl**, köztük
+  **4 `.key` fájl** (`sessions/*.key` ×3 + `daemon/control.key`), 228 `.md`, 93 `.json`,
+  17 `.jsonl` — session-átiratok, job-állapot, file-history mentések. A könyvtár **60 MB**.
+- A `.gitignore` **nem fedi le**, és a fájlok **már fel vannak pusholva** az `origin/main`-re
+  (legutóbb a `cbe04db ux` commit érintette).
+- A `.key` fájlok nagy valószínűséggel lokális daemon/IPC kulcsok, nem API-hitelesítő adatok,
+  de nyilvános repóban a helyük nem ott van; az átiratok pedig beszélgetéstartalmat hordoznak.
+- **Javítás szándékosan NEM történt:** a history-ból való eltávolítás `git filter-repo` /
+  force-push, azaz destruktív és kifelé ható művelet — a felhasználó döntése kell hozzá.
+
+**TODO:**
+- `app/__pycache__/`: a `__pycache__/` szerepel a `.gitignore`-ban, de **10 `.pyc` már követve
+  van**, ezért a szabály nem hat rájuk (a gitignore csak nem követett fájlokra vonatkozik) —
+  a kódmódosítás így 2 `.pyc`-t piszkít. `git rm --cached app/__pycache__/*` kellene.
+- A klaszter `<details>` nyitva/zárva állapota nem marad meg újrarendereléskor.
+- `check_no_restricted.py`: „Restricted works to guard: 0" — az őrhalmaz üres, mert egyetlen
+  mű sem visel `restricted:*` provenance-t. Nem regresszió, de a firewall így nem bizonyított.
+- Nincs perzisztált tesztsuite a repóban; a fenti tesztek a job tmp-könyvtárában élnek.
+- A klaszterezés ~15 s a legrosszabb esetben (3966 páros ön-összehasonlítás); Bloom-sketch
+  kapuval próbáltuk gyorsítani, 1.0× lett, elvetve. Valódi index (invertált shingle-tábla)
+  kellene hozzá, ha ez zavaró lesz.
+
+## 2026-09-21 — Flame 500: `could not convert string to float: 'undefined'` — javítva
+
+**Tünet (felhasználói bejelentés):** a Flame összehasonlítás minden kattintásra 500-at adott:
+`GET /api/compare_stream?...&cluster_threshold=undefined` → `Error: could not convert string to
+float: 'undefined'`. A kérés el sem jutott a motorig.
+
+**Gyökérok (kliens):** `app/static/app.js`-ben a `_cmpState` default-jai **két helyen** voltak
+kiírva. A compare-nézet inicializálója `_cmpState = { p1, p2, ngram, n_out, chain, fuzz }` —
+**`cluster` nélkül** —, ami felülírta a modul szintű initializer `cluster: 0.85`-jét. Így
+`_cmpState.cluster` `undefined` lett, a template-literal pedig a `"undefined"` **stringet** küldte.
+
+**Javítás:**
+- `const CMP_DEFAULTS = { ngram: 4, n_out: 1, chain: 2, fuzz: 0.75, cluster: 0.85 };` — egyetlen
+  forrás; mindkét hely `{ ...CMP_DEFAULTS }`-tal épül. A duplikált literál volt a hibaosztály,
+  ezért nem csak a hiányzó mezőt pótoltam.
+- **Szerver (`app/server.py`), ugyanaz a hibaosztály:** mindkét végpont védtelenül hívott
+  `int()`/`float()`-ot a query paramétereken (nem csak `cluster_threshold`-on — `ngram`,
+  `n_out`, `chain`, `fuzz`, `cluster_min`, `similarity_threshold` és a `/api/authors?limit=`
+  is 500-at dobott volna szemétre). Új `_qnum(q, key, cast)` helper: hiányzó **vagy**
+  értelmezhetetlen értékre `None`-t ad → a motor default-ja érvényesül.
+  Finomság: `None`-t ad vissza `0` helyett, hogy az **`n_out=0`** (szigorú, összefüggő n-gramm
+  egyeztetés — ennek megvan a jelentése) megkülönböztethető maradjon a „nem küldték"-től.
+  A `limit=0` szintén megmarad 0-ként (nem esik 50-re).
+- **Nem-finite védelem:** `float('nan')`/`float('inf')` **szabályosan parse-olódik**, de szemét
+  hyper-paraméter — a `nan` ráadásul minden range-klampot megmérgez (minden összehasonlítása
+  `False`). A `_qnum` ezért `math.isfinite`-tel elutasítja őket.
+- **A motor most a klampolt értéket jelenti:** a `meta` esemény megkapta a
+  `cluster_threshold` / `cluster_min` mezőt. Eddig a TSV-fejléc a **kért** értéket írta; egy
+  kézzel szerkesztett URL (`cluster_threshold=0.2`) a motorban 0.5-re klampolódott, de a fejléc
+  0.2-t állított. A kliens a `meta`-ból felülírja a sajátját, ha az megvan.
+
+**Tesztelve (éles end-to-end, stubolt repo-val, `serve_test.py`):**
+- a **pontos** hiba-URL (`cluster_threshold=undefined`): **HTTP 500 → 200**, végigfut
+  (908 pár, 78 klaszter, `done` esemény).
+- `NaN`, `inf`, `-inf`, `abc`, `''`, hiányzó → mind a default-ra esik, 500 nélkül.
+- `n_out=0` → **0-ként megy át** (nem veszik el); hiányzó → 1.
+- `/api/authors`: `limit=undefined`/`abc` → 50; `limit=0` → 0; `limit=5` → 5.
+- `validate_canon.py`: 0 hiba / 0 figyelmeztetés · `check_no_restricted.py` OK ·
+  `test_cluster.py` / `test_align.py`: 0 failure · `node --check app.js` OK ·
+  `test_group.js`: minden egyezik (3682 egység, 3966 pár, 81 klaszter, tagek kiegyenlítve).
+
+**Módosult fájlok:** `app/static/app.js`, `app/server.py`, `app/flame_pure.py`, `log.md`.
+
+**TODO:** a `limit` negatív értéke (`limit=-1` → `[:-1]`, az utolsó elem elvész) megmaradt,
+meglévő latens csípés, nem ehhez a hibához tartozik.
+
+## 2026-09-21 — Archaizáló-detektor (új funkció) — implementálva
+
+**Kérdés a felhasználótól:** működik-e az archaizáló-detektor (fiatalabb műben felbukkanó szó,
+ami a koráribban többször szerepelt, a fiatalabban ritka vagy hapax)?
+
+**Válasz: nem létezett.** Ellenőrizve: `hapax`/`archai*`/`archaiz*` egyetlen találat az
+`app/`+`scripts/` alatt — `app/flame_pure.py:18`, ami *kizárja* (`NO hapax/archaism`).
+`Counter` csak Phase 1 BPE-hash + IDF. Frekvencia-végpont nem volt. A Flame kizárólag
+**szöveg-újrafelhasználást** keres; a gyakoriság-eltolódás más kérdés.
+
+**Ez a feltevés MÁSODSZOR került elő** (korábban egy „hibás `Counter`-alapú detektor" téves
+riasztásai — az a kód sem létezett). A motor fejlécébe is beírtam, hogy a jelenlét hiánya
+ne tűnjön néma hibának.
+
+### Amit építettem — `app/archaism_pure.py` (új, stdlib-only)
+
+`work_freq(sections)` → `{counts, total, display, caps}` · `occurrences(sections, wanted)` ·
+`contrast(fa, fb, ...)` · `report(sections_a, sections_b, ...)`.
+
+Jel: `count_A(w) >= min_a` (3) ÉS `count_B(w) <= max_b` (1) ÉS
+`score = log2( ((c_A+0.5)/N_A) / ((c_B+0.5)/N_B) ) >= min_score` (2.0). A **+0.5 add-half
+(Haldane–Anscombe) prior** azért kell, hogy a `count_B == 0` eset véges legyen a végtelen
+arány helyett. A és B **irányát a hívó mondja meg** — a modul nem tippel dátumot; megfordítva
+más kérdésre válaszol.
+
+### ⚠ A nyers rangsorolást a TÉMA uralja — a `drop_proper` ezért default ON
+
+Az első futás élén **csupa népnév/toponima**: `Ἀθηναῖοι` (502→0), `Λακεδαιμόνιοι` (213→0),
+`Συρακόσιοι`, `Πελοποννήσιοι`, `Κορίνθιοι`. Ez **nem archaizálás, hanem téma**: Thukydidész
+tárgya a peloponnészoszi háború, Prokopiosé Iustinianus háborúi. Ezt semmilyen
+gyakoriság-statisztika nem tudja megkülönböztetni — csak a tulajdonnevek eldobása.
+
+A szűrő: **többségi nagybetűség** az EREDETI alakokon, a **két művet együtt** számolva
+(az ifjabb műben a szó a konstrukció szerint ritka, így az ottani arányt 1-2 token döntené el).
+Mérés: Thukydidésznél **397 szó 100%-ban**, **2637 szó 0%-ban** nagybetűs, a kettő közt
+gyakorlatilag üres a sáv → tiszta szétválasztás. Real adaton **709 tulajdonnév** esik ki.
+Robusztusság: `count_A >= min_a = 3` miatt EGY nagybetűs előfordulás sosem billenti át a
+szűrőt (max 1/(3+1) = 0.25 < 0.5) — vagyis egy mondatkezdő nagybetű nem jelöl meg tévesen.
+
+**Amit a szűrő helyesen MEGTART — philológiailag valódi jel:**
+`αἰεί` (ionikus/epikus „mindig") 128×→0 · `ξυμμάχοις` — a **ξυμ-** (attikai) vs köznyelvi
+**συν-** · `ἐπιγιγνομένου` — a **-γιγν-** (attikai) vs koiné **-γινν-** · `ὁπότε` ionikus
+„valahányszor". Thukydidésznél az attikai `ἀεί` **egyszer sem** szerepel, csak az ionikus
+`αἰεί` — pontosan a keresett jelenség.
+
+### Kényszerítő mellékváltozások
+
+- `app/texts.py`: `section_texts(aid, wid, window=True)` — az archaizmus **`window=False`**-szal
+  hív. Az engine ablaka **25 szóval átfed** (`step = 140-25 = 115`), így a windowelt kimeneten
+  számolva minden határ duplán számítana, mégpedig a levél hosszától függő — azaz **változó —
+  arányban**, ami a két mű között NEM esik ki. Frekvenciaméréshez kötelező a teljes szöveg.
+- `app/flame_pure.py`: új public `words(text)` helper. A szó-regex **egy helyen** él — pont az
+  a duplikáció okozta a mai `cluster_threshold=undefined` hibát.
+- `app/server.py`: `GET /api/archaism/<aid1>/<wid1>/<aid2>/<wid2>` (work1 = korábbi,
+  work2 = fiatalabb). Paraméterek `_qnum`-mal (szemét → default), `drop_proper` külön parse-olva.
+- UI: új **Archaism** nav-füzet, `#/archaism` route, `renderArchaism` (két `makePicker`),
+  `_archHtml` táblázat, `.arch-*` CSS a meglévő apparátus-hangon. `dim` helyett a meglévő
+  `muted`/`warn` konvenció.
+
+### Hibák, amiket a saját tesztjeim okoztak (nem a kód)
+
+1. `3 → 1` előfordulás azonos korpuszméretnél csak 2.3× arány → helyesen kiszűri a 4×-es
+   `min_score`. Nagyobb esést kellett adnom a teszt-inputnak.
+2. `toLocaleString()` a sandbox `hu-HU` locale-jában `99 999`-et ad, nem `99,999`-et — a
+   tesztem hard-kódolt elválasztója volt rossz. Digits-only összehasonlításra írtam át.
+3. **Valódi hiba a kódban, amit él-eset talált meg:** `limit=0`-nál a UI azt írta volna, hogy
+   „No candidates at these thresholds", pedig **11 804 jelölt** volt — csak a limit vágta el
+   mindet. Az üres állapot így félrevezette volna a felhasználót (a rossz irányba küldte volna:
+   „lazíts a küszöbökön"). Javítva: szétválik a „nincs találat" és a „a limit elrejtette".
+
+### Tesztelve
+
+`test_arch.py`: 33 állítás, 0 failure — a kézzel számolt `log2(7) = 2.81` pontszám, `count_B=0`
+végessége, irány-aszimmetria, `min_a`/`max_b`/`min_score`/`limit` szűrők, determinisztikus
+rendezés, `occurrences` cimke-dedup és cap, ékezet-normalizálás, tulajdonnév-szűrő (pooled
+arány, `n_dropped_proper`, robusztusság). `test_arch_view.js`: 22 állítás, 0 failure — valódi
+végpont-válaszon renderelés, tag-egyensúly, `undefined`/`NaN` hiánya, XSS-escape a szó- és
+címke-cellában, üres állapotok. Él-esetek a végponton: önmagával (üres), nem létező mű (404),
+szemét paraméterek, negatív értékek, `limit=5`. Regresszió: `test_cluster.py`,
+`test_align.py`, `test_group.js` mind 0 failure · `validate_canon.py` 0 hiba / 0 figyelmeztetés ·
+`check_no_restricted.py` OK.
+
+**Módosult:** `app/archaism_pure.py` (új), `app/texts.py`, `app/flame_pure.py`, `app/server.py`,
+`app/static/app.js`, `app/static/index.html`, `app/static/styles.css`, `log.md`.
+
+**TODO / ismert korlátok:**
+- **Alak-alapú, nem lemma-alapú.** `ποταμόν` és `ποταμός` két külön sor; itt a „hapax" az ADOTT
+  ALAK hapaxja, nem a lexémáé. A lemma-csoportosítás morfológiai analizátort igényelne (azaz
+  dependency-t) — szemben a zero-dependency szabállyal.
+- A tulajdonnév-szűrő **nagybetűség-heurisztika**; olyan kiadáson, amely nem nagybetűz
+  konzisztensen, gyengébben működik. A kimutatott bimodalitás ezekre a kiadásokra igaz.
+- A `limit` negatív értéke 0-ra klampolódik (nem default-ra) — szándékos, de kézzel szerkesztett
+  URL-nél üres táblát ad; a UI ezt most már helyesen címkézi.

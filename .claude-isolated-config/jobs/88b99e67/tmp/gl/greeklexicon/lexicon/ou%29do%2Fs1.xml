@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὐδός</form>
+	<date>Wed Jul 27 07:16:54 EDT 2011</date>
+	<count>9816</count>
+	<per10K>20.718</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>1363</count>
+		<senses>
+			<senseContainer>
+				<sense>nor</sense>
+				<count>267</count>
+				<prob>0.196</prob>
+				<loglikelihood>55.802</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.423</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>not</sense>
+				<count>253</count>
+				<prob>0.186</prob>
+				<loglikelihood>7.122</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.589</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>no</sense>
+				<count>132</count>
+				<prob>0.097</prob>
+				<loglikelihood>5.480</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.598</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>even</sense>
+				<count>69</count>
+				<prob>0.051</prob>
+				<loglikelihood>4.226</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.362</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>threshold</sense>
+				<count>59</count>
+				<prob>0.043</prob>
+				<loglikelihood>180.698</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.797</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>not even</sense>
+				<count>40</count>
+				<prob>0.029</prob>
+				<loglikelihood>14.968</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>nor did</sense>
+				<count>30</count>
+				<prob>0.022</prob>
+				<loglikelihood>16.993</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.600</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>λάινος</original>
+				<trans>stone threshold</trans>
+				<loglikelihood>6.52</loglikelihood>
+				<count>7</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>τις</original>
+				<trans>no one</trans>
+				<loglikelihood>3.21</loglikelihood>
+				<count>198</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

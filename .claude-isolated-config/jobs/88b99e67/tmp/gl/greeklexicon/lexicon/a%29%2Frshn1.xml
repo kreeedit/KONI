@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄρσην</form>
+	<date>Wed Jul 27 00:10:43 EDT 2011</date>
+	<count>259</count>
+	<per10K>0.547</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>332</count>
+		<senses>
+			<senseContainer>
+				<sense>male</sense>
+				<count>157</count>
+				<prob>0.473</prob>
+				<loglikelihood>490.460</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

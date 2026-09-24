@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καταγέλαστος</form>
+	<date>Tue Jul 26 23:22:35 EDT 2011</date>
+	<count>94</count>
+	<per10K>0.198</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>88</count>
+		<senses>
+			<senseContainer>
+				<sense>ridiculous</sense>
+				<count>32</count>
+				<prob>0.364</prob>
+				<loglikelihood>27.672</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.531</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>laughable</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>5.142</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>laughing - stock</sense>
+				<count>3</count>
+				<prob>0.034</prob>
+				<loglikelihood>5.142</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>4</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

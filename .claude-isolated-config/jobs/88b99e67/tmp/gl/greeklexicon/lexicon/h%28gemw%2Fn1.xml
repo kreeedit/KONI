@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἡγεμών</form>
+	<date>Wed Jul 27 01:34:37 EDT 2011</date>
+	<count>851</count>
+	<per10K>1.796</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>948</count>
+		<senses>
+			<senseContainer>
+				<sense>leader</sense>
+				<count>186</count>
+				<prob>0.196</prob>
+				<loglikelihood>235.479</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>commander</sense>
+				<count>95</count>
+				<prob>0.100</prob>
+				<loglikelihood>59.723</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.716</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>guide</sense>
+				<count>77</count>
+				<prob>0.081</prob>
+				<loglikelihood>87.073</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.545</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>ruler</sense>
+				<count>56</count>
+				<prob>0.059</prob>
+				<loglikelihood>18.552</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.643</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>officer</sense>
+				<count>56</count>
+				<prob>0.059</prob>
+				<loglikelihood>40.509</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.536</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>governor</sense>
+				<count>49</count>
+				<prob>0.052</prob>
+				<loglikelihood>33.741</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.510</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>captain</sense>
+				<count>45</count>
+				<prob>0.047</prob>
+				<loglikelihood>22.001</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

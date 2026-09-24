@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄτακτος</form>
+	<date>Tue Jul 26 23:11:49 EDT 2011</date>
+	<count>72</count>
+	<per10K>0.152</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>94</count>
+		<senses>
+			<senseContainer>
+				<sense>disorderly</sense>
+				<count>12</count>
+				<prob>0.128</prob>
+				<loglikelihood>14.398</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>in disorder</sense>
+				<count>10</count>
+				<prob>0.106</prob>
+				<loglikelihood>36.362</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>disorderly way</sense>
+				<count>3</count>
+				<prob>0.032</prob>
+				<loglikelihood>12.000</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>8</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

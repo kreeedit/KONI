@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὕπατος</form>
+	<date>Wed Jul 27 00:26:38 EDT 2011</date>
+	<count>340</count>
+	<per10K>0.718</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>456</count>
+		<senses>
+			<senseContainer>
+				<sense>consul</sense>
+				<count>258</count>
+				<prob>0.566</prob>
+				<loglikelihood>677.354</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.795</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

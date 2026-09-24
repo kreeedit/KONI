@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μεγάθυμος</form>
+	<date>Tue Jul 26 23:24:30 EDT 2011</date>
+	<count>97</count>
+	<per10K>0.205</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>90</count>
+		<senses>
+			<senseContainer>
+				<sense>great - souled</sense>
+				<count>55</count>
+				<prob>0.611</prob>
+				<loglikelihood>201.661</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.964</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>great - hearted</sense>
+				<count>19</count>
+				<prob>0.211</prob>
+				<loglikelihood>18.997</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.789</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

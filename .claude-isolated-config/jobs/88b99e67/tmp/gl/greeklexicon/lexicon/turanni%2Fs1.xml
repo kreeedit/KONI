@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>τυραννίς</form>
+	<date>Wed Jul 27 00:36:53 EDT 2011</date>
+	<count>405</count>
+	<per10K>0.855</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>428</count>
+		<senses>
+			<senseContainer>
+				<sense>tyranny</sense>
+				<count>207</count>
+				<prob>0.484</prob>
+				<loglikelihood>632.344</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.353</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>sovereignty</sense>
+				<count>19</count>
+				<prob>0.044</prob>
+				<loglikelihood>19.767</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>despotism</sense>
+				<count>12</count>
+				<prob>0.028</prob>
+				<loglikelihood>17.991</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.667</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

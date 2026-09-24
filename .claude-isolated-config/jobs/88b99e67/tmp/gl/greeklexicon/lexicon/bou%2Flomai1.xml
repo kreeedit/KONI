@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>βούλομαι</form>
+	<date>Wed Jul 27 05:27:08 EDT 2011</date>
+	<count>5413</count>
+	<per10K>11.425</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>4066</count>
+		<senses>
+			<senseContainer>
+				<sense>wish</sense>
+				<count>1030</count>
+				<prob>0.253</prob>
+				<loglikelihood>1806.558</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>desire</sense>
+				<count>317</count>
+				<prob>0.078</prob>
+				<loglikelihood>167.947</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>want</sense>
+				<count>309</count>
+				<prob>0.076</prob>
+				<loglikelihood>285.990</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>choose</sense>
+				<count>182</count>
+				<prob>0.045</prob>
+				<loglikelihood>85.438</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>like</sense>
+				<count>181</count>
+				<prob>0.045</prob>
+				<loglikelihood>39.327</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.442</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>please</sense>
+				<count>166</count>
+				<prob>0.041</prob>
+				<loglikelihood>126.019</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.404</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>would</sense>
+				<count>129</count>
+				<prob>0.032</prob>
+				<loglikelihood>6.816</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

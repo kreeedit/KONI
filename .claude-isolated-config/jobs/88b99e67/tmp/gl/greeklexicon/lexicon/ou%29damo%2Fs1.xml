@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>οὐδαμός</form>
+	<date>Wed Jul 27 01:16:20 EDT 2011</date>
+	<count>670</count>
+	<per10K>1.414</per10K>
+	<posContainer>
+		<pos>adv</pos>
+		<count>535</count>
+		<senses>
+			<senseContainer>
+				<sense>no means</sense>
+				<count>65</count>
+				<prob>0.121</prob>
+				<loglikelihood>149.502</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.508</relativeFreq></author>
+					<author><name>Epictetus</name><relativeFreq>0.462</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>by no means</sense>
+				<count>59</count>
+				<prob>0.110</prob>
+				<loglikelihood>204.714</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.627</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>nowhere</sense>
+				<count>32</count>
+				<prob>0.060</prob>
+				<loglikelihood>33.546</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>not at all</sense>
+				<count>24</count>
+				<prob>0.045</prob>
+				<loglikelihood>59.056</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.792</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>certainly not</sense>
+				<count>17</count>
+				<prob>0.032</prob>
+				<loglikelihood>39.847</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.941</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>no way</sense>
+				<count>11</count>
+				<prob>0.021</prob>
+				<loglikelihood>10.990</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adj</pos>
+		<count>213</count>
+		<senses>
+			<senseContainer>
+				<sense>nowhere</sense>
+				<count>36</count>
+				<prob>0.169</prob>
+				<loglikelihood>42.480</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>anywhere</sense>
+				<count>15</count>
+				<prob>0.070</prob>
+				<loglikelihood>7.622</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐλάβεια</form>
+	<date>Tue Jul 26 22:57:57 EDT 2011</date>
+	<count>48</count>
+	<per10K>0.101</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>56</count>
+		<senses>
+			<senseContainer>
+				<sense>caution</sense>
+				<count>20</count>
+				<prob>0.357</prob>
+				<loglikelihood>30.187</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.450</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀκροθίνιον</form>
+	<date>Tue Jul 26 22:37:29 EDT 2011</date>
+	<count>20</count>
+	<per10K>0.042</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>26</count>
+		<senses>
+			<senseContainer>
+				<sense>first - fruits</sense>
+				<count>11</count>
+				<prob>0.423</prob>
+				<loglikelihood>14.666</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>first fruits</sense>
+				<count>3</count>
+				<prob>0.115</prob>
+				<loglikelihood>5.143</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

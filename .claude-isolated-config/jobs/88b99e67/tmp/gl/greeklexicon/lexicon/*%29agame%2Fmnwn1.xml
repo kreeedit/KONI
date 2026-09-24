@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Ἀγαμέμνων</form>
+	<date>Wed Jul 27 00:56:33 EDT 2011</date>
+	<count>523</count>
+	<per10K>1.104</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>451</count>
+		<senses>
+			<senseContainer>
+				<sense>agamemnon</sense>
+				<count>460</count>
+				<prob>1.020</prob>
+				<loglikelihood>1561.452</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.476</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>Ἀτρείδης</original>
+				<trans>agamemnon, son of atreus</trans>
+				<loglikelihood>65.64</loglikelihood>
+				<count>59</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρεῖον</original>
+				<trans>ruling agamemnon</trans>
+				<loglikelihood>52.26</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>κρείων</original>
+				<trans>lord agamemnon</trans>
+				<loglikelihood>45.54</loglikelihood>
+				<count>27</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ἄναξ</original>
+				<trans>king of men, agamemnon</trans>
+				<loglikelihood>22.57</loglikelihood>
+				<count>62</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+			<collocation>
+				<original>ποιμήν</original>
+				<trans>agamemnon, shepherd</trans>
+				<loglikelihood>2.61</loglikelihood>
+				<count>12</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

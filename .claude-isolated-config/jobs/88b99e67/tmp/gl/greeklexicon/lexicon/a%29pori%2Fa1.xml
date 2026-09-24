@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀπορία</form>
+	<date>Wed Jul 27 00:47:34 EDT 2011</date>
+	<count>474</count>
+	<per10K>1</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>621</count>
+		<senses>
+			<senseContainer>
+				<sense>want</sense>
+				<count>81</count>
+				<prob>0.130</prob>
+				<loglikelihood>19.713</loglikelihood>
+				<authorContainer>
+					<author><name>Appian</name><relativeFreq>0.370</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>difficulty</sense>
+				<count>76</count>
+				<prob>0.122</prob>
+				<loglikelihood>51.040</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.579</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>poverty</sense>
+				<count>36</count>
+				<prob>0.058</prob>
+				<loglikelihood>20.617</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>perplexity</sense>
+				<count>35</count>
+				<prob>0.056</prob>
+				<loglikelihood>65.298</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.571</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>distress</sense>
+				<count>32</count>
+				<prob>0.052</prob>
+				<loglikelihood>14.808</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>lack</sense>
+				<count>19</count>
+				<prob>0.031</prob>
+				<loglikelihood>4.130</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.316</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

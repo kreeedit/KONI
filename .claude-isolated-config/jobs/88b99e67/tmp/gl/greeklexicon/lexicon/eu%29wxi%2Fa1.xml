@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐωχία</form>
+	<date>Tue Jul 26 22:55:12 EDT 2011</date>
+	<count>44</count>
+	<per10K>0.093</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>61</count>
+		<senses>
+			<senseContainer>
+				<sense>feast</sense>
+				<count>23</count>
+				<prob>0.377</prob>
+				<loglikelihood>4.908</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.739</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

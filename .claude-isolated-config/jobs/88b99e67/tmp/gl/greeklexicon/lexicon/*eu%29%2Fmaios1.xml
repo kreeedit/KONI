@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Εὔμαιος</form>
+	<date>Tue Jul 26 23:09:14 EDT 2011</date>
+	<count>67</count>
+	<per10K>0.141</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>45</count>
+		<senses>
+			<senseContainer>
+				<sense>eumaeus</sense>
+				<count>41</count>
+				<prob>0.911</prob>
+				<loglikelihood>156.370</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.976</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>eumaios</sense>
+				<count>14</count>
+				<prob>0.311</prob>
+				<loglikelihood>18.232</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>συβώτης</original>
+				<trans>swineherd eumaeus</trans>
+				<loglikelihood>13.47</loglikelihood>
+				<count>16</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

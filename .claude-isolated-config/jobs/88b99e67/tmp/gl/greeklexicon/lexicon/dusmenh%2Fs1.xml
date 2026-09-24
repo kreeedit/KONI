@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δυσμενής</form>
+	<date>Tue Jul 26 23:40:52 EDT 2011</date>
+	<count>137</count>
+	<per10K>0.289</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>112</count>
+		<senses>
+			<senseContainer>
+				<sense>foemen</sense>
+				<count>9</count>
+				<prob>0.080</prob>
+				<loglikelihood>10.123</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.889</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>more hostile</sense>
+				<count>3</count>
+				<prob>0.027</prob>
+				<loglikelihood>8.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+	<posContainer>
+		<pos>adv</pos>
+		<count>26</count>
+		<senses>
+		</senses>
+	</posContainer>
+</lexicalEntry>

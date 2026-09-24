@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὐαγγέλιον</form>
+	<date>Tue Jul 26 22:56:41 EDT 2011</date>
+	<count>46</count>
+	<per10K>0.097</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>89</count>
+		<senses>
+			<senseContainer>
+				<sense>gospel</sense>
+				<count>15</count>
+				<prob>0.169</prob>
+				<loglikelihood>19.563</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>good news</sense>
+				<count>5</count>
+				<prob>0.056</prob>
+				<loglikelihood>4.761</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

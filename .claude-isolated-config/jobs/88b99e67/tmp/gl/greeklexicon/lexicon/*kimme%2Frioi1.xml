@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>Κιμμέριοι</form>
+	<date>Tue Jul 26 22:42:31 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>10</count>
+		<senses>
+			<senseContainer>
+				<sense>cimmerians</sense>
+				<count>7</count>
+				<prob>0.700</prob>
+				<loglikelihood>9.800</loglikelihood>
+				<authorContainer>
+					<author><name>Strabo</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

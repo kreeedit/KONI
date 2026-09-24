@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εἷμα</form>
+	<date>Tue Jul 26 23:45:02 EDT 2011</date>
+	<count>148</count>
+	<per10K>0.312</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>127</count>
+		<senses>
+			<senseContainer>
+				<sense>raiment</sense>
+				<count>62</count>
+				<prob>0.488</prob>
+				<loglikelihood>149.272</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.984</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>garment</sense>
+				<count>19</count>
+				<prob>0.150</prob>
+				<loglikelihood>5.914</loglikelihood>
+				<authorContainer>
+					<author><name>Herodotus</name><relativeFreq>0.474</relativeFreq></author>
+					<author><name>Homer</name><relativeFreq>0.368</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἕννυμι</original>
+				<trans>put on raiment</trans>
+				<loglikelihood>14.27</loglikelihood>
+				<count>17</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

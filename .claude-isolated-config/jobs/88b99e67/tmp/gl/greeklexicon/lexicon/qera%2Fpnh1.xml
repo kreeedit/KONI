@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θεράπνη</form>
+	<date>Tue Jul 26 22:34:07 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>12</count>
+		<senses>
+			<senseContainer>
+				<sense>therapne</sense>
+				<count>4</count>
+				<prob>0.333</prob>
+				<loglikelihood>5.333</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

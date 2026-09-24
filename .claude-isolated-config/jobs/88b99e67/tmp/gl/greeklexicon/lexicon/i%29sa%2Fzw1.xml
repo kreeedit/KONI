@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἰσάζω</form>
+	<date>Tue Jul 26 22:45:21 EDT 2011</date>
+	<count>30</count>
+	<per10K>0.063</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>25</count>
+		<senses>
+			<senseContainer>
+				<sense>equalize</sense>
+				<count>6</count>
+				<prob>0.240</prob>
+				<loglikelihood>8.000</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

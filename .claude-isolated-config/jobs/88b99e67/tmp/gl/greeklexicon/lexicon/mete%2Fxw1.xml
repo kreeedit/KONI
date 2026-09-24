@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μετέχω</form>
+	<date>Wed Jul 27 01:33:46 EDT 2011</date>
+	<count>849</count>
+	<per10K>1.792</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>792</count>
+		<senses>
+			<senseContainer>
+				<sense>share</sense>
+				<count>117</count>
+				<prob>0.148</prob>
+				<loglikelihood>72.380</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>partake</sense>
+				<count>96</count>
+				<prob>0.121</prob>
+				<loglikelihood>165.933</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.812</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>share in</sense>
+				<count>79</count>
+				<prob>0.100</prob>
+				<loglikelihood>173.261</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>participate in</sense>
+				<count>36</count>
+				<prob>0.045</prob>
+				<loglikelihood>99.645</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.639</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>part in</sense>
+				<count>30</count>
+				<prob>0.038</prob>
+				<loglikelihood>66.627</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>take part in</sense>
+				<count>19</count>
+				<prob>0.024</prob>
+				<loglikelihood>51.546</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.526</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

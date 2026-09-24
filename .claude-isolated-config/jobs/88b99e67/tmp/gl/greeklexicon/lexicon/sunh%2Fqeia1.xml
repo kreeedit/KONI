@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>συνήθεια</form>
+	<date>Tue Jul 26 23:18:31 EDT 2011</date>
+	<count>86</count>
+	<per10K>0.182</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>125</count>
+		<senses>
+			<senseContainer>
+				<sense>intimacy</sense>
+				<count>8</count>
+				<prob>0.064</prob>
+				<loglikelihood>7.998</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>habituation</sense>
+				<count>6</count>
+				<prob>0.048</prob>
+				<loglikelihood>15.999</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

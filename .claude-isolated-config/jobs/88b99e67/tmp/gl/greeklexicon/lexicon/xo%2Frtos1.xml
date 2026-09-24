@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χόρτος</form>
+	<date>Tue Jul 26 22:48:42 EDT 2011</date>
+	<count>35</count>
+	<per10K>0.074</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>42</count>
+		<senses>
+			<senseContainer>
+				<sense>fodder</sense>
+				<count>14</count>
+				<prob>0.333</prob>
+				<loglikelihood>27.034</loglikelihood>
+				<authorContainer>
+					<author><name>Epictetus</name><relativeFreq>0.500</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>grass</sense>
+				<count>7</count>
+				<prob>0.167</prob>
+				<loglikelihood>4.083</loglikelihood>
+				<authorContainer>
+					<author><name>NULL</name><relativeFreq>0.857</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>hay</sense>
+				<count>5</count>
+				<prob>0.119</prob>
+				<loglikelihood>12.500</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

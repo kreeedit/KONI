@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>εὔνους</form>
+	<date>Wed Jul 27 00:07:19 EDT 2011</date>
+	<count>237</count>
+	<per10K>0.5</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>300</count>
+		<senses>
+			<senseContainer>
+				<sense>goodwill</sense>
+				<count>18</count>
+				<prob>0.060</prob>
+				<loglikelihood>9.118</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>loyal</sense>
+				<count>15</count>
+				<prob>0.050</prob>
+				<loglikelihood>12.850</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>well disposed</sense>
+				<count>7</count>
+				<prob>0.023</prob>
+				<loglikelihood>17.815</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

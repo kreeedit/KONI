@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>μυστήριον</form>
+	<date>Tue Jul 26 23:12:24 EDT 2011</date>
+	<count>73</count>
+	<per10K>0.154</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>102</count>
+		<senses>
+			<senseContainer>
+				<sense>mystery</sense>
+				<count>61</count>
+				<prob>0.598</prob>
+				<loglikelihood>121.001</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>θάλλω</form>
+	<date>Tue Jul 26 23:20:45 EDT 2011</date>
+	<count>91</count>
+	<per10K>0.192</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>36</count>
+		<senses>
+			<senseContainer>
+				<sense>flourish</sense>
+				<count>16</count>
+				<prob>0.444</prob>
+				<loglikelihood>12.799</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

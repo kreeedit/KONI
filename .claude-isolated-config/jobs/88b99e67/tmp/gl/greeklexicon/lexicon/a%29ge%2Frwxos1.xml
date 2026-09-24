@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἀγέρωχος</form>
+	<date>Tue Jul 26 22:33:44 EDT 2011</date>
+	<count>16</count>
+	<per10K>0.034</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>14</count>
+		<senses>
+			<senseContainer>
+				<sense>lordly</sense>
+				<count>8</count>
+				<prob>0.571</prob>
+				<loglikelihood>4.830</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

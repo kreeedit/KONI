@@ -1,0 +1,45 @@
+A felület működik, mint egyszerű szótári ritkaságkereső, de filológiai értelemben a jelenlegi formájában **nem archaizmust mér, hanem témakülönbséget és szókincskopást (vocabulary attrition)**.
+
+Ahhoz, hogy valódi digitális filológiai eszközzé váljon, az alábbi strukturális és módszertani módosításokra van szükség:
+
+### 1. Lemmatizálás és morfológiai aggregáció (Alapkövetelmény)
+
+A jelenlegi listában a `ὁπλίτας`, `ὁπλῖται` és `ὁπλιτῶν` három külön tételként szerepel.
+
+* Ez széttördeli a statisztikát, és eltorzítja a valódi előfordulási arányokat.
+* **Javítás:** A szavakat lemmásítani kell (pl. CLTK – Classical Language Toolkit segítségével). A fő listának lemmákat kell mutatnia (`ὁπλίτης`), amelyre rákattintva lenyílik az adott alaktani megoszlás.
+
+### 2. Harmadik, referencia-korpusz bevonása (A módszertan kulcsa)
+
+Két szerző közvetlen összevetése elméletileg hibás archaizmus-detektálásra.
+
+* Ha Prokopiosz 1–5 alkalommal használ egy szót, ami Thuküdidésznél gyakori volt, az nem feltétlenül archaizmus; lehet technikai terminus, allúzió, vagy a kései görögben is élő, de ritkán előkerülő szó.
+* **Javítás:** Kell egy harmadik elem: **Prokopiosz korának referencia-korpusza** (pl. 5–6. századi nem archaizáló koiné szövegek összessége). Egy szó akkor archaizmus Prokopiosznál, ha:
+
+$$\text{Gyakoriság}_{\text{Thuküdidész}} \text{ magas} \quad \land \quad \text{Gyakoriság}_{\text{Kortárs koiné}} \approx 0 \quad \land \quad \text{Gyakoriság}_{\text{Prokopiosz}} > 0$$
+
+
+
+### 3. A keresési logika újragondolása: Allúzió vs. Archaizáló stílus
+
+A felület jelenleg a *collapse*-ra, azaz a ritkaságra szűr (`MAX. COUNT IN B: 5`).
+
+* Ez a beállítás legfeljebb **allúziókat vagy rejtett idézeteket** találhat meg, nem stílust.
+* Az archaizáló stílus (imitatio/mimesis) ugyanis szisztematikus: Prokopiosz tudatosan és rendszeresen használ olyan szerkezeteket, amelyeket kora már elhagyott. Érdemes két külön modult létrehozni:
+* **Allúzió-kereső:** Ritka B-beli előfordulások, ahol a közvetlen szövegkörnyezet hasonlósága dönt (intertextualitás).
+* **Stílusregiszter-kereső:** Olyan szavak/formák, amelyeket B a kortárs normához képest *túlreprezentál*, mert A-t utánozza.
+
+
+
+### 4. Fonetikai és morfológiai mintázatok (Regex / Grammatika)
+
+A listában látható `ξυμμάχων` kiváló példa: a thuküdidészi attikai $ξ$-használat a kései $\sigma$-val szemben (`ξύν` vs. `σύν`) tudatos mimézis.
+
+* A tisztán lexikális összevetés elrejti a rendszerszintű archaizálást.
+* **Javítás:** Morfofonetikai szűrők beépítése (pl. dialektális változatok: `-σσ-` / `-ττ-`, `ξυν-` / `συν-`, archaikus képzők mint az `-ωσις` absztrakt főnevek, ritka partikulakapcsolatok).
+
+### 5. UI és kontextuskezelés (KWIC és párhuzamos megjelenítés)
+
+* **Közvetlen kontextus (KWIC):** A `WHERE IN B: 8.2.10` hivatkozás önmagában nem elég kutatási célra. Kattintásra helyben meg kell jelennie az adott mondatnak és környezetének.
+* **Párhuzamos locus-megjelenítés:** Ha egy szó előkerül Prokopiosznál, a rendszernek fel kell ajánlania Thuküdidész leginkább hasonló mondatait (pl. egyszerű TF-IDF vagy n-gram hasonlóság alapján a szó 10 szavas környezetében), hogy azonnal látszódjon: formulaátvételről vagy független használatról van-e szó.
+* **Frazeológia / N-grammok:** Az antik archaizálás mondatfordulatokban él. Egy 2-gram / 3-gram opció nélkülözhetetlen a szószerkezetek detektálásához.

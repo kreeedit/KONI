@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἄγαλμα</form>
+	<date>Wed Jul 27 01:33:58 EDT 2011</date>
+	<count>850</count>
+	<per10K>1.794</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>876</count>
+		<senses>
+			<senseContainer>
+				<sense>image</sense>
+				<count>621</count>
+				<prob>0.709</prob>
+				<loglikelihood>1756.314</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.863</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>statue</sense>
+				<count>134</count>
+				<prob>0.153</prob>
+				<loglikelihood>126.715</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.515</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Object of</type>
+			<collocation>
+				<original>ἀνατίθημι</original>
+				<trans>images were dedicated</trans>
+				<loglikelihood>2.88</loglikelihood>
+				<count>19</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>λίθος</original>
+				<trans>image is of stone</trans>
+				<loglikelihood>5.42</loglikelihood>
+				<count>36</count>
+				<authorContainer>
+					<author><name>Pausanias</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>κλεινία</form>
+	<date>Tue Jul 26 23:23:37 EDT 2011</date>
+	<count>96</count>
+	<per10K>0.203</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>98</count>
+		<senses>
+			<senseContainer>
+				<sense>clinias</sense>
+				<count>66</count>
+				<prob>0.673</prob>
+				<loglikelihood>220.550</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>cleinias</sense>
+				<count>25</count>
+				<prob>0.255</prob>
+				<loglikelihood>32.464</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

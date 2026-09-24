@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>πρεσβευτής</form>
+	<date>Wed Jul 27 00:09:39 EDT 2011</date>
+	<count>252</count>
+	<per10K>0.532</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>192</count>
+		<senses>
+			<senseContainer>
+				<sense>ambassador</sense>
+				<count>44</count>
+				<prob>0.229</prob>
+				<loglikelihood>10.610</loglikelihood>
+				<authorContainer>
+					<author><name>Polybius</name><relativeFreq>0.386</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>commissioner</sense>
+				<count>8</count>
+				<prob>0.042</prob>
+				<loglikelihood>4.264</loglikelihood>
+				<authorContainer>
+					<author><name>Polybius</name><relativeFreq>0.875</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

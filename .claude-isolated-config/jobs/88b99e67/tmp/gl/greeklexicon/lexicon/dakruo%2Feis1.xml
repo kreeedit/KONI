@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>δακρυόεις</form>
+	<date>Tue Jul 26 22:44:35 EDT 2011</date>
+	<count>29</count>
+	<per10K>0.061</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>28</count>
+		<senses>
+			<senseContainer>
+				<sense>tearful</sense>
+				<count>11</count>
+				<prob>0.393</prob>
+				<loglikelihood>17.285</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.818</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

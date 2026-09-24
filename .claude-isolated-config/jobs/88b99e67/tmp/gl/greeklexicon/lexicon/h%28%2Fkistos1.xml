@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ἥκιστος</form>
+	<date>Wed Jul 27 00:40:14 EDT 2011</date>
+	<count>427</count>
+	<per10K>0.901</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>483</count>
+		<senses>
+			<senseContainer>
+				<sense>least</sense>
+				<count>97</count>
+				<prob>0.201</prob>
+				<loglikelihood>93.551</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.340</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>especial</sense>
+				<count>33</count>
+				<prob>0.068</prob>
+				<loglikelihood>6.024</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.333</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>least likely</sense>
+				<count>21</count>
+				<prob>0.043</prob>
+				<loglikelihood>80.165</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.524</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>no means</sense>
+				<count>12</count>
+				<prob>0.025</prob>
+				<loglikelihood>5.088</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

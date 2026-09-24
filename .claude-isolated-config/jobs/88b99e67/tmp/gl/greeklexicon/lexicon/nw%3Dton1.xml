@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>νῶτον</form>
+	<date>Tue Jul 26 23:44:33 EDT 2011</date>
+	<count>147</count>
+	<per10K>0.31</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>n</gender>
+		<count>189</count>
+		<senses>
+			<senseContainer>
+				<sense>back</sense>
+				<count>87</count>
+				<prob>0.460</prob>
+				<loglikelihood>29.174</loglikelihood>
+			</senseContainer>
+		</senses>
+		<syntaxContainer>
+			<type>Attributes</type>
+			<collocation>
+				<original>εὐρύς</original>
+				<trans>broad back</trans>
+				<loglikelihood>2.90</loglikelihood>
+				<count>14</count>
+				<authorContainer>
+					<author><name>Homer</name></author>
+				</authorContainer>
+			</collocation>
+		</syntaxContainer>
+	</posContainer>
+</lexicalEntry>

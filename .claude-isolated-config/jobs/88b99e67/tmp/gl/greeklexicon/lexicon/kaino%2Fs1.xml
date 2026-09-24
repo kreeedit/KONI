@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>καινός</form>
+	<date>Wed Jul 27 00:20:08 EDT 2011</date>
+	<count>306</count>
+	<per10K>0.646</per10K>
+	<posContainer>
+		<pos>adj</pos>
+		<count>154</count>
+		<senses>
+			<senseContainer>
+				<sense>new</sense>
+				<count>69</count>
+				<prob>0.448</prob>
+				<loglikelihood>35.716</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

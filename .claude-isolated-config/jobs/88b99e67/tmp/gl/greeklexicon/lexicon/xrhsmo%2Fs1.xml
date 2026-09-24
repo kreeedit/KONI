@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>χρησμός</form>
+	<date>Wed Jul 27 00:07:13 EDT 2011</date>
+	<count>236</count>
+	<per10K>0.498</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>123</count>
+		<senses>
+			<senseContainer>
+				<sense>oracle</sense>
+				<count>92</count>
+				<prob>0.748</prob>
+				<loglikelihood>47.807</loglikelihood>
+				<authorContainer>
+					<author><name>Pausanias</name><relativeFreq>0.315</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

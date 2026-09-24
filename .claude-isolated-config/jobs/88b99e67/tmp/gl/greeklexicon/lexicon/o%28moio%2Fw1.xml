@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>ὁμοιόω</form>
+	<date>Wed Jul 27 01:29:52 EDT 2011</date>
+	<count>796</count>
+	<per10K>1.68</per10K>
+	<posContainer>
+		<pos>verb</pos>
+		<count>589</count>
+		<senses>
+			<senseContainer>
+				<sense>like manner</sense>
+				<count>23</count>
+				<prob>0.039</prob>
+				<loglikelihood>27.458</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.304</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>resemble</sense>
+				<count>15</count>
+				<prob>0.025</prob>
+				<loglikelihood>5.041</loglikelihood>
+				<authorContainer>
+					<author><name>Aristotle</name><relativeFreq>0.400</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>same way</sense>
+				<count>12</count>
+				<prob>0.020</prob>
+				<loglikelihood>3.961</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

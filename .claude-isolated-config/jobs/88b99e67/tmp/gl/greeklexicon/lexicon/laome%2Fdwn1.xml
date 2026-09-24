@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>λαομέδων</form>
+	<date>Tue Jul 26 22:42:46 EDT 2011</date>
+	<count>27</count>
+	<per10K>0.057</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>18</count>
+		<senses>
+			<senseContainer>
+				<sense>laomedon</sense>
+				<count>19</count>
+				<prob>1.056</prob>
+				<loglikelihood>46.580</loglikelihood>
+				<authorContainer>
+					<author><name>Homer</name><relativeFreq>0.579</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>σατράπης</form>
+	<date>Tue Jul 26 23:16:17 EDT 2011</date>
+	<count>82</count>
+	<per10K>0.173</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>m</gender>
+		<count>102</count>
+		<senses>
+			<senseContainer>
+				<sense>satrap</sense>
+				<count>46</count>
+				<prob>0.451</prob>
+				<loglikelihood>136.510</loglikelihood>
+				<authorContainer>
+					<author><name>Xenophon</name><relativeFreq>0.391</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>

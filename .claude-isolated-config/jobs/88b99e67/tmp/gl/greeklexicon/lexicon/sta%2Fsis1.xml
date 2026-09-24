@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/lexical_entry.xsl"?>
+<lexicalEntry>
+	<form>στάσις</form>
+	<date>Wed Jul 27 00:39:31 EDT 2011</date>
+	<count>423</count>
+	<per10K>0.893</per10K>
+	<posContainer>
+		<pos>noun</pos>
+		<gender>f</gender>
+		<count>469</count>
+		<senses>
+			<senseContainer>
+				<sense>sedition</sense>
+				<count>69</count>
+				<prob>0.147</prob>
+				<loglikelihood>186.655</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.783</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>faction</sense>
+				<count>52</count>
+				<prob>0.111</prob>
+				<loglikelihood>71.119</loglikelihood>
+			</senseContainer>
+			<senseContainer>
+				<sense>seditions</sense>
+				<count>17</count>
+				<prob>0.036</prob>
+				<loglikelihood>27.511</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>0.412</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>civil strife</sense>
+				<count>16</count>
+				<prob>0.034</prob>
+				<loglikelihood>42.654</loglikelihood>
+				<authorContainer>
+					<author><name>Plato</name><relativeFreq>0.375</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>tumult</sense>
+				<count>15</count>
+				<prob>0.032</prob>
+				<loglikelihood>7.681</loglikelihood>
+				<authorContainer>
+					<author><name>Flavius Josephus</name><relativeFreq>1.000</relativeFreq></author>
+				</authorContainer>
+			</senseContainer>
+			<senseContainer>
+				<sense>civil</sense>
+				<count>14</count>
+				<prob>0.030</prob>
+				<loglikelihood>8.898</loglikelihood>
+			</senseContainer>
+		</senses>
+	</posContainer>
+</lexicalEntry>
