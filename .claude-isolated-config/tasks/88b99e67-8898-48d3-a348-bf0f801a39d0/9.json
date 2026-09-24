@@ -1,9 +1,0 @@
-{
-  "id": "9",
-  "subject": "Beta Code → Unicode converter (app/betacode.py)",
-  "description": "Pure stdlib transliteration of Perseus/TLG beta code to Unicode Greek, with breathings, accents, iota subscript, digamma, uppercase, final sigma. Validated against the gold treebank Unicode lemmas (measurable, not assumed).",
-  "activeForm": "Writing the beta code converter",
-  "status": "pending",
-  "blocks": [],
-  "blockedBy": []
-}

@@ -1,7 +1,0 @@
-# Projekt Log
-
-## 2026-07-16 — Bootstrap inicializálva
-
-- Létrehozva: CLAUDE.md, .claudesignore, log.md
-- Projekt: KONI — ókori görög szövegek kánon- és korpuszkezelő rendszere (Flame keresőmotorral)
-- **TODO:** Következő session: olvasd el a .claudesignore fájlt, majd a log.md-t a munka folytatásához.

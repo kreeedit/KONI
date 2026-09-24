@@ -240,7 +240,7 @@ python scripts/build_jsonld.py --links   # -> data/canon.jsonld + data/canon-lin
 
 **6) Optional — regenerate the open-backlog (gaps) report**
 ```bash
-python scripts/build_gaps_report.py       # -> reports/gaps_report.md
+python scripts/build_gaps_report.py       # -> reports/gaps_report.md (local, not tracked)
 ```
 
 ---
@@ -254,11 +254,11 @@ to further corpora as open sources allow. The natural next step is **Latin**
 (`KONI-LA`): Greek and Latin digital infrastructure today runs partly in
 parallel (TLG / CTS / Wikidata on one side, other Latin canons / CTS / Wikidata
 on the other), yet classical, late-antique, Byzantine-reception and humanist
-research constantly crosses the two. A feasibility note — mapping open Latin
-sources (Perseus `latinLit` CTS, PHI, Wikidata Latin authors, VIAF) and the
-schema changes a second module would need — is in
-[`docs/latin-feasibility.md`](docs/latin-feasibility.md). Further corpora
-(Syriac, Coptic, medieval Latin) are a longer-term vision, not current work.
+research constantly crosses the two. A feasibility mapping of open Latin
+sources (Perseus `latinLit` CTS, PHI, Wikidata Latin authors, VIAF) and of the
+schema changes a second module would need is part of the open backlog. Further
+corpora (Syriac, Coptic, medieval Latin) are a longer-term vision, not current
+work.
 
 **The open backlog.** KONI is not only a cross-reference dataset, it is a
 *signalling system* for the community: it shows where open metadata, an open
@@ -277,9 +277,8 @@ RDF-projectable parts (author, work, CTS URN, edition, date, language, related
 authority IDs) — without opening the texts themselves. If such metadata become
 public, the open research infrastructure enriches considerably and parts of
 KONI's reconciliation work become unnecessary — which is exactly the mark of a
-successful open-infrastructure project. See
-[`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for how to report a missing link
-or offer an open TEI edition.
+successful open-infrastructure project. Missing links and offered open TEI
+editions can be reported through the repository's issue tracker.
 
 ---
 

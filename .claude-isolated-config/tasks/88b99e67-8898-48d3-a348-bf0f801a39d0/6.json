@@ -1,9 +1,0 @@
-{
-  "id": "6",
-  "subject": "Variantális réteg: app/variants.py + archaizmus-bekötés",
-  "description": "#4: morfofonetikai variáns-összevonás (ξυ-/συ-, -ττ-/-σσ-, γιγν-/γιν-, ρρ-/ρσ-), a mért adatokra alapozva; pooling + klasszicizáló-oldal detektálás; stoplisták; pooling-hatás mérése.",
-  "activeForm": "Building the variant layer",
-  "status": "in_progress",
-  "blocks": [],
-  "blockedBy": []
-}
