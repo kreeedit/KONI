@@ -1,5 +1,5 @@
 # KONI — Κοινή Online Nexus of Integration
-[![Code: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
+[![Code: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/Code-PolyForm%20NC%201.0.0-orange.svg)](LICENSE)
 [![Engine: FLAME Apache-2.0](https://img.shields.io/badge/Engine-FLAME%20(Apache--2.0)-blue.svg)](https://github.com/kreeedit/FLAME)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/Texts-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Data: CC0 / restricted](https://img.shields.io/badge/Data-CC0%20%2F%20restricted-lightgrey.svg)](NOTICE)
@@ -285,9 +285,13 @@ editions can be reported through the repository's issue tracker.
 ## License & data provenance
 
 KONI bundles **three different kinds of thing**, and they are *not* under one
-license. ⚠️ Read this first: KONI touches sources with very different legal status (from MIT and CC BY-SA to copyrighted/restricted materials like the TLG). What it may redistribute, what it only builds locally, and what is off-limits are spelled out in the [NOTICE](./NOTICE) file. That file is not an afterthought — it is the difference between a tool you can publish and one you can only run privately.
+license. ⚠️ Read this first: KONI touches sources with very different legal status (from PolyForm Noncommercial and CC BY-SA to copyrighted/restricted materials like the TLG). What it may redistribute, what it only builds locally, and what is off-limits are spelled out in the [NOTICE](./NOTICE) file. That file is not an afterthought — it is the difference between a tool you can publish and one you can only run privately.
 
-> **Licensing (mixed).** KONI's own code is **MIT** (see [`LICENSE`](LICENSE)).
+> **Licensing (mixed).** KONI's own code is **PolyForm Noncommercial 1.0.0**
+> (see [`LICENSE`](LICENSE)) — free to use, change and share for any
+> **noncommercial** purpose, including by educational, research and government
+> institutions. Commercial use is **not** permitted. Note that this is a
+> *source-available* license, not an OSI-approved open-source one.
 > The Flame engine reimplements **[FLAME](https://github.com/kreeedit/FLAME)**
 > (Apache-2.0, same author). Loaded/bundled data is licensed separately — Greek
 > texts **CC BY-SA 4.0**, Wikidata **CC0**; TLG-derived and unlicensed sources

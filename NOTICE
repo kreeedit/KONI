@@ -2,8 +2,9 @@ KONI — Κοινή Online Nexus of Integration
 =========================================
 
 KONI's own source code — the web reader, the Flame text-reuse engine, the ETL
-scripts, and the frontend — is licensed under the MIT License (see the LICENSE
-file).
+scripts, and the frontend — is licensed under the PolyForm Noncommercial
+License 1.0.0 (see the LICENSE file). It may be used, changed and shared for
+any noncommercial purpose; commercial use is not permitted.
 
 KONI builds on, and at runtime retrieves, third-party content that is licensed
 SEPARATELY from KONI's code. The notices and attributions below apply to that
@@ -24,8 +25,9 @@ access and does NOT redistribute it.
       DOI: 10.5281/zenodo.15805449
 
   FLAME and KONI are by the same author; this reimplementation ships as part of
-  KONI under the MIT License (see LICENSE), while the original FLAME remains
-  available under the Apache License 2.0. Please cite FLAME in academic work:
+  KONI under the PolyForm Noncommercial License 1.0.0 (see LICENSE), while the
+  original FLAME remains available under the Apache License 2.0. Please cite
+  FLAME in academic work:
 
       Kovács, T. (2025). FLAME: Formulaic Language Analysis in Medieval
       Expressions (Version 1.0.0) [Computer software].
