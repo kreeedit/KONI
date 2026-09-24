@@ -1212,3 +1212,39 @@ a `data/lexicon/` alatt.
   session-átirat); **ebben a sessionben semmit nem commitoltam.**
 - Az archaizmus-kritika **3. pontja** (allúzió-kereső vs. stílusregiszter-kereső
   szétválasztása) továbbra sincs elkezdve.
+
+## 2026-09-24 — Javítás: `POPOVER_HTML is not defined` az olvasóban
+
+### Mit csináltam
+
+- A `#/read/0004/001` útvonal `Error: POPOVER_HTML is not defined` hibát dobott: a
+  `renderReader()` a `$view().innerHTML` sablonjában hivatkozott egy `POPOVER_HTML`
+  konstansra, ami **soha nem létezett** a fájlban (`git log -S POPOVER_HTML` csak a
+  használatot találja, definíciót egyik commitban sem).
+- A jegyzet-popover már a bd0778d refaktor óta **futásidőben** épül fel a `_popover()`
+  függvényben (`app/static/app.js:689`), ezért a statikus sablon-hivatkozás felesleges
+  maradvány. A `DRAWER_HTML` ezzel szemben létezik (`:419`), az marad.
+- Javítás: a `${meta.has_text ? POPOVER_HTML : ""}` sor törölve (`app/static/app.js:328-329`).
+  Új konstans nem kellett — a popover a `_openPopover()` első hívásakor jön létre és
+  a `document.body`-ra kerül, nem a nézet-sablonba.
+
+### Módosult
+
+`app/static/app.js` (1 sor törölve). log.md.
+
+### Tesztelve
+
+- `node --check app/static/app.js` → OK.
+- Ellenőrizve, hogy nincs több azonos mintájú hivatkozás: `grep -o '\${[A-Z_][A-Z_0-9]*}'`
+  nulla találat, minden `UPPER_CASE` konstans (`DRAWER_HTML`, `API`, `PAGE`, `ANNOT`, …)
+  definiálva van a fájlban.
+- Élő szerver **nem futott** (`curl http://127.0.0.1:8000/` → 000), ezért böngészős
+  smoke-teszt nem történt — a hiba egy referencia-feloldási hiba volt, ami a nézet
+  felépítése előtt dobott, így a törléssel megszűnik.
+
+**TODO:**
+- A `scripts/serve.py` szervert újra kell indítani, és a `#/read/0004/001` útvonalat
+  böngészőben ellenőrizni (olvasó renderel, szótár-fül nyílik, jegyzet-popover megjelenik
+  szövegkijelölésre).
+- Változatlan nyitott ügy: a `.claude-isolated-config/` (520 fájl, benne 4 `.key`)
+  követése a nyilvános repóban — destruktív döntést igényel.

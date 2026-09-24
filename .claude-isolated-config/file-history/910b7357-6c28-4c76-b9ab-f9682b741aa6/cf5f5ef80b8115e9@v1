@@ -325,7 +325,8 @@ async function renderReader(aid, wid, idx) {
           ${textArea}
         </section>
       </div>
-      ${meta.has_text ? DRAWER_HTML : ""}`;
+      ${meta.has_text ? DRAWER_HTML : ""}
+      ${meta.has_text ? POPOVER_HTML : ""}`;
     loadSources(aid, wid);
     if (meta.has_text) {
       _unmarkWord();

@@ -1,5 +1,5 @@
 {
-  "numStartups": 4,
+  "numStartups": 3,
   "installMethod": "native",
   "autoUpdates": false,
   "tipsHistory": {
@@ -19,8 +19,7 @@
     "continue": 3,
     "shift-tab": 3,
     "image-paste": 3,
-    "focus-view": 3,
-    "subagent-fanout-nudge": 4
+    "focus-view": 3
   },
   "promptQueueUseCount": 23,
   "showExpandedTodos": true,
@@ -1051,7 +1050,7 @@
   "hasResetAutoModeOptInForDefaultOffer": true,
   "migrationVersion": 14,
   "userID": "e31f6afabf296adafeec0db1c89b935bcc16c3e10b6da93e3738cd38eb54c606",
-  "changelogLastFetched": 1790246979636,
+  "changelogLastFetched": 1789981010356,
   "hasCompletedOnboarding": true,
   "lastOnboardingVersion": "2.1.278",
   "projects": {
@@ -1064,35 +1063,25 @@
       "hasTrustDialogAccepted": true,
       "hasClaudeMdExternalIncludesApproved": false,
       "hasClaudeMdExternalIncludesWarningShown": false,
-      "lastGracefulShutdown": true,
-      "lastVersionBase": "2.1.281",
-      "lastCost": 0.9456170000000003,
-      "lastAPIDuration": 67584,
-      "lastAPIDurationWithoutRetries": 67529,
-      "lastToolDuration": 499,
-      "lastDuration": 1225633,
-      "lastStartTime": 1790246979210,
-      "lastLinesAdded": 1,
-      "lastLinesRemoved": 2,
-      "lastTotalInputTokens": 95166,
-      "lastTotalOutputTokens": 4307,
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.278",
+      "lastCost": 0,
+      "lastAPIDuration": 0,
+      "lastAPIDurationWithoutRetries": 0,
+      "lastToolDuration": 0,
+      "lastDuration": 3599878,
+      "lastStartTime": 1789982891445,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 0,
+      "lastTotalOutputTokens": 0,
       "lastTotalCacheCreationInputTokens": 0,
-      "lastTotalCacheReadInputTokens": 724224,
+      "lastTotalCacheReadInputTokens": 0,
       "lastTotalWebSearchRequests": 0,
-      "lastModelUsage": {
-        "deepseek-ai/DeepSeek-V4.1-Flash": {
-          "inputTokens": 95166,
-          "outputTokens": 4307,
-          "thinkingTokens": 0,
-          "cacheReadInputTokens": 724224,
-          "cacheCreationInputTokens": 0,
-          "webSearchRequests": 0,
-          "costUSD": 0.9456170000000003
-        }
-      },
-      "lastSessionId": "910b7357-6c28-4c76-b9ab-f9682b741aa6",
-      "lastFpsAverage": 0.82,
-      "lastFpsLow1Pct": 549.97,
+      "lastModelUsage": {},
+      "lastSessionId": "110bdbfa-60af-485c-bf09-48f2deaedb68",
+      "lastFpsAverage": 0.01,
+      "lastFpsLow1Pct": 325.63,
       "lastSessionMetrics": {
         "frame_duration_ms_count": 11,
         "frame_duration_ms_min": 0.1509779999996681,
@@ -1101,15 +1090,7 @@
         "frame_duration_ms_p50": 0.33675099979154766,
         "frame_duration_ms_p95": 2.3928349999814884,
         "frame_duration_ms_p99": 2.935354199996306
-      },
-      "exampleFiles": [
-        "app.js",
-        "build_jsonld.py",
-        "history.jsonl",
-        "timeline.jsonl",
-        "88b99e67-8898-48d3-a348-bf0f801a39d0.jsonl"
-      ],
-      "exampleFilesGeneratedAt": 1790246979701
+      }
     }
   },
   "githubRepoPaths": {
@@ -1117,12 +1098,12 @@
       "/home/tamask/github/KONI"
     ]
   },
-  "lastReleaseNotesSeen": "2.1.281",
-  "closedIssuesLastChecked": 1790246979505,
+  "lastReleaseNotesSeen": "2.1.278",
+  "closedIssuesLastChecked": 1790072163422,
   "officialMarketplaceAutoInstallAttempted": true,
   "officialMarketplaceAutoInstalled": true,
   "autoUpdatesProtectedForNative": true,
-  "lastPlanModeUse": 1790247000913,
+  "lastPlanModeUse": 1789981027910,
   "hasSeenAutoModeEntryWarning": true,
   "tipLifetimeShownCounts": {
     "new-user-warmup": 1,
@@ -1141,10 +1122,9 @@
     "continue": 1,
     "shift-tab": 1,
     "image-paste": 1,
-    "focus-view": 1,
-    "subagent-fanout-nudge": 1
+    "focus-view": 1
   },
-  "autoModeClassifierBillingNoticeAcknowledgedAt": 1790247021899,
+  "autoModeClassifierBillingNoticeAcknowledgedAt": 1789981794984,
   "tipsHistoryByCommand": {
     "config": {
       "tipId": "workflow-size-prompting",
@@ -1178,18 +1158,5 @@
   "diffSidebarOpen": false,
   "cachedExperimentFeatures": [],
   "cachedExperimentData": {},
-  "cachedGrowthBookFeaturesAt": 1790242100297,
-  "pluginUsage": {
-    "agents-md@builtin": {
-      "usageCount": 0,
-      "lastUsedAt": 1790246979408,
-      "lastUsedNumStartups": 4
-    },
-    "telemetry@builtin": {
-      "usageCount": 0,
-      "lastUsedAt": 1790246979408,
-      "lastUsedNumStartups": 4
-    }
-  },
-  "lastClawdEntranceVersion": "2.1.281"
+  "cachedGrowthBookFeaturesAt": 1790242100297
 }
